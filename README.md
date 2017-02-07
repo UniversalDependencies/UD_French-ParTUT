@@ -3,7 +3,7 @@
 UD_French-ParTUT data is derived from the already-existing parallel treebank Par(allel)TUT.
 
 ParTUT is a morpho-syntactically annotated collection of Italian/French/English parallel sentences, 
-which includes texts from different sources and representing different genres and domains, released in several formats, see http://www.di.unito.it/~tutreeb/treebanks.html .
+which includes texts from different sources and representing different genres and domains, released in several formats.
 
 ParTUT comprises approximately 167,000 tokens, with an average amount
 of 2,100 sentences per language. The texts of the collection currently available were
