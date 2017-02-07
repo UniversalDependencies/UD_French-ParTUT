@@ -10545,7 +10545,7 @@
 9	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = partut_ud-737
-# text = Adoptée par l'assemblée générale des Nations Unies dans sa résolution 217a (iii) du 10 décembre 1948.
+# text = Adoptée par l'assemblée générale des Nations Unies dans sa résolution 217a (III) du 10 décembre 1948.
 1	Adoptée	adopter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 2	par	par	ADP	E	_	4	case	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
