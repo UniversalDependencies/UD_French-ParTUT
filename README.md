@@ -63,9 +63,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 
 
-## Language metadata
-
---- Machine readable metadata ---
+=== Machine-readable metadata =================================================
 Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v2.0
