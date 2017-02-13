@@ -641,7 +641,7 @@
 8	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
 9	dite	dire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
 10	dérivée	dérivé	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	_
-11	telle	tel	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	13	mark	_	_
+11	telle	tel	ADJ	A	Gender=Fem|Number=Sing	13	mark	_	_
 12	qu'	que	SCONJ	CS	_	11	fixed	_	SpaceAfter=No
 13	incorporée	incorporer	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
 14	dans	dans	ADP	E	_	16	case	_	_
