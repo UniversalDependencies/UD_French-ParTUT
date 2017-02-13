@@ -1165,11 +1165,11 @@
 25	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	_
 27	européen	européen	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	_
-28	il	il	PRON	PE	PronType=Prs	34	case	_	_
+28	il	il	PRON	PE	PronType=Prs	32	case	_	_
 29	y	y	ADV	B	_	28	fixed	_	_
 30	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	fixed	_	_
-31	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	28	fixed	_	_
-32	mois	mois	NOUN	S	Gender=Masc|Number=Plur	28	fixed	_	_
+31	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	32	det	_	_
+32	mois	mois	NOUN	S	Gender=Masc|Number=Plur	34	nmod	_	_
 33	à	à	ADP	E	_	34	case	_	_
 34	peine	peine	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	2	punct	_	_
