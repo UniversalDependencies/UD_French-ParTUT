@@ -1154,11 +1154,11 @@
 15	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 16	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
 17	Kumar	Kumar	PROPN	SP	_	16	flat	_	_
-18	Ponnambalam	Ponnambalam	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
-19	,	,	PUNCT	FF	_	17	punct	_	_
+18	Ponnambalam	Ponnambalam	PROPN	SP	_	16	flat	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	16	punct	_	_
 20	qui	qui	PRON	PR	PronType=Rel	22	nsubj	_	_
 21	avait	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
-22	rendu	rendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
+22	rendu	rendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
 23	visite	visite	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	_
 24-25	au	_	_	_	_	_	_	_	_
 24	à	à	ADP	E	_	26	case	_	_
@@ -1401,9 +1401,9 @@
 20	établi	établir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	conj	_	_
 21	qu'	que	SCONJ	CS	_	34	mark	_	SpaceAfter=No
 22	en	en	ADP	E	_	23	case	_	_
-23	Russie	Russie	PROPN	SP	_	34	nmod	_	_
+23	Russie	Russie	PROPN	SP	_	34	obl	_	_
 24	aussi	aussi	ADV	B	_	23	advmod	_	SpaceAfter=No
-25	,	,	PUNCT	FF	_	34	punct	_	_
+25	,	,	PUNCT	FF	_	23	punct	_	_
 26	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	27	det	_	SpaceAfter=No
 27	accès	accès	NOUN	S	Gender=Masc	34	nsubj	_	_
 28-29	aux	_	_	_	_	_	_	_	_
@@ -1515,9 +1515,9 @@
 # text = Madame Plooij-Van Gorsel, je peux vous dire que cette question est à l'ordre du jour de la réunion des questeurs de mercredi.
 1	Madame	madame	NOUN	S	Gender=Fem|Number=Sing	10	vocative	_	_
 2	Plooij	Plooij	PROPN	SP	_	1	flat	_	SpaceAfter=No
-3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
-4	Van	Van	PROPN	SP	_	2	flat:name	_	_
-5	Gorsel	Gorsel	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	Van	Van	PROPN	SP	_	1	flat	_	_
+5	Gorsel	Gorsel	PROPN	SP	_	1	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
 7	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 8	peux	pouvoir	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -1687,7 +1687,7 @@
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	mme	madame	NOUN	S	Gender=Fem	11	nsubj	_	_
 6	Díez	Díez	PROPN	SP	_	5	flat	_	_
-7	González	González	PROPN	SP	_	6	flat:name	_	_
+7	González	González	PROPN	SP	_	5	flat	_	_
 8	et	et	CCONJ	CC	_	9	cc	_	_
 9	moi-même	moi-même	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	conj	_	_
 10	avions	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
@@ -1706,7 +1706,7 @@
 23	,	,	PUNCT	FF	_	22	punct	_	_
 24	mme	madame	NOUN	S	Gender=Fem	22	appos	_	_
 25	De	De	PROPN	SP	_	24	flat	_	_
-26	Palacio	Palacio	PROPN	SP	_	25	flat:name	_	SpaceAfter=No
+26	Palacio	Palacio	PROPN	SP	_	24	flat	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	29	punct	_	_
 28	et	et	CCONJ	CC	_	29	cc	_	_
 29	publiées	publier	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	17	conj	_	_
@@ -1755,7 +1755,7 @@
 6	pour	pour	ADP	E	_	8	case	_	_
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	moment	moment	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	13	punct	_	_
+9	,	,	PUNCT	FF	_	8	punct	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	choses	chose	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
 12	me	me	PRON	P	Person=1|PronType=Prs	13	iobj	_	_
@@ -2266,7 +2266,7 @@
 1	Moi	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	dislocated	_	_
 2	non	non	ADV	BN	PronType=Neg	1	advmod	_	_
 3	plus	plus	ADV	B	_	2	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	10	punct	_	_
+4	,	,	PUNCT	FF	_	1	punct	_	_
 5	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
 6	ne	ne	PART	PART	Polarity=Neg	10	advmod	_	_
 7	m'	me	PRON	P	Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
@@ -2550,7 +2550,7 @@
 29	plus	plus	ADV	B	_	30	advmod	_	_
 30	importante	important	ADJ	A	Gender=Fem|Number=Sing	28	amod	_	_
 31	encore	encore	ADV	B	_	35	advmod	_	SpaceAfter=No
-32	,	,	PUNCT	FF	_	35	punct	_	_
+32	,	,	PUNCT	FF	_	28	punct	_	_
 33	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	35	nsubj	_	_
 34	devons	devoir	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	35	aux	_	_
 35	veiller	veiller	VERB	V	VerbForm=Inf	4	conj	_	_
@@ -4365,7 +4365,7 @@
 7	dans	dans	ADP	E	_	9	case	_	_
 8	ses	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	9	nmod:poss	_	_
 9	conclusions	conclusion	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
-10	,	,	PUNCT	FF	_	14	punct	_	_
+10	,	,	PUNCT	FF	_	9	punct	_	_
 11	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	rapporteur	rapporteur	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
 13	ait	avoir	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
@@ -5641,7 +5641,7 @@
 38	,	,	PUNCT	FF	_	37	punct	_	_
 39	mme	madame	NOUN	S	Gender=Fem	37	appos	_	_
 40	Elisabeth	Elisabeth	PROPN	SP	_	39	flat	_	_
-41	Schroedter	Schroedter	PROPN	SP	_	40	flat:name	_	SpaceAfter=No
+41	Schroedter	Schroedter	PROPN	SP	_	39	flat	_	SpaceAfter=No
 42	,	,	PUNCT	FF	_	39	punct	_	_
 43	n'	ne	PART	PART	Polarity=Neg	47	advmod	_	SpaceAfter=No
 44	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	47	aux	_	_
@@ -6537,7 +6537,7 @@
 15	membres	membre	NOUN	S	Gender=Masc|Number=Plur	14	compound	_	_
 16	en	en	ADP	E	_	17	case	_	_
 17	particulier	particulier	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	20	punct	_	_
+18	,	,	PUNCT	FF	_	11	punct	_	_
 19	devra	devoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	aux	_	_
 20	exploiter	exploiter	VERB	V	VerbForm=Inf	0	root	_	_
 21-22	au	_	_	_	_	_	_	_	_
@@ -6573,7 +6573,7 @@
 8	Commission	commission	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
 9	européenne	européen	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
 10	qui	qui	PRON	PR	PronType=Rel	18	nsubj	_	SpaceAfter=No
-11	,	,	PUNCT	FF	_	16	punct	_	_
+11	,	,	PUNCT	FF	_	10	punct	_	_
 12	au-delà	au-delà	ADV	B	_	16	case	_	_
 13	de	de	ADP	E	_	12	fixed	_	_
 14	ses	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	16	nmod:poss	_	_
@@ -9390,7 +9390,7 @@
 21	stabilisé	stabilisé	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 22	à	à	ADP	E	_	24	case	_	_
 23	environ	environ	ADV	B	_	24	advmod	_	_
-24	50	50	NUM	N	NumType=Card	21	nummod	_	_
+24	50	50	NUM	N	NumType=Card	21	obl	_	_
 25	000	000	NUM	N	NumType=Card	24	goeswith	_	_
 26	par	par	ADP	E	_	27	case	_	_
 27	mois	mois	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
@@ -9999,7 +9999,7 @@
 1	À	à	ADP	E	_	2	mark	_	_
 2	compter	compter	VERB	V	VerbForm=Inf	11	advcl	_	_
 3	de	de	ADP	E	_	4	case	_	_
-4	2005	2005	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+4	2005	2005	NUM	N	NumType=Card	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 7	nouveaux	nouveau	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
@@ -10148,7 +10148,7 @@
 7	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	décision	décision	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 9	Pericles	Pericles	PROPN	SP	_	8	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	FF	_	22	punct	_	_
+10	,	,	PUNCT	FF	_	4	punct	_	_
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mise	mise	NOUN	S	Gender=Fem|Number=Sing	22	nsubj:pass	_	_
 13	en	en	ADP	E	_	14	case	_	_
@@ -11654,7 +11654,7 @@
 3	rendu	rendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	océan	océan	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
-6	malheureux	malheureux	ADJ	A	Gender=Masc	5	xcomp	_	SpaceAfter=No
+6	malheureux	malheureux	ADJ	A	Gender=Masc	3	xcomp	_	SpaceAfter=No
 7	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-825
@@ -12933,9 +12933,9 @@
 15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
 16	adhésion	adhésion	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
 17	ou	ou	CCONJ	CC	_	23	cc	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	17	punct	_	_
+18	,	,	PUNCT	FF	_	23	punct	_	_
 19	ultérieurement	ultérieurement	ADV	B	_	23	nmod	_	SpaceAfter=No
-20	,	,	PUNCT	FF	_	23	punct	_	_
+20	,	,	PUNCT	FF	_	19	punct	_	_
 21	dans	dans	ADP	E	_	23	case	_	_
 22	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	délai	délai	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	_
