@@ -23,8 +23,8 @@ ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.h
 
 ## Corpus splitting
 
-The corpus was randomly splitted using a script. In order to meet the CoNLL 2017 Shared Task requirements, and considering the limited amount of data available for the French section,
-we splitted the treebank so as to obtain at least 10K words for both test and development sets, leaving the remaining part for training.
+The corpus was randomly split using a script. In order to meet the CoNLL 2017 Shared Task requirements, and considering the limited amount of data available for the French section,
+we split the treebank so as to obtain at least 10K words for both test and development sets, leaving the remaining part for training.
 The corpus is thus partitioned as follows:
 
 * fr_partut-ud-train.conllu: 6396 words (220 sentences)
