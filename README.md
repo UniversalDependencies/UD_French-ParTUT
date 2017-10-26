@@ -40,9 +40,25 @@ are found in the training, development and test set of the English and Italian t
 * Tree count:  1020			
 * Word count:  28597			
 * Token count: 27661			
-* Dep. relations: 42 of which 8 language specific			
+* Dep. relations: 48 of which 14 language specific			
 * POS tags: 17			
-* Category=value feature pairs: 32			
+* Category=value feature pairs: 34			
+
+
+## Changelog 
+2017-11-15 v2.1 		
+* dates revised and annotated as flat structures
+* change of xpos for copulas (from VA to V)
+* "il + être + ADJ + de/que + VERB" construction revised
+* deprel of "en", "où" and "y" pronouns revised
+* change of deprel of possessives (from nmod:poss to det)
+* deprel of "tout" revised
+* "il y a" construction (both temporal and existential) revised
+* clefts, pseudo-clefts and causatives annotated according to language-specific guidelines
+* other minor corrections 
+
+2017-03-01 v2
+* initial release
 
 
 ## References
