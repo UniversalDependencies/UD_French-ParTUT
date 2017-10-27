@@ -49,11 +49,11 @@ are found in the training, development and test set of the English and Italian t
 2017-11-15 v2.1 		
 * dates revised and annotated as flat structures
 * change of xpos for copulas (from VA to V)
-* "il + être + ADJ + de/que + VERB" construction revised
-* deprel of "en", "où" and "y" pronouns revised
+* revised "il + être + ADJ + de/que + VERB" construction 
+* revised deprel of "en", "où" and "y" pronouns
 * change of deprel of possessives (from nmod:poss to det)
-* deprel of "tout" revised
-* "il y a" construction (both temporal and existential) revised
+* revised deprels of "tout"
+* revised "il y a" construction (both temporal and existential)
 * clefts, pseudo-clefts and causatives annotated according to language-specific guidelines
 * other minor corrections 
 
