@@ -1,4 +1,10 @@
-# Corpus Description
+# Summary
+
+UD_French-ParTUT is a conversion of a multilingual parallel treebank developed at the University of Turin, 
+ and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles.
+
+
+# Introduction
 
 UD_French-ParTUT data is derived from the already-existing parallel treebank Par(allel)TUT.
 
@@ -21,21 +27,23 @@ gathered from a large number of sources and domains:
 ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.html) and [here](https://github.com/msang/partut-repo) (CoNLL format only).
 
 
-## Corpus splitting
+# Acknowledgements
+We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use. 
 
-The corpus was randomly split using a script. In order to meet the CoNLL 2017 Shared Task requirements, and considering the limited amount of data available for the French section,
-we split the treebank so as to obtain at least 10K words for both test and development sets, leaving the remaining part for training.
-The corpus is thus partitioned as follows:
 
-* fr_partut-ud-train.conllu: 6396 words (220 sentences)
-* fr_partut-ud-dev.conllu: 11531 words (400 sentences)
-* fr_partut-ud-test.conllu: 10670 words (400 sentences)
+# Corpus splitting
 
-Moreover, in order to preserve the 1:1 correspondence among the three language sections, all of them were partitioned in the same way; therefore the same sentences, in the same order,
+The corpus was randomly split using a script. In order to preserve the 1:1 correspondence among the three language sections, all of them were partitioned in the same way; therefore the same sentences, in the same order,
 are found in the training, development and test set of the English and Italian treebanks as well.
+However, considering that since v2.1 UD_Italian-ParTUT has been re-partitioned, because of overlapping sentences with UD_Italian, the French section now
+appears as follows:
+
+* fr_partut-ud-train.conllu: 24146 words (804 sentences)
+* fr_partut-ud-dev.conllu: 3237 words (160 sentences)
+* fr_partut-ud-test.conllu: 1214 words (56 sentences)
 
 
-## Basic statistics
+# Basic statistics
 
 * Tree count:  1020			
 * Word count:  28597			
@@ -45,23 +53,7 @@ are found in the training, development and test set of the English and Italian t
 * Category=value feature pairs: 34			
 
 
-## Changelog 
-2017-11-15 v2.1 		
-* dates revised and annotated as flat structures
-* change of xpos for copulas (from VA to V)
-* revised "il + être + ADJ + de/que + VERB" construction 
-* revised deprel of "en", "où" and "y" pronouns
-* change of deprel of possessives (from nmod:poss to det)
-* revised deprels of "tout"
-* revised "il y a" construction (both temporal and existential)
-* clefts, pseudo-clefts and causatives annotated according to language-specific guidelines
-* other minor corrections 
-
-2017-03-01 v2
-* initial release
-
-
-## References
+# References
  
 * Manuela Sanguinetti, Cristina Bosco. 2014. PartTUT: The Turin University Parallel Treebank. 
   In Basili, Bosco, Delmonte, Moschitti, Simi (editors) Harmonization and development of resources and tools for Italian Natural Language Processing within the PARLI project, LNCS, Springer Verlag
@@ -73,20 +65,38 @@ are found in the training, development and test set of the English and Italian t
   In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13), Tubingen (Germany)
   
 
-## Acknowledments
+# Changelog 
+2017-11-15 v2.1 		
+* dates were revised and annotated as flat structures
+* change of xpos for copulas (from VA to V)
+* revised "il + être + ADJ + de/que + VERB" construction 
+* revised deprel of "en", "où" and "y" pronouns
+* change of deprel of possessives (from nmod:poss to det)
+* revised deprels of "tout"
+* revised "il y a" construction (both temporal and existential)
+* clefts, pseudo-clefts and causatives annotated according to language-specific guidelines
+* other minor corrections 
+* revised splits, in order to align French sentences to the Italian counterparts
 
-We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material under the terms of educational use. 
+
+2017-03-01 v2
+* initial release
 
 
 
-## Language metadata
+=== Machine-readable metadata ================================================
 
---- Machine readable metadata ---
-Documentation status: partial
-Data source: semi-automatic
-Data available since: UD v2.0
+Data available since: UD v2
 License: CC BY-NC-SA 4.0
-Genre: legal news wiki 
+Includes text: yes
+Genre: legal news wiki
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: converted from manual
+Features: converted from manual
+Relations: converted from manual
 Contributors: Bosco, Cristina; Sanguinetti, Manuela
-Contact: msanguin@di.unito.it 
+Contributing: elsewhere
+Contact: msanguin@di.unito.it
 
+===============================================================================
