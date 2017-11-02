@@ -1716,7 +1716,7 @@
 1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	espère	espérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	donc	donc	ADV	B	_	4	advmod	_	_
-4	faire	faire	VERB	V	VerbForm=Inf	4	aux:caus	_	_
+4	faire	faire	VERB	V	VerbForm=Inf	5	aux:caus	_	_
 5	éclater	éclater	VERB	V	VerbForm=Inf	2	ccomp	_	_
 6	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	préjugé	préjuggé	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
