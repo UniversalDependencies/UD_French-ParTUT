@@ -1,7 +1,7 @@
 # Summary
 
 UD_French-ParTUT is a conversion of a multilingual parallel treebank developed at the University of Turin, 
- and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles.
+ and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles, among others.
 
 
 # Introduction
@@ -24,7 +24,7 @@ gathered from a large number of sources and domains:
 * Wikipedia articles retrieved in the English section and then translated into Italian only by graduate students in Translation  Studies [ABSENT IN UD_French-ParTUT];
 * the [Web Inventory of Translated Talks](https://wit3.fbk.eu/mt.php?release=2012-02) [Cettolo et al., 2012].
 
-ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.html) and [here](https://github.com/msang/partut-repo) (CoNLL format only).
+ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.html) and [here](https://github.com/msang/partut-repo).
 
 
 # Acknowledgements
@@ -67,13 +67,14 @@ appears as follows:
 
 # Changelog 
 2017-11-15 v2.1 		
-* dates were revised and annotated as flat structures
-* change of xpos for copulas (from VA to V)
-* revised "il + être + ADJ + de/que + VERB" construction 
+* revised dates (now annotated as flat structures)
+* changed xpos of copulas (from VA to V)
+* fixed upos of "car" (from SCONJ to CCONJ)
+* revised "il + être + ADJ + de/que + VERB" constructions 
 * revised deprel of "en", "où" and "y" pronouns
-* change of deprel of possessives (from nmod:poss to det)
+* changed deprel of possessives (from nmod:poss to det)
 * revised deprels of "tout"
-* revised "il y a" construction (both temporal and existential)
+* revised "il y a" constructions (both temporal and existential)
 * clefts, pseudo-clefts and causatives annotated according to language-specific guidelines
 * other minor corrections 
 * revised splits, in order to align French sentences to the Italian counterparts
