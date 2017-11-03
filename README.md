@@ -38,9 +38,9 @@ are found in the training, development and test set of the English and Italian t
 However, considering that since v2.1 UD_Italian-ParTUT has been re-partitioned, because of overlapping sentences with UD_Italian, the French section now
 appears as follows:
 
-* fr_partut-ud-train.conllu: 24146 words (804 sentences)
-* fr_partut-ud-dev.conllu: 3237 words (160 sentences)
-* fr_partut-ud-test.conllu: 1214 words (56 sentences)
+* fr_partut-ud-train.conllu: ... words (803 sentences)
+* fr_partut-ud-dev.conllu: ... words (110 sentences)
+* fr_partut-ud-test.conllu: ... words (107 sentences)
 
 
 # Basic statistics
