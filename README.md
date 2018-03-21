@@ -1,6 +1,6 @@
 # Summary
 
-UD_French-ParTUT is a conversion of a multilingual parallel treebank developed at the University of Turin,
+UD_French-ParTUT is a conversion of a multilingual parallel treebank developed at the University of Turin, 
  and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles, among others.
 
 
@@ -8,7 +8,7 @@ UD_French-ParTUT is a conversion of a multilingual parallel treebank developed a
 
 UD_French-ParTUT data is derived from the already-existing parallel treebank Par(allel)TUT.
 
-ParTUT is a morpho-syntactically annotated collection of Italian/French/English parallel sentences,
+ParTUT is a morpho-syntactically annotated collection of Italian/French/English parallel sentences, 
 which includes texts from different sources and representing different genres and domains, released in several formats.
 
 ParTUT comprises approximately 167,000 tokens, with an average amount
@@ -28,18 +28,7 @@ ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.h
 
 
 # Acknowledgements
-We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use.
-
-## References
-
-* Manuela Sanguinetti, Cristina Bosco. 2014. PartTUT: The Turin University Parallel Treebank.
-  In Basili, Bosco, Delmonte, Moschitti, Simi (editors) Harmonization and development of resources and tools for Italian Natural Language Processing within the PARLI project, LNCS, Springer Verlag
-
-* Manuela Sanguinetti, Cristina Bosco. 2014. Converting the parallel treebank ParTUT in Universal Stanford Dependencies.
-  In Proceedings of the 1rst Conference for Italian Computational Linguistics (CLiC-it 2014), Pisa (Italy)
-
-* Cristina Bosco, Manuela Sanguinetti. 2014. Towards a Universal Stanford Dependencies parallel treebank.
-  In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13), Tubingen (Germany)
+We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use. 
 
 
 # Corpus splitting
@@ -49,55 +38,68 @@ are found in the training, development and test set of the English and Italian t
 However, considering that since v2.1 UD_Italian-ParTUT has been re-partitioned, because of overlapping sentences with UD_Italian, the French section now
 appears as follows:
 
-* fr_partut-ud-train.conllu: 24123 words (803 sentences)
-* fr_partut-ud-dev.conllu: 1870 words (110 sentences)
-* fr_partut-ud-test.conllu: 2604 words (107 sentences)
+* fr_partut-ud-train.conllu: 24146 words (804 sentences)
+* fr_partut-ud-dev.conllu: 3237 words (160 sentences)
+* fr_partut-ud-test.conllu: 1214 words (56 sentences)
 
 
 # Basic statistics
 
-* Tree count:  1020
-* Word count:  28597
-* Token count: 27661
-* Dep. relations: 48 of which 14 language specific
-* POS tags: 17
-* Category=value feature pairs: 34
+* Tree count:  1020			
+* Word count:  28597			
+* Token count: 27661			
+* Dep. relations: 48 of which 14 language specific			
+* POS tags: 17			
+* Category=value feature pairs: 34			
 
 
-# Changelog
-2017-11-15 v2.1
-* revised dates (now annotated as flat structures)
-* changed xpos of copulas (from VA to V)
-* fixed upos of "car" (from SCONJ to CCONJ)
-* revised "il + être + ADJ + de/que + VERB" constructions
+# References
+ 
+* Manuela Sanguinetti, Cristina Bosco. 2014. PartTUT: The Turin University Parallel Treebank. 
+  In Basili, Bosco, Delmonte, Moschitti, Simi (editors) Harmonization and development of resources and tools for Italian Natural Language Processing within the PARLI project, LNCS, Springer Verlag
+  
+* Manuela Sanguinetti, Cristina Bosco. 2014. Converting the parallel treebank ParTUT in Universal Stanford Dependencies. 
+  In Proceedings of the 1rst Conference for Italian Computational Linguistics (CLiC-it 2014), Pisa (Italy)
+  
+* Cristina Bosco, Manuela Sanguinetti. 2014. Towards a Universal Stanford Dependencies parallel treebank. 
+  In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13), Tubingen (Germany)
+  
+
+# Changelog 
+2018-4-15 v2.2
+* minor corrections in the training set
+
+2017-11-15 v2.1 		
+* dates were revised and annotated as flat structures
+* change of xpos for copulas (from VA to V)
+* revised "il + être + ADJ + de/que + VERB" construction 
 * revised deprel of "en", "où" and "y" pronouns
-* changed deprel of possessives (from nmod:poss to det)
+* change of deprel of possessives (from nmod:poss to det)
 * revised deprels of "tout"
-* revised "il y a" constructions (both temporal and existential)
+* revised "il y a" construction (both temporal and existential)
 * clefts, pseudo-clefts and causatives annotated according to language-specific guidelines
-* other minor corrections
-* revised splits, in order to align French sentences to the Italian counterparts
+* other minor corrections 
+* revised splits, in order to align French sentences to Italian counterparts
 
 
-2017-03-01 v2.0
+2017-03-01 v2
 * initial release
 
 
-# Metadata 
 
-```
 === Machine-readable metadata ================================================
-Data available since: UD v2.0
+
+Data available since: UD v2
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: legal news wiki
-Lemmas: converted with corrections
-UPOS: converted with corrections
-XPOS: converted with corrections
-Features: converted with corrections
-Relations: converted with corrections
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: converted from manual
+Features: converted from manual
+Relations: converted from manual
 Contributors: Bosco, Cristina; Sanguinetti, Manuela
 Contributing: elsewhere
 Contact: msanguin@di.unito.it
+
 ===============================================================================
-```
