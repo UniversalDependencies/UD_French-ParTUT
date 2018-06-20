@@ -68,9 +68,8 @@
     <feat name="VerbForm" value="Part" upos="AUX,VERB">911</feat><!-- été, dite, fait, tenu, concernant, compris, donné, soumis, mis, visant -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="48">
-    <dep name="acl">485</dep>
-    <dep name="acl:cleft">2</dep>
+  <deps unique="45">
+    <dep name="acl">487</dep>
     <dep name="acl:relcl">301</dep>
     <dep name="advcl">302</dep>
     <dep name="advmod">1093</dep>
@@ -90,8 +89,7 @@
     <dep name="dep">1</dep>
     <dep name="det">4757</dep>
     <dep name="discourse">15</dep>
-    <dep name="dislocated">8</dep>
-    <dep name="dislocated:cleft">3</dep>
+    <dep name="dislocated">11</dep>
     <dep name="expl">225</dep>
     <dep name="fixed">298</dep>
     <dep name="flat">139</dep>
@@ -102,9 +100,8 @@
     <dep name="iobj:agent">1</dep>
     <dep name="mark">850</dep>
     <dep name="nmod">2433</dep>
-    <dep name="nsubj">1420</dep>
+    <dep name="nsubj">1422</dep>
     <dep name="nsubj:caus">4</dep>
-    <dep name="nsubj:expl">2</dep>
     <dep name="nsubj:pass">224</dep>
     <dep name="nummod">314</dep>
     <dep name="obj">1099</dep>
