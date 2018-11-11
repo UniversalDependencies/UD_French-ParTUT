@@ -699,7 +699,7 @@
 9	ans	an	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
 10	que	que	SCONJ	CS	_	13	mark	_	_
 11	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-12	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	député	député	NOUN	S	Gender=Masc|Number=Sing	9	acl	_	_
 14-15	au	_	_	_	_	_	_	_	_
 14	à	à	ADP	E	_	16	case	_	_

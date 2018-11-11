@@ -3475,7 +3475,7 @@
 12	questeurs	questeur	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
 13	et	et	CCONJ	CC	_	16	cc	_	_
 14	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
-15	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	certaine	certain	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	_
 17	que	que	SCONJ	CS	_	20	mark	_	_
 18	nos	nos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	19	det	_	_
@@ -6020,7 +6020,7 @@
 8	ces	ce	DET	DD	Number=Plur|PronType=Dem	9	det	_	_
 9	mesures	mesure	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
 10	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	3	conj	_	SpaceAfter=No
-11	est	est	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+11	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 12	tout	tout	ADV	B	_	13	advmod	_	_
 13	autant	autant	ADV	B	_	10	advmod	_	_
 14	et	et	CCONJ	CC	_	17	cc	_	_
@@ -6542,7 +6542,7 @@
 # sent_id = fr_partut-ud-211
 # text = Je suis ravi qu'il y ait également un accord avec le conseil concernant les normes minimales pour leurs examens, même si j'aurais préféré des normes fixes et uniformisées, afin d'avoir des diplômes et des examens internationaux identiques.
 1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	suis	etre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	ravi	ravi	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 4	qu'	que	SCONJ	CS	_	7	mark	_	SpaceAfter=No
 5	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
@@ -6694,7 +6694,7 @@
 11	-	-	PUNCT	FB	_	15	punct	_	_
 12	et	et	CCONJ	CC	_	15	cc	_	_
 13	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
-14	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
 15	convaincu	convaincu	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
 16	que	que	SCONJ	CS	_	20	mark	_	_
 17	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	18	det	_	_
@@ -6796,7 +6796,7 @@
 1	Fondamentalement	fondamentalement	ADV	B	_	6	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-4	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	d'	de	ADP	E	_	6	case	_	SpaceAfter=No
 6	avis	avis	NOUN	S	Gender=Masc	0	root	_	_
 7	que	que	SCONJ	CS	_	20	mark	_	SpaceAfter=No
@@ -6839,7 +6839,7 @@
 7	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	2	acl:relcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	2	punct	_	_
 9	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
-10	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
+10	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
 11	cependant	cependant	ADV	B	_	14	advmod	_	_
 12	quelque	quelque	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
 13	peu	peu	ADV	B	_	14	advmod	_	_
@@ -9445,7 +9445,7 @@
 3	Président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-6	suis	etre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	particulièrement	particulièrement	ADV	B	_	8	advmod	_	_
 8	ravi	ravi	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 9	de	de	ADP	E	_	10	case	_	_
@@ -10035,7 +10035,7 @@
 5	et	et	CCONJ	CC	_	7	cc	_	_
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	richesse	richesse	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
-8	étaient	étayer	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	plus	plus	ADV	B	_	10	advmod	_	_
 10	tributaires	tributaire	ADJ	A	Number=Plur	0	root	_	_
 11-12	des	_	_	_	_	_	_	_	_
@@ -13118,7 +13118,7 @@
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-6	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	favorable	favorable	ADJ	A	Number=Sing	0	root	_	_
 8-9	aux	_	_	_	_	_	_	_	_
 8	à	à	ADP	E	_	10	case	_	_
@@ -13758,7 +13758,7 @@
 # sent_id = fr_partut-ud-425
 # text = Je suis tout à fait convaincu que ce code sera respecté et que le parlement sera tenu informé de toutes les évolutions et des détails de la mise en oeuvre des programmes.
 1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-2	suis	suivre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	tout	tout	ADV	B	_	6	advmod	_	_
 4	à	à	ADP	E	_	3	fixed	_	_
 5	fait	fait	NOUN	S	Gender=Masc|Number=Sing	3	fixed	_	_
@@ -21977,7 +21977,7 @@
 39	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	40	det	_	_
 40	informations	information	NOUN	S	Gender=Fem|Number=Plur	44	nsubj	_	_
 41	n'	ne	PART	PART	Polarity=Neg	44	advmod	_	SpaceAfter=No
-42	étaient	étayer	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
+42	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
 43	pas	pas	ADV	BN	Polarity=Neg	44	advmod	_	_
 44	suffisantes	suffisant	ADJ	A	Gender=Fem|Number=Plur	33	advcl	_	_
 45	concernant	concerner	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	40	acl	_	_
@@ -22481,7 +22481,7 @@
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	participants	participer	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	12	nsubj	_	_
-7	étaient	étayer	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+7	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 8	en	en	ADP	E	_	10	case	_	_
 9	grande	grand	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
 10	majorité	majorité	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
@@ -23396,7 +23396,7 @@
 7	pays	pays	NOUN	S	Gender=Masc	5	obj	_	_
 8	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
 9	qui	qui	PRON	PR	PronType=Rel	12	nsubj	_	_
-10	étaient	étayer	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	en	en	ADP	E	_	12	case	_	_
 12	voie	voie	NOUN	S	Gender=Fem|Number=Sing	7	acl:relcl	_	_
 13	d'	de	ADP	E	_	14	case	_	SpaceAfter=No
@@ -27145,7 +27145,7 @@
 # text = Certains morceaux étaient du foie de dauphin.
 1	Certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	morceaux	morceau	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
-3	étaient	etre	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4-5	du	_	_	_	_	_	_	_	_
 4	de	de	ADP	E	_	6	case	_	_
 5	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
