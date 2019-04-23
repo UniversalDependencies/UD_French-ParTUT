@@ -12891,7 +12891,7 @@
 19	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-400
-# text = Je suis d'accord sur le fait que le Parlement européen n'a pas eu l'occasion ­ ou ne se l'est pas donnée, car c'était la fin de la législature ­ de parler des orientations.
+# text = Je suis d'accord sur le fait que le Parlement européen n'a pas eu l'occasion — ou ne se l'est pas donnée, car c'était la fin de la législature — de parler des orientations.
 1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	d'	de	ADP	E	_	4	case	_	SpaceAfter=No
@@ -12909,7 +12909,7 @@
 15	eu	avoir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
 16	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
 17	occasion	occasion	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
-18	­	­	PUNCT	FB	_	17	punct	_	_
+18	—	—	PUNCT	FB	_	17	punct	_	_
 19	ou	ou	CCONJ	CC	_	25	cc	_	_
 20	ne	ne	PART	PART	Polarity=Neg	19	advmod	_	_
 21	se	se	PRON	P	Person=3|PronType=Prs	25	expl	_	_
@@ -12926,7 +12926,7 @@
 32	de	de	ADP	E	_	34	case	_	_
 33	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	législature	législature	NOUN	S	Gender=Masc|Number=Sing	31	nmod	_	_
-35	­	­	PUNCT	FB	_	25	punct	_	_
+35	—	—	PUNCT	FB	_	25	punct	_	_
 36	de	de	ADP	E	_	37	mark	_	_
 37	parler	parler	VERB	V	VerbForm=Inf	17	acl	_	_
 38-39	des	_	_	_	_	_	_	_	_
