@@ -66,6 +66,9 @@ appears as follows:
 
 
 # Changelog
+2019-05-15 v2.4
+* various corrections to pass new validation
+
 2018-11-15 v2.3
 * corrections of incorrect lemmas into "être" (15 cases)
 
