@@ -6864,7 +6864,7 @@
 33	,	,	PUNCT	FF	_	27	punct	_	_
 34	de	de	ADP	E	_	35	case	_	_
 35	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	27	obl	_	_
-36	qu'	qui	PRON	PR	PronType=Rel	35	acl:relcl	_	SpaceAfter=No
+36	qu'	que	PRON	PR	PronType=Rel	35	acl:relcl	_	SpaceAfter=No
 37	elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	_
 38	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
 39	en	en	ADP	E	_	40	case	_	_
@@ -27056,7 +27056,7 @@
 44	et	et	CCONJ	CC	_	45	cc	_	_
 45	identifier	identifier	VERB	V	VerbForm=Inf	34	conj	_	_
 46	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	45	obj	_	_
-47	qu'	qui	PRON	PR	PronType=Rel	46	acl:relcl	_	SpaceAfter=No
+47	qu'	que	PRON	PR	PronType=Rel	46	acl:relcl	_	SpaceAfter=No
 48	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	47	nsubj	_	_
 49	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	47	cop	_	_
 50	vraiment	vraiment	ADV	B	_	47	advmod	_	SpaceAfter=No
