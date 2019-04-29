@@ -2046,11 +2046,11 @@
 19-20	des	_	_	_	_	_	_	_	_
 19	de	de	ADP	E	_	21	case	_	_
 20	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
-21	échanges	échanger	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	nmod	_	_
+21	échanges	échange	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
 22	commerciaux	commerciaux	ADJ	A	Number=Sing	21	amod	_	_
 23	entre	entre	ADP	E	_	25	case	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
-25	États	état	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	_
+25	États	état	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	_
 26	membres	membre	NOUN	S	Gender=Masc|Number=Plur	25	compound	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	9	punct	_	_
 
