@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_French-ParTUT:
-commit 10a798edfef9434e4ba19968162c0fb68d004849
+commit 5cf4f5c7489b792253909b0764727f566ffbf3bb
+Merge: 5e88483 b2ff1bf
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:03:43 2019 +0100
 Size: counted 28595 of 28595 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.70646375473456.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 18636 out of 28595 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 8 bugs.
+Udapi: found 6 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 28595 words.
 Genres: found 3 out of 17 known.
 validate.py --lang fr --max-err=10 UD_French-ParTUT/fr_partut-ud-dev.conllu
@@ -35,8 +35,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.485430033627564) = 0.124469239391683
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.997202308095821) = 0.306831479414099
+(weight=0.307692307692308) * (score{udapi}=0.997901731071866) = 0.307046686483651
 (weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.703475518039405) * (availability=1) * (validity=1) = 0.703475518039405
+(TOTAL score=0.703690725108957) * (availability=1) * (validity=1) = 0.703690725108957
 STARS = 3.5
-UD_French-ParTUT	0.703475518039405	3.5
+UD_French-ParTUT	0.703690725108957	3.5
