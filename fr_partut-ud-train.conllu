@@ -7778,7 +7778,7 @@
 8	,	,	PUNCT	FF	_	5	punct	_	_
 9	chers	cher	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
 10	collègues	collègue	NOUN	S	Gender=Masc|Number=Plur	42	vocative	_	SpaceAfter=No
-11	,	,	PUNCT	FF	_	9	punct	_	_
+11	,	,	PUNCT	FF	_	10	punct	_	_
 12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	directive	directive	NOUN	S	Gender=Fem|Number=Sing	42	nsubj	_	_
 14	entrée	entrer	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
@@ -8697,7 +8697,7 @@
 38	de	de	ADP	E	_	39	case	_	_
 39	transport	transport	NOUN	S	Gender=Masc|Number=Sing	37	nmod	_	_
 40	européennes	européen	ADJ	A	Gender=Fem|Number=Plur	37	amod	_	SpaceAfter=No
-41	,	,	PUNCT	FF	_	39	punct	_	_
+41	,	,	PUNCT	FF	_	37	punct	_	_
 42	qu'	que	SCONJ	CS	_	45	mark	_	SpaceAfter=No
 43	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	expl	_	_
 44	s'	se	PRON	P	Person=3|PronType=Prs	45	expl	_	SpaceAfter=No
