@@ -705,7 +705,7 @@
 23	numérique	numérique	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	6	punct	_	_
 25	en	en	ADP	E	_	26	mark	_	_
-26	utilisant	utiliser	VERB	V	VerbForm=Ger	6	advcl	_	_
+26	utilisant	utiliser	VERB	V	Tense=Pres|VerbForm=Part	6	advcl	_	_
 27	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	26	obj	_	_
 29	technique	technique	ADJ	A	Number=Sing	28	amod	_	_
@@ -1063,7 +1063,7 @@
 23	dite	dite	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	_
 24	dérivée	dérivé	ADJ	A	Gender=Fem|Number=Sing	23	xcomp	_	_
 25	en	en	ADP	E	_	26	mark	_	_
-26	utilisant	utiliser	VERB	V	VerbForm=Ger	6	advcl	_	_
+26	utilisant	utiliser	VERB	V	Tense=Pres|VerbForm=Part	6	advcl	_	_
 27	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	26	obj	_	_
 29	technique	technique	ADJ	A	Number=Sing	28	amod	_	_
@@ -2225,7 +2225,7 @@
 24	mes	mon	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	25	det	_	_
 25	voeux	voeux	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	_
 26	en	en	ADP	E	_	27	mark	_	_
-27	espérant	espérer	VERB	V	VerbForm=Ger	22	advcl	_	_
+27	espérant	espérer	VERB	V	Tense=Pres|VerbForm=Part	22	advcl	_	_
 28	que	que	SCONJ	CS	_	31	mark	_	_
 29	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	31	nsubj	_	_
 30	avez	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	31	aux	_	_
@@ -2238,7 +2238,7 @@
 # sent_id = fr_partut-ud-73
 # text = En attendant, je souhaiterais, comme un certain nombre de collègues me l'ont demandé, que nous observions une minute de silence pour toutes les victimes, des tempêtes notamment, dans les différents pays de l'Union Européenne qui ont été touchés.
 1	En	en	ADP	E	_	2	mark	_	_
-2	attendant	attender	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
+2	attendant	attender	VERB	V	Tense=Pres|VerbForm=Part	5	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	souhaiterais	souhaiter	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -2782,7 +2782,7 @@
 39	Bush	Bush	PROPN	SP	_	38	flat	_	SpaceAfter=No
 40	,	,	PUNCT	FF	_	25	punct	_	_
 41	en	en	ADP	E	_	43	mark	_	_
-42	faisant	faire	AUX	V	VerbForm=Ger	43	aux:caus	_	_
+42	faisant	faire	AUX	V	Tense=Pres|VerbForm=Part	43	aux:caus	_	_
 43	jouer	jouer	VERB	V	VerbForm=Inf	25	advcl	_	_
 44	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
 45	prestige	prestige	NOUN	S	Gender=Masc|Number=Sing	43	obj:agent	_	_
@@ -2959,7 +2959,7 @@
 16	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	ministère	ministère	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
 18	public	public	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
-19	ayant	avoir	AUX	VA	VerbForm=Ger	20	aux	_	_
+19	ayant	avoir	AUX	VA	Tense=Pres|VerbForm=Part	20	aux	_	_
 20	interjeté	interjeter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
 21	appel	appel	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	5	punct	_	_
@@ -3553,7 +3553,7 @@
 13	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
 14	jour	jour	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	8	punct	_	_
-16	avançant	avancer	VERB	V	VerbForm=Ger	8	advcl	_	_
+16	avançant	avancer	VERB	V	Tense=Pres|VerbForm=Part	8	advcl	_	_
 17	que	que	SCONJ	CS	_	23	mark	_	_
 18	des	un	DET	RI	Definite=Ind|PronType=Art	19	det	_	_
 19	réponses	réponse	NOUN	S	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
@@ -3761,7 +3761,7 @@
 10	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 11	sens	sens	NOUN	S	Gender=Masc	6	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	6	punct	_	_
-13	étant	être	AUX	VA	VerbForm=Ger	14	aux:pass	_	_
+13	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	14	aux:pass	_	_
 14	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
 15	qu'	que	SCONJ	CS	_	23	mark	_	SpaceAfter=No
 16	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -3778,7 +3778,7 @@
 # sent_id = fr_partut-ud-124
 # text = En refusant de prolonger l'embargo, les états membres font preuve d'irresponsabilité.
 1	En	en	ADP	E	_	2	mark	_	_
-2	refusant	refuser	VERB	V	VerbForm=Ger	11	advcl	_	_
+2	refusant	refuser	VERB	V	Tense=Pres|VerbForm=Part	11	advcl	_	_
 3	de	de	ADP	E	_	4	mark	_	_
 4	prolonger	prolonger	VERB	V	VerbForm=Inf	2	advcl	_	_
 5	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
@@ -3994,7 +3994,7 @@
 1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	rappelle	rappeler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	en	en	ADP	_	_	3	advmod	_	_
+4	en	en	ADP	E	_	3	advmod	_	_
 5	outre	outre	ADV	_	_	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	3	punct	_	_
 7	Madame	madame	NOUN	S	Gender=Fem|Number=Sing	3	vocative	_	_
@@ -4210,7 +4210,7 @@
 # text = Mon groupe estimant qu'un parlement est là pour écouter, pour débattre et pour réfléchir, nous pensons qu'aucune raison ne justifie cet ajournement et nous croyons que si la commission est en mesure de le présenter, nous avons parfaitement le temps pour rétablir l'accord original entre le parlement et la commission et d'agir de manière responsable vis-à-vis de nos concitoyennes et concitoyens.
 1	Mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	2	det	_	_
 2	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	estimant	estimer	VERB	V	VerbForm=Ger	19	advcl	_	_
+3	estimant	estimer	VERB	V	Tense=Pres|VerbForm=Part	19	advcl	_	_
 4	qu'	que	SCONJ	CS	_	8	mark	_	SpaceAfter=No
 5	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -4922,7 +4922,7 @@
 # sent_id = fr_partut-ud-161
 # text = Cela étant, je crois que les positions sont bien claires et elles seront consignées au procès-verbal.
 1	Cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
-2	étant	être	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
+2	étant	être	VERB	V	Tense=Pres|VerbForm=Part	5	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	crois	croire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5741,7 +5741,7 @@
 44	ces	ce	DET	DD	Number=Plur|PronType=Dem	45	det	_	_
 45	événements	événement	NOUN	S	Gender=Masc|Number=Plur	49	nsubj	_	_
 46	s'	se	PRON	P	Person=3|PronType=Prs	49	expl	_	SpaceAfter=No
-47	étant	être	AUX	VA	VerbForm=Ger	49	aux	_	_
+47	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	49	aux	_	_
 48	tous	tout	PRON	P	Gender=Masc|Number=Plur|PronType=Tot	49	obl	_	_
 49	produits	produire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	60	advcl	_	_
 50-51	au	_	_	_	_	_	_	_	_
@@ -8049,7 +8049,7 @@
 7	réglementations	réglementation	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
 8	transitoires	transitoire	ADJ	A	Number=Plur	7	amod	_	_
 9	en	en	ADP	E	_	10	mark	_	_
-10	repoussant	repousser	VERB	V	VerbForm=Ger	5	advcl	_	_
+10	repoussant	repousser	VERB	V	Tense=Pres|VerbForm=Part	5	advcl	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	délais	délai	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	14	punct	_	_
@@ -8115,7 +8115,7 @@
 # sent_id = fr_partut-ud-256
 # text = Ce faisant, la modification de la directive s'inscrit pleinement dans l'esprit de subsidiarité;
 1	Ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	obj	_	_
-2	faisant	faire	VERB	V	VerbForm=Ger	10	advcl	_	SpaceAfter=No
+2	faisant	faire	VERB	V	Tense=Pres|VerbForm=Part	10	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	modification	modification	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -8626,7 +8626,7 @@
 22	avez	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	23	aux	_	_
 23	témoigné	temoigner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	acl:relcl	_	_
 24	en	en	ADP	E	_	25	mark	_	_
-25	reprenant	reprendre	VERB	V	VerbForm=Ger	23	advcl	_	_
+25	reprenant	reprendre	VERB	V	Tense=Pres|VerbForm=Part	23	advcl	_	_
 26-27	au	_	_	_	_	_	_	_	_
 26	à	à	ADP	E	_	28	case	_	_
 27	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -9728,7 +9728,7 @@
 5	garantira	garantir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	en	en	ADP	E	_	8	mark	_	_
-8	allant	aller	VERB	V	VerbForm=Ger	5	advcl	_	_
+8	allant	aller	VERB	V	Tense=Pres|VerbForm=Part	5	advcl	_	_
 9	à	à	ADP	E	_	11	case	_	_
 10	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	encontre	encontre	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
@@ -9905,7 +9905,7 @@
 33	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	cohésion	cohésion	NOUN	S	Gender=Fem|Number=Sing	31	nmod	_	_
 35	en	en	ADP	E	_	28	mark	_	_
-36	implantant	implanter	VERB	V	VerbForm=Ger	28	advcl	_	_
+36	implantant	implanter	VERB	V	Tense=Pres|VerbForm=Part	28	advcl	_	_
 37	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	38	det	_	_
 38	écoles	écoles	NOUN	S	Gender=Fem|Number=Plur	36	obj	_	_
 39	professionnelles	professionnel	ADJ	A	Gender=Fem|Number=Plur	38	amod	_	_
@@ -9976,7 +9976,7 @@
 26	souhaité	souhaiter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	ccomp	_	_
 27	qu'	que	SCONJ	CS	_	46	mark	_	SpaceAfter=No
 28	en	en	ADP	E	_	29	mark	_	_
-29	réfléchissant	réfléchir	VERB	V	VerbForm=Ger	46	advcl	_	_
+29	réfléchissant	réfléchir	VERB	V	Tense=Pres|VerbForm=Part	46	advcl	_	_
 30	à	à	ADP	E	_	32	case	_	_
 31	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
 32	coordination	coordination	NOUN	S	Gender=Fem|Number=Sing	29	obl	_	_
@@ -11191,7 +11191,7 @@
 15	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	16	det	_	_
 16	intervention	intervention	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
 17	en	en	ADP	E	_	18	mark	_	_
-18	remerciant	remercier	VERB	V	VerbForm=Ger	14	advcl	_	_
+18	remerciant	remercier	VERB	V	Tense=Pres|VerbForm=Part	14	advcl	_	_
 19	mme	madame	NOUN	S	Gender=Fem	18	obj	_	_
 20	Schroedter	Schroedter	PROPN	SP	_	19	flat	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	19	punct	_	_
@@ -11634,7 +11634,7 @@
 14	qui	qui	PRON	PR	PronType=Rel	42	nsubj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
 16	en	en	ADP	E	_	17	mark	_	_
-17	unissant	unir	VERB	V	VerbForm=Ger	42	advcl	_	_
+17	unissant	unir	VERB	V	Tense=Pres|VerbForm=Part	42	advcl	_	_
 18	ses	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	19	det	_	_
 19	efforts	effort	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	_
 20	à	à	ADP	E	_	21	case	_	_
@@ -11647,7 +11647,7 @@
 26	,	,	PUNCT	FF	_	29	punct	_	_
 27	en	en	ADP	E	_	29	mark	_	_
 28	les	le	PRON	P	Number=Plur|Person=3|PronType=Prs	29	obj	_	_
-29	complétant	completer	VERB	V	VerbForm=Ger	17	conj	_	SpaceAfter=No
+29	complétant	completer	VERB	V	Tense=Pres|VerbForm=Part	17	conj	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	35	punct	_	_
 31	sans	sans	ADP	E	_	35	mark	_	_
 32	qu'	que	SCONJ	CS	_	35	mark	_	SpaceAfter=No
@@ -12201,7 +12201,7 @@
 25	communautaire	communautaire	ADJ	A	Number=Sing	23	amod	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	13	punct	_	_
 27	en	en	ADP	E	_	28	mark	_	_
-28	gardant	garder	VERB	V	VerbForm=Ger	13	advcl	_	_
+28	gardant	garder	VERB	V	Tense=Pres|VerbForm=Part	13	advcl	_	_
 29	à	à	ADP	E	_	31	case	_	_
 30	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	31	det	_	SpaceAfter=No
 31	esprit	esprit	NOUN	S	Gender=Masc|Number=Sing	28	obl	_	_
@@ -12265,7 +12265,7 @@
 1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	particulièrement	particulièrement	ADV	B	_	4	advmod	_	_
-4	important	importer	VERB	V	VerbForm=Ger	0	root	_	_
+4	important	importer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 5	de	de	ADP	E	_	7	mark	_	_
 6	faire	faire	AUX	V	VerbForm=Inf	7	aux:caus	_	_
 7	participer	participer	VERB	V	VerbForm=Inf	4	csubj	_	_
@@ -12379,7 +12379,7 @@
 10	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	projets	projet	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
 12	n'	ne	PART	PART	Polarity=Neg	14	advmod	_	SpaceAfter=No
-13	ayant	avoir	AUX	VA	VerbForm=Ger	14	aux	_	_
+13	ayant	avoir	AUX	VA	Tense=Pres|VerbForm=Part	14	aux	_	_
 14	laissé	laisser	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
 15	aucun	aucun	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
 16	profit	profit	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
@@ -13328,7 +13328,7 @@
 37	très	très	ADV	B	_	38	advmod	_	_
 38	important	important	ADJ	A	Gender=Masc|Number=Sing	36	amod	_	_
 39	en	en	ADP	E	_	40	mark	_	_
-40	aidant	aider	VERB	V	VerbForm=Ger	34	advcl	_	_
+40	aidant	aider	VERB	V	Tense=Pres|VerbForm=Part	34	advcl	_	_
 41	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	43	det	_	_
 42	moins	moins	ADV	B	_	43	advmod	_	_
 43	favorisés	favorisé	NOUN	S	Gender=Masc|Number=Plur	40	obj	_	_
@@ -13564,7 +13564,7 @@
 41	-	-	PUNCT	FB	_	45	punct	_	_
 42	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	43	det	_	SpaceAfter=No
 43	accent	accent	NOUN	S	Gender=Masc|Number=Sing	45	nsubj:pass	_	_
-44	étant	être	AUX	VA	VerbForm=Ger	45	aux:pass	_	_
+44	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	45	aux:pass	_	_
 45	mis	mettre	VERB	V	Gender=Masc|Tense=Past|VerbForm=Part	35	acl	_	_
 46	sur	sur	ADP	E	_	48	case	_	_
 47	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	48	det	_	SpaceAfter=No
@@ -13599,7 +13599,7 @@
 # sent_id = fr_partut-ud-419
 # text = Cela étant, j'ai un grief à exprimer en tant qu'insulaire du fait qu'on a négligé le développement des îles.
 1	Cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	advcl	_	_
-2	étant	être	AUX	V	VerbForm=Ger	1	cop	_	SpaceAfter=No
+2	étant	être	AUX	V	Tense=Pres|VerbForm=Part	1	cop	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
 5	ai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -13909,7 +13909,7 @@
 20	train	train	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
 21	en	en	ADP	E	_	22	case	_	_
 22	marche	marche	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
-23	concernant	concerner	VERB	V	VerbForm=Ger	18	advcl	_	_
+23	concernant	concerner	VERB	V	Tense=Pres|VerbForm=Part	18	advcl	_	_
 24	ces	ce	DET	DD	Number=Plur|PronType=Dem	25	det	_	_
 25	orientations	orientation	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	18	punct	_	_
@@ -14944,7 +14944,7 @@
 
 # sent_id = fr_partut-ud-472
 # text = Étant donné que chaque compte n'appartient qu'à un seul individu, nous demandons à chacun d'indiquer son nom réel.
-1	Étant	être	AUX	VA	VerbForm=Ger	2	aux:pass	_	_
+1	Étant	être	AUX	VA	Tense=Pres|VerbForm=Part	2	aux:pass	_	_
 2	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
 3	que	que	SCONJ	CS	_	7	mark	_	_
 4	chaque	chaque	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
@@ -15088,13 +15088,13 @@
 11	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	12	det	_	_
 12	contacts	contacts	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
 13	en	en	ADP	E	_	14	mark	_	_
-14	saisissant	saisir	VERB	V	VerbForm=Ger	7	advcl	_	_
+14	saisissant	saisir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	_
 15	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	adresse	adresse	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
 17	électronique	électronique	ADJ	A	Number=Sing	16	amod	_	_
 18	ou	ou	CCONJ	CC	_	20	cc	_	_
 19	en	en	ADP	E	_	20	mark	_	_
-20	chargeant	charger	VERB	V	VerbForm=Ger	14	conj	_	_
+20	chargeant	charger	VERB	V	Tense=Pres|VerbForm=Part	14	conj	_	_
 21	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	22	det	_	_
 22	contacts	contact	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	2	punct	_	_
@@ -15234,7 +15234,7 @@
 12	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	obj	_	_
 13	inscrire	inscrire	VERB	V	VerbForm=Inf	0	root	_	_
 14	en	en	ADP	E	_	15	mark	_	_
-15	suivant	suivre	VERB	V	VerbForm=Ger	13	advcl	_	_
+15	suivant	suivre	VERB	V	Tense=Pres|VerbForm=Part	13	advcl	_	_
 16	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	17	det	_	_
 17	étapes	étapes	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
 18	simples	simple	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
@@ -15639,7 +15639,7 @@
 7	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	8	det	_	_
 8	compte	compte	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
 9	en	en	ADP	E	_	10	mark	_	_
-10	mettant	mettre	VERB	V	VerbForm=Ger	3	advcl	_	_
+10	mettant	mettre	VERB	V	Tense=Pres|VerbForm=Part	3	advcl	_	_
 11	à	à	ADP	E	_	12	case	_	_
 12	jour	jour	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
 13	vos	vos	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	14	det	_	_
@@ -16217,7 +16217,7 @@
 4	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
 5	approche	approche	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
 6	en	en	ADP	E	_	7	mark	_	_
-7	créant	créer	VERB	V	VerbForm=Ger	3	advcl	_	_
+7	créant	créer	VERB	V	Tense=Pres|VerbForm=Part	3	advcl	_	_
 8	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	page	page	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
 10	Facebook	Facebook	PROPN	SP	_	9	nmod	_	_
@@ -16232,7 +16232,7 @@
 19	messages	messages	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
 20	tout	tout	ADV	B	_	22	advmod	_	_
 21	en	en	ADP	E	_	22	mark	_	_
-22	développant	développer	VERB	V	VerbForm=Ger	19	acl	_	_
+22	développant	développer	VERB	V	Tense=Pres|VerbForm=Part	19	acl	_	_
 23	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	campagne	campagne	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	_
 25	publicitaire	publicitaire	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
@@ -16297,7 +16297,7 @@
 15	unique	unique	ADJ	A	Number=Sing	12	acl:relcl	_	_
 16	pour	pour	ADP	E	_	17	case	_	_
 17	ANA	ANA	PROPN	SP	_	15	obl	_	_
-18	étant	être	AUX	V	VerbForm=Ger	19	cop	_	_
+18	étant	être	AUX	V	Tense=Pres|VerbForm=Part	19	cop	_	_
 19	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
 20	que	que	SCONJ	CS	_	27	mark	_	_
 21	son	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	22	det	_	_
@@ -16541,7 +16541,7 @@
 25	,	,	PUNCT	FF	_	15	punct	_	_
 26	tout	tout	ADV	B	_	28	advmod	_	_
 27	en	en	ADP	E	_	28	mark	_	_
-28	réservant	réserver	VERB	V	VerbForm=Ger	15	advcl	_	_
+28	réservant	réserver	VERB	V	Tense=Pres|VerbForm=Part	15	advcl	_	_
 29	vos	vos	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	30	det	_	_
 30	publications	publication	NOUN	S	Gender=Fem|Number=Plur	28	obj	_	_
 31	plus	plus	ADV	B	_	32	advmod	_	_
@@ -16998,7 +16998,7 @@
 26	,	,	PUNCT	FF	_	14	punct	_	_
 27	notamment	notamment	ADV	B	_	29	advmod	_	_
 28	en	en	ADP	E	_	29	mark	_	_
-29	recensant	recenser	VERB	V	VerbForm=Ger	14	advcl	_	_
+29	recensant	recenser	VERB	V	Tense=Pres|VerbForm=Part	14	advcl	_	_
 30	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
 31	principales	principal	ADJ	A	Gender=Fem|Number=Plur	32	amod	_	_
 32	sources	source	NOUN	S	Gender=Fem|Number=Plur	29	obj	_	_
@@ -17076,7 +17076,7 @@
 15	produits	produit	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
 16	tout	tout	ADV	B	_	18	advmod	_	_
 17	en	en	ADP	E	_	18	mark	_	_
-18	conservant	conserver	VERB	V	VerbForm=Ger	9	advcl	_	_
+18	conservant	conserver	VERB	V	Tense=Pres|VerbForm=Part	9	advcl	_	_
 19	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	20	det	_	_
 20	qualité	qualité	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
 21	d'	de	ADP	E	_	22	case	_	SpaceAfter=No
@@ -17468,7 +17468,7 @@
 10	d'	de	ADP	E	_	11	case	_	SpaceAfter=No
 11	écoconception	écoconception	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
 12	en	en	ADP	E	_	13	mark	_	_
-13	tenant	tenir	VERB	V	VerbForm=Ger	7	advcl	_	_
+13	tenant	tenir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	_
 14	compte	compte	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 15-16	des	_	_	_	_	_	_	_	_
 15	de	de	ADP	E	_	17	case	_	_
@@ -17496,7 +17496,7 @@
 35	,	,	PUNCT	FF	_	34	punct	_	_
 36	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	cas	cas	NOUN	S	Gender=Masc|Number=Sing	38	nsubj	_	_
-38	échéant	échoir	VERB	V	VerbForm=Ger	34	advcl	_	SpaceAfter=No
+38	échéant	échoir	VERB	V	Tense=Pres|VerbForm=Part	34	advcl	_	SpaceAfter=No
 39	,	,	PUNCT	FF	_	34	punct	_	_
 40	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	41	det	_	_
 41	objectifs	objectif	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
@@ -17537,7 +17537,7 @@
 16	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
 17	environnement	environnement	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
 18	en	en	ADP	E	_	19	mark	_	_
-19	réduisant	réduire	VERB	V	VerbForm=Ger	9	advcl	_	_
+19	réduisant	réduire	VERB	V	Tense=Pres|VerbForm=Part	9	advcl	_	_
 20	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
 21	impact	impact	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
 22	potentiel	potentiel	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
@@ -17942,7 +17942,7 @@
 24	,	,	PUNCT	FF	_	6	punct	_	_
 25	tout	tout	ADV	B	_	27	advmod	_	_
 26	en	en	ADP	E	_	27	mark	_	_
-27	tenant	tenir	VERB	V	VerbForm=Ger	6	advcl	_	_
+27	tenant	tenir	VERB	V	Tense=Pres|VerbForm=Part	6	advcl	_	_
 28	compte	compte	NOUN	S	Gender=Masc|Number=Sing	27	obj	_	_
 29-30	des	_	_	_	_	_	_	_	_
 29	de	de	ADP	E	_	31	case	_	_
@@ -18000,7 +18000,7 @@
 40	environnemental	environnemental	ADJ	A	Gender=Masc|Number=Sing	39	amod	_	_
 41	prioritaire	prioritaire	ADJ	A	Gender=Masc|Number=Sing	39	amod	_	_
 42	en	en	ADP	E	_	43	mark	_	_
-43	attendant	attender	VERB	V	VerbForm=Ger	36	advcl	_	_
+43	attendant	attender	VERB	V	Tense=Pres|VerbForm=Part	36	advcl	_	_
 44	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	45	det	_	SpaceAfter=No
 45	adoption	adoption	NOUN	S	Gender=Fem|Number=Sing	43	obj	_	_
 46	d'	de	ADP	E	_	48	case	_	SpaceAfter=No
@@ -19158,7 +19158,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	27	27	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Sachant	savoir	VERB	V	VerbForm=Ger	19	advcl	_	_
+4	Sachant	savoir	VERB	V	Tense=Pres|VerbForm=Part	19	advcl	_	_
 5	qu'	que	SCONJ	CS	_	7	mark	_	SpaceAfter=No
 6	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 7	importe	importe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
@@ -19552,7 +19552,7 @@
 29	7	7	NUM	N	NumType=Card	26	nmod	_	_
 30	mai	mai	NOUN	S	Gender=Masc|Number=Sing	29	flat	_	_
 31	1985	1985	NUM	N	NumType=Card	29	flat	_	_
-32	concernant	concerner	VERB	V	VerbForm=Ger	23	acl	_	_
+32	concernant	concerner	VERB	V	Tense=Pres|VerbForm=Part	23	acl	_	_
 33	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 34	nouvelle	nouveau	ADJ	A	Gender=Fem|Number=Sing	35	amod	_	_
 35	approche	approche	NOUN	S	Gender=Fem|Number=Sing	32	obj	_	_
@@ -19683,7 +19683,7 @@
 31	22	22	NUM	N	NumType=Card	28	nmod	_	_
 32	septembre	septembre	NOUN	S	Gender=Masc|Number=Sing	31	flat	_	_
 33	1992	1992	NUM	N	NumType=Card	31	flat	_	_
-34	concernant	concerner	VERB	V	VerbForm=Ger	20	acl	_	_
+34	concernant	concerner	VERB	V	Tense=Pres|VerbForm=Part	20	acl	_	_
 35	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	36	det	_	SpaceAfter=No
 36	indication	indication	NOUN	S	Gender=Fem|Number=Sing	34	obj	_	_
 37	de	de	ADP	E	_	39	case	_	_
@@ -19742,7 +19742,7 @@
 85	17	17	NUM	N	NumType=Card	82	nmod	_	_
 86	juillet	juillet	NOUN	S	Gender=Masc|Number=Sing	85	flat	_	_
 87	2000	2000	NUM	N	NumType=Card	85	flat	_	_
-88	établissant	établir	VERB	V	VerbForm=Ger	82	acl	_	_
+88	établissant	établir	VERB	V	Tense=Pres|VerbForm=Part	82	acl	_	_
 89	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	90	det	_	_
 90	système	système	NOUN	S	Gender=Fem|Number=Sing	88	obj	_	_
 91	communautaire	communautaire	ADJ	A	Number=Sing	90	amod	_	_
@@ -19985,7 +19985,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	34	34	NUM	N	NumType=Card	143	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Étant	être	AUX	VA	VerbForm=Ger	5	aux:pass	_	_
+4	Étant	être	AUX	VA	Tense=Pres|VerbForm=Part	5	aux:pass	_	_
 5	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	143	advcl	_	_
 6	que	que	SCONJ	CS	_	125	mark	_	_
 7	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -20005,7 +20005,7 @@
 19	21	21	NUM	N	NumType=Card	16	nmod	_	_
 20	mai	mai	NOUN	S	Gender=Masc|Number=Sing	19	flat	_	_
 21	1992	1992	NUM	N	NumType=Card	19	flat	_	_
-22	concernant	concerner	VERB	V	VerbForm=Ger	8	acl	_	_
+22	concernant	concerner	VERB	V	Tense=Pres|VerbForm=Part	8	acl	_	_
 23	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
 24	exigences	exigence	NOUN	S	Gender=Fem|Number=Plur	22	obj	_	_
 25	de	de	ADP	E	_	26	case	_	_
@@ -20050,7 +20050,7 @@
 61	3	3	NUM	N	NumType=Card	45	nmod	_	_
 62	septembre	septembre	NOUN	S	Gender=Masc|Number=Sing	61	flat	_	_
 63	1996	1996	NUM	N	NumType=Card	61	flat	_	_
-64	concernant	concerner	VERB	V	VerbForm=Ger	45	acl	_	_
+64	concernant	concerner	VERB	V	Tense=Pres|VerbForm=Part	45	acl	_	_
 65	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	66	det	_	_
 66	exigences	exigence	NOUN	S	Gender=Fem|Number=Plur	64	obj	_	_
 67	en	en	ADP	E	_	68	case	_	_
@@ -20098,7 +20098,7 @@
 105	18	18	NUM	N	NumType=Card	89	nmod	_	_
 106	septembre	septembre	NOUN	S	Gender=Masc|Number=Sing	105	flat	_	_
 107	2000	2000	NUM	N	NumType=Card	105	flat	_	_
-108	établissant	établir	VERB	V	VerbForm=Ger	89	acl	_	_
+108	établissant	établir	VERB	V	Tense=Pres|VerbForm=Part	89	acl	_	_
 109	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	110	det	_	_
 110	exigences	exigence	NOUN	S	Gender=Fem|Number=Plur	108	obj	_	_
 111	de	de	ADP	E	_	112	case	_	_
@@ -20175,7 +20175,7 @@
 
 # sent_id = fr_partut-ud-636
 # text = Étant donné que les états membres et l'industrie s'accordent sur le fait que ce système n'a pas apporté les résultats escomptés, il y a lieu de modifier la directive 92/42/CEE pour préparer la voie à des systèmes plus efficaces.
-1	Étant	être	AUX	VA	VerbForm=Ger	2	aux:pass	_	_
+1	Étant	être	AUX	VA	Tense=Pres|VerbForm=Part	2	aux:pass	_	_
 2	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	_	_
 3	que	que	SCONJ	CS	_	11	mark	_	_
 4	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
@@ -20465,7 +20465,7 @@
 6	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
 7	modifiant	modifier	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	6	acl	_	_
 8	et	et	CCONJ	CC	_	9	cc	_	_
-9	prorogeant	proroger	VERB	V	VerbForm=Ger	7	conj	_	_
+9	prorogeant	proroger	VERB	V	Tense=Pres|VerbForm=Part	7	conj	_	_
 10	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	décision	décision	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
 12-13	du	_	_	_	_	_	_	_	_
@@ -20478,7 +20478,7 @@
 17	17	17	NUM	N	NumType=Card	14	nmod	_	_
 18	décembre	décembre	NOUN	S	Gender=Masc|Number=Sing	17	flat	_	_
 19	2001	2001	NUM	N	NumType=Card	17	flat	_	_
-20	établissant	établir	VERB	V	VerbForm=Ger	11	acl	_	_
+20	établissant	établir	VERB	V	Tense=Pres|VerbForm=Part	11	acl	_	_
 21	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	programme	programme	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
 23	d'	de	ADP	E	_	24	case	_	SpaceAfter=No
@@ -20553,7 +20553,7 @@
 32	17	17	NUM	N	NumType=Card	26	nmod	_	_
 33	décembre	décembre	NOUN	S	Gender=Masc|Number=Sing	32	flat	_	_
 34	2001	2001	NUM	N	NumType=Card	32	flat	_	_
-35	établissant	établir	VERB	V	VerbForm=Ger	26	acl	_	_
+35	établissant	établir	VERB	V	Tense=Pres|VerbForm=Part	26	acl	_	_
 36	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	programme	programme	NOUN	S	Gender=Masc|Number=Sing	35	obj	_	_
 38	d'	de	ADP	E	_	39	case	_	SpaceAfter=No
@@ -20981,7 +20981,7 @@
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	tout	tout	ADV	B	_	16	advmod	_	_
 15	en	en	ADP	E	_	16	case	_	_
-16	demeurant	demeurer	VERB	V	VerbForm=Ger	12	advcl	_	_
+16	demeurant	demeurer	VERB	V	Tense=Pres|VerbForm=Part	12	advcl	_	_
 17	limité	limiter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	dep	_	_
 18	dans	dans	ADP	E	_	20	case	_	_
 19	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
@@ -22636,7 +22636,7 @@
 17	séminaires	séminaires	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
 18	plus	plus	ADV	B	_	19	advmod	_	_
 19	techniques	technique	ADJ	A	Number=Plur	17	amod	_	_
-20	étant	être	AUX	VA	VerbForm=Ger	22	aux:pass	_	_
+20	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	22	aux:pass	_	_
 21	également	également	ADV	B	_	22	advmod	_	_
 22	encouragée	encourager	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	3	punct	_	_
@@ -22644,7 +22644,7 @@
 # sent_id = fr_partut-ud-701
 # text = S'agissant de la provenance des participants, le rapport d'évaluation indique que ces derniers provenaient de 76 pays, en majorité des états membres.
 1	S'	se	PRON	P	Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
-2	agissant	agir	VERB	V	VerbForm=Ger	14	advcl	_	_
+2	agissant	agir	VERB	V	Tense=Pres|VerbForm=Part	14	advcl	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	provenance	provenance	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -22962,7 +22962,7 @@
 15	ou	ou	CCONJ	CC	_	16	cc	_	_
 16	candidats	candidats	ADJ	A	Number=Plur	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	10	punct	_	_
-18	montrant	montrer	VERB	V	VerbForm=Ger	10	advcl	_	_
+18	montrant	montrer	VERB	V	Tense=Pres|VerbForm=Part	10	advcl	_	_
 19	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	nécessité	nécessité	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
 21	de	de	ADP	E	_	22	mark	_	_
@@ -23912,7 +23912,7 @@
 
 # sent_id = fr_partut-ud-740
 # text = Considérant que la méconnaissance et le mépris des droits de l'homme ont conduit à des actes de barbarie qui révoltent la conscience de l'humanité et que l'avènement d'un monde où les êtres humains seront libres de parler et de croire, libérés de la terreur et de la misère, a été proclamé comme la plus haute aspiration de l'homme.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	que	que	SCONJ	CS	_	15	mark	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	méconnaissance	méconnaissance	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
@@ -23983,7 +23983,7 @@
 
 # sent_id = fr_partut-ud-741
 # text = Considérant qu'il est essentiel que les droits de l'homme soient protégés par un régime de droit pour que l'homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l'oppression.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
 3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -24027,7 +24027,7 @@
 
 # sent_id = fr_partut-ud-742
 # text = Considérant qu'il est essentiel d'encourager le développement de relations amicales entre nations.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
 3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -24045,7 +24045,7 @@
 
 # sent_id = fr_partut-ud-743
 # text = Considérant que dans la charte les peuples des Nations Unies ont proclamé à nouveau leur foi dans les droits fondamentaux de l'homme, dans la dignité et la valeur de la personne humaine, dans l'égalité des droits des hommes et des femmes, et qu'ils se sont déclarés résolus à favoriser le progrès social et à instaurer des meilleueres conditions de vie dans une liberté plus grande.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	que	que	SCONJ	CS	_	13	mark	_	_
 3	dans	dans	ADP	E	_	5	case	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -24128,7 +24128,7 @@
 
 # sent_id = fr_partut-ud-744
 # text = Considérant que les Etats membres se sont engagés à assurer, en coopération avec l'organisation des Nations Unies, le respect universel et effectif des droits de l'homme et des libertés fondamentales.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	que	que	SCONJ	CS	_	8	mark	_	_
 3	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	Etats	Etats	PROPN	SP	_	8	nsubj	_	_
@@ -24172,7 +24172,7 @@
 
 # sent_id = fr_partut-ud-745
 # text = Considérant qu'une conception commune de ces droits et libertés est de la plus haute importance pour remplir pleinement cet engagement.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	16	mark	_	SpaceAfter=No
 3	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	conception	conception	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -24239,7 +24239,7 @@
 39	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	société	société	NOUN	S	Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	33	punct	_	_
-42	ayant	avoir	VERB	V	VerbForm=Ger	51	advcl	_	_
+42	ayant	avoir	VERB	V	Tense=Pres|VerbForm=Part	51	advcl	_	_
 43	cette	cette	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	44	det	_	_
 44	déclaration	déclaration	NOUN	S	Gender=Fem|Number=Sing	42	obj	_	_
 45	constamment	constamment	ADV	B	_	42	advmod	_	_
@@ -26324,7 +26324,7 @@
 6	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 7	disaient	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
 8	en	en	ADP	E	_	9	mark	_	_
-9	sortant	sortir	VERB	V	VerbForm=Ger	7	advcl	_	SpaceAfter=No
+9	sortant	sortir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	SpaceAfter=No
 10	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-822
@@ -26785,7 +26785,7 @@
 16	ces	ce	DET	DD	Number=Plur|PronType=Dem	17	det	_	_
 17	PCB	PCB	PROPN	SP	_	26	nsubj	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	17	punct	_	_
-19	étant	être	AUX	V	VerbForm=Ger	20	cop	_	_
+19	étant	être	AUX	V	Tense=Pres|VerbForm=Part	20	cop	_	_
 20	solubles	soluble	ADJ	A	Number=Plur	26	advcl	_	_
 21	dans	dans	ADP	E	_	23	case	_	_
 22	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -27093,7 +27093,7 @@
 10	soit	être	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	dit	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 12	en	en	ADP	E	_	13	mark	_	_
-13	passant	passer	VERB	V	VerbForm=Ger	11	advcl	_	SpaceAfter=No
+13	passant	passer	VERB	V	Tense=Pres|VerbForm=Part	11	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-859

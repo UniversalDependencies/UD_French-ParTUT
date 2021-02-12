@@ -184,7 +184,7 @@
 # text = Tout en sachant que ce n'est là qu'un petit pas vers une plus grande sécurité en matière de transport, je vous prie d'approuver ce rapport.
 1	Tout	tout	ADV	B	_	3	advmod	_	_
 2	en	en	ADP	E	_	3	case	_	_
-3	sachant	savoir	VERB	V	VerbForm=Ger	25	advcl	_	_
+3	sachant	savoir	VERB	V	Tense=Pres|VerbForm=Part	25	advcl	_	_
 4	que	que	SCONJ	CS	_	12	mark	_	_
 5	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_
 6	n'	ne	PART	PART	Polarity=Neg	12	advmod	_	SpaceAfter=No
@@ -789,7 +789,7 @@
 
 # sent_id = fr_partut-ud-739
 # text = Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde.
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	que	que	SCONJ	CS	_	24	mark	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	reconnaissance	reconnaissance	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	_
@@ -1621,7 +1621,7 @@
 16	vos	vos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	17	det	_	_
 17	pas	pas	NOUN	S	Gender=Masc	14	nmod	_	_
 18	en	en	ADP	E	_	19	mark	_	_
-19	essayant	essayer	VERB	V	VerbForm=Ger	11	advcl	_	_
+19	essayant	essayer	VERB	V	Tense=Pres|VerbForm=Part	11	advcl	_	_
 20	de	de	ADP	E	_	21	mark	_	_
 21	récupérer	récupérer	VERB	V	VerbForm=Inf	19	xcomp	_	_
 22	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_

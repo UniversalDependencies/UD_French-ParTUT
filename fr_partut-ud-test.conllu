@@ -421,7 +421,7 @@
 35	ces	ce	DET	DD	Number=Plur|PronType=Dem	36	det	_	_
 36	efforts	effort	NOUN	S	Gender=Masc|Number=Plur	34	obj	_	_
 37	en	en	ADP	E	_	38	mark	_	_
-38	appliquant	appliquer	VERB	V	VerbForm=Ger	34	advcl	_	_
+38	appliquant	appliquer	VERB	V	Tense=Pres|VerbForm=Part	34	advcl	_	_
 39	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
 40	principes	principe	NOUN	S	Gender=Masc|Number=Plur	38	obj	_	_
 41	aussi	aussi	ADV	B	_	42	cc	_	_
@@ -804,7 +804,7 @@
 6	Président	président	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	4	punct	_	_
 8	en	en	ADP	E	_	9	mark	_	_
-9	affirmant	affirmer	VERB	V	VerbForm=Ger	2	advcl	_	_
+9	affirmant	affirmer	VERB	V	Tense=Pres|VerbForm=Part	2	advcl	_	_
 10	qu'	que	SCONJ	CS	_	14	mark	_	SpaceAfter=No
 11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 12	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
