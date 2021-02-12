@@ -117,7 +117,7 @@
 29	données	donnée	NOUN	S	Gender=Fem|Number=Plur	27	nmod	_	SpaceAfter=No
 30	)	)	PUNCT	FB	_	15	punct	_	_
 31	ou	ou	CCONJ	CC	_	34	cc	_	_
-32	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	34	det	_	_
+32	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	34	det	_	_
 33	autre	autre	DET	DI	Number=Sing|PronType=Ind	34	det	_	_
 34	loi	loi	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
 35	applicable	applicable	ADJ	A	Number=Sing	34	amod	_	SpaceAfter=No
@@ -307,7 +307,7 @@
 12	et	et	CCONJ	CC	_	13	cc	_	_
 13	ceci	ceci	PRON	PD	Number=Sing|PronType=Dem	1	conj	_	_
 14	pendant	pendant	ADP	E	_	17	case	_	_
-15	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	17	det	_	_
+15	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
 16	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	durée	durée	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
 18	de	de	ADP	E	_	19	case	_	_
@@ -485,7 +485,7 @@
 6	être	être	AUX	VA	VerbForm=Inf	7	aux:pass	_	_
 7	exercés	exercer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 8	sur	sur	ADP	E	_	11	case	_	_
-9	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	11	det	_	_
+9	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	supports	support	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	13	punct	_	_
@@ -532,7 +532,7 @@
 1	L'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	exercice	exercice	NOUN	S	Gender=Masc|Number=Sing	24	nsubj	_	_
 3	de	de	ADP	E	_	6	case	_	_
-4	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+4	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	droits	droit	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
 7	qui	qui	PRON	PR	PronType=Rel	12	nsubj:pass	_	_
@@ -661,7 +661,7 @@
 3	doit	devoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	conserver	conserver	VERB	V	VerbForm=Inf	0	root	_	_
 5	intactes	intact	ADJ	A	Gender=Fem|Number=Plur	4	xcomp	_	_
-6	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
+6	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	informations	information	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
 9	qui	qui	PRON	PR	PronType=Rel	10	nsubj	_	_
@@ -1018,7 +1018,7 @@
 43	doit	devoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	aux	_	_
 44	conserver	conserver	VERB	V	VerbForm=Inf	6	conj	_	_
 45	intactes	intactes	NOUN	S	Gender=Fem|Number=Plur	44	xcomp	_	_
-46	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	48	det	_	_
+46	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	48	det	_	_
 47	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	48	det	_	_
 48	informations	information	NOUN	S	Gender=Fem|Number=Plur	44	obj	_	_
 49	qui	qui	PRON	PR	PronType=Rel	50	nsubj	_	_
@@ -1612,7 +1612,7 @@
 10	s'	se	PRON	P	Person=3|PronType=Prs	11	obj	_	SpaceAfter=No
 11	applique	appliquer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	pendant	pendant	ADP	E	_	15	case	_	_
-13	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	15	det	_	_
+13	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
 14	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	durée	durée	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
 16	de	de	ADP	E	_	17	case	_	_
@@ -2002,7 +2002,7 @@
 11	acceptant	acceptant	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
 12	ou	ou	CCONJ	CC	_	16	cc	_	_
 13	de	de	ADP	E	_	16	case	_	_
-14	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	16	det	_	_
+14	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
 15	autre	autre	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
 16	partie	partie	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	5	punct	_	_
@@ -2071,7 +2071,7 @@
 26	Commons	Commons	PROPN	SP	_	25	flat:name	_	_
 27	jouira	jouir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 28	de	de	ADP	E	_	31	case	_	_
-29	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	31	det	_	_
+29	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	31	det	_	_
 30	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	31	det	_	_
 31	droits	droit	NOUN	S	Gender=Masc|Number=Plur	27	obl	_	_
 32	et	et	CCONJ	CC	_	33	cc	_	_
@@ -2119,7 +2119,7 @@
 32	Commons	Commons	PROPN	SP	_	31	flat:name	_	SpaceAfter=No
 33	»	»	PUNCT	FB	_	31	punct	_	_
 34	ou	ou	CCONJ	CC	_	37	cc	_	_
-35	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	37	det	_	_
+35	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	37	det	_	_
 36	autre	autre	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	37	det	_	_
 37	indication	indication	NOUN	S	Gender=Fem|Number=Sing	29	conj	_	_
 38	ou	ou	CCONJ	CC	_	39	cc	_	_
@@ -2221,7 +2221,7 @@
 20	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
 21	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	22	iobj	_	_
 22	renouvelle	renouveler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
-23	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	25	det	_	_
+23	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	25	det	_	_
 24	mes	mon	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	25	det	_	_
 25	voeux	voeux	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	_
 26	en	en	ADP	E	_	27	mark	_	_
@@ -2262,7 +2262,7 @@
 23	de	de	ADP	E	_	24	case	_	_
 24	silence	silence	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
 25	pour	pour	ADP	E	_	28	case	_	_
-26	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	28	det	_	_
+26	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	28	det	_	_
 27	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	28	det	_	_
 28	victimes	victime	NOUN	S	Gender=Fem|Number=Plur	20	obl	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	28	punct	_	_
@@ -2454,7 +2454,7 @@
 45	instamment	instamment	ADV	B	_	44	advmod	_	_
 46	à	à	ADP	E	_	47	mark	_	_
 47	faire	faire	VERB	V	VerbForm=Inf	44	xcomp	_	_
-48	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	49	det	_	_
+48	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	49	det	_	_
 49	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	47	obj	_	_
 50	qui	qui	PRON	PR	PronType=Rel	54	nsubj	_	_
 51	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	cop	_	_
@@ -2756,7 +2756,7 @@
 16	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	13	obl:agent	_	_
 17	européen	européen	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
 18	et	et	CCONJ	CC	_	21	cc	_	_
-19	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	21	det	_	_
+19	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
 20	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	communauté	communauté	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
 22	européenne	européen	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
@@ -3446,7 +3446,7 @@
 10	vais	aller	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	vérifier	vérifier	VERB	V	VerbForm=Inf	5	conj	_	_
 12	si	si	SCONJ	CS	_	20	mark	_	_
-13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
+13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 14	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	20	nsubj:pass	_	_
 15	n'	ne	PART	PART	Polarity=Neg	20	advmod	_	SpaceAfter=No
 16	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
@@ -5010,7 +5010,7 @@
 13	tiendra	tenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 14	compte	compte	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 15	de	de	ADP	E	_	18	case	_	_
-16	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	18	det	_	_
+16	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	explications	explication	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
 19	complémentaires	complémentaires	ADJ	A	Number=Plur	18	amod	_	SpaceAfter=No
@@ -5742,7 +5742,7 @@
 45	événements	événement	NOUN	S	Gender=Masc|Number=Plur	49	nsubj	_	_
 46	s'	se	PRON	P	Person=3|PronType=Prs	49	expl	_	SpaceAfter=No
 47	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	49	aux	_	_
-48	tous	tout	PRON	P	Gender=Masc|Number=Plur|PronType=Tot	49	obl	_	_
+48	tous	tout	PRON	P	Gender=Masc|Number=Plur|PronType=Ind	49	obl	_	_
 49	produits	produire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	60	advcl	_	_
 50-51	au	_	_	_	_	_	_	_	_
 50	à	à	ADP	E	_	52	case	_	_
@@ -6457,7 +6457,7 @@
 16	ou	ou	CCONJ	CC	_	17	cc	_	_
 17	non	non	ADV	BN	PronType=Neg	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	13	punct	_	_
-19	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	21	det	_	_
+19	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
 20	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	série	série	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
 22	de	de	ADP	E	_	23	case	_	_
@@ -7132,7 +7132,7 @@
 3	commune	commun	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
 4	inclut	inclure	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	pratiquement	pratiquement	ADV	B	_	8	advmod	_	_
-6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	amendements	amendement	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
 9	acceptés	accepter	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
@@ -7446,7 +7446,7 @@
 13	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
 15	de	de	ADP	E	_	18	case	_	_
-16	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	18	det	_	_
+16	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	types	type	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
 19	de	de	ADP	E	_	20	case	_	_
@@ -7614,7 +7614,7 @@
 5	mes	mon	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	6	det	_	_
 6	remerciements	remerciement	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
 7	à	à	ADP	E	_	10	case	_	_
-8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	intervenants	intervenir	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	4	obl	_	_
 11	et	et	CCONJ	CC	_	16	cc	_	_
@@ -8367,7 +8367,7 @@
 8	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 9	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
 10	adresse	adresser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	13	det	_	_
+11	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
 12	mes	mon	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	13	det	_	_
 13	voeux	vux	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
 14	pour	pour	ADP	E	_	17	case	_	_
@@ -8862,7 +8862,7 @@
 34	que	que	SCONJ	CS	_	48	mark	_	SpaceAfter=No
 35	,	,	PUNCT	FF	_	39	punct	_	_
 36	dans	dans	ADP	E	_	39	case	_	_
-37	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	39	det	_	_
+37	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	39	det	_	_
 38	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	48	obl	_	_
 40-41	du	_	_	_	_	_	_	_	_
@@ -9315,7 +9315,7 @@
 
 # sent_id = fr_partut-ud-300
 # text = Tous les apports de la commission parlementaire et du rapporteur, M. Koch, qui ont débouché sur différents amendements, concrètement quatre, sont repris par la commission.
-1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
+1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	apports	apport	NOUN	S	Gender=Masc|Number=Plur	27	nsubj:pass	_	_
 4	de	de	ADP	E	_	6	case	_	_
@@ -10664,7 +10664,7 @@
 13	qui	qui	PRON	PR	PronType=Rel	14	nsubj	_	_
 14	interviennent	intervenir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 15	dans	dans	ADP	E	_	18	case	_	_
-16	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	18	det	_	_
+16	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	types	type	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
 19	d'	de	ADP	E	_	20	case	_	SpaceAfter=No
@@ -11618,7 +11618,7 @@
 
 # sent_id = fr_partut-ud-357
 # text = Tout ceci ­ j'insiste ­ avec la participation de l'entreprise privée qui, en unissant ses efforts à ceux des administrations publiques, en les complétant, sans qu'il y ait aucune obstruction ou exclusion, est celle qui créera des richesses sociales et des postes de travail.
-1	Tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
+1	Tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
 2	ceci	ceci	PRON	PD	Number=Sing|Person=3|PronType=Dem	0	root	_	_
 3	­	­	PUNCT	FB	_	5	punct	_	_
 4	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
@@ -13775,7 +13775,7 @@
 17	tenu	tenir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
 18	informé	informer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
 19	de	de	ADP	E	_	22	case	_	_
-20	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	22	det	_	_
+20	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	22	det	_	_
 21	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
 22	évolutions	évolution	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
 23	et	et	CCONJ	CC	_	26	cc	_	_
@@ -14328,7 +14328,7 @@
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	inégalités	inégalite	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
 20	sous	sous	ADP	E	_	23	case	_	_
-21	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	23	det	_	_
+21	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	23	det	_	_
 22	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
 23	formes	forme	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	14	punct	_	_
@@ -14558,11 +14558,11 @@
 21	à	à	ADP	E	_	23	case	_	_
 22	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	mieux	mieux	ADV	B	_	20	advmod	_	_
-24	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	26	det	_	_
+24	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	26	det	_	_
 25	ses	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	26	det	_	_
 26	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
 27	et	et	CCONJ	CC	_	30	cc	_	_
-28	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	30	det	_	_
+28	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	30	det	_	_
 29	ses	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	30	det	_	_
 30	capacités	capacite	NOUN	S	Gender=Fem|Number=Plur	26	conj	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	36	punct	_	_
@@ -15017,7 +15017,7 @@
 14	amitié	amitié	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
 15	pour	pour	ADP	E	_	16	mark	_	_
 16	consulter	consulter	VERB	V	VerbForm=Inf	10	advcl	_	_
-17	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	19	det	_	_
+17	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	interactions	interactions	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
 20	avec	avec	ADP	E	_	22	case	_	_
@@ -15848,7 +15848,7 @@
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	vie	vie	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
 8	de	de	ADP	E	_	11	case	_	_
-9	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	11	det	_	_
+9	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	jours	jour	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	2	punct	_	_
@@ -16378,7 +16378,7 @@
 21	,	,	PUNCT	FF	_	4	punct	_	_
 22	comme	comme	ADP	E	_	26	case	_	_
 23	de	de	ADP	E	_	22	fixed	_	_
-24	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	26	det	_	_
+24	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	26	det	_	_
 25	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	chacun	chacun	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	4	punct	_	_
@@ -16500,7 +16500,7 @@
 # text = Permettez à tout le monde de voir vos mises à jour publiques.
 1	Permettez	permettre	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	à	à	ADP	E	_	5	case	_	_
-3	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+3	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	monde	monde	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
 6	de	de	ADP	E	_	7	mark	_	_
@@ -16578,7 +16578,7 @@
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 4	que	que	SCONJ	CS	_	9	mark	_	_
-5	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+5	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	profils	profils	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
 8	n'	ne	PART	PART	Polarity=Neg	9	advmod	_	SpaceAfter=No
@@ -16918,7 +16918,7 @@
 1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	également	également	ADV	B	_	2	advmod	_	_
-4	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	6	det	_	_
+4	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
 5	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	série	série	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
 7	d'	de	ADP	E	_	9	case	_	SpaceAfter=No
@@ -19636,7 +19636,7 @@
 54	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	55	det	_	_
 55	législation	législation	NOUN	S	Gender=Fem|Number=Sing	50	obj	_	_
 56	dans	dans	ADP	E	_	59	case	_	_
-57	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	59	det	_	_
+57	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	59	det	_	_
 58	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	59	det	_	_
 59	cas	cas	NOUN	S	Gender=Masc	50	obl	_	_
 60	où	où	PRON	PR	PronType=Rel	63	iobj	_	_
@@ -21217,7 +21217,7 @@
 37	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	38	aux:pass	_	_
 38	créés	créer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 39	dans	dans	ADP	E	_	42	case	_	_
-40	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	42	det	_	_
+40	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	42	det	_	_
 41	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	42	det	_	_
 42	états	état	NOUN	S	Gender=Masc|Number=Plur	38	obl	_	_
 43	membres	membre	NOUN	S	Gender=Masc|Number=Plur	42	compound	_	SpaceAfter=No
@@ -21760,7 +21760,7 @@
 5	demeurer	demeurer	VERB	V	VerbForm=Inf	0	root	_	_
 6	accessible	accessible	ADJ	A	Number=Sing	5	xcomp	_	_
 7	à	à	ADP	E	_	10	case	_	_
-8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	états	état	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
 11	membres	membre	NOUN	S	Gender=Masc|Number=Plur	10	compound	_	SpaceAfter=No
@@ -22806,7 +22806,7 @@
 18	actions	action	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
 19	Pericles	Pericles	PROPN	SP	_	18	nmod	_	_
 20	couvrait	couvrir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-21	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	23	det	_	_
+21	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	23	det	_	_
 22	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
 23	domaines	domaine	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	_
 24	relatifs	relatif	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	_
@@ -22986,7 +22986,7 @@
 10	Colombie	Colombie	PROPN	SP	_	8	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	15	punct	_	_
 12	dans	dans	ADP	E	_	15	case	_	_
-13	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	15	det	_	_
+13	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	pays	pays	NOUN	S	Gender=Masc	10	conj	_	_
 16	d'	de	ADP	E	_	17	case	_	SpaceAfter=No
@@ -23137,7 +23137,7 @@
 30	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	experts	expert	NOUN	S	Gender=Masc|Number=Plur	29	obj	_	_
 32	de	de	ADP	E	_	35	case	_	_
-33	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	35	det	_	_
+33	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	35	det	_	_
 34	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	35	det	_	_
 35	états	état	NOUN	S	Gender=Masc|Number=Plur	31	nmod	_	_
 36	membres	membre	NOUN	S	Gender=Masc|Number=Plur	35	compound	_	_
@@ -24219,20 +24219,20 @@
 19	à	à	ADP	E	_	20	mark	_	_
 20	atteindre	atteindre	VERB	V	VerbForm=Inf	17	acl	_	_
 21	par	par	ADP	E	_	24	case	_	_
-22	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	24	det	_	_
+22	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	24	det	_	_
 23	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
 24	peuples	peuple	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
 25	et	et	CCONJ	CC	_	28	cc	_	_
-26	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	28	det	_	_
+26	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	28	det	_	_
 27	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	28	det	_	_
 28	nations	nation	NOUN	S	Gender=Fem|Number=Plur	24	conj	_	_
 29	afin	afin	ADP	E	_	51	mark	_	_
 30	que	que	SCONJ	CS	_	29	fixed	_	_
-31	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	33	det	_	_
+31	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	33	det	_	_
 32	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	33	det	_	_
 33	individus	individu	NOUN	S	Gender=Masc|Number=Plur	51	nsubj	_	_
 34	et	et	CCONJ	CC	_	37	cc	_	_
-35	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	37	det	_	_
+35	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	37	det	_	_
 36	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	37	det	_	_
 37	organes	organe	NOUN	S	Gender=Masc|Number=Plur	33	conj	_	_
 38	de	de	ADP	E	_	40	case	_	_
@@ -24321,7 +24321,7 @@
 
 # sent_id = fr_partut-ud-748
 # text = Tous les êtres humains naissent libres et égaux en dignité et en droits.
-1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
+1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	êtres	être	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	humains	humain	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
@@ -24370,12 +24370,12 @@
 5	se	se	PRON	P	Person=3|PronType=Prs	6	expl	_	_
 6	prévaloir	prévaloir	VERB	V	VerbForm=Inf	0	root	_	_
 7	de	de	ADP	E	_	10	case	_	_
-8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	droits	droit	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
 11	et	et	CCONJ	CC	_	15	cc	_	_
 12	de	de	ADP	E	_	15	case	_	_
-13	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	15	det	_	_
+13	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	libertés	liberté	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	_
 16	proclamés	proclamer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
@@ -24409,7 +24409,7 @@
 44	politique	politique	ADJ	A	Gender=Fem|Number=Sing	43	amod	_	_
 45	ou	ou	CCONJ	CC	_	49	cc	_	_
 46	de	de	ADP	E	_	49	case	_	_
-47	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	49	det	_	_
+47	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	49	det	_	_
 48	autre	autre	ADJ	A	Gender=Fem|Number=Sing	49	amod	_	_
 49	opinion	opinion	NOUN	S	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
 50	,	,	PUNCT	FF	_	52	punct	_	_
@@ -24426,7 +24426,7 @@
 61	naissance	naissance	NOUN	S	Gender=Fem|Number=Sing	28	conj	_	_
 62	ou	ou	CCONJ	CC	_	66	cc	_	_
 63	de	de	ADP	E	_	66	case	_	_
-64	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	66	det	_	_
+64	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	66	det	_	_
 65	autre	autre	ADJ	A	Gender=Fem|Number=Sing	66	amod	_	_
 66	situation	situation	NOUN	S	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
 67	.	.	PUNCT	FS	_	6	punct	_	_
@@ -24540,7 +24540,7 @@
 9	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	interdits	interdits	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
 11	sous	sous	ADP	E	_	14	case	_	_
-12	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	14	det	_	_
+12	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
 13	leurs	leur	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	14	det	_	_
 14	formes	forme	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	10	punct	_	_
@@ -24771,7 +24771,7 @@
 28	procès	procès	NOUN	S	Gender=Masc	25	nmod	_	_
 29	public	public	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	_
 30	où	où	PRON	PR	PronType=Rel	41	iobj	_	_
-31	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	33	det	_	_
+31	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	33	det	_	_
 32	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	33	det	_	_
 33	garanties	garantie	NOUN	S	Gender=Fem|Number=Plur	41	nsubj:pass	_	_
 34	nécessaires	nécessaire	ADJ	A	Gender=Fem|Number=Plur	33	amod	_	_
@@ -25645,7 +25645,7 @@
 
 # sent_id = fr_partut-ud-796
 # text = Tous les enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.
-1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
+1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	enfants	enfants	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
@@ -25718,11 +25718,11 @@
 10	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	amitié	amitié	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
 12	entre	entre	ADP	E	_	15	case	_	_
-13	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	15	det	_	_
+13	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	nations	nation	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
 16	et	et	CCONJ	CC	_	19	cc	_	_
-17	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	19	det	_	_
+17	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	groupes	groupe	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	_
 20	raciaux	racial	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
@@ -26231,7 +26231,7 @@
 13	de	de	ADP	E	_	14	case	_	_
 14	conserveries	conserverie	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
 15	de	de	ADP	E	_	18	case	_	_
-16	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	18	det	_	_
+16	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
 17	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	côte	côte	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
 19	ouest	ouest	ADJ	A	_	18	amod	_	SpaceAfter=No

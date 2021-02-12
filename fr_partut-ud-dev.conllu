@@ -165,7 +165,7 @@
 3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 4	allons	aller	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	vérifier	vérifier	VERB	V	VerbForm=Inf	0	root	_	_
-6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
 7	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	obj	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -798,7 +798,7 @@
 7	dignité	dignité	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 8	inhérente	inhérent	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
 9	à	à	ADP	E	_	12	case	_	_
-10	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	12	det	_	_
+10	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	membres	membre	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
 13	de	de	ADP	E	_	15	case	_	_
@@ -977,7 +977,7 @@
 3	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	présent	présent	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 5	dans	dans	ADP	E	_	8	case	_	_
-6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	paysages	paysages	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	11	punct	_	_
@@ -1031,7 +1031,7 @@
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	humus	humus	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
 5	sur	sur	ADP	E	_	8	case	_	_
-6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	continents	continents	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
 9	de	de	ADP	E	_	11	case	_	_
@@ -1194,7 +1194,7 @@
 10	champignons	champignon	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
 11	que	que	ADP	E	_	15	case	_	_
 12	de	de	ADP	E	_	15	case	_	_
-13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
+13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
 14	autre	autre	ADJ	A	Number=Sing	15	amod	_	_
 15	règne	règne	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	7	punct	_	_
@@ -1687,7 +1687,7 @@
 7	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 8	voyons	voir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 9	dans	dans	ADP	E	_	12	case	_	_
-10	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	12	det	_	_
+10	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 11	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
 12	univers	univers	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	5	punct	_	_
@@ -1958,7 +1958,7 @@
 4	étaient	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
 5	disséminés	disséminés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 6	sur	sur	ADP	E	_	9	case	_	_
-7	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	9	det	_	_
+7	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Terre	Terre	PROPN	SP	_	5	obl	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	5	punct	_	_

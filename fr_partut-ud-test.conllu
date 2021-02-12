@@ -1155,7 +1155,7 @@
 34	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	33	obj	_	SpaceAfter=No
 35	,	,	PUNCT	FF	_	28	punct	_	_
 36	par	par	ADP	E	_	39	case	_	_
-37	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	39	det	_	_
+37	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	39	det	_	_
 38	autres	autre	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	39	det	_	_
 39	moyens	moyen	NOUN	S	Gender=Masc|Number=Plur	28	obl:agent	_	_
 40	de	de	ADP	E	_	41	case	_	_
@@ -1314,7 +1314,7 @@
 11	à	à	ADP	E	_	12	case	_	_
 12	condition	condition	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
 13	que	que	SCONJ	CS	_	21	mark	_	_
-14	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	16	det	_	_
+14	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	instruments	instruments	NOUN	S	Gender=Fem|Number=Plur	21	nsubj:pass	_	_
 17	de	de	ADP	E	_	18	case	_	_
@@ -1981,7 +1981,7 @@
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	intérêts	intérêt	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
 14	de	de	ADP	E	_	17	case	_	_
-15	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Tot	17	det	_	_
+15	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	17	det	_	_
 16	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	parties	partie	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
 18	concernées	concerner	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	17	acl	_	_
@@ -2068,7 +2068,7 @@
 10	et	et	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	14	punct	_	_
 12	en	en	ADP	E	_	14	case	_	_
-13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
+13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 14	état	état	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
 15	de	de	ADP	E	_	16	case	_	_
 16	cause	cause	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
@@ -2152,7 +2152,7 @@
 10	et	et	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	19	punct	_	_
 12	en	en	ADP	E	_	14	case	_	_
-13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
+13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 14	état	état	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
 15	de	de	ADP	E	_	16	case	_	_
 16	cause	cause	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
