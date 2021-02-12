@@ -14986,7 +14986,7 @@
 
 # sent_id = fr_partut-ud-474
 # text = En savoir plus sur nos règles applicables aux noms.
-1	En	en	ADP	E	Person=3|PronType=Prs	2	obj	_	_
+1	En	en	ADP	E	_	2	obj	_	_
 2	savoir	savoir	VERB	V	VerbForm=Inf	0	root	_	_
 3	plus	plus	ADV	B	_	6	advmod	_	_
 4	sur	sur	ADP	E	_	6	case	_	_
@@ -25877,7 +25877,7 @@
 19	,	,	PUNCT	FF	_	8	punct	_	_
 20	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	ordre	ordre	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
-22	tel	tel	ADJ	A	Gender=Masc|Number=Sing|PronType=Dem	21	amod	_	_
+22	tel	tel	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
 23	que	que	SCONJ	CS	_	35	mark	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
 25	droits	droit	NOUN	S	Gender=Masc|Number=Plur	35	nsubj	_	_
