@@ -1357,7 +1357,7 @@
 6	de	de	ADP	E	_	7	case	_	_
 7	sol	sol	ADJ	A	Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	4	punct	_	_
-9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 10	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	y	y	PRON	P	PronType=Prs	12	expl	_	_
 12	avoir	avoir	VERB	V	VerbForm=Inf	10	xcomp	_	_
