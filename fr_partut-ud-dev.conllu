@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = fr_partut-ud-2
 # text = Creative Commons n'est pas un cabinet d'avocats et ne fournit pas de services de conseil juridique.
 1	Creative	Creative	PROPN	SP	_	7	nsubj	_	_
@@ -161,24 +162,24 @@
 # sent_id = fr_partut-ud-118
 # text = Cher collègue nous allons vérifier tout cela.
 1	Cher	cher	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
-2	collègue	collègue	NOUN	S	Gender=Masc|Number=Sing	5	vocative	_	_
-3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-4	allons	aller	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	vérifier	vérifier	VERB	V	VerbForm=Inf	0	root	_	_
+2	collègue	collègue	NOUN	S	Gender=Masc|Number=Sing	4	vocative	_	_
+3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	allons	aller	VERB	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	vérifier	vérifier	VERB	V	VerbForm=Inf	4	xcomp	_	_
 6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
 7	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	obj	_	SpaceAfter=No
-8	.	.	PUNCT	FS	_	5	punct	_	_
+8	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-179
 # text = Je voudrais encore aborder un dernier point:
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	voudrais	vouloir	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	encore	encore	ADV	B	_	4	advmod	_	_
-4	aborder	aborder	VERB	V	VerbForm=Inf	0	root	_	_
+4	aborder	aborder	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	dernier	dernier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
 7	point	point	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-8	:	:	PUNCT	FC	_	4	punct	_	_
+8	:	:	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-264
 # text = Tout en sachant que ce n'est là qu'un petit pas vers une plus grande sécurité en matière de transport, je vous prie d'approuver ce rapport.
@@ -523,10 +524,10 @@
 
 # sent_id = fr_partut-ud-434
 # text = comment pouvons-nous faire en sorte que la politique de l'union s'articule avec les politiques nationales subsidiaires d'aménagement du territoire.
-1	comment	comme	SCONJ	CS	_	4	mark	_	_
-2	pouvons	pouvoir	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
-3	-nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
-4	faire	faire	VERB	V	VerbForm=Inf	0	root	_	_
+1	comment	comme	SCONJ	CS	_	2	mark	_	_
+2	pouvons	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	-nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+4	faire	faire	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	en	en	ADP	E	_	6	case	_	_
 6	sorte	sorte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
 7	que	que	SCONJ	CS	_	14	mark	_	_
@@ -548,7 +549,7 @@
 22	de	de	ADP	E	_	24	case	_	_
 23	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	24	det	_	_
 24	territoire	territoire	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	FS	_	4	punct	_	_
+25	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-444
 # text = Pour les experts du plan français, par exemple, le scénario le plus probable est aujourd'hui un creusement des différenciations régionales à l'intérieur de chaque pays.
@@ -708,10 +709,10 @@
 # sent_id = fr_partut-ud-610
 # text = (21) Les produits consommateurs d'énergie conformes aux exigences d'écoconception établies dans les mesures d'exécution de la présente directive doivent porter le marquage CE et les informations associées, afin de pouvoir être mis sur le marché intérieur et y circuler librement.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	21	21	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
+2	21	21	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
-5	produits	produit	NOUN	S	Gender=Masc|Number=Plur	26	nsubj	_	_
+5	produits	produit	NOUN	S	Gender=Masc|Number=Plur	25	nsubj	_	_
 6	consommateurs	consommateur	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
 7	d'	de	ADP	E	_	8	case	_	SpaceAfter=No
 8	énergie	énergie	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
@@ -732,8 +733,8 @@
 22	la	le	DET	RD	Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 23	présente	présent	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
 24	directive	directive	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	_
-25	doivent	devoir	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
-26	porter	porter	VERB	V	VerbForm=Inf	0	root	_	_
+25	doivent	devoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+26	porter	porter	VERB	V	VerbForm=Inf	25	xcomp	_	_
 27	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	marquage	marquage	NOUN	S	Gender=Masc|Number=Sing	26	obj	_	_
 29	CE	CE	PROPN	SP	_	28	nmod	_	_
@@ -742,11 +743,11 @@
 32	informations	information	NOUN	S	Gender=Fem|Number=Plur	28	conj	_	_
 33	associées	associer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	32	acl	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	26	punct	_	_
-35	afin	afin	ADP	E	_	39	mark	_	_
+35	afin	afin	ADP	E	_	37	mark	_	_
 36	de	de	ADP	E	_	35	fixed	_	_
-37	pouvoir	pouvoir	AUX	VM	VerbForm=Inf	39	aux	_	_
+37	pouvoir	pouvoir	VERB	VM	VerbForm=Inf	26	advcl	_	_
 38	être	être	AUX	VA	VerbForm=Inf	39	aux:pass	_	_
-39	mis	mettre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	advcl	_	_
+39	mis	mettre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	37	xcomp	_	_
 40	sur	sur	ADP	E	_	42	case	_	_
 41	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	marché	marché	NOUN	S	Gender=Masc|Number=Sing	39	obl	_	_
@@ -755,7 +756,7 @@
 45	y	y	PRON	P	PronType=Prs	46	iobj	_	_
 46	circuler	circuler	VERB	V	VerbForm=Inf	39	conj	_	_
 47	librement	librement	ADV	B	_	46	advmod	_	SpaceAfter=No
-48	.	.	PUNCT	FS	_	26	punct	_	_
+48	.	.	PUNCT	FS	_	25	punct	_	_
 
 # sent_id = fr_partut-ud-724
 # text = et l'un des ateliers a abouti à une proposition de recommandation du conseil de la part des états membres.
@@ -1351,15 +1352,15 @@
 1	Dans	dans	ADP	E	_	4	case	_	_
 2	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	seul	seul	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
-4	pouce	pouce	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+4	pouce	pouce	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
 5	cube	cube	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
 6	de	de	ADP	E	_	7	case	_	_
 7	sol	sol	ADJ	A	Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	4	punct	_	_
 9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
-10	peut	pouvoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+10	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	y	y	PRON	P	PronType=Prs	12	expl	_	_
-12	avoir	avoir	VERB	V	VerbForm=Inf	0	root	_	_
+12	avoir	avoir	VERB	V	VerbForm=Inf	10	xcomp	_	_
 13	plus	plus	ADV	B	_	15	advmod	_	_
 14	de	de	ADP	E	_	13	fixed	_	_
 15	huit	huit	NUM	N	NumType=Card	16	nummod	_	_
@@ -1367,7 +1368,7 @@
 17	de	de	ADP	E	_	19	case	_	_
 18	ces	ce	DET	DD	Number=Plur|PronType=Dem	19	det	_	_
 19	cellules	cellules	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	FS	_	12	punct	_	_
+20	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-899
 # text = Mon pied couvre environ 300 miles de mycélium.
@@ -2177,10 +2178,10 @@
 18	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	férocité	férocité	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
 20	telle	tel	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
-21	qu'	que	SCONJ	CS	_	24	mark	_	SpaceAfter=No
-22	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
-23	peut	pouvoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
-24	briser	briser	VERB	V	VerbForm=Inf	19	acl	_	_
+21	qu'	que	SCONJ	CS	_	23	mark	_	SpaceAfter=No
+22	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+23	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
+24	briser	briser	VERB	V	VerbForm=Inf	23	xcomp	_	_
 25	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	SpaceAfter=No
 26	asphalte	asphalte	NOUN	S	Gender=Fem|Number=Sing	24	obj	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	9	punct	_	_
@@ -2197,10 +2198,10 @@
 
 # sent_id = fr_partut-ud-944
 # text = Je vais vous montrer six, si je le peux, solutions pour aider à sauver le monde.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	vais	aller	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vais	aller	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
-4	montrer	montrer	VERB	V	VerbForm=Inf	0	root	_	_
+4	montrer	montrer	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	six	six	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	si	si	SCONJ	CS	_	10	mark	_	_
@@ -2215,7 +2216,7 @@
 16	sauver	sauver	VERB	V	VerbForm=Inf	14	xcomp	_	_
 17	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	monde	monde	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
-19	.	.	PUNCT	FS	_	4	punct	_	_
+19	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-945
 # text = Les laboratoires Battelle et moi-même avons travaillé ensemble à Bellingham, dans l'état de Washington.
