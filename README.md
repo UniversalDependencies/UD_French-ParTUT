@@ -66,6 +66,12 @@ appears as follows:
 
 
 # Changelog
+2021-05-15 v2.8
+* fixed wrong lemmas
+* changed annotation of "pouvoir","devoir", which are no longer considered AUX
+* harmonized PronType annotation with other French treebanks
+* changed annotation of present participle
+
 2019-11-15 v2.5
 * fixed common and proper nouns wrongly annotated as amod
 
