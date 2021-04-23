@@ -63,7 +63,7 @@
 8-9	des	_	_	_	_	_	_	_	_
 8	de	de	ADP	E	_	11	case	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-10	éventuels	éventuels	ADJ	A	Number=Plur	11	amod	_	_
+10	éventuels	éventuel	ADJ	A	Number=Plur	11	amod	_	_
 11	préjudices	préjudice	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
 12	résultant	résulter	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	11	acl	_	_
 13-14	du	_	_	_	_	_	_	_	_
@@ -105,13 +105,13 @@
 17	auteur	auteur	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	19	punct	_	_
 19	droits	droit	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	_
-20	voisins	voisins	ADJ	A	Number=Plur	19	amod	_	SpaceAfter=No
+20	voisins	voisin	ADJ	A	Number=Plur	19	amod	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	22	punct	_	_
 22	droits	droit	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	_
 23-24	des	_	_	_	_	_	_	_	_
 23	de	de	ADP	E	_	25	case	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
-25	producteurs	producteurs	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
+25	producteurs	producteur	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
 26	de	de	ADP	E	_	27	case	_	_
 27	bases	base	NOUN	S	Gender=Fem|Number=Plur	25	nmod	_	_
 28	de	de	ADP	E	_	29	case	_	_
@@ -281,7 +281,7 @@
 4	à	à	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	droits	droit	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
-7	exclusifs	exclusifs	ADJ	A	Number=Plur	6	amod	_	SpaceAfter=No
+7	exclusifs	exclusif	ADJ	A	Number=Plur	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-17
@@ -490,12 +490,12 @@
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	supports	support	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	13	punct	_	_
-13	médias	médias	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+13	médias	média	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	15	punct	_	_
 15	procédés	procédé	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	_
 16	techniques	technique	ADJ	A	Number=Plur	15	amod	_	_
 17	et	et	CCONJ	CC	_	18	cc	_	_
-18	formats	formats	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+18	formats	format	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-25
@@ -758,7 +758,7 @@
 23	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	24	det	_	SpaceAfter=No
 24	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	29	obl	_	_
 25	en	en	ADP	E	_	26	case	_	_
-26	elle-même	elle-même	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	_	SpaceAfter=No
+26	elle-même	lui-même	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	29	punct	_	_
 28	ne	ne	PART	PART	Polarity=Neg	29	advmod	_	_
 29	soumettent	soumettre	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -1120,7 +1120,7 @@
 27	dite	dite	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	acl	_	_
 28	dérivée	dérivé	ADJ	A	Gender=Fem|Number=Sing	27	xcomp	_	_
 29	en	en	ADP	E	_	30	case	_	_
-30	elle-même	elle-même	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nmod	_	SpaceAfter=No
+30	elle-même	lui-même	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	23	punct	_	_
 32	ne	ne	PART	PART	Polarity=Neg	33	advmod	_	_
 33	soumettent	soumettre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -1574,7 +1574,7 @@
 # sent_id = fr_partut-ud-52
 # text = Les sections 1, 2, 5, 6 et 7 du contrat continuent à s'appliquer après la résiliation de celui-ci.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	sections	sections	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	_
+2	sections	section	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	_
 3	1	1	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	5	punct	_	_
 5	2	2	NUM	N	NumType=Card	3	conj	_	SpaceAfter=No
@@ -2148,7 +2148,7 @@
 8	conformité	conformité	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
 9	avec	avec	ADP	E	_	11	case	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	lignes	lignes	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	lignes	ligne	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
 12	directrices	directeur	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
 13	de	de	ADP	E	_	14	case	_	_
 14	Creative	Creative	PROPN	SP	_	11	nmod	_	_
@@ -2184,7 +2184,7 @@
 2	Commons	Commons	PROPN	SP	_	1	flat:name	_	_
 3	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	être	être	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
-5	contacté	contacté	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	xcomp	_	_
+5	contacté	contacter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	xcomp	_	_
 6	à	à	ADP	E	_	7	case	_	_
 7	Http	Http	PROPN	SP	_	5	obl	_	SpaceAfter=No
 8	:	:	PUNCT	FC	_	3	punct	_	_
@@ -4661,7 +4661,7 @@
 14	contre	contre	ADP	E	_	13	case	_	_
 15	et	et	CCONJ	CC	_	17	cc	_	_
 16	7	7	NUM	N	NumType=Card	17	nummod	_	_
-17	abstentions	abstentions	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+17	abstentions	abstention	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
 18	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -5014,7 +5014,7 @@
 16	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	explications	explication	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
-19	complémentaires	complémentaires	ADJ	A	Number=Plur	18	amod	_	SpaceAfter=No
+19	complémentaires	complémentaire	ADJ	A	Number=Plur	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	13	punct	_	_
 
 # sent_id = fr_partut-ud-165
@@ -5184,11 +5184,11 @@
 28	d'	de	ADP	E	_	29	case	_	SpaceAfter=No
 29	accidents	accident	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	_
 30	qui	qui	PRON	PR	PronType=Rel	31	nsubj	_	_
-31	provoquent	provoquent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	SpaceAfter=No
+31	provoquent	provoquer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	31	punct	_	_
 33	sur	sur	ADP	E	_	35	case	_	_
 34	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	35	det	_	_
-35	routes	routes	NOUN	S	Gender=Fem|Number=Plur	31	obl	_	SpaceAfter=No
+35	routes	route	NOUN	S	Gender=Fem|Number=Plur	31	obl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	38	punct	_	_
 37	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	38	det	_	_
 38	voies	voie	NOUN	S	Gender=Fem|Number=Plur	35	conj	_	_
@@ -5197,7 +5197,7 @@
 41	navigables	navigable	ADJ	A	Number=Plur	39	conj	_	SpaceAfter=No
 42	,	,	PUNCT	FF	_	31	punct	_	_
 43	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	44	det	_	_
-44	dégâts	dégâts	NOUN	S	Gender=Masc|Number=Plur	31	obj	_	_
+44	dégâts	dégât	NOUN	S	Gender=Masc|Number=Plur	31	obj	_	_
 45	importants	important	ADJ	A	Gender=Masc|Number=Plur	44	amod	_	_
 46	également	également	ADV	B	_	47	advmod	_	_
 47	imputables	imputable	ADJ	A	Number=Plur	44	amod	_	_
@@ -5328,8 +5328,8 @@
 61-62	des	_	_	_	_	_	_	_	_
 61	de	de	ADP	E	_	63	case	_	_
 62	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	63	det	_	_
-63	destructions	destructions	NOUN	S	Gender=Fem|Number=Plur	60	nmod	_	_
-64	provoquées	provoquées	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	63	acl	_	_
+63	destructions	destruction	NOUN	S	Gender=Fem|Number=Plur	60	nmod	_	_
+64	provoquées	provoqué	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	63	acl	_	_
 65	par	par	ADP	E	_	67	case	_	_
 66	cet	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	67	det	_	_
 67	incendie	incendie	NOUN	S	Gender=Masc|Number=Sing	64	obl:agent	_	SpaceAfter=No
@@ -5388,7 +5388,7 @@
 9	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	accablé	accablé	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	milliers	milliers	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	milliers	millier	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
 13	de	de	ADP	E	_	14	case	_	_
 14	citoyens	citoyen	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
 15	de	de	ADP	E	_	17	case	_	_
@@ -5563,7 +5563,7 @@
 10-11	des	_	_	_	_	_	_	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	carences	carences	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+12	carences	carence	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
 13-14	du	_	_	_	_	_	_	_	_
 13	de	de	ADP	E	_	15	case	_	_
 14	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
@@ -5716,7 +5716,7 @@
 19	accidents	accident	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
 20	d'	de	ADP	E	_	21	case	_	SpaceAfter=No
 21	avion	avion	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	_
-22	transportant	transportant	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	21	acl	_	_
+22	transportant	transporter	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	21	acl	_	_
 23	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	passagers	passager	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	_
 25	de	de	ADP	E	_	27	case	_	_
@@ -5757,7 +5757,7 @@
 57	mois	mois	NOUN	S	Gender=Masc|Number=Plur	52	nmod	_	_
 58	­	­	PUNCT	FB	_	49	punct	_	_
 59	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	60	iobj	_	_
-60	rappellent	rappellent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+60	rappellent	rappeler	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 61	que	que	SCONJ	CS	_	64	mark	_	_
 62	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	64	nsubj	_	_
 63	ne	ne	PART	PART	Polarity=Neg	64	advmod	_	_
@@ -5789,9 +5789,9 @@
 88	population	population	NOUN	S	Gender=Fem|Number=Sing	85	nmod	_	_
 89	soient	être	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	91	cop	_	_
 90	extrêmement	extrêmement	ADV	B	_	91	advmod	_	_
-91	motivés	motivés	ADJ	A	Gender=Masc|Number=Plur	79	ccomp	_	_
+91	motivés	motivé	ADJ	A	Gender=Masc|Number=Plur	79	ccomp	_	_
 92	et	et	CCONJ	CC	_	93	cc	_	_
-93	qualifiés	qualifiés	ADJ	A	Gender=Masc|Number=Plur	91	conj	_	SpaceAfter=No
+93	qualifiés	qualifié	ADJ	A	Gender=Masc|Number=Plur	91	conj	_	SpaceAfter=No
 94	.	.	PUNCT	FS	_	60	punct	_	_
 
 # sent_id = fr_partut-ud-186
@@ -6005,7 +6005,7 @@
 16	de	de	ADP	E	_	18	case	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	exigences	exigence	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	_
-19	minimales	minimales	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	SpaceAfter=No
+19	minimales	minimal	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-194
@@ -6047,15 +6047,15 @@
 2-3	des	_	_	_	_	_	_	_	_
 2	de	de	ADP	E	_	4	case	_	_
 3	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
-4	bateliers	bateliers	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	bateliers	batelier	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
 5	et	et	CCONJ	CC	_	7	cc	_	_
 6	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	7	det	_	_
-7	navires	navires	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+7	navires	navire	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
 8	d'	de	ADP	E	_	9	case	_	SpaceAfter=No
 9	Europe	Europe	PROPN	SP	_	7	nmod	_	_
 10	orientale	oriental	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
 11	qui	qui	PRON	PR	PronType=Rel	12	nsubj	_	_
-12	amarrent	amarrent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+12	amarrent	amarrer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 13	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	14	det	_	_
 14	bateaux	bateau	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
 15	côte	côte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
@@ -6071,7 +6071,7 @@
 25	d'	de	ADP	E	_	27	advmod	_	SpaceAfter=No
 26	autant	autant	ADV	B	_	25	fixed	_	_
 27	plus	plus	ADV	B	_	28	advmod	_	_
-28	évidentes	évidentes	ADJ	A	Gender=Fem|Number=Plur	21	xcomp	_	SpaceAfter=No
+28	évidentes	évident	ADJ	A	Gender=Fem|Number=Plur	21	xcomp	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-196
@@ -6084,7 +6084,7 @@
 6	menée	mener	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 7	dans	dans	ADP	E	_	9	case	_	_
 8	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	ports	ports	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9	ports	port	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
 10	belges	belge	ADJ	A	Number=Plur	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	12	punct	_	_
 12	finnois	finnois	ADJ	A	Gender=Masc	10	conj	_	_
@@ -6099,7 +6099,7 @@
 21-22	des	_	_	_	_	_	_	_	_
 21	de	de	ADP	E	_	23	case	_	_
 22	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
-23	conteneurs	conteneurs	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
+23	conteneurs	conteneur	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
 24	avec	avec	ADP	E	_	26	case	_	_
 25	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	chargement	chargement	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	_
@@ -6227,7 +6227,7 @@
 8	ces	ce	DET	DD	Number=Plur|PronType=Dem	9	det	_	_
 9	activités	activité	NOUN	S	Gender=Fem|Number=Plur	11	nsubj:pass	_	_
 10	soient	être	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	développées	développées	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	ccomp	_	_
+11	développées	développé	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	ccomp	_	_
 12	sous	sous	ADP	E	_	14	case	_	_
 13	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	forme	forme	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
@@ -6327,7 +6327,7 @@
 41	,	,	PUNCT	FF	_	38	punct	_	_
 42	qu'	que	SCONJ	CS	_	44	mark	_	SpaceAfter=No
 43	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	44	nsubj	_	_
-44	adhéreront	adhéreront	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	25	ccomp	_	_
+44	adhéreront	adhérer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	25	ccomp	_	_
 45-46	aux	_	_	_	_	_	_	_	_
 45	à	à	ADP	E	_	47	case	_	_
 46	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
@@ -6380,7 +6380,7 @@
 27	de	de	ADP	E	_	29	case	_	_
 28	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 29	marchandises	marchandise	NOUN	S	Gender=Fem|Number=Plur	26	nmod	_	_
-30	transportées	transportées	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	29	acl	_	_
+30	transportées	transporté	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	29	acl	_	_
 31	par	par	ADP	E	_	32	case	_	_
 32	route	route	NOUN	S	Gender=Fem|Number=Sing	30	obl:agent	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	35	punct	_	_
@@ -6404,7 +6404,7 @@
 50	à	à	ADP	E	_	52	case	_	_
 51	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	52	det	_	_
 52	pays	pays	NOUN	S	Gender=Masc	41	obl	_	_
-53	candidats	candidats	ADJ	A	Gender=Masc|Number=Plur	52	amod	_	SpaceAfter=No
+53	candidats	candidat	ADJ	A	Gender=Masc|Number=Plur	52	amod	_	SpaceAfter=No
 54	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-207
@@ -6501,7 +6501,7 @@
 # sent_id = fr_partut-ud-210
 # text = Les normes imposées à cet effet dans une autre directive, 95/35/CE, semblent suffisamment adéquates pour informer les gens de manière responsable de l'organisation du transport de marchandises dangereuses.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	normes	normes	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+2	normes	norme	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
 3	imposées	imposer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
 4	à	à	ADP	E	_	6	case	_	_
 5	cet	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
@@ -6556,7 +6556,7 @@
 13	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
 14	concernant	concerner	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	13	acl	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	normes	normes	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+16	normes	norme	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
 17	minimales	minimal	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	_
 18	pour	pour	ADP	E	_	20	case	_	_
 19	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	20	det	_	_
@@ -6568,16 +6568,16 @@
 25	aurais	avoir	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
 26	préféré	préféré	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
 27	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
-28	normes	normes	NOUN	S	Gender=Fem|Number=Plur	26	obj	_	_
+28	normes	norme	NOUN	S	Gender=Fem|Number=Plur	26	obj	_	_
 29	fixes	fixe	ADJ	A	Number=Plur	28	amod	_	_
 30	et	et	CCONJ	CC	_	31	cc	_	_
-31	uniformisées	uniformisées	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	29	conj	_	SpaceAfter=No
+31	uniformisées	uniformisé	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	29	conj	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	26	punct	_	_
 33	afin	afin	ADP	E	_	35	mark	_	_
 34	d'	de	ADP	E	_	33	fixed	_	SpaceAfter=No
 35	avoir	avoir	VERB	V	VerbForm=Inf	26	advcl	_	_
 36	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
-37	diplômes	diplômes	NOUN	S	Gender=Fem|Number=Plur	35	obj	_	_
+37	diplômes	diplôme	NOUN	S	Gender=Fem|Number=Plur	35	obj	_	_
 38	et	et	CCONJ	CC	_	41	cc	_	_
 39-40	des	_	_	_	_	_	_	_	_
 39	de	de	ADP	E	_	41	case	_	_
@@ -6822,7 +6822,7 @@
 26	et	et	CCONJ	CC	_	29	cc	_	_
 27	à	à	ADP	E	_	29	case	_	_
 28	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
-29	règlements	règlements	NOUN	S	Gender=Masc|Number=Plur	25	conj	_	_
+29	règlements	règlement	NOUN	S	Gender=Masc|Number=Plur	25	conj	_	_
 30	pays	pays	NOUN	S	Gender=Masc	29	nmod	_	_
 31	par	par	ADP	E	_	32	case	_	_
 32	pays	pays	NOUN	S	Gender=Masc	30	nmod	_	SpaceAfter=No
@@ -6891,8 +6891,8 @@
 9	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
 10	apparition	apparition	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
 11	de	de	ADP	E	_	12	case	_	_
-12	règlements	règlements	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
-13	insatisfaisants	insatisfaisants	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+12	règlements	règlement	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	insatisfaisants	insatisfaisant	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
 14	dans	dans	ADP	E	_	16	case	_	_
 15	certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
 16	pays	pays	NOUN	S	Gender=Masc	7	obl	_	SpaceAfter=No
@@ -7386,7 +7386,7 @@
 2	margarine	margarine	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
 3	et	et	CCONJ	CC	_	5	cc	_	_
 4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
-5	kilos	kilos	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+5	kilos	kilo	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
 6	de	de	ADP	E	_	7	case	_	_
 7	peinture	peinture	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
 8	qui	qui	PRON	PR	PronType=Rel	10	nsubj	_	_
@@ -7584,7 +7584,7 @@
 39	marge	marge	NOUN	S	Gender=Masc|Number=Sing	36	obl	_	_
 40	de	de	ADP	E	_	42	case	_	_
 41	ces	ce	DET	DD	Number=Plur|PronType=Dem	42	det	_	_
-42	circonstances	circonstances	NOUN	S	Gender=Fem|Number=Plur	39	nmod	_	SpaceAfter=No
+42	circonstances	circonstance	NOUN	S	Gender=Fem|Number=Plur	39	nmod	_	SpaceAfter=No
 43	,	,	PUNCT	FF	_	42	punct	_	_
 44	qui	qui	PRON	PR	PronType=Rel	46	nsubj	_	_
 45	ne	ne	PART	PART	Polarity=Neg	46	advmod	_	_
@@ -7647,7 +7647,7 @@
 5	demain	demain	ADV	B	_	3	advmod	_	_
 6	à	à	ADP	E	_	8	case	_	_
 7	12	12	NUM	N	NumType=Card	8	nummod	_	_
-8	heures	heures	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+8	heures	heure	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-246
@@ -8003,7 +8003,7 @@
 45-46	des	_	_	_	_	_	_	_	_
 45	de	de	ADP	E	_	47	case	_	_
 46	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
-47	incertitudes	incertitudes	NOUN	S	Gender=Fem|Number=Plur	37	conj	_	_
+47	incertitudes	incertitude	NOUN	S	Gender=Fem|Number=Plur	37	conj	_	_
 48	inutiles	inutile	ADJ	A	Gender=Fem|Number=Plur	47	amod	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -8110,7 +8110,7 @@
 66	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	67	det	_	_
 67	zones	zone	NOUN	S	Gender=Fem|Number=Plur	57	nmod	_	_
 68	strictement	strictement	ADV	B	_	69	advmod	_	_
-69	délimitées	délimitées	ADJ	A	Gender=Fem|Number=Plur	67	amod	_	SpaceAfter=No
+69	délimitées	délimité	ADJ	A	Gender=Fem|Number=Plur	67	amod	_	SpaceAfter=No
 70	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-256
@@ -8324,9 +8324,9 @@
 12	d'	de	ADP	E	_	13	mark	_	SpaceAfter=No
 13	utiliser	utiliser	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	citernes	citernes	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+15	citernes	citerne	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
 16	et	et	CCONJ	CC	_	17	cc	_	_
-17	véhicules	véhicules	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	_
+17	véhicules	véhicule	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	_
 18	mis	mettre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
 19	en	en	ADP	E	_	20	case	_	_
 20	service	service	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
@@ -8479,13 +8479,13 @@
 9-10	des	_	_	_	_	_	_	_	_
 9	de	de	ADP	E	_	11	case	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	citernes	citernes	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	citernes	citerne	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
 12	de	de	ADP	E	_	13	case	_	_
 13	transport	transport	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
 14-15	des	_	_	_	_	_	_	_	_
 14	de	de	ADP	E	_	16	case	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	substances	substances	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+16	substances	substance	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
 17	dangereuses	dangereux	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -8687,7 +8687,7 @@
 27	transportées	transporter	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	26	acl	_	_
 28	sur	sur	ADP	E	_	30	case	_	_
 29	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	30	det	_	_
-30	routes	routes	NOUN	S	Gender=Fem|Number=Plur	27	obl	_	SpaceAfter=No
+30	routes	route	NOUN	S	Gender=Fem|Number=Plur	27	obl	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	33	punct	_	_
 32	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	33	det	_	_
 33	voies	voie	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	_
@@ -8962,7 +8962,7 @@
 18	peuvent	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 19	avoir	avoir	VERB	V	VerbForm=Inf	18	xcomp	_	_
 20	ces	ce	DET	DD	Number=Plur|PronType=Dem	21	det	_	_
-21	températures	températures	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+21	températures	température	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
 22	très	très	ADV	B	_	23	advmod	_	_
 23	basses	bas	ADJ	A	Gender=Fem|Number=Plur	21	amod	_	_
 24	sur	sur	ADP	E	_	26	case	_	_
@@ -8970,7 +8970,7 @@
 26	marchandises	marchandise	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
 27	et	et	CCONJ	CC	_	29	cc	_	_
 28	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	29	det	_	_
-29	emballages	emballages	NOUN	S	Gender=Masc|Number=Plur	26	conj	_	SpaceAfter=No
+29	emballages	emballage	NOUN	S	Gender=Masc|Number=Plur	26	conj	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-288
@@ -9155,7 +9155,7 @@
 9	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
 10	parlait	parler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 11	de	de	ADP	E	_	12	case	_	_
-12	températures	températures	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+12	températures	température	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
 13	inférieures	inférieur	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
@@ -9212,7 +9212,7 @@
 38	traduit	traduire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	_
 39	parfois	parfois	ADV	B	_	38	advmod	_	_
 40	en	en	ADP	E	_	41	case	_	_
-41	spécificités	spécificités	NOUN	S	Gender=Fem|Number=Plur	38	obl	_	_
+41	spécificités	spécificité	NOUN	S	Gender=Fem|Number=Plur	38	obl	_	_
 42	et	et	CCONJ	CC	_	44	cc	_	_
 43	en	en	ADP	E	_	44	case	_	_
 44	exigences	exigence	NOUN	S	Gender=Fem|Number=Plur	41	conj	_	_
@@ -9228,9 +9228,9 @@
 53	d'	de	ADP	E	_	54	mark	_	SpaceAfter=No
 54	envisager	envisager	VERB	V	VerbForm=Inf	52	csubj	_	_
 55	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	56	det	_	_
-56	normalisations	normalisations	NOUN	S	Gender=Fem|Number=Plur	54	obj	_	_
+56	normalisations	normalisation	NOUN	S	Gender=Fem|Number=Plur	54	obj	_	_
 57	ou	ou	CCONJ	CC	_	58	cc	_	_
-58	caractérisations	caractérisations	NOUN	S	Gender=Fem|Number=Plur	56	conj	_	_
+58	caractérisations	caractérisation	NOUN	S	Gender=Fem|Number=Plur	56	conj	_	_
 59	de	de	ADP	E	_	60	case	_	_
 60	type	type	NOUN	S	Gender=Masc|Number=Sing	58	nmod	_	_
 61	technique	technique	ADJ	A	Number=Sing	60	amod	_	SpaceAfter=No
@@ -9766,7 +9766,7 @@
 40-41	aux	_	_	_	_	_	_	_	_
 40	à	à	ADP	E	_	42	case	_	_
 41	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	42	det	_	_
-42	dépenses	dépenses	NOUN	S	Gender=Fem|Number=Plur	39	nmod	_	_
+42	dépenses	dépense	NOUN	S	Gender=Fem|Number=Plur	39	nmod	_	_
 43-44	des	_	_	_	_	_	_	_	_
 43	de	de	ADP	E	_	45	case	_	_
 44	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	45	det	_	_
@@ -9908,11 +9908,11 @@
 35	en	en	ADP	E	_	26	mark	_	_
 36	implantant	implanter	VERB	V	Tense=Pres|VerbForm=Part	28	advcl	_	_
 37	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	38	det	_	_
-38	écoles	écoles	NOUN	S	Gender=Fem|Number=Plur	36	obj	_	_
+38	écoles	école	NOUN	S	Gender=Fem|Number=Plur	36	obj	_	_
 39	professionnelles	professionnel	ADJ	A	Gender=Fem|Number=Plur	38	amod	_	_
 40	et	et	CCONJ	CC	_	42	cc	_	_
 41	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	42	det	_	_
-42	universités	universités	NOUN	S	Gender=Fem|Number=Plur	38	conj	_	_
+42	universités	université	NOUN	S	Gender=Fem|Number=Plur	38	conj	_	_
 43	de	de	ADP	E	_	45	case	_	_
 44	telle	tel	ADJ	A	Gender=Fem|Number=Sing	45	amod	_	_
 45	sorte	sorte	NOUN	S	Gender=Fem|Number=Sing	36	obl	_	_
@@ -10041,7 +10041,7 @@
 11-12	des	_	_	_	_	_	_	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	structures	structures	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+13	structures	structure	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
 14	de	de	ADP	E	_	16	case	_	_
 15	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	vie	vie	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
@@ -10155,7 +10155,7 @@
 31-32	aux	_	_	_	_	_	_	_	_
 31	à	à	ADP	E	_	30	fixed	_	_
 32	les	le	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
-33	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	25	obl	_	_
+33	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	25	obl	_	_
 34-35	des	_	_	_	_	_	_	_	_
 34	de	de	ADP	E	_	36	case	_	_
 35	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
@@ -10201,7 +10201,7 @@
 73-74	des	_	_	_	_	_	_	_	_
 73	de	de	ADP	E	_	75	case	_	_
 74	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	75	det	_	_
-75	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	72	nmod	_	_
+75	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	72	nmod	_	_
 76	de	de	ADP	E	_	77	case	_	_
 77	financement	financement	NOUN	S	Gender=Masc|Number=Sing	75	nmod	_	_
 78-79	du	_	_	_	_	_	_	_	_
@@ -10309,7 +10309,7 @@
 30-31	des	_	_	_	_	_	_	_	_
 30	de	de	ADP	E	_	32	case	_	_
 31	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
-32	potentialités	potentialités	NOUN	S	Gender=Fem|Number=Plur	29	nmod	_	_
+32	potentialités	potentialité	NOUN	S	Gender=Fem|Number=Plur	29	nmod	_	_
 33	en	en	ADP	E	_	34	case	_	_
 34	matière	matière	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	_
 35	d'	de	ADP	E	_	36	case	_	SpaceAfter=No
@@ -10706,7 +10706,7 @@
 4-5	aux	_	_	_	_	_	_	_	_
 4	à	à	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	déficiences	déficiences	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+6	déficiences	déficience	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
 7-8	des	_	_	_	_	_	_	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
@@ -11937,7 +11937,7 @@
 4	de	de	ADP	E	_	5	mark	_	_
 5	créer	créer	VERB	V	VerbForm=Inf	3	ccomp	_	_
 6	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	couches	couches	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+7	couches	couche	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
 8	supplémentaires	supplémentaire	ADJ	A	Number=Plur	7	amod	_	_
 9	de	de	ADP	E	_	10	case	_	_
 10	bureaucratie	bureaucratie	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
@@ -14561,7 +14561,7 @@
 23	mieux	mieux	ADV	B	_	20	advmod	_	_
 24	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	26	det	_	_
 25	ses	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	26	det	_	_
-26	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+26	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
 27	et	et	CCONJ	CC	_	30	cc	_	_
 28	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	30	det	_	_
 29	ses	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	30	det	_	_
@@ -14612,7 +14612,7 @@
 32	utilisation	utilisation	NOUN	S	Gender=Fem|Number=Sing	29	nmod	_	_
 33	de	de	ADP	E	_	35	case	_	_
 34	ces	ce	DET	DD	Number=Plur|PronType=Dem	35	det	_	_
-35	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	32	nmod	_	_
+35	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	32	nmod	_	_
 36	par	par	ADP	E	_	38	case	_	_
 37	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	38	det	_	_
 38	états	état	NOUN	S	Gender=Masc|Number=Plur	32	nmod	_	_
@@ -15020,11 +15020,11 @@
 16	consulter	consulter	VERB	V	VerbForm=Inf	10	advcl	_	_
 17	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-19	interactions	interactions	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	interactions	interaction	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
 20	avec	avec	ADP	E	_	22	case	_	_
 21	vos	vos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	22	det	_	_
-22	amis	amis	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
-23	regroupées	regroupées	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	acl	_	_
+22	amis	ami	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
+23	regroupées	regroupé	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	acl	_	_
 24	en	en	ADP	E	_	27	case	_	_
 25	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 26	seul	seul	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	_
@@ -15084,10 +15084,10 @@
 6	d'	de	ADP	E	_	7	mark	_	SpaceAfter=No
 7	envoyer	envoyer	VERB	V	VerbForm=Inf	2	xcomp	_	_
 8	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	invitations	invitations	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+9	invitations	invitation	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
 10	à	à	ADP	E	_	12	case	_	_
 11	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	12	det	_	_
-12	contacts	contacts	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+12	contacts	contact	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
 13	en	en	ADP	E	_	14	mark	_	_
 14	saisissant	saisir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	_
 15	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -15126,7 +15126,7 @@
 22	plus	plus	ADV	B	_	23	advmod	_	_
 23	recevoir	recevoir	VERB	V	VerbForm=Inf	19	xcomp	_	_
 24	d'	de	DET	RI	Definite=Ind|PronType=Dem	25	det	_	SpaceAfter=No
-25	invitations	invitations	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	_
+25	invitations	invitation	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	_
 26	Facebook	Facebook	PROPN	SP	_	25	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -15171,13 +15171,13 @@
 5	plus	plus	ADV	B	_	4	advmod	_	_
 6	recevoir	recevoir	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	d'	de	DET	RI	Definite=Ind|PronType=Dem	8	det	_	SpaceAfter=No
-8	invitations	invitations	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+8	invitations	invitation	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
 9	de	de	ADP	E	_	11	case	_	_
 10	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	part	part	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
 12	de	de	ADP	E	_	14	case	_	_
 13	vos	vos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	14	det	_	_
-14	amis	amis	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	amis	ami	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	6	punct	_	_
 16	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	17	nsubj	_	_
 17	pouvez	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -15237,7 +15237,7 @@
 14	en	en	ADP	E	_	15	mark	_	_
 15	suivant	suivre	VERB	V	Tense=Pres|VerbForm=Part	13	advcl	_	_
 16	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	17	det	_	_
-17	étapes	étapes	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
+17	étapes	étape	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
 18	simples	simple	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	11	punct	_	_
 
@@ -15298,7 +15298,7 @@
 1	Quels	quel	PRON	PQ	Gender=Masc|Number=Plur|PronType=Int	0	root	_	_
 2	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
-4	critères	critères	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	_
+4	critères	critère	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	_
 5	minimaux	minimaux	ADJ	A	Number=Sing	4	amod	_	_
 6	pour	pour	ADP	E	_	8	case	_	_
 7	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -15337,9 +15337,9 @@
 12	de	de	ADP	E	_	13	case	_	_
 13	lettres	lettre	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	15	punct	_	_
-15	chiffres	chiffres	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
+15	chiffres	chiffre	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
 16	et	et	CCONJ	CC	_	17	cc	_	_
-17	marques	marques	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
+17	marques	marque	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
 18	de	de	ADP	E	_	19	case	_	_
 19	ponctuation	ponctuation	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	23	punct	_	_
@@ -15348,7 +15348,7 @@
 23	minimum	minimum	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
 24	de	de	ADP	E	_	26	case	_	_
 25	six	six	NUM	N	NumType=Card	26	nummod	_	_
-26	caractères	caractères	NOUN	S	Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+26	caractères	caractère	NOUN	S	Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = fr_partut-ud-491
@@ -15373,12 +15373,12 @@
 18	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
 19	lettres	lettre	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
 20	en	en	ADP	E	_	21	case	_	_
-21	minuscules	minuscules	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
+21	minuscules	minuscule	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
 22	et	et	CCONJ	CC	_	24	cc	_	_
 23	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	lettres	lettre	NOUN	S	Gender=Fem|Number=Plur	19	conj	_	_
 25	en	en	ADP	E	_	26	case	_	_
-26	majuscules	majuscules	NOUN	S	Gender=Fem|Number=Plur	24	nmod	_	_
+26	majuscules	majuscule	NOUN	S	Gender=Fem|Number=Plur	24	nmod	_	_
 27	ou	ou	CCONJ	CC	_	29	cc	_	_
 28	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	29	obj	_	SpaceAfter=No
 29	allonger	allonger	VERB	V	VerbForm=Inf	17	conj	_	SpaceAfter=No
@@ -15544,7 +15544,7 @@
 9	puis	puis	ADV	B	_	10	advmod	_	_
 10	suivez	suivre	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	étapes	étapes	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+12	étapes	étape	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
 13	en	en	ADP	E	_	14	case	_	_
 14	ligne	ligne	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	1	punct	_	_
@@ -15655,7 +15655,7 @@
 1	Atteignez	atteigner	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 3	800	800	NUM	N	NumType=Card	4	nummod	_	_
-4	millions	millions	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	millions	million	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
 5	de	de	ADP	E	_	6	case	_	_
 6	clients	client	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
 7	potentiels	potentiel	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
@@ -15663,7 +15663,7 @@
 9	où	où	PRON	PR	PronType=Rel	12	iobj	_	_
 10	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 11	se	se	PRON	P	Person=3|PronType=Prs	12	expl	_	_
-12	trouvent	trouvent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+12	trouvent	trouver	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-508
@@ -15692,7 +15692,7 @@
 1	Plus	plus	ADV	B	_	4	advmod	_	_
 2	de	de	ADP	E	_	1	fixed	_	_
 3	800	800	NUM	N	NumType=Card	4	nummod	_	_
-4	millions	millions	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	millions	million	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
 5	de	de	ADP	E	_	6	case	_	_
 6	clients	client	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
 7	potentiels	potentiel	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
@@ -15708,7 +15708,7 @@
 6	,	,	PUNCT	FF	_	7	punct	_	_
 7	âge	âge	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
 8	et	et	CCONJ	CC	_	9	cc	_	_
-9	centres	centres	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	_
+9	centres	centre	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	_
 10	d'	de	ADP	E	_	11	case	_	SpaceAfter=No
 11	intérêt	intérêt	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	1	punct	_	_
@@ -15885,13 +15885,13 @@
 12	publicitaire	pubblicitaire	ADJ	A	Number=Sing	11	amod	_	_
 13	de	de	ADP	E	_	15	case	_	_
 14	600	600	NUM	N	NumType=Card	15	nummod	_	_
-15	dollars	dollars	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	dollars	dollar	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
 16	sur	sur	ADP	E	_	17	case	_	_
 17	Facebook	Facebook	PROPN	SP	_	11	nmod	_	_
 18	en	en	ADP	E	_	21	case	_	_
 19	quasiment	quasiment	ADV	B	_	21	advmod	_	_
 20	40000	40000	NUM	N	NumType=Card	21	nummod	_	_
-21	dollars	dollars	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+21	dollars	dollar	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
 22	de	de	ADP	E	_	23	case	_	_
 23	revenus	revenu	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	4	punct	_	_
@@ -15900,7 +15900,7 @@
 # text = Parmi les utilisatrices de Facebook qui se sont rendues sur le site web de CM Photographics à partir des publicités, 60% ont exprimé leur intérêt et ont demandé plus d'informations.
 1	Parmi	parmi	ADP	E	_	3	case	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
-3	utilisatrices	utilisatrices	NOUN	S	Gender=Fem|Number=Plur	26	obl	_	_
+3	utilisatrices	utilisatrice	NOUN	S	Gender=Fem|Number=Plur	26	obl	_	_
 4	de	de	ADP	E	_	5	case	_	_
 5	Facebook	Facebook	PROPN	SP	_	3	nmod	_	_
 6	qui	qui	PRON	PR	PronType=Rel	9	nsubj	_	_
@@ -15942,7 +15942,7 @@
 3	souple	souple	ADJ	A	Number=Sing	2	amod	_	_
 4	et	et	CCONJ	CC	_	6	cc	_	_
 5	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	suggestions	suggestions	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+6	suggestions	suggestion	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
 7	d'	de	ADP	E	_	8	case	_	SpaceAfter=No
 8	offre	offre	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
 9	en	en	ADP	E	_	10	case	_	_
@@ -15950,7 +15950,7 @@
 11	réel	réel	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
 12	rendent	rendre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
-14	campagnes	campagnes	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+14	campagnes	campagne	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
 15	publicitaires	pubblicitaire	ADJ	A	Number=Plur	14	amod	_	_
 16	très	très	ADV	B	_	17	advmod	_	_
 17	économiques	économique	ADJ	A	Number=Plur	12	xcomp	_	SpaceAfter=No
@@ -15969,7 +15969,7 @@
 9	économique	économique	ADJ	A	Number=Sing	7	conj	_	_
 10	pour	pour	ADP	E	_	12	case	_	_
 11	vos	vos	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	12	det	_	_
-12	campagnes	campagnes	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+12	campagnes	campagne	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
 13	publicitaires	pubblicitaire	ADJ	A	Number=Plur	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -15983,7 +15983,7 @@
 6	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	série	série	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
 8	de	de	ADP	E	_	9	case	_	_
-9	campagnes	campagnes	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+9	campagnes	campagne	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
 10	publicitaires	publicitaire	ADJ	A	Number=Plur	9	amod	_	_
 11	sur	sur	ADP	E	_	12	case	_	_
 12	Facebook	Facebook	PROPN	SP	_	9	nmod	_	SpaceAfter=No
@@ -15992,13 +15992,13 @@
 15	pour	pour	ADP	E	_	16	case	_	_
 16	cible	cible	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
 17	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	étudiants	étudiants	NOUN	S	Number=Plur	3	obl	_	_
+18	étudiants	étudiant	NOUN	S	Number=Plur	3	obl	_	_
 19	de	de	ADP	E	_	21	case	_	_
 20	21	21	NUM	N	NumType=Card	21	nummod	_	_
 21	campus	campus	NOUN	S	Gender=Fem|Number=Plur	18	nmod	_	_
 22	avant	avant	ADP	E	_	24	case	_	_
 23	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
-24	vacances	vacances	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+24	vacances	vacance	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
 25	d'	de	ADP	E	_	26	case	_	SpaceAfter=No
 26	été	été	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	3	punct	_	_
@@ -16013,7 +16013,7 @@
 # sent_id = fr_partut-ud-528
 # text = Les suggestions d'offre en temps réel proposées par notre système ont permis à G5 de mieux gérer l'efficacité de leur campagne en fonction des différents filtres de ciblage (âge, année d'études et géographie).
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	suggestions	suggestions	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+2	suggestions	suggestion	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
 3	d'	de	ADP	E	_	4	case	_	SpaceAfter=No
 4	offre	offre	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
 5	en	en	ADP	E	_	6	case	_	_
@@ -16041,7 +16041,7 @@
 26	de	de	ADP	E	_	29	case	_	_
 27	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 28	différents	différent	ADJ	A	Gender=Masc|Number=Plur	29	amod	_	_
-29	filtres	filtres	NOUN	S	Gender=Masc|Number=Plur	25	nmod	_	_
+29	filtres	filtre	NOUN	S	Gender=Masc|Number=Plur	25	nmod	_	_
 30	de	de	ADP	E	_	31	case	_	_
 31	ciblage	ciblage	NOUN	S	Gender=Fem|Number=Sing	29	nmod	_	_
 32	(	(	PUNCT	FB	_	33	punct	_	SpaceAfter=No
@@ -16074,7 +16074,7 @@
 15	rentables	rentable	ADJ	A	Number=Plur	11	obl	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	18	det	_	_
-18	efforts	efforts	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
+18	efforts	effort	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
 19	publicitaires	publicitaire	ADJ	A	Number=Plur	18	amod	_	_
 20	en	en	ADP	E	_	21	case	_	_
 21	ligne	ligne	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
@@ -16091,7 +16091,7 @@
 7-8	des	_	_	_	_	_	_	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	locations	locations	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	locations	location	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
 10	par	par	ADP	E	_	11	case	_	_
 11	rapport	rapport	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
 12	à	à	ADP	E	_	14	case	_	_
@@ -16134,7 +16134,7 @@
 12	coût	coût	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
 13	de	de	ADP	E	_	15	case	_	_
 14	10,25	10,25	NUM	N	NumType=Card	15	nummod	_	_
-15	dollars	dollars	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+15	dollars	dollar	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
 16	par	par	ADP	E	_	17	case	_	_
 17	piste	piste	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	9	punct	_	_
@@ -16172,7 +16172,7 @@
 12-13	des	_	_	_	_	_	_	_	_
 12	de	de	ADP	E	_	14	case	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
-14	évènements	évènements	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
+14	évènements	évènement	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	2	punct	_	_
 16	en	en	ADP	E	_	20	case	_	_
 17	plus	plus	ADV	B	_	20	advmod	_	_
@@ -16225,12 +16225,12 @@
 11	pour	pour	ADP	E	_	12	mark	_	_
 12	acquérir	acquérir	VERB	V	VerbForm=Inf	7	advcl	_	_
 13	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-14	prospects	prospects	ADJ	A	Number=Plur	12	obj	_	_
+14	prospects	prospect	ADJ	A	Number=Plur	12	obj	_	_
 15	et	et	CCONJ	CC	_	17	cc	_	_
 16	leur	leur	PRON	PE	Number=Plur|Person=3|PronType=Prs	17	iobj	_	_
 17	envoyer	envoyer	VERB	V	VerbForm=Inf	12	conj	_	_
 18	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	messages	messages	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
+19	messages	message	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
 20	tout	tout	ADV	B	_	22	advmod	_	_
 21	en	en	ADP	E	_	22	mark	_	_
 22	développant	développer	VERB	V	Tense=Pres|VerbForm=Part	19	acl	_	_
@@ -16243,7 +16243,7 @@
 # sent_id = fr_partut-ud-538
 # text = Les campagnes publicitaires d'ANA conduisent généralement à un taux de clics de 8 à 12%.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	campagnes	campagnes	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+2	campagnes	campagne	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
 3	publicitaires	pubblicitaire	ADJ	A	Number=Plur	2	amod	_	_
 4	d'	de	ADP	E	_	5	case	_	SpaceAfter=No
 5	ANA	ANA	PROPN	SP	_	2	nmod	_	_
@@ -16329,7 +16329,7 @@
 45	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
 46	destination	destination	NOUN	S	Gender=Fem|Number=Sing	43	obl	_	_
 47	de	de	ADP	E	_	48	case	_	_
-48	vacances	vacances	NOUN	S	Gender=Fem|Number=Plur	46	nmod	_	SpaceAfter=No
+48	vacances	vacance	NOUN	S	Gender=Fem|Number=Plur	46	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-541
@@ -16350,7 +16350,7 @@
 4	abonné	abonner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	à	à	ADP	E	_	7	case	_	_
 6	ses	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	7	det	_	_
-7	amis	amis	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+7	amis	ami	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-544
@@ -16360,12 +16360,12 @@
 3	désormais	désormais	ADV	B	_	4	advmod	_	_
 4	recevoir	recevoir	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	actualités	actualités	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	actualités	actualité	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
 7	de	de	ADP	E	_	8	case	_	_
-8	journalistes	journalistes	NOUN	S	Number=Plur	6	nmod	_	SpaceAfter=No
+8	journalistes	journaliste	NOUN	S	Number=Plur	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	11	punct	_	_
 10	de	de	ADP	E	_	11	case	_	_
-11	célébrités	célébrités	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
+11	célébrités	célébrité	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	14	punct	_	_
 13	de	de	ADP	E	_	14	case	_	_
 14	personnes	personne	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	_
@@ -16477,15 +16477,15 @@
 18	,	,	PUNCT	FF	_	19	punct	_	_
 19	voir	voir	VERB	V	VerbForm=Inf	8	conj	_	_
 20	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
-21	photos	photos	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	_
+21	photos	photo	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	_
 22	ou	ou	CCONJ	CC	_	23	cc	_	_
 23	limiter	limiter	VERB	V	VerbForm=Inf	19	conj	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
-25	actualités	actualités	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	_
+25	actualités	actualité	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	_
 26-27	aux	_	_	_	_	_	_	_	_
 26	à	à	ADP	E	_	28	case	_	_
 27	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	28	det	_	_
-28	évènements	évènements	NOUN	S	Gender=Fem|Number=Plur	23	obl	_	_
+28	évènements	évènement	NOUN	S	Gender=Fem|Number=Plur	23	obl	_	_
 29	marquants	marquant	ADJ	A	Gender=Masc|Number=Plur	28	amod	_	_
 30	uniquement	uniquement	ADV	B	_	23	advmod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	2	punct	_	_
@@ -16493,7 +16493,7 @@
 # sent_id = fr_partut-ud-550
 # text = Vos propres abonnés.
 1	Vos	vos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	3	det	_	_
-2	propres	propres	ADJ	A	Number=Plur	3	amod	_	_
+2	propres	propre	ADJ	A	Number=Plur	3	amod	_	_
 3	abonnés	abonne	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -16570,7 +16570,7 @@
 4	abonné	abonner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	à	à	ADP	E	_	7	case	_	_
 6	ses	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	7	det	_	_
-7	amis	amis	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+7	amis	ami	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-555
@@ -16581,7 +16581,7 @@
 4	que	que	SCONJ	CS	_	9	mark	_	_
 5	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
-7	profils	profils	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+7	profils	profil	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
 8	n'	ne	PART	PART	Polarity=Neg	9	advmod	_	SpaceAfter=No
 9	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 10	pas	pas	ADV	BN	Polarity=Neg	9	advmod	_	_
@@ -16672,7 +16672,7 @@
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	personnes	personne	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
 17	qui	qui	PRON	PR	PronType=Rel	18	nsubj	_	_
-18	cliquent	cliquent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+18	cliquent	cliquer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 19	sur	sur	ADP	E	_	20	case	_	_
 20	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	18	obl	_	_
 21	bouton	bouton	NOUN	S	Gender=Masc|Number=Sing	20	appos	_	SpaceAfter=No
@@ -16706,7 +16706,7 @@
 3	voient	voir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	uniquement	uniquement	ADV	B	_	3	advmod	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	choses	choses	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	choses	chose	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
 7	que	que	PRON	PR	PronType=Rel	9	obj	_	_
 8	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
 9	publiez	publier	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
@@ -16904,7 +16904,7 @@
 14	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	consommation	consommation	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
 16	de	de	ADP	E	_	17	case	_	_
-17	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
+17	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
 18	naturelles	naturel	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	_
 19	et	et	CCONJ	CC	_	21	cc	_	_
 20	d'	de	ADP	E	_	21	case	_	SpaceAfter=No
@@ -16960,10 +16960,10 @@
 26	,	,	PUNCT	FF	_	11	punct	_	_
 27	même	même	ADV	B	_	30	advmod	_	_
 28	si	si	SCONJ	CS	_	30	mark	_	_
-29	ceux-ci	ceux-ci	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	30	nsubj	_	_
+29	ceux-ci	celui-ci	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	30	nsubj	_	_
 30	présentent	présenter	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 31	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
-32	performances	performances	NOUN	S	Gender=Fem|Number=Plur	30	obj	_	_
+32	performances	performance	NOUN	S	Gender=Fem|Number=Plur	30	obj	_	_
 33	fonctionnelles	fonctionnelle	ADJ	A	Gender=Fem|Number=Plur	32	amod	_	_
 34	similaires	similaire	ADJ	A	Gender=Fem|Number=Plur	32	amod	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	11	punct	_	_
@@ -17069,7 +17069,7 @@
 8	à	à	ADP	E	_	9	mark	_	_
 9	optimiser	optimiser	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	performances	performances	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+11	performances	performance	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
 12	environnementales	environnemental	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
 13-14	des	_	_	_	_	_	_	_	_
 13	de	de	ADP	E	_	15	case	_	_
@@ -18038,7 +18038,7 @@
 23	caractéristiques	caractéristique	NOUN	S	Gender=Fem|Number=Plur	20	conj	_	_
 24	environnementales	environnemental	ADJ	A	Gender=Fem|Number=Plur	23	amod	_	_
 25	de	de	ADP	E	_	26	case	_	_
-26	ceux-ci	ceux-ci	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	23	nmod	_	SpaceAfter=No
+26	ceux-ci	celui-ci	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	23	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	11	punct	_	_
 28	en	en	ADP	E	_	31	mark	_	_
 29	vue	vue	NOUN	S	Gender=Fem|Number=Sing	28	fixed	_	_
@@ -18162,7 +18162,7 @@
 11-12	des	_	_	_	_	_	_	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+13	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
 14	et	et	CCONJ	CC	_	15	cc	_	_
 15	apporter	apporter	VERB	V	VerbForm=Inf	6	conj	_	_
 16	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -18852,8 +18852,8 @@
 45	qui	qui	PRON	PR	PronType=Rel	48	nsubj	_	_
 46	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	cop	_	_
 47	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	48	det	_	_
-48	substances	substances	NOUN	S	Gender=Fem|Number=Plur	44	acl:relcl	_	_
-49	toxiques	toxiques	NOUN	S	Gender=Fem|Number=Plur	48	acl	_	SpaceAfter=No
+48	substances	substance	NOUN	S	Gender=Fem|Number=Plur	44	acl:relcl	_	_
+49	toxiques	toxique	NOUN	S	Gender=Fem|Number=Plur	48	acl	_	SpaceAfter=No
 50	,	,	PUNCT	FF	_	52	punct	_	_
 51	et	et	CCONJ	CC	_	52	cc	_	_
 52	éviter	éviter	VERB	V	VerbForm=Inf	39	conj	_	_
@@ -18887,10 +18887,10 @@
 11-12	aux	_	_	_	_	_	_	_	_
 11	à	à	ADP	E	_	13	case	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	modules	modules	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+13	modules	module	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
 14	et	et	CCONJ	CC	_	15	cc	_	_
 15	règles	règle	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
-16	destinés	destinés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+16	destinés	destiné	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
 17	à	à	ADP	E	_	19	mark	_	_
 18	être	être	AUX	VA	VerbForm=Inf	19	aux:pass	_	_
 19	utilisés	utiliser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	xcomp	_	_
@@ -18923,7 +18923,7 @@
 44	1993	1993	NUM	N	NumType=Card	42	flat	_	_
 45	concernant	concerner	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	31	acl	_	_
 46	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
-47	modules	modules	NOUN	S	Gender=Fem|Number=Plur	45	obj	_	_
+47	modules	module	NOUN	S	Gender=Fem|Number=Plur	45	obj	_	_
 48	relatifs	relatif	ADJ	A	Gender=Masc|Number=Plur	47	amod	_	_
 49-50	aux	_	_	_	_	_	_	_	_
 49	à	à	ADP	E	_	52	case	_	_
@@ -18957,7 +18957,7 @@
 75	de	de	ADP	E	_	76	case	_	_
 76	conformité	conformité	NOUN	S	Gender=Fem|Number=Sing	71	nmod	_	SpaceAfter=No
 77	,	,	PUNCT	FF	_	63	punct	_	_
-78	destinés	destinés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	63	acl	_	_
+78	destinés	destiné	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	63	acl	_	_
 79	à	à	ADP	E	_	81	mark	_	_
 80	être	être	AUX	VA	VerbForm=Inf	81	aux:pass	_	_
 81	utilisés	utiliser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	78	xcomp	_	_
@@ -19040,7 +19040,7 @@
 4	informations	information	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
 5	sur	sur	ADP	E	_	7	case	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
-7	performances	performances	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	performances	performance	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 8	environnementales	environnemental	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
 9	durant	durant	ADP	E	_	11	case	_	_
 10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -19250,7 +19250,7 @@
 16	de	de	ADP	E	_	17	mark	_	_
 17	disposer	disposer	VERB	V	VerbForm=Inf	8	csubj	_	_
 18	de	de	ADP	E	_	19	case	_	_
-19	normes	normes	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
+19	normes	norme	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
 20	harmonisées	harmoniser	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	19	acl	_	_
 21-22	au	_	_	_	_	_	_	_	_
 21	à	à	ADP	E	_	23	case	_	_
@@ -19338,11 +19338,11 @@
 5	de	de	ADP	E	_	8	case	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 7	principales	principal	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
-8	fonctions	fonctions	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	fonctions	fonction	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 9-10	des	_	_	_	_	_	_	_	_
 9	de	de	ADP	E	_	11	case	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	normes	normes	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	normes	norme	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
 12	harmonisées	harmoniser	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
 13	devrait	devoir	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	être	être	VERB	V	VerbForm=Inf	13	xcomp	_	_
@@ -19490,7 +19490,7 @@
 7-8	des	_	_	_	_	_	_	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	définitions	définitions	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	définitions	définition	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
 10	utilisées	utiliser	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
 11	dans	dans	ADP	E	_	14	case	_	_
 12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -19506,7 +19506,7 @@
 22-23	aux	_	_	_	_	_	_	_	_
 22	à	à	ADP	E	_	24	case	_	_
 23	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
-24	normes	normes	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
+24	normes	norme	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
 25	internationales	international	ADJ	A	Gender=Fem|Number=Plur	24	amod	_	_
 26	pertinentes	pertinent	ADJ	A	Gender=Fem|Number=Plur	24	amod	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	24	punct	_	_
@@ -19571,7 +19571,7 @@
 47	référence	référence	NOUN	S	Gender=Fem|Number=Sing	39	conj	_	_
 48	à	à	ADP	E	_	50	case	_	_
 49	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	50	det	_	_
-50	normes	normes	NOUN	S	Gender=Fem|Number=Plur	47	nmod	_	_
+50	normes	norme	NOUN	S	Gender=Fem|Number=Plur	47	nmod	_	_
 51	européennes	européen	ADJ	A	Gender=Fem|Number=Plur	50	amod	_	_
 52	harmonisées	harmoniser	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	50	acl	_	SpaceAfter=No
 53	.	.	PUNCT	FS	_	8	punct	_	_
@@ -19661,7 +19661,7 @@
 11-12	aux	_	_	_	_	_	_	_	_
 11	à	à	ADP	E	_	13	case	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	instruments	instruments	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+13	instruments	instrument	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
 14	communautaires	communautaire	ADJ	A	Number=Plur	13	amod	_	_
 15	existants	exister	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	13	acl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	13	punct	_	_
@@ -19693,14 +19693,14 @@
 40-41	des	_	_	_	_	_	_	_	_
 40	de	de	ADP	E	_	42	case	_	_
 41	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	42	det	_	_
-42	appareils	appareils	NOUN	S	Gender=Fem|Number=Plur	39	nmod	_	_
+42	appareils	appareil	NOUN	S	Gender=Fem|Number=Plur	39	nmod	_	_
 43	domestiques	domestique	ADJ	A	Number=Plur	42	amod	_	_
 44	en	en	ADP	E	_	45	case	_	_
 45	énergie	énergie	NOUN	S	Gender=Fem|Number=Sing	39	nmod	_	_
 46	et	et	CCONJ	CC	_	49	cc	_	_
 47	en	en	ADP	E	_	49	case	_	_
 48	autres	autre	ADJ	A	Number=Plur	49	amod	_	_
-49	ressources	ressources	NOUN	S	Gender=Fem|Number=Plur	45	conj	_	_
+49	ressources	ressource	NOUN	S	Gender=Fem|Number=Plur	45	conj	_	_
 50	par	par	ADP	E	_	51	case	_	_
 51	voie	voie	NOUN	S	Gender=Fem|Number=Sing	39	nmod	_	_
 52	d'	de	ADP	E	_	53	case	_	SpaceAfter=No
@@ -19708,7 +19708,7 @@
 54	et	et	CCONJ	CC	_	56	cc	_	_
 55	d'	de	ADP	E	_	56	case	_	SpaceAfter=No
 56	informations	information	NOUN	S	Gender=Fem|Number=Plur	53	conj	_	_
-57	uniformes	uniformes	ADJ	A	Number=Plur	56	amod	_	_
+57	uniformes	uniforme	ADJ	A	Number=Plur	56	amod	_	_
 58	relatives	relatif	ADJ	A	Gender=Fem|Number=Plur	56	amod	_	_
 59-60	aux	_	_	_	_	_	_	_	_
 59	à	à	ADP	E	_	61	case	_	_
@@ -19834,7 +19834,7 @@
 167	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	168	det	_	_
 168	déchets	déchet	NOUN	S	Gender=Masc|Number=Plur	165	obl	_	_
 169	d'	de	ADP	E	_	171	case	_	SpaceAfter=No
-170	équipements	équipements	ADJ	A	Number=Plur	171	amod	_	_
+170	équipements	équipement	ADJ	A	Number=Plur	171	amod	_	_
 171	électriques	électrique	ADJ	A	Number=Plur	168	nmod	_	_
 172	et	et	CCONJ	CC	_	173	cc	_	_
 173	électroniques	électronique	ADJ	A	Number=Plur	171	conj	_	_
@@ -19877,14 +19877,14 @@
 207	utilisation	utilisation	NOUN	S	Gender=Fem|Number=Sing	204	nmod	_	_
 208	de	de	ADP	E	_	210	case	_	_
 209	certaines	certain	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	210	det	_	_
-210	substances	substances	NOUN	S	Gender=Fem|Number=Plur	207	nmod	_	_
+210	substances	substance	NOUN	S	Gender=Fem|Number=Plur	207	nmod	_	_
 211	dangereuses	dangereux	ADJ	A	Gender=Fem|Number=Plur	210	amod	_	_
 212	dans	dans	ADP	E	_	214	case	_	_
 213	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	214	det	_	_
-214	équipements	équipements	NOUN	S	Gender=Fem|Number=Plur	207	nmod	_	_
+214	équipements	équipement	NOUN	S	Gender=Fem|Number=Plur	207	nmod	_	_
 215	électriques	électrique	ADJ	A	Number=Plur	214	amod	_	_
 216	et	et	CCONJ	CC	_	217	cc	_	_
-217	électroniques	électroniques	ADJ	A	Number=Plur	215	conj	_	_
+217	électroniques	électronique	ADJ	A	Number=Plur	215	conj	_	_
 218	(	(	PUNCT	FB	_	219	punct	_	SpaceAfter=No
 219	7	7	NUM	N	NumType=Card	207	nummod	_	SpaceAfter=No
 220	)	)	PUNCT	FB	_	219	punct	_	_
@@ -19939,9 +19939,9 @@
 265	emploi	emploi	NOUN	S	Gender=Masc|Number=Sing	258	conj	_	_
 266	de	de	ADP	E	_	268	case	_	_
 267	certaines	certain	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	268	det	_	_
-268	substances	substances	NOUN	S	Gender=Fem|Number=Plur	265	nmod	_	_
+268	substances	substance	NOUN	S	Gender=Fem|Number=Plur	265	nmod	_	_
 269	et	et	CCONJ	CC	_	270	cc	_	_
-270	préparations	préparations	NOUN	S	Gender=Fem|Number=Plur	268	conj	_	_
+270	préparations	préparation	NOUN	S	Gender=Fem|Number=Plur	268	conj	_	_
 271	dangereuses	dangereux	ADJ	A	Gender=Fem|Number=Plur	270	amod	_	_
 272	(	(	PUNCT	FB	_	273	punct	_	SpaceAfter=No
 273	8	8	NUM	N	NumType=Card	271	nummod	_	SpaceAfter=No
@@ -19951,14 +19951,14 @@
 # sent_id = fr_partut-ud-633
 # text = Les synergies entre la présente directive et les instruments communautaires préexistants devraient contribuer à améliorer leurs impacts respectifs et à établir des exigences cohérentes à appliquer par les fabricants.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	synergies	synergies	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
+2	synergies	synergie	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
 3	entre	entre	ADP	E	_	6	case	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	présente	présent	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
 6	directive	directive	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
 7	et	et	CCONJ	CC	_	9	cc	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	instruments	instruments	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+9	instruments	instrument	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
 10	communautaires	communautaire	ADJ	A	Number=Plur	9	amod	_	_
 11	préexistants	préexistant	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
 12	devraient	devoir	VERB	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -20014,7 +20014,7 @@
 27	pour	pour	ADP	E	_	30	case	_	_
 28	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	30	det	_	_
 29	nouvelles	nouveau	ADJ	A	Gender=Fem|Number=Plur	30	amod	_	_
-30	chaudières	chaudières	NOUN	S	Gender=Fem|Number=Plur	24	nmod	_	_
+30	chaudières	chaudière	NOUN	S	Gender=Fem|Number=Plur	24	nmod	_	_
 31	à	à	ADP	E	_	33	case	_	_
 32	eau	eau	ADJ	A	Number=Sing	33	amod	_	_
 33	chaude	chaude	NOUN	S	Gender=Fem|Number=Sing	30	nmod	_	_
@@ -20062,11 +20062,11 @@
 72-73	des	_	_	_	_	_	_	_	_
 72	de	de	ADP	E	_	74	case	_	_
 73	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	74	det	_	_
-74	réfrigérateurs	réfrigérateurs	NOUN	S	Gender=Fem|Number=Plur	70	nmod	_	SpaceAfter=No
+74	réfrigérateurs	réfrigérateur	NOUN	S	Gender=Fem|Number=Plur	70	nmod	_	SpaceAfter=No
 75	,	,	PUNCT	FF	_	76	punct	_	_
-76	congélateurs	congélateurs	NOUN	S	Gender=Fem|Number=Plur	74	conj	_	_
+76	congélateurs	congélateur	NOUN	S	Gender=Fem|Number=Plur	74	conj	_	_
 77	et	et	CCONJ	CC	_	78	cc	_	_
-78	appareils	appareils	NOUN	S	Gender=Fem|Number=Plur	74	conj	_	_
+78	appareils	appareil	NOUN	S	Gender=Fem|Number=Plur	74	conj	_	_
 79	combinés	combiner	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	78	acl	_	_
 80	électriques	électrique	ADJ	A	Number=Plur	78	amod	_	_
 81	à	à	ADP	E	_	82	case	_	_
@@ -20220,7 +20220,7 @@
 42	voie	voie	NOUN	S	Gender=Fem|Number=Sing	40	obj	_	_
 43	à	à	ADP	E	_	45	case	_	_
 44	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	45	det	_	_
-45	systèmes	systèmes	NOUN	S	Gender=Fem|Number=Plur	40	obl	_	_
+45	systèmes	système	NOUN	S	Gender=Fem|Number=Plur	40	obl	_	_
 46	plus	plus	ADV	B	_	47	advmod	_	_
 47	efficaces	efficace	ADJ	A	Number=Plur	45	amod	_	SpaceAfter=No
 48	.	.	PUNCT	FS	_	28	punct	_	_
@@ -20275,9 +20275,9 @@
 43	chaude	chaude	NOUN	S	Gender=Fem|Number=Sing	40	nmod	_	_
 44	dans	dans	ADP	E	_	46	case	_	_
 45	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	46	det	_	_
-46	immeubles	immeubles	NOUN	S	Gender=Fem|Number=Plur	40	nmod	_	_
+46	immeubles	immeuble	NOUN	S	Gender=Fem|Number=Plur	40	nmod	_	_
 47	non	non	ADV	BN	PronType=Neg	48	advmod	_	_
-48	industriels	industriels	ADJ	A	Number=Plur	46	amod	_	_
+48	industriels	industriel	ADJ	A	Number=Plur	46	amod	_	_
 49	neufs	neuf	ADJ	A	Gender=Masc|Number=Plur	46	amod	_	_
 50	ou	ou	CCONJ	CC	_	51	cc	_	_
 51	existants	exister	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	49	conj	_	_
@@ -20301,13 +20301,13 @@
 69	nouveaux	nouveau	ADJ	A	Gender=Masc|Number=Plur	70	amod	_	_
 70	immeubles	immeuble	NOUN	S	Gender=Masc|Number=Plur	59	nmod	_	_
 71	non	non	ADV	BN	PronType=Neg	72	advmod	_	_
-72	industriels	industriels	ADJ	A	Number=Plur	70	amod	_	_
+72	industriels	industriel	ADJ	A	Number=Plur	70	amod	_	_
 73	(	(	PUNCT	FB	_	74	punct	_	SpaceAfter=No
 74	1	1	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
 75	)	)	PUNCT	FB	_	74	punct	_	_
 76	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	78	aux	_	_
 77	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	78	aux:pass	_	_
-78	remplacées	remplacées	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+78	remplacées	remplacé	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 79	par	par	ADP	E	_	81	case	_	_
 80	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	81	det	_	_
 81	dispositions	disposition	NOUN	S	Gender=Fem|Number=Plur	78	obl:agent	_	_
@@ -20354,7 +20354,7 @@
 117	membres	membre	NOUN	S	Gender=Masc|Number=Plur	116	compound	_	_
 118	concernant	concerner	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	113	acl	_	_
 119	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	120	det	_	_
-120	appareils	appareils	NOUN	S	Gender=Fem|Number=Plur	118	obj	_	_
+120	appareils	appareil	NOUN	S	Gender=Fem|Number=Plur	118	obj	_	_
 121	à	à	ADP	E	_	122	case	_	_
 122	gaz	gaz	NOUN	S	Gender=Masc|Number=Sing	120	nmod	_	_
 123	(	(	PUNCT	FB	_	124	punct	_	SpaceAfter=No
@@ -20392,7 +20392,7 @@
 152-153	des	_	_	_	_	_	_	_	_
 152	de	de	ADP	E	_	154	case	_	_
 153	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	154	det	_	_
-154	bâtiments	bâtiments	NOUN	S	Gender=Fem|Number=Plur	150	nmod	_	_
+154	bâtiments	bâtiment	NOUN	S	Gender=Fem|Number=Plur	150	nmod	_	_
 155	(	(	PUNCT	FB	_	156	punct	_	SpaceAfter=No
 156	3	3	NUM	N	NumType=Card	129	nummod	_	SpaceAfter=No
 157	)	)	PUNCT	FB	_	156	punct	_	SpaceAfter=No
@@ -20682,17 +20682,17 @@
 6	d'	de	ADP	E	_	7	case	_	SpaceAfter=No
 7	informations	information	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
 8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
-9	séminaires	séminaires	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+9	séminaires	séminaire	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	11	punct	_	_
-11	ateliers	ateliers	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+11	ateliers	atelier	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	13	punct	_	_
-13	rencontres	rencontres	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	_
+13	rencontres	rencontre	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	_
 14	et	et	CCONJ	CC	_	15	cc	_	_
-15	conférences	conférences	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+15	conférences	conférence	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
 16	)	)	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	19	punct	_	_
 18	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	stages	stages	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
+19	stages	stage	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
 20	et	et	CCONJ	CC	_	22	cc	_	_
 21	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	échanges	échange	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	_
@@ -20760,7 +20760,7 @@
 11	référence	référence	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
 12	de	de	ADP	E	_	14	case	_	_
 13	4	4	NUM	N	NumType=Card	14	nummod	_	_
-14	millions	millions	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+14	millions	million	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
 15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
 16	euros	euro	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
 17	pour	pour	ADP	E	_	19	case	_	_
@@ -20900,10 +20900,10 @@
 10	nombre	nombre	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	faux	faux	ADJ	A	Gender=Masc	13	amod	_	_
-13	billets	billets	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	billets	billet	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
 14	en	en	ADP	E	_	15	case	_	_
 15	euros	euro	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
-16	détectés	détectés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+16	détectés	détecté	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
 17	en	en	ADP	E	_	18	case	_	_
 18	circulation	circulation	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
 19	s'	se	PRON	P	Person=3|PronType=Prs	21	expl	_	SpaceAfter=No
@@ -20923,7 +20923,7 @@
 32	à	à	ADP	E	_	34	case	_	_
 33	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	34	det	_	_
 34	niveaux	niveau	NOUN	S	Gender=Masc|Number=Plur	30	nmod	_	_
-35	antérieurs	antérieurs	ADJ	A	Number=Plur	34	amod	_	_
+35	antérieurs	antérieur	ADJ	A	Number=Plur	34	amod	_	_
 36	à	à	ADP	E	_	38	case	_	_
 37	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
 38	mise	mise	NOUN	S	Gender=Fem|Number=Sing	34	nmod	_	_
@@ -20973,7 +20973,7 @@
 4	nombre	nombre	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
 5	de	de	ADP	E	_	7	case	_	_
 6	fausses	faux	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
-7	pièces	pièces	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	pièces	pièce	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 8	en	en	ADP	E	_	9	case	_	_
 9	euros	euro	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
 10	continue	continuer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21007,7 +21007,7 @@
 13	certain	certain	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 14	nombre	nombre	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
 15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
-16	opérations	opérations	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
+16	opérations	opération	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
 17	qui	qui	PRON	PR	PronType=Rel	20	nsubj	_	_
 18	leur	lui	PRON	PE	Number=Plur|Person=3|PronType=Prs	20	iobj	_	_
 19	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
@@ -21015,12 +21015,12 @@
 21	de	de	ADP	E	_	22	mark	_	_
 22	démanteler	démanteler	VERB	V	VerbForm=Inf	20	xcomp	_	_
 23	plusieurs	plusieurs	ADJ	A	Number=Plur	24	amod	_	_
-24	ateliers	ateliers	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	_
+24	ateliers	atelier	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	_
 25	et	et	CCONJ	CC	_	27	cc	_	_
 26	de	de	ADP	E	_	27	mark	_	_
 27	saisir	saisir	VERB	V	VerbForm=Inf	22	conj	_	_
 28	des	de	DET	RD	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
-29	stocks	stocks	NOUN	S	Gender=Fem|Number=Plur	27	obj	_	_
+29	stocks	stock	NOUN	S	Gender=Fem|Number=Plur	27	obj	_	_
 30	importants	important	ADJ	A	Gender=Masc|Number=Plur	29	amod	_	_
 31	de	de	ADP	E	_	33	case	_	_
 32	faux	faux	ADJ	A	Gender=Masc	33	amod	_	_
@@ -21028,7 +21028,7 @@
 34	et	et	CCONJ	CC	_	37	cc	_	_
 35	de	de	ADP	E	_	37	case	_	_
 36	fausses	faux	ADJ	A	Gender=Fem|Number=Plur	37	amod	_	_
-37	pièces	pièces	NOUN	S	Gender=Fem|Number=Plur	33	conj	_	_
+37	pièces	pièce	NOUN	S	Gender=Fem|Number=Plur	33	conj	_	_
 38	avant	avant	ADP	E	_	40	case	_	_
 39	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	40	det	_	_
 40	mise	mise	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	_
@@ -21141,7 +21141,7 @@
 3	qui	qui	PRON	PR	PronType=Rel	4	nsubj	_	_
 4	concerne	concerner	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	sanctions	sanctions	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	sanctions	sanction	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
 7	pénales	pénal	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	2	punct	_	_
 9	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -21208,7 +21208,7 @@
 27	informations	information	NOUN	S	Gender=Fem|Number=Plur	24	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	4	punct	_	_
 29	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
-30	offices	offices	NOUN	S	Gender=Masc|Number=Plur	38	nsubj:pass	_	_
+30	offices	office	NOUN	S	Gender=Masc|Number=Plur	38	nsubj:pass	_	_
 31	centraux	centraux	ADJ	A	Number=Sing	30	amod	_	_
 32	nationaux	national	ADJ	A	Gender=Masc|Number=Plur	30	amod	_	_
 33	(	(	PUNCT	FB	_	34	punct	_	SpaceAfter=No
@@ -21243,7 +21243,7 @@
 15	et	et	CCONJ	CC	_	16	cc	_	_
 16	gèrent	gèrer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 17	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	systèmes	systèmes	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+18	systèmes	système	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
 19	de	de	ADP	E	_	20	case	_	_
 20	communication	communication	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	10	punct	_	_
@@ -21263,7 +21263,7 @@
 11-12	des	_	_	_	_	_	_	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	contrefaçons	contrefaçons	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+13	contrefaçons	contrefaçon	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
 14	dans	dans	ADP	E	_	16	case	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	états	état	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
@@ -21275,7 +21275,7 @@
 22	(	(	PUNCT	FB	_	25	punct	_	SpaceAfter=No
 23	pour	pour	ADP	E	_	25	case	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
-25	billets	billets	NOUN	S	Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+25	billets	billet	NOUN	S	Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
 26	)	)	PUNCT	FB	_	25	punct	_	_
 27	et	et	CCONJ	CC	_	30	cc	_	_
 28	à	à	ADP	E	_	30	case	_	_
@@ -21284,7 +21284,7 @@
 31	(	(	PUNCT	FB	_	34	punct	_	SpaceAfter=No
 32	pour	pour	ADP	E	_	34	case	_	_
 33	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	34	det	_	_
-34	pièces	pièces	NOUN	S	Gender=Fem|Number=Plur	30	nmod	_	SpaceAfter=No
+34	pièces	pièce	NOUN	S	Gender=Fem|Number=Plur	30	nmod	_	SpaceAfter=No
 35	)	)	PUNCT	FB	_	34	punct	_	SpaceAfter=No
 36	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -21304,7 +21304,7 @@
 11	à	à	ADP	E	_	13	case	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	résultats	résultat	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
-14	actuels	actuels	ADJ	A	Number=Plur	13	amod	_	_
+14	actuels	actuel	ADJ	A	Number=Plur	13	amod	_	_
 15	en	en	ADP	E	_	16	case	_	_
 16	matière	matière	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
 17	de	de	ADP	E	_	18	case	_	_
@@ -21349,7 +21349,7 @@
 10	progresser	progresser	VERB	V	VerbForm=Inf	7	conj	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	résultats	résultat	NOUN	S	Gender=Masc|Number=Plur	10	obj:agent	_	_
-13	actuels	actuels	ADJ	A	Number=Plur	12	amod	_	_
+13	actuels	actuel	ADJ	A	Number=Plur	12	amod	_	_
 14	dans	dans	ADP	E	_	16	case	_	_
 15	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	lutte	lutte	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
@@ -21448,7 +21448,7 @@
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	examiné	examiné	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	dossiers	dossiers	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	dossiers	dossier	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	21	21	NUM	N	NumType=Card	9	nummod	_	_
 9	actions	action	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
@@ -21481,11 +21481,11 @@
 4	de	de	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	questionnaires	questionnaire	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
-7	adressés	adressés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+7	adressés	adressé	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
 8-9	aux	_	_	_	_	_	_	_	_
 8	à	à	ADP	E	_	10	case	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	organisateurs	organisateurs	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+10	organisateurs	organisateur	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
 11	et	et	CCONJ	CC	_	14	cc	_	_
 12-13	aux	_	_	_	_	_	_	_	_
 12	à	à	ADP	E	_	14	case	_	_
@@ -21495,7 +21495,7 @@
 16-17	des	_	_	_	_	_	_	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
-18	discussions	discussions	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+18	discussions	discussion	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
 19	avec	avec	ADP	E	_	21	case	_	_
 20	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	parties	partie	NOUN	S	Gender=Fem|Number=Plur	18	nmod	_	_
@@ -21605,11 +21605,11 @@
 28-29	des	_	_	_	_	_	_	_	_
 28	de	de	ADP	E	_	27	fixed	_	_
 29	les	le	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
-30	ateliers	ateliers	NOUN	S	Gender=Fem|Number=Plur	26	obl	_	SpaceAfter=No
+30	ateliers	atelier	NOUN	S	Gender=Fem|Number=Plur	26	obl	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	32	punct	_	_
-32	rencontres	rencontres	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	_
+32	rencontres	rencontre	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	_
 33	et	et	CCONJ	CC	_	34	cc	_	_
-34	séminaires	séminaires	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
+34	séminaires	séminaire	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
 35	;	;	PUNCT	FC	_	26	punct	_	_
 
 # sent_id = fr_partut-ud-668
@@ -21637,7 +21637,7 @@
 20	responsables	responsable	NOUN	S	Number=Plur	17	nmod	_	_
 21	de	de	ADP	E	_	22	case	_	_
 22	services	service	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
-23	répressifs	répressifs	ADJ	A	Number=Plur	22	amod	_	SpaceAfter=No
+23	répressifs	répressif	ADJ	A	Number=Plur	22	amod	_	SpaceAfter=No
 24	;	;	PUNCT	FC	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-669
@@ -21658,7 +21658,7 @@
 13	spécialisés	spécialisé	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
 14	ou	ou	CCONJ	CC	_	16	cc	_	_
 15	de	de	ADP	E	_	16	case	_	_
-16	chambres	chambres	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	_
+16	chambres	chambre	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	_
 17	de	de	ADP	E	_	18	case	_	_
 18	commerce	commerce	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
 19	n'	ne	PART	PART	Polarity=Neg	22	advmod	_	SpaceAfter=No
@@ -21865,7 +21865,7 @@
 3	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	également	également	ADV	B	_	6	advmod	_	_
 5	plus	plus	ADV	B	_	6	advmod	_	_
-6	rentables	rentables	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+6	rentables	rentable	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
 7	financièrement	financièrement	ADV	B	_	6	advmod	_	SpaceAfter=No
 8	;	;	PUNCT	FC	_	6	punct	_	_
 
@@ -21876,7 +21876,7 @@
 3	coopération	coopération	NOUN	S	Number=Sing	19	nsubj:pass	_	_
 4	entre	entre	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	institutions	institutions	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+6	institutions	institution	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
 7	européennes	européen	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
 8	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
 9	organes	organe	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
@@ -21957,7 +21957,7 @@
 20-21	des	_	_	_	_	_	_	_	_
 20	de	de	ADP	E	_	22	case	_	_
 21	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
-22	formateurs	formateurs	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
+22	formateurs	formateur	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
 23	à	à	ADP	E	_	25	case	_	_
 24	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	niveau	niveau	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
@@ -22027,7 +22027,7 @@
 23-24	des	_	_	_	_	_	_	_	_
 23	de	de	ADP	E	_	25	case	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
-25	formateurs	formateurs	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
+25	formateurs	formateur	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
 26	à	à	ADP	E	_	28	case	_	_
 27	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	niveau	niveau	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
@@ -22045,7 +22045,7 @@
 40	qui	qui	PRON	PR	PronType=Rel	41	nsubj	_	_
 41	doit	devoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	acl:relcl	_	_
 42	être	être	AUX	VA	VerbForm=Inf	43	aux:pass	_	_
-43	finalisé	finalisé	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	41	xcomp	_	_
+43	finalisé	finaliser	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	41	xcomp	_	_
 44	avant	avant	ADP	E	_	46	case	_	_
 45	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	46	det	_	SpaceAfter=No
 46	entrée	entrée	NOUN	S	Gender=Fem|Number=Sing	43	obl	_	_
@@ -22188,7 +22188,7 @@
 5	ces	ce	DET	DD	Number=Plur|PronType=Dem	6	det	_	_
 6	statistiques	statistique	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
 7	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
-8	prévisions	prévisions	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+8	prévisions	prévision	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	3	punct	_	_
 10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	niveau	niveau	NOUN	S	Gender=Masc|Number=Sing	23	nsubj	_	_
@@ -22259,7 +22259,7 @@
 14	projets	projet	NOUN	S	Gender=Masc|Number=Plur	17	nsubj:pass	_	_
 15	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	aux:pass	_	_
-17	lancés	lancés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+17	lancés	lancer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 18	;	;	PUNCT	FC	_	17	punct	_	_
 
 # sent_id = fr_partut-ud-689
@@ -22329,10 +22329,10 @@
 4	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	actions	action	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
 6	exécutées	exécutéer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
-7	consistent	consistent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	consistent	consister	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	dans	dans	ADP	E	_	10	case	_	_
 9	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	conférences	conférences	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+10	conférences	conférence	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	13	punct	_	_
 12	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	séminaires	séminaire	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
@@ -22359,7 +22359,7 @@
 5	se	se	PRON	P	Person=3|PronType=Prs	8	obj	_	_
 6	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 7	néanmoins	néanmoins	ADV	B	_	8	advmod	_	_
-8	développés	développés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+8	développés	développé	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 9	aussi	aussi	ADV	B	_	8	advmod	_	_
 10	et	et	CCONJ	CC	_	11	cc	_	_
 11	font	faire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
@@ -22488,12 +22488,12 @@
 9	grande	grand	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
 10	majorité	majorité	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
 11	des	un	DET	RI	Definite=Ind|Number=Plur|PronType=Art	12	det	_	_
-12	agents	agents	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+12	agents	agent	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
 13-14	des	_	_	_	_	_	_	_	_
 13	de	de	ADP	E	_	15	case	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	services	service	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
-16	répressifs	répressifs	ADJ	A	Number=Plur	15	amod	_	SpaceAfter=No
+16	répressifs	répressif	ADJ	A	Number=Plur	15	amod	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	12	punct	_	_
 18	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	12	appos	_	_
 19	qui	qui	PRON	PR	PronType=Rel	20	nsubj	_	_
@@ -22505,10 +22505,10 @@
 25	d'	de	ADP	E	_	26	mark	_	SpaceAfter=No
 26	établir	établir	VERB	V	VerbForm=Inf	23	csubj	_	_
 27	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
-28	liens	liens	NOUN	S	Gender=Fem|Number=Plur	26	obj	_	_
+28	liens	lien	NOUN	S	Gender=Fem|Number=Plur	26	obj	_	_
 29	professionnels	professionnel	ADJ	A	Gender=Masc|Number=Plur	28	amod	_	_
 30	plus	plus	ADV	B	_	31	advmod	_	_
-31	étroits	étroits	ADJ	A	Number=Plur	28	amod	_	_
+31	étroits	étroit	ADJ	A	Number=Plur	28	amod	_	_
 32	afin	afin	ADP	E	_	34	mark	_	_
 33	de	de	ADP	E	_	32	fixed	_	_
 34	lutter	lutter	VERB	V	VerbForm=Inf	26	advcl	_	_
@@ -22558,7 +22558,7 @@
 30	de	de	ADP	E	_	32	case	_	_
 31	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
 32	services	service	NOUN	S	Gender=Masc|Number=Plur	28	obl	_	_
-33	répressifs	répressifs	ADJ	A	Number=Plur	32	amod	_	SpaceAfter=No
+33	répressifs	répressif	ADJ	A	Number=Plur	32	amod	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	15	punct	_	_
 
 # sent_id = fr_partut-ud-699
@@ -22604,14 +22604,14 @@
 36	public	public	ADJ	A	Gender=Masc|Number=Sing	35	amod	_	SpaceAfter=No
 37	,	,	PUNCT	FF	_	38	punct	_	_
 38	banques	banque	NOUN	S	Gender=Fem|Number=Plur	31	conj	_	_
-39	centrales	centrales	ADJ	A	Gender=Fem|Number=Plur	38	amod	_	_
+39	centrales	central	ADJ	A	Gender=Fem|Number=Plur	38	amod	_	_
 40	nationales	national	ADJ	A	Gender=Fem|Number=Plur	38	amod	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	42	punct	_	_
 42	banques	banque	NOUN	S	Gender=Fem|Number=Plur	31	conj	_	_
 43	commerciales	commercial	ADJ	A	Gender=Fem|Number=Plur	42	amod	_	_
 44	et	et	CCONJ	CC	_	46	cc	_	_
 45	autres	autre	DET	DI	Number=Plur|PronType=Ind	46	det	_	_
-46	institutions	institutions	NOUN	S	Gender=Fem|Number=Plur	31	conj	_	_
+46	institutions	institution	NOUN	S	Gender=Fem|Number=Plur	31	conj	_	_
 47	financières	financier	ADJ	A	Gender=Fem|Number=Plur	46	amod	_	SpaceAfter=No
 48	)	)	PUNCT	FB	_	31	punct	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	7	punct	_	_
@@ -22634,7 +22634,7 @@
 14	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
 15	organisation	organisation	NOUN	S	Gender=Fem|Number=Sing	22	nsubj:pass	_	_
 16	de	de	ADP	E	_	17	case	_	_
-17	séminaires	séminaires	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
+17	séminaires	séminaire	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
 18	plus	plus	ADV	B	_	19	advmod	_	_
 19	techniques	technique	ADJ	A	Number=Plur	17	amod	_	_
 20	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	22	aux:pass	_	_
@@ -22710,15 +22710,15 @@
 7	par	par	ADP	E	_	9	case	_	_
 8	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	éléments	élément	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
-10	organisationnels	organisationnels	ADJ	A	Number=Plur	9	amod	_	_
+10	organisationnels	organisationnel	ADJ	A	Number=Plur	9	amod	_	_
 11	que	que	ADP	E	_	14	case	_	_
 12	par	par	ADP	E	_	14	case	_	_
 13	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	éléments	élément	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
-15	structurels	structurels	ADJ	A	Number=Plur	14	amod	_	_
+15	structurels	structurel	ADJ	A	Number=Plur	14	amod	_	_
 16	et	et	CCONJ	CC	_	20	cc	_	_
 17	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	efforts	efforts	NOUN	S	Gender=Masc|Number=Plur	20	nsubj:pass	_	_
+18	efforts	effort	NOUN	S	Gender=Masc|Number=Plur	20	nsubj:pass	_	_
 19	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
 20	entrepris	entreprendre	VERB	V	Gender=Masc|Tense=Past|VerbForm=Part	5	conj	_	_
 21	actuellement	actuellement	ADV	B	_	20	advmod	_	_
@@ -22740,7 +22740,7 @@
 7	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
 8	organisation	organisation	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
 9	de	de	ADP	E	_	10	case	_	_
-10	manifestations	manifestations	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+10	manifestations	manifestation	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	14	punct	_	_
 12	dont	dont	PRON	PR	PronType=Rel	14	nmod	_	_
 13	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
@@ -22822,7 +22822,7 @@
 # sent_id = fr_partut-ud-707
 # text = services répressifs, corps judiciaire, services financiers et techniques, et encourageait en particulier la création de réseaux permettant d'accroître l'efficience dans la lutte contre le délit de contrefaçon.
 1	services	service	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-2	répressifs	répressifs	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+2	répressifs	répressif	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	4	punct	_	_
 4	corps	corps	ADJ	A	Number=Plur	1	conj	_	_
 5	judiciaire	judiciaire	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
@@ -22877,7 +22877,7 @@
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	services	service	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
 20	secrets	secret	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
-21	américains	américains	ADJ	A	Number=Plur	19	amod	_	SpaceAfter=No
+21	américains	américain	ADJ	A	Number=Plur	19	amod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	19	punct	_	_
 23	assurent	assurer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 24	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -22961,7 +22961,7 @@
 13	pays	pays	NOUN	S	Gender=Masc	10	obl	_	_
 14	tiers	tiers	ADJ	A	Gender=Masc	13	amod	_	_
 15	ou	ou	CCONJ	CC	_	16	cc	_	_
-16	candidats	candidats	ADJ	A	Number=Plur	14	conj	_	SpaceAfter=No
+16	candidats	candidat	ADJ	A	Number=Plur	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	10	punct	_	_
 18	montrant	montrer	VERB	V	Tense=Pres|VerbForm=Part	10	advcl	_	_
 19	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
@@ -23144,7 +23144,7 @@
 36	membres	membre	NOUN	S	Gender=Masc|Number=Plur	35	compound	_	_
 37	et	et	CCONJ	CC	_	38	cc	_	_
 38	pays	pays	NOUN	S	Gender=Masc	36	conj	_	_
-39	candidats	candidats	ADJ	A	Number=Plur	38	amod	_	SpaceAfter=No
+39	candidats	candidat	ADJ	A	Number=Plur	38	amod	_	SpaceAfter=No
 40	,	,	PUNCT	FF	_	29	punct	_	_
 41	avec	avec	ADP	E	_	43	case	_	_
 42	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
@@ -23244,7 +23244,7 @@
 3	nombre	nombre	NOUN	S	Gender=Masc|Number=Sing	17	nsubj:pass	_	_
 4	d'	de	ADP	E	_	5	case	_	SpaceAfter=No
 5	actions	action	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
-6	axées	axées	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+6	axées	axer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
 7	sur	sur	ADP	E	_	9	case	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	protection	protection	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
@@ -23292,7 +23292,7 @@
 18	ne	ne	PART	PART	Polarity=Neg	21	advmod	_	_
 19	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	pas	pas	ADV	BN	Polarity=Neg	21	advmod	_	_
-21	réalisables	réalisables	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+21	réalisables	réalisable	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
 22	dans	dans	ADP	E	_	24	case	_	_
 23	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	cadre	cadre	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
@@ -23602,7 +23602,7 @@
 # sent_id = fr_partut-ud-728
 # text = Les adaptations proposées concernent l'augmentation de la proportion de cofinancement fournie par le budget communautaire;
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	adaptations	adaptations	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	adaptations	adaptation	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	proposées	proposer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
 4	concernent	concerner	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
@@ -23665,7 +23665,7 @@
 16	administrative	administratif	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
 17	dans	dans	ADP	E	_	19	case	_	_
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-19	enquêtes	enquêtes	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+19	enquêtes	enquête	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
 20	sur	sur	ADP	E	_	22	case	_	_
 21	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	terrain	terrain	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
@@ -23744,7 +23744,7 @@
 30-31	des	_	_	_	_	_	_	_	_
 30	de	de	ADP	E	_	32	case	_	_
 31	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
-32	pièces	pièces	NOUN	S	Gender=Fem|Number=Plur	29	nmod	_	_
+32	pièces	pièce	NOUN	S	Gender=Fem|Number=Plur	29	nmod	_	_
 33	en	en	ADP	E	_	34	case	_	_
 34	euros	euro	NOUN	S	Gender=Masc|Number=Plur	32	nmod	_	_
 35	qui	qui	PRON	PR	PronType=Rel	36	nsubj	_	_
@@ -23789,7 +23789,7 @@
 26	à	à	ADP	E	_	29	advmod	_	_
 27	savoir	savoir	VERB	V	VerbForm=Inf	26	fixed	_	_
 28	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
-29	agents	agents	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+29	agents	agent	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
 30	financiers	financier	ADJ	A	Gender=Masc|Number=Plur	29	amod	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	33	punct	_	_
 32	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
@@ -23797,7 +23797,7 @@
 34	public	public	ADJ	A	Gender=Masc|Number=Sing	33	amod	_	_
 35	et	et	CCONJ	CC	_	37	cc	_	_
 36	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	37	det	_	_
-37	techniciens	techniciens	NOUN	S	Gender=Fem|Number=Plur	29	conj	_	SpaceAfter=No
+37	techniciens	technicien	NOUN	S	Gender=Fem|Number=Plur	29	conj	_	SpaceAfter=No
 38	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-734
@@ -24205,7 +24205,7 @@
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	présente	présent	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
 7	Déclaration	déclaration	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
-8	Universelle	universelle	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+8	Universelle	universel	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
 9-10	des	_	_	_	_	_	_	_	_
 9	de	de	ADP	E	_	11	case	_	_
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
@@ -24249,7 +24249,7 @@
 48	esprit	esprit	NOUN	S	Gender=Masc|Number=Sing	42	obl	_	SpaceAfter=No
 49	,	,	PUNCT	FF	_	42	punct	_	_
 50	s'	se	PRON	P	Person=3|PronType=Prs	51	obj	_	SpaceAfter=No
-51	efforcent	efforcent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	SpaceAfter=No
+51	efforcent	efforcer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	SpaceAfter=No
 52	,	,	PUNCT	FF	_	51	punct	_	_
 53	par	par	ADP	E	_	55	case	_	_
 54	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	55	det	_	SpaceAfter=No
@@ -24300,10 +24300,10 @@
 98	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	99	det	_	_
 99	Etats	Etats	PROPN	SP	_	96	nmod	_	_
 100	membres	membre	NOUN	S	Gender=Masc|Number=Plur	99	compound	_	_
-101	eux-mêmes	eux-mêmes	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	99	nmod	_	_
+101	eux-mêmes	lui-même	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	99	nmod	_	_
 102	que	que	SCONJ	CS	_	104	cc	_	_
 103	parmi	parmi	ADP	E	_	104	case	_	_
-104	celles	celles	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	96	conj	_	_
+104	celles	celui	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	96	conj	_	_
 105-106	des	_	_	_	_	_	_	_	_
 105	de	de	ADP	E	_	107	case	_	_
 106	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	107	det	_	_
@@ -24351,7 +24351,7 @@
 10	doivent	devoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 11	agir	agir	VERB	V	VerbForm=Inf	10	xcomp	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	uns	uns	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+13	uns	un	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
 14	envers	envers	ADP	E	_	16	case	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	autres	autre	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	obl	_	_
@@ -24539,7 +24539,7 @@
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	esclaves	esclave	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
 9	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	interdits	interdits	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+10	interdits	interdit	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
 11	sous	sous	ADP	E	_	14	case	_	_
 12	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
 13	leurs	leur	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	14	det	_	_
@@ -24864,7 +24864,7 @@
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	objet	objet	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 6	d'	de	ADP	E	_	7	case	_	SpaceAfter=No
-7	immixtions	immixtions	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+7	immixtions	immixtion	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
 8	arbitraires	arbitraire	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
 9	dans	dans	ADP	E	_	11	case	_	_
 10	sa	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	11	det	_	_
@@ -24907,7 +24907,7 @@
 11	contre	contre	ADP	E	_	14	case	_	_
 12	de	de	ADP	E	_	11	fixed	_	_
 13	telles	tel	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	14	det	_	_
-14	immixtions	immixtions	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+14	immixtions	immixtion	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
 15	ou	ou	CCONJ	CC	_	18	cc	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	telles	tel	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	18	det	_	_
@@ -25082,7 +25082,7 @@
 16-17	des	_	_	_	_	_	_	_	_
 16	de	de	ADP	E	_	19	case	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-18	futurs	futurs	ADJ	A	Gender=Fem|Number=Plur	19	amod	_	_
+18	futurs	futur	ADJ	A	Gender=Fem|Number=Plur	19	amod	_	_
 19	époux	époux	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -25339,7 +25339,7 @@
 14-15	des	_	_	_	_	_	_	_	_
 14	de	de	ADP	E	_	16	case	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	affaires	affaires	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+16	affaires	affaire	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
 17	publiques	public	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	_
 18	de	de	ADP	E	_	20	case	_	_
 19	son	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	20	det	_	_
@@ -25390,7 +25390,7 @@
 5	exprimer	exprimer	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6	par	par	ADP	E	_	8	case	_	_
 7	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	élections	élections	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+8	élections	élection	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
 9	honnêtes	honnête	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
 10	qui	qui	PRON	PR	PronType=Rel	11	nsubj	_	_
 11	doivent	devoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
@@ -25648,7 +25648,7 @@
 # text = Tous les enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.
 1	Tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
-3	enfants	enfants	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	SpaceAfter=No
+3	enfants	enfant	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	qu'	que	SCONJ	CS	_	8	mark	_	SpaceAfter=No
 6	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
@@ -25688,7 +25688,7 @@
 2	éducation	éducation	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	doit	devoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	être	être	AUX	V	VerbForm=Inf	5	cop	_	_
-5	gratuite	gratuite	ADJ	A	Gender=Fem|Number=Sing	3	xcomp	_	SpaceAfter=No
+5	gratuite	gratuit	ADJ	A	Gender=Fem|Number=Sing	3	xcomp	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7-8	au	_	_	_	_	_	_	_	_
 7	à	à	ADP	E	_	9	case	_	_
@@ -25803,7 +25803,7 @@
 22-23	des	_	_	_	_	_	_	_	_
 22	de	de	ADP	E	_	24	case	_	_
 23	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
-24	arts	arts	NOUN	S	Gender=Fem|Number=Plur	21	obl	_	_
+24	arts	art	NOUN	S	Gender=Fem|Number=Plur	21	obl	_	_
 25	et	et	CCONJ	CC	_	27	cc	_	_
 26	de	de	ADP	E	_	27	mark	_	_
 27	participer	participer	VERB	V	VerbForm=Inf	9	conj	_	_
@@ -25838,7 +25838,7 @@
 11	intérêts	intérêt	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
 12	moraux	moraul	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
 13	et	et	CCONJ	CC	_	14	cc	_	_
-14	matériels	matériels	ADJ	A	Gender=Masc|Number=Plur	12	conj	_	_
+14	matériels	matériel	ADJ	A	Gender=Masc|Number=Plur	12	conj	_	_
 15	découlant	découler	VERB	V	Tense=Pres|VerbForm=Part	11	acl	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	toute	tout	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
