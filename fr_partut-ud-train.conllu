@@ -8077,8 +8077,8 @@
 33	de	de	ADP	E	_	35	case	_	_
 34	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	35	det	_	_
 35	transports	transport	NOUN	S	Gender=Masc|Number=Plur	28	acl:relcl	_	_
-36	ad	ad	X	SW	_	35	amod	_	_
-37	hoc	hoc	X	SW	_	36	flat:foreign	_	_
+36	ad	ad	X	SW	Foreign=Yes	35	amod	_	Lang=la
+37	hoc	hoc	X	SW	Foreign=Yes	36	flat:foreign	_	Lang=la
 38	de	de	ADP	E	_	39	case	_	_
 39	marchandises	marchandise	NOUN	S	Gender=Fem|Number=Plur	35	nmod	_	_
 40	dangereuses	dangereux	ADJ	A	Gender=Fem|Number=Plur	39	amod	_	_
@@ -10294,9 +10294,9 @@
 15	en	en	ADP	E	_	16	case	_	_
 16	place	place	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
 17	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	Social	social	X	SW	_	14	obj	_	_
-19	Risk	risk	X	SW	_	18	flat:foreign	_	_
-20	Capital	capital	X	SW	_	18	flat:foreign	_	_
+18	Social	social	X	SW	Foreign=Yes	14	obj	_	Lang=en
+19	Risk	risk	X	SW	Foreign=Yes	18	flat:foreign	_	Lang=en
+20	Capital	capital	X	SW	Foreign=Yes	18	flat:foreign	_	Lang=en
 21	et	et	CCONJ	CC	_	23	cc	_	_
 22	de	de	ADP	E	_	23	mark	_	_
 23	soutenir	soutenir	VERB	V	VerbForm=Inf	14	conj	_	_
