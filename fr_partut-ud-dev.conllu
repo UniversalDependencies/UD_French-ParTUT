@@ -292,7 +292,7 @@
 3	Koch	Koch	PROPN	SP	_	2	flat	_	_
 4	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	rédigé	rédiger	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
-6	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|PronType=Prs	8	det	_	_
+6	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	_
 7	bon	bon	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
 8	rapport	rapport	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	5	punct	_	_
@@ -1001,7 +1001,7 @@
 4	à	à	ADP	E	_	3	fixed	_	_
 5	30000	30000	NUM	N	NumType=Card	6	nummod	_	_
 6	fois	foi	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
-7	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|PronType=Prs	8	det	_	_
+7	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	_
 8	masse	masse	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	2	punct	_	_
 
