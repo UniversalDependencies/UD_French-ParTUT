@@ -11,16 +11,16 @@
     <test><sentences>110</sentences><tokens>2514</tokens><words>2603</words><fused>89</fused></test>
   </size>
   <lemmas unique="2950" /><!-- le, de, ,, ., à, et, un, être, que, ce, en, avoir, dans, pour, qui -->
-  <forms unique="4142" /><!-- de, ,, le, les, ., la, à, et, l', d', en, que, dans, est, une -->
+  <forms unique="4141" /><!-- de, ,, le, les, ., la, à, et, l', d', en, que, dans, est, une -->
   <fusions unique="4" /><!-- des, du, au, aux -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">1850</tag><!-- présent, européen, nouveau, important, premier, tel, grand, nécessaire, social, autre -->
-    <tag name="ADP">4667</tag><!-- de, à, en, dans, pour, sur, par, avec, que, entre -->
-    <tag name="ADV">1000</tag><!-- pas, plus, également, tout, ainsi, très, donc, lors, moins, bien -->
-    <tag name="AUX">847</tag><!-- être, avoir, faire -->
+    <tag name="ADP">4666</tag><!-- de, à, en, dans, pour, sur, par, avec, que, entre -->
+    <tag name="ADV">1001</tag><!-- pas, plus, également, tout, ainsi, très, donc, lors, moins, bien -->
+    <tag name="AUX">846</tag><!-- être, avoir, faire -->
     <tag name="CCONJ">854</tag><!-- et, ou, mais, car, que, soit, ni -->
-    <tag name="DET">4791</tag><!-- le, un, ce, tout, son, leur, votre, certain, mon, aucun -->
+    <tag name="DET">4792</tag><!-- le, un, ce, tout, son, leur, votre, certain, mon, aucun -->
     <tag name="INTJ">1</tag><!-- etc -->
     <tag name="NOUN">6052</tag><!-- commission, droit, programme, parlement, membre, oeuvre, état, monsieur, président, rapport -->
     <tag name="NUM">425</tag><!-- 1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005 -->
@@ -36,24 +36,24 @@
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="32">
     <feat name="Definite" value="Def" upos="DET">3351</feat><!-- le, les, la, l', des, d', de -->
-    <feat name="Definite" value="Ind" upos="DET">634</feat><!-- une, un, des, de, d', Aucune, du -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,VERB">5619</feat><!-- la, une, commission, cette, des, oeuvre, sécurité, toute, directive, sa -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,PRON,VERB">5712</feat><!-- le, un, il, ce, des, parlement, été, programme, membres, droit -->
+    <feat name="Definite" value="Ind" upos="DET">635</feat><!-- une, un, des, de, d', Aucune, du -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,VERB">5620</feat><!-- la, une, commission, cette, des, oeuvre, sécurité, toute, directive, sa -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,PRON,VERB">5714</feat><!-- le, un, il, ce, des, parlement, été, programme, membres, droit -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">118</feat><!-- voudrais, devrait, devraient, serait, devrions, pourrait, aurait, aurions, conviendrait, pourraient -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">37</feat><!-- cliquez, utilisez, Choisissez, Permettez, saisissez, Ajustez, Approfondissez, Assurez, Atteignez, Bâtissez -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">1583</feat><!-- est, a, sont, ont, peut, doit, sera, convient, fait, peuvent -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">1582</feat><!-- est, a, sont, ont, peut, doit, sera, convient, fait, peuvent -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">80</feat><!-- soit, soient, ait, aient, permettent, prenne, fonctionne, puissions, accélèrent, agisse -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">5042</feat><!-- les, nous, des, vous, sont, ces, ont, membres, états, tous -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,VERB">11165</feat><!-- le, la, l', est, une, un, ce, a, il, je -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">5044</feat><!-- les, nous, des, vous, sont, ces, ont, membres, états, tous -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,VERB">11164</feat><!-- le, la, l', est, une, un, ce, a, il, je -->
     <feat name="NumType" value="Card" upos="NUM">425</feat><!-- 1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005 -->
     <feat name="NumType" value="Ord" upos="ADJ,PRON">69</feat><!-- premier, première, dernier, dernière, 1er, sixième, troisième, derniers, premiers, I -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">672</feat><!-- nous, je, voudrais, j', suis, ai, avons, sommes, pense, devons -->
-    <feat name="Person" value="2" upos="AUX,PRON,VERB">198</feat><!-- vous, pouvez, avez, êtes, choisissez, cliquez, utilisez, -vous, permettez, souhaitez -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">197</feat><!-- vous, pouvez, avez, êtes, choisissez, cliquez, utilisez, -vous, permettez, souhaitez -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">2031</feat><!-- est, a, il, sont, ce, ont, s', se, on, peut -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">315</feat><!-- pas, ne, n' -->
     <feat name="Poss" value="Yes" upos="PRON">1</feat><!-- sien -->
     <feat name="PronType" value="Art" upos="DET">3974</feat><!-- le, les, la, l', une, un, des, d', de, du -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">513</feat><!-- ce, cette, ces, c', cet, de, cela, ceux, ceci, d' -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">514</feat><!-- ce, cette, ces, c', cet, de, cela, ceux, ceci, d' -->
     <feat name="PronType" value="Exc" upos="DET">1</feat><!-- quel -->
     <feat name="PronType" value="Ind" upos="DET,PRON">303</feat><!-- toute, tous, tout, certains, aucune, toutes, autres, chacun, chaque, quelques -->
     <feat name="PronType" value="Int" upos="DET,PRON">8</feat><!-- quel, quelle, Quels, quelles -->
@@ -63,8 +63,8 @@
     <feat name="Tense" value="Fut" upos="AUX,VERB">96</feat><!-- sera, devra, pourront, seront, aura, auront, aurai, dirai, ferai, pourra -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">63</feat><!-- était, avait, avaient, avions, provenaient, recommandait, étaient, arrivait, attendait, avais -->
     <feat name="Tense" value="Past" upos="AUX,VERB">840</feat><!-- été, dite, fait, tenu, compris, donné, mis, dit, soumis, nommés -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">1809</feat><!-- est, a, sont, ont, peut, voudrais, doit, soit, devrait, concernant -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">1818</feat><!-- est, a, sont, ont, peut, voudrais, doit, devrait, soit, sera -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">1808</feat><!-- est, a, sont, ont, peut, voudrais, doit, soit, devrait, concernant -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">1817</feat><!-- est, a, sont, ont, peut, voudrais, doit, devrait, soit, sera -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">775</feat><!-- être, faire, avoir, améliorer, dire, abonner, assurer, savoir, compter, utiliser -->
     <feat name="VerbForm" value="Part" upos="AUX,VERB">989</feat><!-- été, dite, concernant, fait, tenu, étant, compris, donné, mis, soumis -->
   </feats>
@@ -79,20 +79,20 @@
     <dep name="aux">285</dep>
     <dep name="aux:caus">13</dep>
     <dep name="aux:pass">241</dep>
-    <dep name="case">4075</dep>
+    <dep name="case">4074</dep>
     <dep name="cc">876</dep>
     <dep name="ccomp">220</dep>
     <dep name="compound">71</dep>
     <dep name="conj">1031</dep>
-    <dep name="cop">307</dep>
+    <dep name="cop">306</dep>
     <dep name="csubj">63</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1</dep>
-    <dep name="det">4758</dep>
+    <dep name="det">4759</dep>
     <dep name="discourse">15</dep>
     <dep name="dislocated">11</dep>
     <dep name="expl">203</dep>
-    <dep name="fixed">318</dep>
+    <dep name="fixed">319</dep>
     <dep name="flat">138</dep>
     <dep name="flat:foreign">3</dep>
     <dep name="flat:name">61</dep>

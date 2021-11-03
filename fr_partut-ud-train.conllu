@@ -1382,10 +1382,10 @@
 23	de	de	ADP	E	_	25	case	_	_
 24	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	responsabilité	responsabilité	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	_
-26	vis-à-vis	vis-à-vis	ADJ	A	_	25	amod	_	_
+26	vis-à-vis	vis-à-vis	ADV	B	_	25	nmod	_	_
 27	d'	de	ADP	E	_	29	case	_	SpaceAfter=No
 28	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	tiers	tiers	NOUN	S	Gender=Masc	25	nmod	_	_
+29	tiers	tiers	NOUN	S	Gender=Masc	26	obl	_	_
 30	en	en	ADP	E	_	31	case	_	_
 31	raison	raison	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	_
 32	de	de	ADP	E	_	34	case	_	_
