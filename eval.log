@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_French-ParTUT:
-commit 8599c0a0cd2433e116efa3aa610237891ac62f02
-Merge: 7c47203 8304388
+commit 2458d0b42e00b9bc5468dc5679eed6091b815551
+Merge: 72a311d 14ed63f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 28595 of 28595 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.70646375473456.
@@ -15,7 +15,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 18635 out of 28595 total words have one or more features.
+Features: 18636 out of 28595 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
