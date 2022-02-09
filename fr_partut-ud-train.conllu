@@ -4147,7 +4147,7 @@
 7	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	semaine	semaine	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
 9	dernière	dernier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
-10	­	­	PUNCT	FB	_	2	punct	_	_
+10	­	-	PUNCT	FB	Typo=Yes	2	punct	_	CorrectForm=-
 11	qui	qui	PRON	PR	PronType=Rel	13	nsubj	_	_
 12	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	nés	naître	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
@@ -4181,7 +4181,7 @@
 40	dehors	dehors	ADV	B	_	39	fixed	_	_
 41	de	de	ADP	E	_	39	fixed	_	_
 42	celle-ci	celui-ci	PRON	PD	Gender=Fem|Number=Sing|Person=3|PronType=Dem	38	obl	_	_
-43	­	­	PUNCT	FB	_	2	punct	_	_
+43	­	-	PUNCT	FB	Typo=Yes	2	punct	_	CorrectForm=-
 44	créent	créer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 45	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
 46	dilemme	dilemme	NOUN	S	Gender=Masc|Number=Sing	44	obj	_	SpaceAfter=No
@@ -4748,7 +4748,7 @@
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	dernier	dernier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
 9	vote	vote	NOUN	S	Gender=Masc|Number=Sing	36	obl	_	_
-10	­	­	PUNCT	FB	_	9	punct	_	_
+10	­	-	PUNCT	FB	Typo=Yes	9	punct	_	CorrectForm=-
 11	et	et	CCONJ	CC	_	15	cc	_	_
 12	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 13	m'	me	PRON	P	Person=1|PronType=Prs	15	obj	_	SpaceAfter=No
@@ -5738,7 +5738,7 @@
 40	de	de	ADP	E	_	42	case	_	_
 41	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	SpaceAfter=No
 42	Bretagne	Bretagne	PROPN	SP	_	39	obl	_	_
-43	­	­	PUNCT	FB	_	2	punct	_	_
+43	­	-	PUNCT	FB	Typo=Yes	2	punct	_	CorrectForm=-
 44	ces	ce	DET	DD	Number=Plur|PronType=Dem	45	det	_	_
 45	événements	événement	NOUN	S	Gender=Masc|Number=Plur	49	nsubj	_	_
 46	s'	se	PRON	P	Person=3|PronType=Prs	49	expl	_	SpaceAfter=No
@@ -5755,7 +5755,7 @@
 55	quatre	quatre	NUM	N	NumType=Card	57	nummod	_	_
 56	derniers	dernier	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	57	amod	_	_
 57	mois	mois	NOUN	S	Gender=Masc|Number=Plur	52	nmod	_	_
-58	­	­	PUNCT	FB	_	49	punct	_	_
+58	­	-	PUNCT	FB	Typo=Yes	49	punct	_	CorrectForm=-
 59	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	60	iobj	_	_
 60	rappellent	rappeler	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 61	que	que	SCONJ	CS	_	64	mark	_	_
@@ -7091,11 +7091,11 @@
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 15	deux	deux	NUM	N	NumType=Card	16	nummod	_	_
 16	institutions	institution	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
-17	­	­	PUNCT	FB	_	16	punct	_	_
+17	­	-	PUNCT	FB	Typo=Yes	16	punct	_	CorrectForm=-
 18	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	16	appos	_	_
 19	et	et	CCONJ	CC	_	20	cc	_	_
 20	commission	commission	NOUN	S	Gender=Fem|Number=Sing	18	conj	_	_
-21	­	­	PUNCT	FB	_	16	punct	_	_
+21	­	-	PUNCT	FB	Typo=Yes	16	punct	_	CorrectForm=-
 22	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	importante	important	ADJ	A	Gender=Fem|Number=Sing	2	ccomp	_	_
 24	et	et	CCONJ	CC	_	48	cc	_	_
@@ -11621,10 +11621,10 @@
 # text = Tout ceci ­ j'insiste ­ avec la participation de l'entreprise privée qui, en unissant ses efforts à ceux des administrations publiques, en les complétant, sans qu'il y ait aucune obstruction ou exclusion, est celle qui créera des richesses sociales et des postes de travail.
 1	Tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
 2	ceci	ceci	PRON	PD	Number=Sing|Person=3|PronType=Dem	0	root	_	_
-3	­	­	PUNCT	FB	_	5	punct	_	_
+3	­	-	PUNCT	FB	Typo=Yes	5	punct	_	CorrectForm=-
 4	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
 5	insiste	insister	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-6	­	­	PUNCT	FB	_	5	punct	_	_
+6	­	-	PUNCT	FB	Typo=Yes	5	punct	_	CorrectForm=-
 7	avec	avec	ADP	E	_	9	case	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	participation	participation	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
