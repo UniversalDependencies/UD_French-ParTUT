@@ -21,11 +21,11 @@
 2	utilisation	utilisation	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
-5	Oeuvre	Oeuvre	PROPN	SP	_	2	nmod	_	_
+5	Oeuvre	œuvre	PROPN	SP	_	2	nmod	_	_
 6	autrement	autrement	ADV	B	_	9	mark	_	_
 7	qu'	que	SCONJ	CS	_	6	fixed	_	SpaceAfter=No
 8	explicitement	explicitement	ADV	B	_	9	advmod	_	_
-9	autorisée	autorisér	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+9	autorisée	autoriser	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 10	selon	selon	ADP	E	_	12	case	_	_
 11	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 12	contrat	contrat	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
@@ -67,7 +67,7 @@
 25	applicable	applicable	ADJ	A	Number=Sing	24	amod	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	21	punct	_	_
 27	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	28	det	_	SpaceAfter=No
-28	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	30	nsubj:pass	_	_
+28	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	30	nsubj:pass	_	_
 29	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	_	_
 30	mise	mettre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 31	à	à	ADP	E	_	32	case	_	_
@@ -103,7 +103,7 @@
 60	exactitude	exactitude	NOUN	S	Gender=Fem|Number=Sing	56	conj	_	_
 61	de	de	ADP	E	_	63	case	_	_
 62	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	63	det	_	SpaceAfter=No
-63	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	60	nmod	_	SpaceAfter=No
+63	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	60	nmod	_	SpaceAfter=No
 64	.	.	PUNCT	FS	_	30	punct	_	_
 
 # sent_id = fr_partut-ud-64
@@ -127,7 +127,7 @@
 17	relative	relatif	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
 18	à	à	ADP	E	_	20	case	_	_
 19	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
-20	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+20	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-80
@@ -356,7 +356,7 @@
 30	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
 31	soient	être	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	_
 32	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
-33	régions	region	NOUN	S	Gender=Fem|Number=Plur	27	acl	_	_
+33	régions	région	NOUN	S	Gender=Fem|Number=Plur	27	acl	_	_
 34	de	de	ADP	E	_	35	case	_	_
 35	transit	transit	NOUN	S	Gender=Masc|Number=Sing	33	nmod	_	_
 36	ou	ou	CCONJ	CC	_	37	cc	_	_
@@ -493,7 +493,7 @@
 55	mais	mais	CCONJ	CC	_	41	cc	_	_
 56	qui	qui	PRON	PR	PronType=Rel	59	nsubj	_	_
 57	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	59	cop	_	_
-58	hélas	helas	ADV	B	_	59	discourse	_	_
+58	hélas	hélas	ADV	B	_	59	discourse	_	_
 59	malade	malade	ADJ	A	Number=Sing	41	acl:relcl	_	SpaceAfter=No
 60	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -632,7 +632,7 @@
 1	elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	s'	se	PRON	P	Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
 3	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	consacrée	consacrée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	consacrée	consacrer	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	à	à	ADP	E	_	6	case	_	_
 6	fond	fond	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
 7	à	à	ADP	E	_	9	case	_	_
@@ -684,7 +684,7 @@
 18	dans	dans	ADP	E	_	20	case	_	_
 19	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	rapports	rapport	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	_
-21	antérieurs	anterieur	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	SpaceAfter=No
+21	antérieurs	antérieur	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-421
@@ -762,7 +762,7 @@
 1	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	2	det	_	_
 2	mise	mise	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	en	en	ADP	E	_	4	case	_	_
-4	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+4	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
 5	impliquerait	impliquer	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	certainement	certainement	ADV	B	_	5	advmod	_	_
 7	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -1147,7 +1147,7 @@
 25	dignité	dignité	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	_
 26	humaine	humain	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	_
 27	et	et	CCONJ	CC	_	28	cc	_	_
-28	complétée	complétér	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	conj	_	SpaceAfter=No
+28	complétée	compléter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	conj	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	28	punct	_	_
 30	s'	si	SCONJ	CS	_	33	mark	_	SpaceAfter=No
 31	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	expl	_	_
@@ -1455,7 +1455,7 @@
 3	et	et	CCONJ	CC	_	5	cc	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Roumanie	Roumanie	PROPN	SP	_	2	conj	_	_
-6	adhèrent	adhèrent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	adhèrent	adhèrer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7-8	aux	_	_	_	_	_	_	_	_
 7	à	à	ADP	E	_	9	case	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
@@ -1515,7 +1515,7 @@
 # text = La commission soumet les projets de protocoles au conseil pour qu'ils soient conclus.
 1	La	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	commission	commission	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	soumet	soumettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	soumet	soumettre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	projets	projet	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
 6	de	de	ADP	E	_	7	case	_	_
@@ -1807,7 +1807,7 @@
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	commission	commission	NOUN	S	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
 7	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
-8	assistée	assistée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	assistée	assister	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	par	par	ADP	E	_	11	case	_	_
 10	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	comité	comité	NOUN	S	Gender=Masc|Number=Sing	8	obl:agent	_	SpaceAfter=No
@@ -1962,7 +1962,7 @@
 19	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	facilité	facilité	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
 21	Schengen	Schengen	PROPN	SP	_	20	nmod	_	_
-22	temporaires	temporaires	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	temporaires	temporaire	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-978
@@ -2336,7 +2336,7 @@
 1	Deux	deux	NUM	N	NumType=Card	2	nummod	_	_
 2	juges	juge	NOUN	S	Gender=Masc|Number=Plur	4	nsubj:pass	_	_
 3	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	nommés	nommér	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	nommés	nommer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 5	à	à	ADP	E	_	7	case	_	_
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Cour	Cour	PROPN	SP	_	4	obl	_	_
@@ -2346,7 +2346,7 @@
 11	deux	deux	NUM	N	NumType=Card	12	nummod	_	_
 12	juges	juge	NOUN	S	Gender=Masc|Number=Plur	14	nsubj:pass	_	_
 13	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
-14	nommés	nommér	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
+14	nommés	nommer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
 15-16	au	_	_	_	_	_	_	_	_
 15	à	à	ADP	E	_	17	case	_	_
 16	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_

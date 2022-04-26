@@ -24,7 +24,7 @@
 # sent_id = fr_partut-ud-7
 # text = L'oeuvre (telle que définie ci-dessous) est mise à disposition selon les termes du présent contrat appelé Contrat Public Creative Commons (dénommé ici «CPCC» ou «Contrat»).
 1	L'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	10	nsubj:pass	_	_
+2	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	10	nsubj:pass	_	_
 3	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
 4	telle	tel	ADJ	A	Gender=Fem|Number=Sing	6	mark	_	_
 5	que	que	SCONJ	CS	_	4	fixed	_	_
@@ -338,7 +338,7 @@
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-6	réitère	réitèrer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	réitère	réitérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	E	_	8	case	_	_
 8	nouveau	nouveau	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	_
 9	mes	mon	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	10	det	_	_
@@ -402,7 +402,7 @@
 12	représente	représenter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
 13	presque	presque	ADP	E	_	15	case	_	_
 14	quatre	quatre	NUM	N	NumType=Card	15	nummod	_	_
-15	cinquièmes	cinquieme	ADJ	NO	Number=Plur|NumType=Ord	12	obl	_	_
+15	cinquièmes	cinquième	ADJ	NO	Number=Plur|NumType=Ord	12	obl	_	_
 16-17	du	_	_	_	_	_	_	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
@@ -457,7 +457,7 @@
 29	qui	qui	PRON	PR	PronType=Rel	32	nsubj	_	_
 30	s'	se	PRON	P	PronType=Prs	32	obj	_	SpaceAfter=No
 31	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
-32	incrustée	incrustée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	28	acl:relcl	_	_
+32	incrustée	incruster	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	28	acl:relcl	_	_
 33	dans	dans	ADP	E	_	35	case	_	_
 34	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	35	det	_	SpaceAfter=No
 35	élaboration	élaboration	NOUN	S	Gender=Fem|Number=Sing	32	obl	_	_
@@ -494,7 +494,7 @@
 18	de	de	ADP	E	_	20	case	_	_
 19	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
 20	pays	pays	NOUN	S	Gender=Masc	14	nmod	_	_
-21	périphériques	peripherique	ADJ	A	Number=Plur	20	amod	_	SpaceAfter=No
+21	périphériques	périphérique	ADJ	A	Number=Plur	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	5	punct	_	_
 23	principalement	principalement	ADV	B	_	26	advmod	_	_
 24	par	par	ADP	E	_	26	case	_	_
@@ -1028,7 +1028,7 @@
 # sent_id = fr_partut-ud-880
 # text = Ils génèrent l'humus sur tous les continents de la Terre.
 1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	génèrent	génèrer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	génèrent	générer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	humus	humus	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
 5	sur	sur	ADP	E	_	8	case	_	_
@@ -1127,7 +1127,7 @@
 4	faire	faire	AUX	V	VerbForm=Inf	5	aux:caus	_	_
 5	éclater	éclater	VERB	V	VerbForm=Inf	2	ccomp	_	_
 6	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	préjugé	préjuggé	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	préjugé	préjugé	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
 8	une	un	DET	RI	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	_
 9	fois	foi	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
 10	pour	pour	ADP	E	_	11	case	_	_
@@ -1333,7 +1333,7 @@
 1	Et	et	CCONJ	CC	_	4	cc	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	spores	spore	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
-4	germinent	germinent	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	germinent	XXXgerminent	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	10	punct	_	_
 6	et	et	CCONJ	CC	_	10	cc	_	_
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -1997,7 +1997,7 @@
 2	terre	terre	NOUN	S	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
-5	frappée	frappée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	frappée	frapper	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	par	par	ADP	E	_	8	case	_	_
 7	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	astéroïde	astéroïde	NOUN	S	Gender=Masc|Number=Sing	5	obl:agent	_	SpaceAfter=No
@@ -2009,7 +2009,7 @@
 14	débris	débris	ADJ	A	Number=Plur	12	nmod	_	_
 15	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	aux:pass	_	_
-17	larguée	larguée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+17	larguée	larguer	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
 18	dans	dans	ADP	E	_	20	case	_	_
 19	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
 20	atmosphère	atmosphère	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
