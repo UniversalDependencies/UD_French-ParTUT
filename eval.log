@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_French-ParTUT:
-commit 2458d0b42e00b9bc5468dc5679eed6091b815551
-Merge: 72a311d 14ed63f
+commit 29d1ce5cd27aadbd5b6b855e7afb4efdd1cc710f
+Merge: 0a5ccaf 92812da
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 28595 of 28595 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.70646375473456.
+Size: counted 28586 of 28586 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.70583417497385.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,14 +15,14 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 18636 out of 28595 total words have one or more features.
+Features: 18643 out of 28586 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 34 out of 37 found in the corpus.
+Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
                TOTAL          7
 Udapi: found 7 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 28595 words.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 28586 words.
 Genres: found 3 out of 17 known.
 validate.py --lang fr --max-err=10 UD_French-ParTUT/fr_partut-ud-dev.conllu
 *** PASSED ***
@@ -34,11 +34,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.485430033627564) = 0.124469239391683
+(weight=0.256410256410256) * (score{size}=0.485384463124898) = 0.12445755464741
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.997552019583843) = 0.306939082948875
-(weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.703583121574181) * (availability=1) * (validity=1) = 0.703583121574181
+(weight=0.307692307692308) * (score{udapi}=0.99755124886308) = 0.306938845804025
+(weight=0.0769230769230769) * (score{udeprels}=0.713513513513514) = 0.0548856548856549
+(TOTAL score=0.701907998021855) * (availability=1) * (validity=1) = 0.701907998021855
 STARS = 3.5
-UD_French-ParTUT	0.703583121574181	3.5
+UD_French-ParTUT	0.701907998021855	3.5
