@@ -7347,7 +7347,7 @@
 54	efforts	effort	NOUN	S	Gender=Masc|Number=Plur	52	obj	_	_
 55	pour	pour	ADP	E	_	56	mark	_	_
 56	voir	voir	VERB	V	VerbForm=Inf	52	advcl	_	_
-57	comment	comme	SCONJ	CS	_	58	mark	_	_
+57	comment	comment	ADV	B	_	58	advmod	_	_
 58	accroître	accroître	VERB	V	VerbForm=Inf	56	ccomp	_	_
 59	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	60	det	_	_
 60	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	58	obj	_	SpaceAfter=No
@@ -10495,7 +10495,7 @@
 15	pas	pas	ADV	BN	Polarity=Neg	14	advmod	_	_
 16	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
 17	plus	plus	ADV	B	_	16	fixed	_	_
-18	comment	comme	SCONJ	CS	_	19	mark	_	_
+18	comment	comment	ADV	B	_	19	advmod	_	_
 19	assurer	assurer	VERB	V	VerbForm=Inf	14	ccomp	_	_
 20	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	maximum	maximum	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
@@ -26407,7 +26407,7 @@
 16	et	et	CCONJ	CC	_	18	cc	_	_
 17	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
 18	voyons	voir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
-19	comment	comme	SCONJ	CS	_	25	mark	_	_
+19	comment	comment	ADV	B	_	25	advmod	_	_
 20	ces	ce	DET	DD	Number=Plur|PronType=Dem	21	det	_	_
 21	animaux	animal	NOUN	S	Gender=Masc|Number=Plur	25	nsubj	_	_
 22	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
@@ -27022,7 +27022,7 @@
 15	était	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 16	d'	de	ADP	E	_	17	mark	_	SpaceAfter=No
 17	apprendre	apprendre	VERB	V	VerbForm=Inf	15	ccomp	_	_
-18	comment	comme	SCONJ	CS	_	20	mark	_	_
+18	comment	comment	ADV	B	_	20	advmod	_	_
 19	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 20	introduit	introduire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
 21	clandestinement	clandestinement	ADV	B	_	20	advmod	_	_
