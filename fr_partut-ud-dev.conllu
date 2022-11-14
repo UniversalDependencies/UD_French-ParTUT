@@ -524,7 +524,7 @@
 
 # sent_id = fr_partut-ud-434
 # text = comment pouvons-nous faire en sorte que la politique de l'union s'articule avec les politiques nationales subsidiaires d'aménagement du territoire.
-1	comment	comme	SCONJ	CS	_	2	mark	_	_
+1	comment	comment	ADV	B	_	2	advmod	_	_
 2	pouvons	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 4	faire	faire	VERB	V	VerbForm=Inf	2	xcomp	_	_
