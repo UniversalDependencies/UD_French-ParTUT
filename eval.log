@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 13 22:03:41 2022 +0100
 Evaluating the following revision of UD_French-ParTUT:
-commit 29d1ce5cd27aadbd5b6b855e7afb4efdd1cc710f
-Merge: 0a5ccaf 92812da
+commit 36203c507fa96fcfe705c73ee0debf526b33b697
+Merge: 3f02756 9ca7f89
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 28586 of 28586 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.70583417497385.
