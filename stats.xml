@@ -17,7 +17,7 @@
   <tags unique="17">
     <tag name="ADJ">1850</tag><!-- présent, européen, nouveau, important, premier, tel, grand, nécessaire, social, autre -->
     <tag name="ADP">4666</tag><!-- de, à, en, dans, pour, sur, par, avec, que, entre -->
-    <tag name="ADV">1001</tag><!-- pas, plus, également, tout, ainsi, très, donc, lors, moins, bien -->
+    <tag name="ADV">1006</tag><!-- pas, plus, également, tout, ainsi, très, donc, lors, moins, bien -->
     <tag name="AUX">846</tag><!-- être, avoir, faire -->
     <tag name="CCONJ">854</tag><!-- et, ou, mais, car, que, soit, ni -->
     <tag name="DET">4784</tag><!-- le, un, ce, tout, son, leur, votre, certain, mon, aucun -->
@@ -28,7 +28,7 @@
     <tag name="PRON">1611</tag><!-- qui, il, nous, je, ce, se, vous, que, le, on -->
     <tag name="PROPN">474</tag><!-- Facebook, Pericles, Europe, Européenne, Union, Commons, Creative, CE, CEE, Koch -->
     <tag name="PUNCT">2631</tag><!-- ,, ., ), (, -, /, ;, ", ?, : -->
-    <tag name="SCONJ">443</tag><!-- que, si, comme, lorsque, quand, pourquoi, puisque, de, parce -->
+    <tag name="SCONJ">438</tag><!-- que, si, lorsque, comme, quand, pourquoi, puisque, de, parce -->
     <tag name="SYM">10</tag><!-- % -->
     <tag name="VERB">2737</tag><!-- avoir, pouvoir, devoir, faire, dire, vouloir, concerner, être, établir, présenter -->
     <tag name="X">10</tag><!-- 217a, 4d, X, a, ad, b, capital, hoc, risk, social -->
@@ -78,7 +78,7 @@
     <dep name="acl">487</dep>
     <dep name="acl:relcl">301</dep>
     <dep name="advcl">303</dep>
-    <dep name="advmod">1085</dep>
+    <dep name="advmod">1090</dep>
     <dep name="amod">1451</dep>
     <dep name="appos">67</dep>
     <dep name="aux">285</dep>
@@ -103,7 +103,7 @@
     <dep name="flat:name">61</dep>
     <dep name="iobj">111</dep>
     <dep name="iobj:agent">1</dep>
-    <dep name="mark">855</dep>
+    <dep name="mark">850</dep>
     <dep name="nmod">2437</dep>
     <dep name="nsubj">1427</dep>
     <dep name="nsubj:caus">4</dep>
