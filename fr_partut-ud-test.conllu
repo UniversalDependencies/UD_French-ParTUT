@@ -2376,9 +2376,9 @@
 17	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	paragraphe	paragraphe	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
 19	1	1	NUM	N	NumType=Card	18	nummod	_	_
-20	expire	expire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+20	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	6	6	NUM	N	NumType=Card	20	nmod	_	_
+22	6	6	NUM	N	NumType=Card	20	obl	_	_
 23	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	22	flat	_	_
 24	2009	2009	NUM	N	NumType=Card	22	flat	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	20	punct	_	_
@@ -2402,9 +2402,9 @@
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
 5	autre	autre	ADJ	A	Number=Sing	6	amod	_	_
 6	juge	juge	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-7	expire	expire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	6	6	NUM	N	NumType=Card	7	nmod	_	_
+9	6	6	NUM	N	NumType=Card	7	obl	_	_
 10	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	_
 11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	7	punct	_	_
@@ -2431,9 +2431,9 @@
 15	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	paragraphe	paragraphe	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
 17	1	1	NUM	N	NumType=Card	16	nummod	_	_
-18	expire	expire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+18	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	31	31	NUM	N	NumType=Card	18	nmod	_	_
+20	31	31	NUM	N	NumType=Card	18	obl	_	_
 21	août	août	NOUN	S	Gender=Masc|Number=Sing	20	flat	_	_
 22	2007	2007	NUM	N	NumType=Card	20	flat	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	18	punct	_	_
@@ -2446,9 +2446,9 @@
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
 5	autre	autre	ADJ	A	Number=Sing	6	amod	_	_
 6	juge	juge	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-7	expire	expire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	31	31	NUM	N	NumType=Card	7	nmod	_	_
+9	31	31	NUM	N	NumType=Card	7	obl	_	_
 10	août	août	NOUN	S	Gender=Masc|Number=Sing	9	flat	_	_
 11	2010	2010	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	7	punct	_	_
