@@ -745,8 +745,8 @@
 23	de	de	ADP	E	_	24	case	_	_
 24	2003	2003	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	26	punct	_	_
-26	voire	voire	VERB	V	VerbForm=Inf	12	conj	_	_
-27	influencer	influencer	VERB	V	VerbForm=Inf	26	ccomp	_	_
+26	voire	voire	CCONJ	CC	_	27	cc	_	_
+27	influencer	influencer	VERB	V	VerbForm=Inf	12	conj	_	_
 28	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 29	seconde	second	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	30	amod	_	_
 30	phase	phase	NOUN	S	Gender=Fem|Number=Sing	27	obj	_	_

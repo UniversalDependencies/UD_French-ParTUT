@@ -21696,12 +21696,12 @@
 8	évaluateur	évaluateur	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
 9	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	constaté	constater	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-11	que	que	SCONJ	CS	_	14	mark	_	_
+11	que	que	SCONJ	CS	_	16	mark	_	_
 12	certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
-13	projets	projet	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
-14	étaient	être	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+13	projets	projet	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+14	étaient	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	particulièrement	particulièrement	ADV	B	_	16	advmod	_	_
-16	coûteux	coûteux	ADJ	A	Number=Sing	14	ccomp	_	_
+16	coûteux	coûteux	ADJ	A	Number=Sing	10	ccomp	_	_
 17	et	et	CCONJ	CC	_	19	cc	_	_
 18	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 19	mis	mettre	VERB	V	Gender=Masc|Tense=Past|VerbForm=Part	10	conj	_	_
