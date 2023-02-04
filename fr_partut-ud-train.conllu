@@ -1117,7 +1117,7 @@
 24	de	de	ADP	E	_	26	case	_	_
 25	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	SpaceAfter=No
 26	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	_
-27	dite	dite	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	acl	_	_
+27	dite	dire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	acl	_	_
 28	dérivée	dérivé	ADJ	A	Gender=Fem|Number=Sing	27	xcomp	_	_
 29	en	en	ADP	E	_	30	case	_	_
 30	elle-même	lui-même	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nmod	_	SpaceAfter=No
@@ -6785,7 +6785,7 @@
 4	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 5	déjà	déjà	ADV	B	_	7	advmod	_	_
 6	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
-7	évoqué	évoqué	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	évoqué	évoquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	:	:	PUNCT	FC	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-220
@@ -6914,7 +6914,7 @@
 6	aussi	aussi	ADV	B	_	5	advmod	_	_
 7	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	aux:pass	_	_
 8	déjà	déjà	ADV	B	_	9	advmod	_	_
-9	évoqué	évoqué	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+9	évoqué	évoquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = fr_partut-ud-225
