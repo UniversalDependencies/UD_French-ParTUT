@@ -4078,7 +4078,7 @@
 5	écoulé	écouler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	suffisamment	suffisamment	ADV	B	_	8	advmod	_	_
 7	de	de	ADP	E	_	6	fixed	_	_
-8	temps	temp	NOUN	S	Gender=Masc	5	nsubj	_	_
+8	temps	temps	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
 9	pour	pour	ADP	E	_	13	mark	_	_
 10	que	que	SCONJ	CS	_	9	fixed	_	_
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -4251,7 +4251,7 @@
 42	avons	avoir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	29	ccomp	_	_
 43	parfaitement	parfaitement	ADV	B	_	42	advmod	_	_
 44	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
-45	temps	temp	NOUN	S	Gender=Masc	42	obj	_	_
+45	temps	temps	NOUN	S	Gender=Masc|Number=Sing	42	obj	_	_
 46	pour	pour	ADP	E	_	47	mark	_	_
 47	rétablir	rétablir	VERB	V	VerbForm=Inf	42	advcl	_	_
 48	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	49	det	_	SpaceAfter=No
@@ -5463,7 +5463,7 @@
 41	dans	dans	ADP	E	_	44	case	_	_
 42	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
 43	même	même	ADJ	A	Number=Sing	44	amod	_	_
-44	temps	temp	NOUN	S	Gender=Masc	47	obl	_	SpaceAfter=No
+44	temps	temps	NOUN	S	Gender=Masc|Number=Sing	47	obl	_	SpaceAfter=No
 45	,	,	PUNCT	FF	_	44	punct	_	_
 46	de	de	ADP	E	_	47	mark	_	_
 47	faire	faire	VERB	V	VerbForm=Inf	30	conj	_	_
@@ -7822,7 +7822,7 @@
 50	limitée	limiter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	44	acl:relcl	_	_
 51	dans	dans	ADP	E	_	53	case	_	_
 52	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	_
-53	temps	temp	NOUN	S	Gender=Masc	50	obl	_	_
+53	temps	temps	NOUN	S	Gender=Masc|Number=Sing	50	obl	_	_
 54	et	et	CCONJ	CC	_	55	cc	_	_
 55	liée	lier	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	50	conj	_	_
 56	à	à	ADP	E	_	58	case	_	_
@@ -7974,7 +7974,7 @@
 21	bref	bref	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	_
 22	laps	laps	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
 23	de	de	ADP	E	_	24	case	_	_
-24	temps	temp	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	temps	temps	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	22	punct	_	_
 26	à	à	ADP	E	_	31	advmod	_	_
 27	savoir	savoir	VERB	VM	VerbForm=Inf	26	fixed	_	_
@@ -8448,7 +8448,7 @@
 42	augmenterait	augmenter	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	conj	_	_
 43	encore	encore	ADV	B	_	45	advmod	_	_
 44	une	un	DET	RI	Gender=Fem|Number=Sing|PronType=Art	45	det	_	_
-45	fois	foi	NOUN	S	Gender=Fem	42	obl	_	_
+45	fois	fois	NOUN	S	Gender=Fem|Number=Sing	42	obl	_	_
 46	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
 47	mécontentement	mécontentement	NOUN	S	Gender=Masc|Number=Sing	42	obj	_	_
 48-49	des	_	_	_	_	_	_	_	_
@@ -10704,7 +10704,7 @@
 7-8	des	_	_	_	_	_	_	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	réseaux	réseaux	NOUN	S	Gender=Masc	6	nmod	_	_
+9	réseaux	réseau	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
 10	d'	de	ADP	E	_	11	case	_	SpaceAfter=No
 11	infrastructures	infrastructure	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
 12	et	et	CCONJ	CC	_	14	cc	_	_
@@ -10836,7 +10836,7 @@
 10	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 11	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 12	à	à	ADP	E	_	13	case	_	_
-13	temps	temp	NOUN	S	Gender=Masc	10	nmod	_	_
+13	temps	temps	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
 14	partiel	partiel	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
 15	et	et	CCONJ	CC	_	16	cc	_	_
 16	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
@@ -11597,7 +11597,7 @@
 32	,	,	PUNCT	FF	_	35	punct	_	_
 33	sur	sur	ADP	E	_	35	case	_	_
 34	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	35	det	_	_
-35	réseaux	réseaux	NOUN	S	Gender=Masc	31	conj	_	_
+35	réseaux	réseau	NOUN	S	Gender=Masc|Number=Plur	31	conj	_	_
 36	de	de	ADP	E	_	37	case	_	_
 37	transports	transport	NOUN	S	Gender=Masc|Number=Plur	35	nmod	_	_
 38	et	et	CCONJ	CC	_	40	cc	_	_
@@ -12088,7 +12088,7 @@
 13	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	aux:pass	_	_
 14	consulté	consulter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
 15	en	en	ADP	E	_	16	case	_	_
-16	temps	temp	NOUN	S	Gender=Masc	14	obl	_	_
+16	temps	temps	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
 17	voulu	vouloir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
 18-19	au	_	_	_	_	_	_	_	_
 18	à	à	ADP	E	_	20	case	_	_
@@ -14407,7 +14407,7 @@
 32-33	du	_	_	_	_	_	_	_	_
 32	de	de	ADP	E	_	34	case	_	_
 33	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	34	det	_	_
-34	temps	temp	NOUN	S	Gender=Masc	31	nmod	_	_
+34	temps	temps	NOUN	S	Gender=Masc|Number=Sing	31	nmod	_	_
 35	de	de	ADP	E	_	36	case	_	_
 36	travail	travail	NOUN	S	Gender=Masc|Number=Sing	34	nmod	_	_
 37-38	au	_	_	_	_	_	_	_	_
@@ -21769,7 +21769,7 @@
 21	dans	dans	ADP	E	_	24	case	_	_
 22	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 23	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	24	amod	_	_
-24	temps	temps	NOUN	S	Gender=Masc	17	obl	_	SpaceAfter=No
+24	temps	temps	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 25	)	)	PUNCT	FB	_	24	punct	_	_
 26	à	à	ADP	E	_	27	case	_	_
 27	ceux	celui	PRON	PD	Gender=Masc|Number=Plur|Person=3|PronType=Dem	17	obl	_	_

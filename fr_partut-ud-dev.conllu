@@ -516,7 +516,7 @@
 38-39	des	_	_	_	_	_	_	_	_
 38	de	de	ADP	E	_	40	case	_	_
 39	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	40	det	_	_
-40	réseaux	réseaux	NOUN	S	Gender=Masc	36	conj	_	_
+40	réseaux	réseau	NOUN	S	Gender=Masc|Number=Plur	36	conj	_	_
 41	de	de	ADP	E	_	42	case	_	_
 42	transports	transport	NOUN	S	Gender=Masc|Number=Plur	40	nmod	_	_
 43	afférents	afférent	ADJ	A	Gender=Masc|Number=Plur	42	amod	_	SpaceAfter=No

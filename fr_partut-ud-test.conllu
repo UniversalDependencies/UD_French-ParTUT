@@ -190,7 +190,7 @@
 10	actualité	actualité	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
 11	ces	ce	DET	DD	Number=Plur|PronType=Dem	13	det	_	_
 12	derniers	dernier	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	13	amod	_	_
-13	temps	temp	NOUN	S	Gender=Masc	8	obl	_	SpaceAfter=No
+13	temps	temps	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 14	:	:	PUNCT	FC	_	8	punct	_	_
 
 # sent_id = fr_partut-ud-193
@@ -2307,11 +2307,11 @@
 4	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	membres	membre	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
 6	ainsi	ainsi	ADV	B	_	7	advmod	_	_
-7	nommés	nommer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+7	nommés	nommer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
 8	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	E	_	11	case	_	_
 10	même	même	ADJ	A	Number=Sing	11	amod	_	_
-11	temps	temp	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+11	temps	temps	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
 12	que	que	ADP	E	_	13	case	_	_
 13	celui	celui	PRON	PD	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obl	_	_
 14-15	des	_	_	_	_	_	_	_	_
@@ -2567,7 +2567,7 @@
 8	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	E	_	11	case	_	_
 10	même	même	ADJ	A	Number=Sing	11	amod	_	_
-11	temps	temp	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+11	temps	temps	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
 12	que	que	ADP	E	_	13	case	_	_
 13	celui	celui	PRON	PD	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obl	_	_
 14-15	des	_	_	_	_	_	_	_	_
@@ -2600,7 +2600,7 @@
 8	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	E	_	11	case	_	_
 10	même	même	ADJ	A	Number=Sing	11	amod	_	_
-11	temps	temp	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+11	temps	temps	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
 12	que	que	ADP	E	_	13	case	_	_
 13	celui	celui	PRON	PD	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obl	_	_
 14-15	des	_	_	_	_	_	_	_	_
