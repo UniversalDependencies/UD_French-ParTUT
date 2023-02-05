@@ -144,7 +144,7 @@
 30-31	aux	_	_	_	_	_	_	_	_
 30	à	à	ADP	E	_	32	case	_	_
 31	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
-32	pays	pays	NOUN	S	Gender=Masc	29	obl	_	_
+32	pays	pays	NOUN	S	Gender=Masc|Number=Plur	29	obl	_	_
 33	qui	qui	PRON	PR	PronType=Rel	35	nsubj	_	_
 34	ne	ne	PART	PART	Polarity=Neg	35	advmod	_	_
 35	respectent	respecter	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_
@@ -194,7 +194,7 @@
 9	qu'	que	SCONJ	ADV	_	12	mark	_	SpaceAfter=No
 10	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	petit	petit	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
-12	pas	pas	NOUN	S	Gender=Masc	3	ccomp	_	_
+12	pas	pas	NOUN	S	Gender=Masc|Number=Sing	3	ccomp	_	_
 13	vers	vers	ADP	E	_	17	case	_	_
 14	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 15	plus	plus	ADV	B	_	16	advmod	_	_
@@ -493,7 +493,7 @@
 18-19	des	_	_	_	_	_	_	_	_
 18	de	de	ADP	E	_	20	case	_	_
 19	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
-20	pays	pays	NOUN	S	Gender=Masc	14	nmod	_	_
+20	pays	pays	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
 21	périphériques	périphérique	ADJ	A	Number=Plur	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	5	punct	_	_
 23	principalement	principalement	ADV	B	_	26	advmod	_	_
@@ -584,7 +584,7 @@
 27	intérieur	intérieur	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	_
 28	de	de	ADP	E	_	30	case	_	_
 29	chaque	chaque	DET	DI	Number=Sing|PronType=Ind	30	det	_	_
-30	pays	pays	NOUN	S	Gender=Masc	27	nmod	_	SpaceAfter=No
+30	pays	pays	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	20	punct	_	_
 
 # sent_id = fr_partut-ud-465
@@ -688,7 +688,7 @@
 # sent_id = fr_partut-ud-531
 # text = un taux de conversion de 10% des visites provenant des publicités Facebook.
 1	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	taux	taux	NOUN	S	Gender=Masc	0	root	_	_
+2	taux	taux	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	E	_	4	case	_	_
 4	conversion	conversion	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
 5	de	de	ADP	E	_	7	case	_	_
@@ -1561,7 +1561,7 @@
 17	mycélium	mycélium	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
 18	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 19	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
-20	internet	internet	NOUN	S	Gender=Masc	5	ccomp	_	_
+20	internet	internet	NOUN	S	Gender=Masc|Number=Sing	5	ccomp	_	_
 21	naturel	naturel	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
 22	de	de	ADP	E	_	24	case	_	_
 23	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -1609,7 +1609,7 @@
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	expl	_	_
 4	promenez	promener	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 5	à	à	ADP	E	_	6	case	_	_
-6	travers	travers	NOUN	S	Gender=Masc	4	obl	_	_
+6	travers	travers	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	paysages	paysage	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
@@ -1620,7 +1620,7 @@
 14	traces	trace	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
 15	de	de	ADP	E	_	17	case	_	_
 16	vos	vos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	17	det	_	_
-17	pas	pas	NOUN	S	Gender=Masc	14	nmod	_	_
+17	pas	pas	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
 18	en	en	ADP	E	_	19	mark	_	_
 19	essayant	essayer	VERB	V	Tense=Pres|VerbForm=Part	11	advcl	_	_
 20	de	de	ADP	E	_	21	mark	_	_
@@ -1639,7 +1639,7 @@
 6	invention	invention	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
-9	internet	internet	NOUN	S	Gender=Masc	6	nmod	_	_
+9	internet	internet	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
 10-11	des	_	_	_	_	_	_	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
