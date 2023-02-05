@@ -2221,7 +2221,7 @@
 # sent_id = fr_partut-ud-945
 # text = Les laboratoires Battelle et moi-même avons travaillé ensemble à Bellingham, dans l'état de Washington.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	laboratoires	laboratoire	NOUN	S	Number=Plur	7	nsubj	_	_
+2	laboratoires	laboratoire	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
 3	Battelle	Battelle	PROPN	SP	_	2	nmod	_	_
 4	et	et	CCONJ	CC	_	5	cc	_	_
 5	moi-même	moi-même	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	conj	_	_

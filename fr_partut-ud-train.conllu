@@ -5451,7 +5451,7 @@
 29	de	de	ADP	E	_	27	fixed	_	_
 30	disposer	disposer	VERB	V	VerbForm=Inf	23	advcl	_	_
 31	de	de	ADP	E	_	32	case	_	_
-32	responsables	responsable	NOUN	S	Number=Plur	30	obl	_	_
+32	responsables	responsable	NOUN	S	Gender=Masc|Number=Plur	30	obl	_	_
 33	bien	bien	ADV	B	_	34	advmod	_	_
 34	formés	former	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	32	acl	_	_
 35	en	en	ADP	E	_	36	case	_	_
@@ -5777,7 +5777,7 @@
 79	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	73	conj	_	_
 80	que	que	SCONJ	CS	_	91	mark	_	_
 81	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	82	det	_	_
-82	responsables	responsable	NOUN	S	Number=Plur	91	nsubj	_	_
+82	responsables	responsable	NOUN	S	Gender=Masc|Number=Plur	91	nsubj	_	_
 83	de	de	ADP	E	_	85	case	_	_
 84	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	85	det	_	_
 85	protection	protection	NOUN	S	Gender=Fem|Number=Sing	82	nmod	_	_
@@ -7098,7 +7098,7 @@
 24	et	et	CCONJ	CC	_	48	cc	_	_
 25	que	que	SCONJ	CS	_	48	mark	_	_
 26	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-27	coopération	coopération	NOUN	S	Number=Sing	48	nsubj	_	_
+27	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	48	nsubj	_	_
 28	qui	qui	PRON	PR	PronType=Rel	29	nsubj	_	_
 29	existe	exister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
 30	avec	avec	ADP	E	_	32	case	_	_
@@ -9958,7 +9958,7 @@
 12	précisément	précisement	ADV	B	_	15	advmod	_	_
 13	dans	dans	ADP	E	_	15	case	_	_
 14	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
-15	optique	optique	NOUN	S	Number=Sing	8	obl	_	_
+15	optique	optique	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	politique	politique	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
@@ -10987,7 +10987,7 @@
 39	de	de	ADP	E	_	41	case	_	_
 40	nouvelles	nouveau	ADJ	A	Gender=Fem|Number=Plur	41	amod	_	_
 41	villes	ville	NOUN	S	Gender=Fem|Number=Plur	38	nmod	_	_
-42	fantômes	fantome	NOUN	S	Number=Sing	41	nmod	_	SpaceAfter=No
+42	fantômes	fantôme	NOUN	S	Gender=Masc|Number=Sing	41	nmod	_	SpaceAfter=No
 43	,	,	PUNCT	FF	_	50	punct	_	_
 44	mais	mais	CCONJ	CC	_	50	cc	_	_
 45	également	également	ADV	B	_	50	advmod	_	_
@@ -16154,7 +16154,7 @@
 4	Facebook	Facebook	PROPN	SP	_	2	nmod	_	_
 5	par	par	ADP	E	_	7	case	_	_
 6	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
-7	intermédiaire	intermédiaire	NOUN	S	Number=Sing	2	nmod	_	_
+7	intermédiaire	intermédiaire	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
 8-9	des	_	_	_	_	_	_	_	_
 8	de	de	ADP	E	_	10	case	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
@@ -19004,7 +19004,7 @@
 # sent_id = fr_partut-ud-616
 # text = Cette coopération devrait exploiter au maximum les moyens de communication électroniques et les programmes communautaires pertinents.
 1	Cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	coopération	coopération	NOUN	S	Number=Sing	3	nsubj	_	_
+2	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	devrait	devoir	VERB	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	exploiter	exploiter	VERB	V	VerbForm=Inf	3	xcomp	_	_
 5-6	au	_	_	_	_	_	_	_	_
@@ -21056,7 +21056,7 @@
 23	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	degré	degré	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	_
 25	de	de	ADP	E	_	26	case	_	_
-26	coopération	coopération	NOUN	S	Number=Sing	24	nmod	_	_
+26	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	_
 27	important	important	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	_
 28	qui	qui	PRON	PR	PronType=Rel	31	nsubj:pass	_	_
 29	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	_
@@ -21190,7 +21190,7 @@
 17	ainsi	ainsi	ADV	B	_	20	cc	_	_
 18	qu'	que	SCONJ	CS	_	17	fixed	_	SpaceAfter=No
 19	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	coopération	coopération	NOUN	S	Number=Sing	6	conj	_	_
+20	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
 21	étroite	étroite	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
 22	et	et	CCONJ	CC	_	24	cc	_	_
 23	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
@@ -21324,7 +21324,7 @@
 38	développement	développement	NOUN	S	Gender=Masc|Number=Sing	32	conj	_	_
 39	de	de	ADP	E	_	41	case	_	_
 40	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
-41	coopération	coopération	NOUN	S	Number=Sing	38	nmod	_	SpaceAfter=No
+41	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	38	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-661
@@ -21626,7 +21626,7 @@
 18-19	des	_	_	_	_	_	_	_	_
 18	de	de	ADP	E	_	20	case	_	_
 19	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
-20	responsables	responsable	NOUN	S	Number=Plur	17	nmod	_	_
+20	responsables	responsable	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
 21	de	de	ADP	E	_	22	case	_	_
 22	services	service	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
 23	répressifs	répressif	ADJ	A	Number=Plur	22	amod	_	SpaceAfter=No
@@ -21865,7 +21865,7 @@
 # text = - la coopération entre les institutions européennes/organes (Commission/OLAF, BCE et Europol) doit être encore accrue de manière à éliminer tout chevauchement entre les différents programmes et à améliorer la coordination entre les principaux acteurs (services répressifs, banques, ministère public) dans la lutte contre la contrefaçon de l'euro;
 1	-	-	PUNCT	FF	_	19	punct	_	_
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	coopération	coopération	NOUN	S	Number=Sing	19	nsubj:pass	_	_
+3	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
 4	entre	entre	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	institutions	institution	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
@@ -22587,7 +22587,7 @@
 28	financier	financier	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	_
 29	augmente	augmenter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 30	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No
-31	intermédiaires	intermédiaire	NOUN	S	Number=Plur	27	appos	_	_
+31	intermédiaires	intermédiaire	NOUN	S	Gender=Masc|Number=Plur	27	appos	_	_
 32	financiers	financier	ADJ	A	Gender=Masc|Number=Plur	31	amod	_	_
 33-34	du	_	_	_	_	_	_	_	_
 33	de	de	ADP	E	_	35	case	_	_
@@ -23382,7 +23382,7 @@
 # sent_id = fr_partut-ud-722
 # text = Deux séminaires Pericles ont assisté les pays (qui étaient en voie d'adhésion) dans leurs efforts visant à appliquer l'acquis dans ce domaine spécifique;
 1	Deux	deux	NUM	N	NumType=Card	2	nummod	_	_
-2	séminaires	séminaire	NOUN	S	Number=Plur	5	nsubj	_	_
+2	séminaires	séminaire	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 3	Pericles	Pericles	PROPN	SP	_	2	nmod	_	_
 4	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	assisté	assister	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -23584,7 +23584,7 @@
 19	savoir	savoir	VERB	V	VerbForm=Inf	18	fixed	_	_
 20	d'	de	ADP	E	_	22	case	_	SpaceAfter=No
 21	un	un	NUM	N	NumType=Card	22	nummod	_	_
-22	million	million	NOUN	S	Number=Sing	15	obl	_	_
+22	million	million	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
 23	d'	de	ADP	E	_	24	case	_	SpaceAfter=No
 24	euros	euro	NOUN	S	Gender=Masc|Number=Plur	22	nmod	_	_
 25	par	par	ADP	E	_	26	case	_	_
@@ -23664,9 +23664,9 @@
 23	,	,	PUNCT	FF	_	3	punct	_	_
 24	avec	avec	ADP	E	_	26	case	_	_
 25	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-26	rôle	rôle	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+26	rôle	rôle	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
 27	d'	de	ADP	E	_	28	case	_	SpaceAfter=No
-28	intermédiaire	intermédiaire	NOUN	S	Number=Sing	26	nmod	_	_
+28	intermédiaire	intermédiaire	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	_
 29	pour	pour	ADP	E	_	30	case	_	_
 30	Europol	Europol	PROPN	SP	_	26	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	3	punct	_	_
@@ -24133,7 +24133,7 @@
 10	assurer	assurer	VERB	V	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
 12	en	en	ADP	E	_	13	case	_	_
-13	coopération	coopération	NOUN	S	Number=Sing	10	obl	_	_
+13	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
 14	avec	avec	ADP	E	_	16	case	_	_
 15	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	organisation	organisation	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
