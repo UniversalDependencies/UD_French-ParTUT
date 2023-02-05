@@ -4846,35 +4846,33 @@
 6-7	au	_	_	_	_	_	_	_	_
 6	à	à	ADP	E	_	8	case	_	_
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	procès	procès	NOUN	S	Gender=Masc	5	obl	_	SpaceAfter=No
-9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
-10	verbal	verbal	NOUN	S	Gender=Masc|Number=Sing	8	compound	_	_
-11-12	du	_	_	_	_	_	_	_	_
-11	de	de	ADP	E	_	13	case	_	_
-12	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
-13	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
-14	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	manière	manière	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
-16	dont	dont	PRON	PR	PronType=Rel	19	iobj	_	_
-17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
-18	gens	gens	NOUN	S	Number=Plur	19	nsubj	_	_
-19	perçoivent	percevoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
-20	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	19	obj	_	_
-21	que	que	PRON	PR	PronType=Rel	25	obj	_	_
-22	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
-23	venons	vendre	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
-24	de	de	ADP	E	_	25	mark	_	_
-25	faire	faire	VERB	V	VerbForm=Inf	23	xcomp	_	SpaceAfter=No
-26	,	,	PUNCT	FF	_	25	punct	_	_
-27	à	à	ADP	E	_	29	case	_	_
-28	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-29	lumière	lumière	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
-30	de	de	ADP	E	_	33	case	_	_
-31	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	33	det	_	_
-32	propre	propre	ADJ	A	Number=Sing	33	amod	_	_
-33	analyse	analyse	NOUN	S	Gender=Fem|Number=Sing	29	nmod	_	_
-34	politique	politique	ADJ	A	Number=Sing	33	amod	_	SpaceAfter=No
-35	.	.	PUNCT	FS	_	3	punct	_	_
+8	procès-verbal	procès-verbal	NOUN	S	Gender=Masc	5	obl	_	_
+9-10	du	_	_	_	_	_	_	_	_
+9	de	de	ADP	E	_	11	case	_	_
+10	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	manière	manière	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+14	dont	dont	PRON	PR	PronType=Rel	17	iobj	_	_
+15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
+16	gens	gens	NOUN	S	Number=Plur	17	nsubj	_	_
+17	perçoivent	percevoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+18	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	17	obj	_	_
+19	que	que	PRON	PR	PronType=Rel	23	obj	_	_
+20	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
+21	venons	vendre	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+22	de	de	ADP	E	_	23	mark	_	_
+23	faire	faire	VERB	V	VerbForm=Inf	21	xcomp	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	23	punct	_	_
+25	à	à	ADP	E	_	27	case	_	_
+26	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	lumière	lumière	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+28	de	de	ADP	E	_	31	case	_	_
+29	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	31	det	_	_
+30	propre	propre	ADJ	A	Number=Sing	31	amod	_	_
+31	analyse	analyse	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	_
+32	politique	politique	ADJ	A	Number=Sing	31	amod	_	SpaceAfter=No
+33	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-159
 # text = Moi non plus, vous ne m'avez pas donné la parole.
@@ -4937,46 +4935,42 @@
 16-17	au	_	_	_	_	_	_	_	_
 16	à	à	ADP	E	_	18	case	_	_
 17	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	procès	procès	NOUN	S	Gender=Masc	15	obl	_	SpaceAfter=No
-19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
-20	verbal	verbal	NOUN	S	Gender=Masc|Number=Sing	18	compound	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	5	punct	_	_
+18	procès-verbal	procès-verbal	NOUN	S	Gender=Masc	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-162
 # text = Lorsque nous adopterons demain le procès-verbal de la séance d'aujourd'hui, les collègues qui estimeront que les positions n'ont pas été suffisamment bien expliquées pourront demander des modifications.
 1	Lorsque	lorsque	SCONJ	CS	_	3	mark	_	_
 2	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-3	adopterons	adopter	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	29	advcl	_	_
+3	adopterons	adopter	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	27	advcl	_	_
 4	demain	demain	ADV	B	_	3	advmod	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	procès	procès	NOUN	S	Gender=Masc	3	obj	_	SpaceAfter=No
-7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
-8	verbal	verbal	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	_
-9	de	de	ADP	E	_	11	case	_	_
-10	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	séance	séance	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
-12	d'	de	ADP	E	_	13	case	_	SpaceAfter=No
-13	aujourd'hui	aujourd'hui	ADV	B	_	11	advmod	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	3	punct	_	_
-15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	collègues	collègue	NOUN	S	Gender=Fem|Number=Plur	29	nsubj	_	_
-17	qui	qui	PRON	PR	PronType=Rel	18	nsubj	_	_
-18	estimeront	estimer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
-19	que	que	SCONJ	CS	_	28	mark	_	_
-20	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
-21	positions	position	NOUN	S	Gender=Fem|Number=Plur	28	nsubj:pass	_	_
-22	n'	ne	PART	PART	Polarity=Neg	28	advmod	_	SpaceAfter=No
-23	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
-24	pas	pas	ADV	BN	Polarity=Neg	28	advmod	_	_
-25	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	aux:pass	_	_
-26	suffisamment	suffisamment	ADV	B	_	28	advmod	_	_
-27	bien	bien	ADV	B	_	28	advmod	_	_
-28	expliquées	expliquer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	18	ccomp	_	_
-29	pourront	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-30	demander	demander	VERB	V	VerbForm=Inf	29	xcomp	_	_
-31	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
-32	modifications	modification	NOUN	S	Gender=Fem|Number=Plur	30	obj	_	SpaceAfter=No
-33	.	.	PUNCT	FS	_	29	punct	_	_
+6	procès-verbal	procès-verbal	NOUN	S	Gender=Masc	3	obj	_	_
+7	de	de	ADP	E	_	9	case	_	_
+8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	séance	séance	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	d'	de	ADP	E	_	11	case	_	SpaceAfter=No
+11	aujourd'hui	aujourd'hui	ADV	B	_	9	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	3	punct	_	_
+13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+14	collègues	collègue	NOUN	S	Gender=Fem|Number=Plur	27	nsubj	_	_
+15	qui	qui	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	estimeront	estimer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	14	acl:relcl	_	_
+17	que	que	SCONJ	CS	_	26	mark	_	_
+18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
+19	positions	position	NOUN	S	Gender=Fem|Number=Plur	26	nsubj:pass	_	_
+20	n'	ne	PART	PART	Polarity=Neg	26	advmod	_	SpaceAfter=No
+21	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+22	pas	pas	ADV	BN	Polarity=Neg	26	advmod	_	_
+23	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	aux:pass	_	_
+24	suffisamment	suffisamment	ADV	B	_	26	advmod	_	_
+25	bien	bien	ADV	B	_	26	advmod	_	_
+26	expliquées	expliquer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	16	ccomp	_	_
+27	pourront	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+28	demander	demander	VERB	V	VerbForm=Inf	27	xcomp	_	_
+29	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
+30	modifications	modification	NOUN	S	Gender=Fem|Number=Plur	28	obj	_	SpaceAfter=No
+31	.	.	PUNCT	FS	_	27	punct	_	_
 
 # sent_id = fr_partut-ud-163
 # text = Il me semble que c'est une bonne formule.
@@ -4994,25 +4988,23 @@
 # sent_id = fr_partut-ud-164
 # text = Bien entendu, le procès-verbal de la réunion de demain tiendra compte de toutes les explications complémentaires.
 1	Bien	bien	ADV	B	_	2	advmod	_	_
-2	entendu	entendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No
+2	entendu	entendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	procès	procès	NOUN	S	Gender=Masc	13	nsubj	_	SpaceAfter=No
-6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
-7	verbal	verbal	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	_
-8	de	de	ADP	E	_	10	case	_	_
-9	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	réunion	réunion	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
-11	de	de	ADP	E	_	12	case	_	_
-12	demain	demain	ADV	B	_	10	advmod	_	_
-13	tiendra	tenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-14	compte	compte	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
-15	de	de	ADP	E	_	18	case	_	_
-16	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
-17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
-18	explications	explication	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
-19	complémentaires	complémentaire	ADJ	A	Number=Plur	18	amod	_	SpaceAfter=No
-20	.	.	PUNCT	FS	_	13	punct	_	_
+5	procès-verbal	procès-verbal	NOUN	S	Gender=Masc	11	nsubj	_	_
+6	de	de	ADP	E	_	8	case	_	_
+7	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	réunion	réunion	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	de	de	ADP	E	_	10	case	_	_
+10	demain	demain	ADV	B	_	8	advmod	_	_
+11	tiendra	tenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	compte	compte	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+13	de	de	ADP	E	_	16	case	_	_
+14	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
+16	explications	explication	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+17	complémentaires	complémentaire	ADJ	A	Number=Plur	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-165
 # text = Je crois que c'est une meilleure formule que de procéder maintenant à des explications de vote qui nous entraîneraient très loin.
@@ -5058,34 +5050,32 @@
 
 # sent_id = fr_partut-ud-167
 # text = Madame la présidente, si le procès-verbal reflète correctement le vote de mon groupe, je n'ai et n'aurai aucune objection à formuler.
-1	Madame	madame	NOUN	S	Gender=Fem|Number=Sing	20	vocative	_	_
+1	Madame	madame	NOUN	S	Gender=Fem|Number=Sing	18	vocative	_	_
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	si	si	SCONJ	CS	_	10	mark	_	_
+5	si	si	SCONJ	CS	_	8	mark	_	_
 6	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	procès	procès	NOUN	S	Gender=Masc	10	nsubj	_	SpaceAfter=No
-8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
-9	verbal	verbal	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	_
-10	reflète	refléter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
-11	correctement	correctement	ADV	B	_	10	advmod	_	_
-12	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	vote	vote	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
-14	de	de	ADP	E	_	16	case	_	_
-15	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	16	det	_	_
-16	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
-17	,	,	PUNCT	FF	_	10	punct	_	_
-18	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
-19	n'	ne	PART	PART	Polarity=Neg	20	advmod	_	SpaceAfter=No
-20	ai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-21	et	et	CCONJ	CC	_	23	cc	_	_
-22	n'	ne	PART	PART	Polarity=Neg	23	advmod	_	SpaceAfter=No
-23	aurai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	20	conj	_	_
-24	aucune	aucun	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
-25	objection	objection	NOUN	S	Gender=Fem|Number=Sing	23	obj	_	_
-26	à	à	ADP	E	_	27	mark	_	_
-27	formuler	formuler	VERB	V	VerbForm=Inf	25	acl	_	SpaceAfter=No
-28	.	.	PUNCT	FS	_	20	punct	_	_
+7	procès-verbal	procès-verbal	NOUN	S	Gender=Masc	8	nsubj	_	_
+8	reflète	refléter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+9	correctement	correctement	ADV	B	_	8	advmod	_	_
+10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	vote	vote	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	de	de	ADP	E	_	14	case	_	_
+13	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
+14	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	8	punct	_	_
+16	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+17	n'	ne	PART	PART	Polarity=Neg	18	advmod	_	SpaceAfter=No
+18	ai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	et	et	CCONJ	CC	_	21	cc	_	_
+20	n'	ne	PART	PART	Polarity=Neg	21	advmod	_	SpaceAfter=No
+21	aurai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	18	conj	_	_
+22	aucune	aucun	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	23	det	_	_
+23	objection	objection	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+24	à	à	ADP	E	_	25	mark	_	_
+25	formuler	formuler	VERB	V	VerbForm=Inf	23	acl	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	18	punct	_	_
 
 # sent_id = fr_partut-ud-168
 # text = Si votre décision est que je ne puis pas donner d'explication de vote, je l'accepte, mais avec certaines réserves.
