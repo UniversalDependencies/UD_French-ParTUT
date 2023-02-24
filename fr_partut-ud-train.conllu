@@ -16486,7 +16486,7 @@
 4	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	monde	monde	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
 6	de	de	ADP	E	_	7	mark	_	_
-7	voir	voir	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	voir	voir	VERB	V	VerbForm=Inf	1	xcomp	_	_
 8	vos	vos	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	9	det	_	_
 9	mises	mise	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
 10	à	à	ADP	E	_	11	case	_	_
