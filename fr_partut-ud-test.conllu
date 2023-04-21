@@ -398,7 +398,7 @@
 11	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 12	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	iobj	_	_
 13	dire	dire	VERB	V	VerbForm=Inf	11	xcomp	_	_
-14	où	où	ADV	B	_	13	ccomp	_	_
+14	où	où	ADV	B	PronType=Int	13	ccomp	_	_
 15	en	en	PRON	P	PronType=Prs	14	expl	_	_
 16	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
