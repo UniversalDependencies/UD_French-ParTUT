@@ -2007,7 +2007,7 @@
 15	autre	autre	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
 16	partie	partie	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	5	punct	_	_
-18	quel	quel	ADJ	A	_	20	mark	_	_
+18	quel	quel	ADJ	A	PronType=Rel	20	mark	_	_
 19	que	que	SCONJ	CS	_	18	fixed	_	_
 20	soit	être	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 21	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -2017,7 +2017,7 @@
 25	cette	cette	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
 26	responsabilité	responsabilité	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	_
 27	et	et	CCONJ	CC	_	30	cc	_	_
-28	quel	quel	ADJ	A	_	30	mark	_	_
+28	quel	quel	ADJ	A	PronType=Rel	30	mark	_	_
 29	que	que	SCONJ	CS	_	28	fixed	_	_
 30	soit	être	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
 31	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
@@ -3270,7 +3270,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	comment	comment	ADV	B	_	7	advmod	_	_
+5	comment	comment	ADV	B	PronType=Int	7	advmod	_	_
 6	se	se	PRON	P	Person=3|PronType=Prs	7	expl	_	_
 7	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
@@ -3298,7 +3298,7 @@
 
 # sent_id = fr_partut-ud-106
 # text = Comment se fait-il que aucun test de qualité de l'air n'ait été réalisé dans ce bâtiment depuis notre élection?
-1	Comment	comment	ADV	B	_	3	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	3	advmod	_	_
 2	se	se	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
@@ -3324,7 +3324,7 @@
 
 # sent_id = fr_partut-ud-107
 # text = Comment se fait-il que le comité de santé et d'hygiène ne se soit plus réuni depuis 1998?
-1	Comment	comment	ADV	B	_	3	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	3	advmod	_	_
 2	se	se	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
@@ -3347,7 +3347,7 @@
 
 # sent_id = fr_partut-ud-108
 # text = Comment se fait-il que nous n'ayons jamais fait d'exercice d'évacuation dans les bâtiments du parlement de Bruxelles et de Strasbourg?
-1	Comment	comment	ADV	B	_	3	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	3	advmod	_	_
 2	se	se	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
@@ -3377,7 +3377,7 @@
 
 # sent_id = fr_partut-ud-109
 # text = Comment se fait-il qu'il n'y ait pas de consignes en cas d'incendie?
-1	Comment	comment	ADV	B	_	3	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	3	advmod	_	_
 2	se	se	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
@@ -3397,7 +3397,7 @@
 
 # sent_id = fr_partut-ud-110
 # text = Comment se fait-il que les escaliers n'aient pas été améliorés depuis mon accident?
-1	Comment	comment	ADV	B	_	3	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	3	advmod	_	_
 2	se	se	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
@@ -3416,7 +3416,7 @@
 
 # sent_id = fr_partut-ud-111
 # text = Comment se fait-il qu'l'on ne respecte pas les zones non fumeurs?
-1	Comment	comment	ADV	B	_	3	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	3	advmod	_	_
 2	se	se	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
@@ -4858,7 +4858,7 @@
 16	gens	gens	NOUN	S	Number=Plur	17	nsubj	_	_
 17	perçoivent	percevoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 18	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	17	obj	_	_
-19	que	que	PRON	PR	PronType=Rel	23	obj	_	_
+19	que	que	PRON	PR	_	23	obj	_	_
 20	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
 21	venons	vendre	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 22	de	de	ADP	E	_	23	mark	_	_
@@ -6346,7 +6346,7 @@
 8	,	,	PUNCT	FF	_	18	punct	_	_
 9	mais	mais	CCONJ	CC	_	18	cc	_	_
 10	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	18	dislocated	_	_
-11	que	que	SCONJ	CS	_	14	obj	_	_
+11	que	que	SCONJ	CS	PronType=Rel	14	obj	_	_
 12	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
 13	devrions	devoir	VERB	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 14	faire	faire	VERB	V	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
@@ -7337,7 +7337,7 @@
 54	efforts	effort	NOUN	S	Gender=Masc|Number=Plur	52	obj	_	_
 55	pour	pour	ADP	E	_	56	mark	_	_
 56	voir	voir	VERB	V	VerbForm=Inf	52	advcl	_	_
-57	comment	comment	ADV	B	_	58	advmod	_	_
+57	comment	comment	ADV	B	PronType=Int	58	advmod	_	_
 58	accroître	accroître	VERB	V	VerbForm=Inf	56	ccomp	_	_
 59	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	60	det	_	_
 60	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	58	obj	_	SpaceAfter=No
@@ -9633,7 +9633,7 @@
 6	souligner	souligner	VERB	V	VerbForm=Inf	5	xcomp	_	_
 7	certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	points	point	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
-9	que	que	SCONJ	CS	_	12	mark	_	_
+9	que	que	SCONJ	CS	PronType=Rel	12	mark	_	_
 10	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	commission	commission	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
 12	devrait	devoir	VERB	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
@@ -10485,7 +10485,7 @@
 15	pas	pas	ADV	BN	Polarity=Neg	14	advmod	_	_
 16	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
 17	plus	plus	ADV	B	_	16	fixed	_	_
-18	comment	comment	ADV	B	_	19	advmod	_	_
+18	comment	comment	ADV	B	PronType=Int	19	advmod	_	_
 19	assurer	assurer	VERB	V	VerbForm=Inf	14	ccomp	_	_
 20	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	maximum	maximum	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
@@ -11634,7 +11634,7 @@
 29	complétant	compléter	VERB	V	Tense=Pres|VerbForm=Part	17	conj	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	35	punct	_	_
 31	sans	sans	ADP	E	_	35	mark	_	_
-32	qu'	que	SCONJ	CS	_	35	mark	_	SpaceAfter=No
+32	qu'	que	SCONJ	CS	PronType=Rel	35	mark	_	SpaceAfter=No
 33	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	expl	_	_
 34	y	y	PRON	P	PronType=Prs	35	expl	_	_
 35	ait	avoir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
@@ -14743,7 +14743,7 @@
 
 # sent_id = fr_partut-ud-461
 # text = Combien coûte l'inscription à Facebook?
-1	Combien	combien	ADV	B	_	2	advmod	_	_
+1	Combien	combien	ADV	B	PronType=Int	2	advmod	_	_
 2	coûte	coûter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	inscription	inscription	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -15014,7 +15014,7 @@
 
 # sent_id = fr_partut-ud-476
 # text = Pourquoi est-ce que je reçois un courrier électronique d'invitation à Facebook de la part d'un ami?
-1	Pourquoi	pourquoi	ADV	B	_	2	advmod	_	_
+1	Pourquoi	pourquoi	ADV	B	PronType=Int	2	advmod	_	_
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 4	que	que	SCONJ	CS	_	6	mark	_	_
@@ -15291,7 +15291,7 @@
 
 # sent_id = fr_partut-ud-489
 # text = Comment renforcer la sécurité de mon mot de passe?
-1	Comment	comment	ADV	B	_	2	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	2	advmod	_	_
 2	renforcer	renforcer	VERB	V	VerbForm=Inf	0	root	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
@@ -15412,7 +15412,7 @@
 
 # sent_id = fr_partut-ud-494
 # text = Comment ajouter une question de sécurité à mon compte?
-1	Comment	comment	ADV	B	_	2	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	2	advmod	_	_
 2	ajouter	ajouter	VERB	V	VerbForm=Inf	0	root	_	_
 3	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	question	question	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
@@ -15779,11 +15779,11 @@
 2	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	4	det	_	_
 3	budget	budget	ADJ	A	Number=Sing	4	amod	_	_
 4	quotidien	quotidien	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
-5	à	à	ADP	E	_	7	mark	_	_
-6	n'	ne	PART	PART	Polarity=Neg	7	advmod	_	SpaceAfter=No
-7	importe	importer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
-8	quel	quel	DET	DQ	Gender=Masc|Number=Sing|PronType=Int	9	det	_	_
-9	moment	moment	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+5	à	à	ADP	E	_	9	case	_	_
+6	n'	ne	PART	_	Polarity=Neg	9	det	_	ExtPos=DET|SpaceAfter=No
+7	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	fixed	_	_
+8	quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	6	fixed	_	_
+9	moment	moment	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-520
@@ -16556,7 +16556,7 @@
 
 # sent_id = fr_partut-ud-555
 # text = Pourquoi est-ce que tous les profils n'ont pas un bouton "s'abonner"?
-1	Pourquoi	pourquoi	ADV	B	_	2	advmod	_	_
+1	Pourquoi	pourquoi	ADV	B	PronType=Int	2	advmod	_	_
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 4	que	que	SCONJ	CS	_	9	mark	_	_
@@ -16600,7 +16600,7 @@
 
 # sent_id = fr_partut-ud-558
 # text = Comment peut-on s'abonner à mes publications?
-1	Comment	comment	ADV	B	_	2	advmod	_	_
+1	Comment	comment	ADV	B	PronType=Int	2	advmod	_	_
 2	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	s'	se	PRON	P	PronType=Prs	5	expl	_	SpaceAfter=No
@@ -26397,7 +26397,7 @@
 16	et	et	CCONJ	CC	_	18	cc	_	_
 17	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
 18	voyons	voir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
-19	comment	comment	ADV	B	_	25	advmod	_	_
+19	comment	comment	ADV	B	PronType=Int	25	advmod	_	_
 20	ces	ce	DET	DD	Number=Plur|PronType=Dem	21	det	_	_
 21	animaux	animal	NOUN	S	Gender=Masc|Number=Plur	25	nsubj	_	_
 22	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
@@ -26459,7 +26459,7 @@
 
 # sent_id = fr_partut-ud-829
 # text = Pourquoi cela importe pour la santé humaine?
-1	Pourquoi	pourquoi	ADV	B	_	3	advmod	_	_
+1	Pourquoi	pourquoi	ADV	B	PronType=Int	3	advmod	_	_
 2	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
 3	importe	importer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	pour	pour	ADP	E	_	6	case	_	_
@@ -26790,11 +26790,11 @@
 5	,	,	PUNCT	FF	_	6	punct	_	_
 6	maman	maman	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
 7	dauphin	dauphin	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	10	punct	_	_
-9	n'	ne	PART	PART	Polarity=Neg	10	advmod	_	SpaceAfter=No
-10	importe	importer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-11	quel	quel	DET	DQ	Gender=Masc|Number=Sing|PronType=Int	12	det	_	_
-12	dauphin	dauphin	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	n'	ne	PART	_	Polarity=Neg	12	det	_	ExtPos=DET|SpaceAfter=No
+10	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	fixed	_	_
+11	quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	9	fixed	_	_
+12	dauphin	dauphin	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
 13	-	-	PUNCT	FF	_	4	punct	_	_
 14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
 15	n'	ne	PART	PART	Polarity=Neg	17	advmod	_	SpaceAfter=No
@@ -27012,7 +27012,7 @@
 15	était	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 16	d'	de	ADP	E	_	17	mark	_	SpaceAfter=No
 17	apprendre	apprendre	VERB	V	VerbForm=Inf	15	ccomp	_	_
-18	comment	comment	ADV	B	_	20	advmod	_	_
+18	comment	comment	ADV	B	PronType=Int	20	advmod	_	_
 19	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 20	introduit	introduire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
 21	clandestinement	clandestinement	ADV	B	_	20	advmod	_	_
