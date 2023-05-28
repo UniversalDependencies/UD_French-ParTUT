@@ -902,7 +902,7 @@
 23	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	24	det	_	_
 24	liste	liste	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
 25	d'	de	ADP	E	_	26	case	_	SpaceAfter=No
-26	amis	ami	ADJ	A	Number=Plur	24	nmod	_	SpaceAfter=No
+26	amis	ami	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-557
@@ -1319,7 +1319,7 @@
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	instruments	instrument	NOUN	S	Gender=Fem|Number=Plur	21	nsubj:pass	_	_
 17	de	de	ADP	E	_	18	case	_	_
-18	ratification	ratification	ADJ	A	Number=Sing	16	nmod	_	_
+18	ratification	ratification	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
 19	aient	avoir	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 20	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	_	_
 21	déposés	déposer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_
@@ -1432,7 +1432,7 @@
 6	et	et	CCONJ	CC	_	7	cc	_	_
 7	modalités	modalité	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	_
 8	d'	de	ADP	E	_	9	case	_	SpaceAfter=No
-9	admission	admission	ADJ	A	Number=Sing	7	nmod	_	_
+9	admission	admission	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	République	République	PROPN	SP	_	9	obl	_	_
@@ -2986,7 +2986,7 @@
 7	toute	tout	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
 8	aide	aide	NOUN	S	Gender=Fem|Number=Sing	15	nsubj:pass	_	_
 9	jugée	juger	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
-10	incompatible	incompatible	NOUN	S	Gender=Fem|Number=Sing	9	xcomp	_	_
+10	incompatible	incompatible	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	_
 11	avec	avec	ADP	E	_	13	case	_	_
 12	ces	ce	DET	DD	Number=Plur|PronType=Dem	13	det	_	_
 13	orientations	orientation	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
@@ -3018,6 +3018,6 @@
 15	report	report	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 16	normal	normal	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
 17	de	de	ADP	E	_	18	case	_	_
-18	stocks	stock	ADJ	A	Number=Plur	15	obl	_	SpaceAfter=No
+18	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	9	punct	_	_
 

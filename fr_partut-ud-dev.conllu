@@ -974,7 +974,7 @@
 # sent_id = fr_partut-ud-877
 # text = Le mycelium est présent dans tous les paysages, il retient les sols, il est extrêmement tenace.
 1	Le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	mycelium	mycelium	ADJ	A	Number=Sing	4	nsubj	_	_
+2	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	présent	présent	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 5	dans	dans	ADP	E	_	8	case	_	_
@@ -1007,7 +1007,7 @@
 
 # sent_id = fr_partut-ud-879
 # text = Ce sont les grands désassembleurs moléculaires de la nature - les magiciens du sol.
-1	Ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+1	Ce	ce	PRON	P	Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
 2	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 4	grands	grand	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
@@ -1305,7 +1305,7 @@
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	champs	champ	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
 13	de	de	ADP	E	_	14	case	_	_
-14	débris	débris	ADJ	A	Number=Plur	12	nmod	_	_
+14	débris	débris	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
 15	qui	qui	PRON	PR	PronType=Rel	16	nsubj	_	_
 16	nourrissent	nourrir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 17	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -1355,7 +1355,7 @@
 4	pouce	pouce	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
 5	cube	cube	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
 6	de	de	ADP	E	_	7	case	_	_
-7	sol	sol	ADJ	A	Number=Sing	4	nmod	_	SpaceAfter=No
+7	sol	sol	NOUN	N	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	4	punct	_	_
 9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 10	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1373,7 +1373,7 @@
 # sent_id = fr_partut-ud-899
 # text = Mon pied couvre environ 300 miles de mycélium.
 1	Mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	2	det	_	_
-2	pied	pied	ADJ	A	Number=Sing	3	nsubj	_	_
+2	pied	pied	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	couvre	couvrir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	environ	environ	ADV	B	_	3	advmod	_	_
 5	300	300	NUM	N	NumType=Card	6	nummod	_	_
@@ -1643,7 +1643,7 @@
 10-11	des	_	_	_	_	_	_	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	ordinateurs	ordinateur	ADJ	A	Number=Plur	9	nmod	_	_
+12	ordinateurs	ordinateur	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
 13	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	conséquence	conséquence	NOUN	S	Gender=Fem|Number=Sing	2	ccomp	_	_
@@ -1805,7 +1805,7 @@
 4	champignons	champignon	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
 5	et	et	CCONJ	CC	_	7	cc	_	_
 6	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	mycelium	mycelium	ADJ	A	Number=Sing	4	conj	_	_
+7	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
 8	renferment	renfermer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9-10	du	_	_	_	_	_	_	_	_
 9	de	de	ADP	E	_	11	case	_	_
@@ -1922,14 +1922,14 @@
 # text = Prototaxites, couché, mesurait environ 90 cm de hauteur.
 1	Prototaxites	Prototaxites	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	couché	coucher	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	xcomp	_	SpaceAfter=No
+3	couché	coucher	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	mesurait	mesurait	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	mesurait	mesurer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	environ	environ	ADV	B	_	5	advmod	_	_
 7	90	90	NUM	N	NumType=Card	8	nummod	_	_
 8	cm	cm	NOUN	S	Gender=Fem|Number=Sing	5	xcomp	_	_
 9	de	de	ADP	E	_	10	case	_	_
-10	hauteur	hauteur	ADJ	A	Number=Sing	8	nmod	_	SpaceAfter=No
+10	hauteur	hauteur	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-930
@@ -1944,7 +1944,7 @@
 8	à	à	ADP	E	_	10	case	_	_
 9	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
 10	époque	époque	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
-11	mesuraient	mesuraient	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+11	mesuraient	mesurer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	moins	moins	ADV	B	_	14	advmod	_	_
 13	de	de	ADP	E	_	12	fixed	_	_
 14	60	60	NUM	N	NumType=Card	15	nummod	_	_
@@ -2006,7 +2006,7 @@
 11	énorme	énorme	ADJ	A	Number=Sing	12	amod	_	_
 12	quantité	quantité	NOUN	S	Gender=Fem|Number=Sing	17	nsubj:pass	_	_
 13	de	de	ADP	E	_	14	case	_	_
-14	débris	débris	ADJ	A	Number=Plur	12	nmod	_	_
+14	débris	débris	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
 15	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	aux:pass	_	_
 17	larguée	larguer	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
@@ -2140,7 +2140,7 @@
 4	organisme	organisme	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 5	de	de	ADP	E	_	7	case	_	_
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	planète	planète	ADJ	A	Number=Sing	4	nmod	_	_
+7	planète	planète	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 8	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 9	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	tapis	tapis	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -2153,7 +2153,7 @@
 17	seule	seul	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
 18	cellule	cellule	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
 19	d'	de	ADP	E	_	20	case	_	SpaceAfter=No
-20	épaisseur	épaisseur	ADJ	A	Number=Sing	18	nmod	_	SpaceAfter=No
+20	épaisseur	épaisseur	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-942
