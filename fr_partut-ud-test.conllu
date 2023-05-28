@@ -2007,7 +2007,7 @@
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	moins	moins	ADV	B	_	8	advmod	_	_
 7	de	de	ADP	E	_	6	fixed	_	_
-8	perturbation	perturbation	ADJ	A	Number=Sing	4	obj	_	_
+8	perturbation	perturbation	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
 9-10	au	_	_	_	_	_	_	_	_
 9	à	à	ADP	E	_	11	case	_	_
 10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -2229,7 +2229,7 @@
 17	adhésion	adhésion	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
 18	et	et	CCONJ	CC	_	21	cc	_	_
 19	ne	ne	PART	PART	Polarity=Neg	21	advmod	_	_
-20	s'	si	SCONJ	CS	_	21	obj	_	SpaceAfter=No
+20	s'	se	PRON	P	PronType=Prs	21	expl	_	SpaceAfter=No
 21	appliquent	appliquer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 22	pas	pas	ADV	BN	Polarity=Neg	21	advmod	_	_
 23	au-delà	au-delà	ADV	B	_	26	case	_	_
@@ -3015,7 +3015,7 @@
 12	quantité	quantité	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
 13	excédant	excéder	VERB	V	Tense=Pres|VerbForm=Part	12	acl	_	_
 14	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	report	report	ADJ	A	Number=Sing	13	obj	_	_
+15	report	report	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 16	normal	normal	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
 17	de	de	ADP	E	_	18	case	_	_
 18	stocks	stock	ADJ	A	Number=Plur	15	obl	_	SpaceAfter=No
