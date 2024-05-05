@@ -69,7 +69,7 @@
 13-14	du	_	_	_	_	_	_	_	_
 13	de	de	ADP	E	_	15	case	_	_
 14	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
-15	contenu	contenir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	obl	_	_
+15	contenu	contenu	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
 16	ou	ou	CCONJ	CC	_	19	cc	_	_
 17	de	de	ADP	E	_	19	case	_	_
 18	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
@@ -7604,7 +7604,7 @@
 7	à	à	ADP	E	_	10	case	_	_
 8	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	intervenants	intervenir	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	4	obl	_	_
+10	intervenants	intervenant	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
 11	et	et	CCONJ	CC	_	16	cc	_	_
 12	plus	plus	ADV	B	_	13	advmod	_	_
 13	particulièrement	particulièrement	ADV	B	_	16	advmod	_	_
@@ -14198,7 +14198,7 @@
 14-15	aux	_	_	_	_	_	_	_	_
 14	à	à	ADP	E	_	16	case	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	abonnés	abonner	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	obl	_	_
+16	abonnés	abonné	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	_
 17	absents	absent	ADJ	A	Gender=Masc|Number=Plur	11	xcomp	_	_
 18	alors	alors	ADV	B	_	21	mark	_	_
 19	que	que	SCONJ	CS	_	18	fixed	_	_
@@ -22533,7 +22533,7 @@
 25-26	des	_	_	_	_	_	_	_	_
 25	de	de	ADP	E	_	27	case	_	_
 26	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
-27	participants	participer	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	24	nmod	_	_
+27	participants	participant	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	_
 28	provenaient	provenir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	ccomp	_	_
 29	essentiellement	essentiellement	ADV	B	_	28	advmod	_	_
 30-31	des	_	_	_	_	_	_	_	_
@@ -23541,7 +23541,7 @@
 69	de	de	ADP	E	_	70	mark	_	_
 70	proroger	proroger	VERB	V	VerbForm=Inf	68	csubj:pass	_	_
 71	et	et	CCONJ	CC	_	73	cc	_	_
-72	de	de	ADP	E	_	73	case	_	_
+72	de	de	ADP	E	_	73	mark	_	_
 73	modifier	modifier	VERB	V	VerbForm=Inf	70	conj	_	_
 74	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	75	det	_	_
 75	décision	décision	NOUN	S	Gender=Fem|Number=Sing	73	obj	_	_

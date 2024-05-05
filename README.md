@@ -66,6 +66,9 @@ appears as follows:
 
 
 # Changelog
+2024-05-15 v2.14
+* Fix a few UPOS tags
+
 2021-05-15 v2.8
 * fixed wrong lemmas
 * changed annotation of "pouvoir","devoir", which are no longer considered AUX
