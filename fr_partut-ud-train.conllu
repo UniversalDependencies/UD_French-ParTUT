@@ -11703,7 +11703,7 @@
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	politiques	politique	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 8	discréditées	discréditer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
-9	de	de	ADP	E	_	10	case	_	_
+9	de	de	ADP	E	_	11	case	_	_
 10	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	11	det	_	_
 11	parti	parti	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
