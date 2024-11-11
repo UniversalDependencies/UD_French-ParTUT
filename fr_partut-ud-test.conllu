@@ -7,7 +7,7 @@
 4-5	des	_	_	_	_	_	_	_	_
 4	de	de	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	conditions	condition	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	conditions	condition	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
 7	initiales	initiale	ADJ	A	Number=Plur	6	amod	_	_
 8	à	à	ADP	E	_	10	case	_	_
 9	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
@@ -488,8 +488,8 @@
 51-52	des	_	_	_	_	_	_	_	_
 51	de	de	ADP	E	_	53	case	_	_
 52	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	53	det	_	_
-53	affaires	affaire	NOUN	S	Gender=Masc|Number=Plur	49	conj	_	_
-54	sociales	social	ADJ	A	Gender=Fem|Number=Plur	41	amod	_	_
+53	affaires	affaire	NOUN	S	Gender=Fem|Number=Plur	49	conj	_	_
+54	sociales	social	ADJ	A	Gender=Fem|Number=Plur	53	amod	_	_
 55	mais	mais	CCONJ	CC	_	41	cc	_	_
 56	qui	qui	PRON	PR	PronType=Rel	59	nsubj	_	_
 57	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	59	cop	_	_
@@ -534,7 +534,7 @@
 32	pour	pour	ADP	E	_	35	case	_	_
 33	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 34	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	35	amod	_	_
-35	fois	foi	NOUN	S	Gender=Fem|Number=Plur	31	obl	_	_
+35	fois	fois	NOUN	S	Gender=Fem|Number=Sing	31	obl	_	_
 36	lors	lors	ADV	B	_	39	case	_	_
 37	de	de	ADP	E	_	36	fixed	_	_
 38	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
@@ -856,9 +856,9 @@
 3	utilisé	utiliser	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	série	série	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
-6	de	de	ADP	E	_	8	case	_	_
-7	mots	mot	ADJ	A	Number=Plur	8	amod	_	_
-8	clés	clé	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+6	de	de	ADP	E	_	7	case	_	_
+7	mots	mot	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	clés	clé	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
 9	pour	pour	ADP	E	_	10	mark	_	_
 10	cibler	cibler	VERB	V	VerbForm=Inf	3	advcl	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
@@ -884,7 +884,7 @@
 6	mises	mise	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
 7	à	à	ADP	E	_	8	case	_	_
 8	jour	jour	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
-9	publiques	public	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+9	publiques	public	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
 10-11	des	_	_	_	_	_	_	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
@@ -1275,7 +1275,7 @@
 # sent_id = fr_partut-ud-951
 # text = Les instruments de ratification sont déposés auprès du gouvernement de la République italienne au plus tard le 31 décembre 2006.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	instruments	instrument	NOUN	S	Gender=Fem|Number=Plur	6	nsubj:pass	_	_
+2	instruments	instrument	NOUN	S	Gender=Masc|Number=Plur	6	nsubj:pass	_	_
 3	de	de	ADP	E	_	4	case	_	_
 4	ratification	ratification	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
 5	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
@@ -1310,14 +1310,14 @@
 6	vigueur	vigueur	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	1er	1er	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
-9	janvier	janvier	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9	janvier	janvier	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
 10	2007	2007	NUM	N	NumType=Card	9	flat	_	_
 11	à	à	ADP	E	_	12	case	_	_
 12	condition	condition	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
 13	que	que	SCONJ	CS	_	21	mark	_	_
 14	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	instruments	instrument	NOUN	S	Gender=Fem|Number=Plur	21	nsubj:pass	_	_
+16	instruments	instrument	NOUN	S	Gender=Masc|Number=Plur	21	nsubj:pass	_	_
 17	de	de	ADP	E	_	18	case	_	_
 18	ratification	ratification	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
 19	aient	avoir	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
@@ -1359,7 +1359,7 @@
 26	état	état	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
 27	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	1	1	NUM	N	NumType=Card	21	obl	_	_
-29	janvier	janvier	NOUN	S	Gender=Fem|Number=Sing	28	flat	_	_
+29	janvier	janvier	NOUN	S	Gender=Masc|Number=Sing	28	flat	_	_
 30	2008	2008	NUM	N	NumType=Card	28	flat	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	21	punct	_	_
 
@@ -1490,7 +1490,7 @@
 # text = Parmi les instruments particuliers mentionnés dans le présent article figurent ceux qui sont visés à l'article IV-438 de la constitution.
 1	Parmi	parmi	ADP	E	_	3	case	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
-3	instruments	instrument	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+3	instruments	instrument	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
 4	particuliers	particulier	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
 5	mentionnés	mentionner	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 6	dans	dans	ADP	E	_	9	case	_	_
@@ -1726,7 +1726,7 @@
 11	évaluation	évaluation	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	2	punct	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
-14	fonds	fond	NOUN	S	Gender=Fem|Number=Plur	18	nsubj:pass	_	_
+14	fonds	fond	NOUN	S	Gender=Masc|Number=Plur	18	nsubj:pass	_	_
 15	de	de	ADP	E	_	16	case	_	_
 16	préadhésion	préadhésion	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
 17	prévus	prévoir	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	acl	_	_
@@ -1756,13 +1756,13 @@
 10-11	du	_	_	_	_	_	_	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	règlement	règlement	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	règlement	règlement	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
 13	financier	financier	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
 14	applicable	applicable	ADJ	A	Number=Sing	12	amod	_	_
 15-16	au	_	_	_	_	_	_	_	_
 15	à	à	ADP	E	_	17	case	_	_
 16	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	budget	budget	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	budget	budget	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
 18	général	général	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
 19-20	des	_	_	_	_	_	_	_	_
 19	de	de	ADP	E	_	21	case	_	_
@@ -1819,7 +1819,7 @@
 2	comité	comité	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	adopte	adopter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	3	det	_	_
-5	règlement	règlement	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	règlement	règlement	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
 6	intérieur	intérieur	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -1871,7 +1871,7 @@
 # sent_id = fr_partut-ud-974
 # text = un douzième de chaque montant annuel est versé à la Bulgarie et à la Roumanie le premier jour ouvrable de chaque mois de l'année correspondante.
 1	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	douzième	douzième	NOUN	S	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
+2	douzième	douzième	NOUN	S	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	chaque	chaque	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
 5	montant	montant	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -1891,7 +1891,7 @@
 19	ouvrable	ouvrable	ADJ	A	Number=Sing	18	amod	_	_
 20	de	de	ADP	E	_	22	case	_	_
 21	chaque	chaque	DET	DI	Number=Sing|PronType=Ind	22	det	_	_
-22	mois	mois	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
+22	mois	mois	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
 23	de	de	ADP	E	_	25	case	_	_
 24	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No
 25	année	année	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	_
@@ -1918,7 +1918,7 @@
 15	de	de	ADP	E	_	18	case	_	_
 16	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
 17	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	_
-18	décaissement	décaissement	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	décaissement	décaissement	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-976
@@ -1962,7 +1962,7 @@
 19	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	facilité	facilité	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
 21	Schengen	Schengen	PROPN	SP	_	20	nmod	_	_
-22	temporaires	temporaire	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	temporaires	temporaire	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-978
@@ -2048,7 +2048,7 @@
 19	de	de	ADP	E	_	21	case	_	_
 20	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	échanges	échange	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
-22	commerciaux	commerciaux	ADJ	A	Number=Sing	21	amod	_	_
+22	commerciaux	commercial	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	_
 23	entre	entre	ADP	E	_	25	case	_	_
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
 25	États	état	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	_
@@ -2100,7 +2100,7 @@
 11	à	à	ADP	E	_	14	case	_	_
 12	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
-14	alinéa	alinéa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	alinéa	alinéa	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
 15	tant	tant	ADV	B	_	24	mark	_	_
 16	que	que	SCONJ	CS	_	15	fixed	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
@@ -2185,7 +2185,7 @@
 11	à	à	ADP	E	_	14	case	_	_
 12	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
-14	alinéa	alinéa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	alinéa	alinéa	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
 15	tant	tant	ADV	B	_	19	mark	_	_
 16	que	que	SCONJ	CS	_	15	fixed	_	_
 17	ces	ce	DET	DD	Number=Plur|PronType=Dem	18	det	_	_
@@ -2246,7 +2246,7 @@
 4	apporte	apporter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	à	à	ADP	E	_	7	case	_	_
 6	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	7	det	_	_
-7	règlement	règlement	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	règlement	règlement	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
 8	intérieur	intérieur	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
 9	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	adaptations	adaptation	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
@@ -2264,7 +2264,7 @@
 3	apporte	apporter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	à	à	ADP	E	_	6	case	_	_
 5	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	6	det	_	_
-6	règlement	règlement	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+6	règlement	règlement	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
 7	intérieur	intérieur	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	adaptations	adaptation	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
@@ -2379,7 +2379,7 @@
 20	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	6	6	NUM	N	NumType=Card	20	obl	_	_
-23	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	22	flat	_	_
+23	octobre	octobre	NOUN	S	Gender=Masc|Number=Sing	22	flat	_	_
 24	2009	2009	NUM	N	NumType=Card	22	flat	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	20	punct	_	_
 
@@ -2405,7 +2405,7 @@
 7	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	6	6	NUM	N	NumType=Card	7	obl	_	_
-10	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	_
+10	octobre	octobre	NOUN	S	Gender=Masc|Number=Sing	9	flat	_	_
 11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -2462,7 +2462,7 @@
 5	apporte	apporter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	à	à	ADP	E	_	8	case	_	_
 7	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	_
-8	règlement	règlement	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	règlement	règlement	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
 9	de	de	ADP	E	_	10	case	_	_
 10	procédure	procédure	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
@@ -2490,7 +2490,7 @@
 12	apporte	apporter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	à	à	ADP	E	_	15	case	_	_
 14	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	15	det	_	_
-15	règlement	règlement	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	règlement	règlement	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
 16	de	de	ADP	E	_	17	case	_	_
 17	procédure	procédure	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
 18	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
@@ -2830,7 +2830,7 @@
 16	à	à	ADP	E	_	19	case	_	_
 17	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 18	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	_
-19	alinéa	alinéa	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	alinéa	alinéa	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	11	punct	_	_
 21	établis	établir	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
 22	dans	dans	ADP	E	_	24	case	_	_
@@ -2978,7 +2978,7 @@
 # sent_id = fr_partut-ud-1019
 # text = Une fois ce délai écoulé, toute aide jugée incompatible avec ces orientations est considérée comme une aide nouvelle.
 1	Une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	fois	foi	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
+2	fois	fois	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
 3	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	délai	délai	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	écoulé	écouler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
@@ -3001,7 +3001,7 @@
 # sent_id = fr_partut-ud-1020
 # text = Les stocks visés au point 1 sont déduits de la quantité excédant le report normal de stocks.
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	stocks	stock	NOUN	S	Gender=Fem|Number=Plur	9	nsubj:pass	_	_
+2	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
 3	visés	viser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
 4-5	au	_	_	_	_	_	_	_	_
 4	à	à	ADP	E	_	6	case	_	_
