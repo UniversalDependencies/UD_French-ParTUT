@@ -1472,7 +1472,7 @@
 110	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	112	det	_	_
 111	possible	possible	ADJ	A	Number=Sing	112	amod	_	_
 112	existence	existence	NOUN	S	Gender=Fem|Number=Sing	108	nmod	_	_
-113	d'	de	ADP	E	_	114	case	_	SpaceAfter=No
+113	d'	de	ADP	E	_	116	case	_	SpaceAfter=No
 114	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	116	det	_	_
 115	tel	tel	ADJ	A	Gender=Masc|Number=Sing	116	amod	_	_
 116	préjudice	préjudice	NOUN	S	Gender=Masc|Number=Sing	112	nmod	_	SpaceAfter=No
@@ -7359,7 +7359,7 @@
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	marchandise	marchandise	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
 13	transportée	transporter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
-14	n'	ne	PART	PART	Polarity=Neg	13	advmod	_	SpaceAfter=No
+14	n'	ne	PART	PART	Polarity=Neg	15	advmod	_	SpaceAfter=No
 15	était	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
 16	pas	pas	ADV	BN	Polarity=Neg	17	advmod	_	_
 17	dangereuse	dangereux	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
@@ -10200,7 +10200,7 @@
 85	grâce	grâce	NOUN	S	Gender=Fem|Number=Sing	89	case	_	_
 86-87	aux	_	_	_	_	_	_	_	_
 86	à	à	ADP	E	_	85	fixed	_	_
-87	les	le	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	88	det	_	_
+87	les	le	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	89	det	_	_
 88	ces	ce	DET	DD	Number=Plur|PronType=Dem	89	det	_	_
 89	fonds	fond	NOUN	S	Gender=Masc|Number=Plur	84	obl	_	_
 90	plus	plus	ADV	B	_	91	advmod	_	_
@@ -11703,8 +11703,8 @@
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	politiques	politique	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 8	discréditées	discréditer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
-9	de	de	ADP	E	_	10	case	_	_
-10	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	_
+9	de	de	ADP	E	_	11	case	_	_
+10	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	11	det	_	_
 11	parti	parti	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -12894,7 +12894,7 @@
 17	occasion	occasion	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
 18	—	—	PUNCT	FB	_	17	punct	_	_
 19	ou	ou	CCONJ	CC	_	25	cc	_	_
-20	ne	ne	PART	PART	Polarity=Neg	19	advmod	_	_
+20	ne	ne	PART	PART	Polarity=Neg	25	advmod	_	_
 21	se	se	PRON	P	Person=3|PronType=Prs	25	expl	_	_
 22	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	25	obj	_	SpaceAfter=No
 23	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
@@ -22285,7 +22285,7 @@
 18-19	des	_	_	_	_	_	_	_	_
 18	de	de	ADP	E	_	20	case	_	_
 19	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
-20	états	état	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+20	états	état	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
 21	membres	membre	NOUN	S	Gender=Masc|Number=Plur	20	compound	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	29	punct	_	_
 23	tandis	tandis	ADV	B	_	29	cc	_	_
