@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = fr_partut-ud-2
 # text = Creative Commons n'est pas un cabinet d'avocats et ne fournit pas de services de conseil juridique.
 1	Creative	Creative	PROPN	SP	_	7	nsubj	_	_
@@ -14,7 +13,7 @@
 11	ne	ne	PART	PART	Polarity=Neg	12	advmod	_	_
 12	fournit	fournir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 13	pas	pas	ADV	BN	Polarity=Neg	12	advmod	_	_
-14	de	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+14	de	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
 15	services	service	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
 16	de	de	ADP	E	_	17	case	_	_
 17	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
@@ -25,12 +24,12 @@
 # text = L'oeuvre (telle que définie ci-dessous) est mise à disposition selon les termes du présent contrat appelé Contrat Public Creative Commons (dénommé ici «CPCC» ou «Contrat»).
 1	L'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	10	nsubj:pass	_	_
-3	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
-4	telle	tel	ADJ	A	Gender=Fem|Number=Sing	6	mark	_	_
-5	que	que	SCONJ	CS	_	4	fixed	_	_
-6	définie	définir	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+3	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	telle	tel	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+5	que	que	SCONJ	CS	_	6	mark	_	_
+6	définie	définir	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
 7	ci-dessous	ci-dessous	ADV	B	_	6	advmod	_	SpaceAfter=No
-8	)	)	PUNCT	FB	_	6	punct	_	_
+8	)	)	PUNCT	FB	_	4	punct	_	_
 9	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	mise	mettre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	à	à	ADP	E	_	12	case	_	_
@@ -253,14 +252,14 @@
 35	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	36	amod	_	_
 36	amour	amour	NOUN	S	Gender=Masc|Number=Sing	40	nsubj	_	_
 37	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	aux	_	_
-38	quand	quand	SCONJ	CS	_	40	advmod	_	_
+38	quand	quand	SCONJ	CS	ExtPos=ADV	40	advmod	_	_
 39	même	même	ADV	B	_	38	fixed	_	_
 40	duré	durer	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	31	conj	_	_
 41	heureusement	heureusement	ADV	B	_	40	advmod	_	_
-42	plus	plus	ADV	B	_	45	advmod	_	_
-43	de	de	ADP	E	_	42	fixed	_	_
+42	plus	plus	ADV	B	_	40	obl	_	_
+43	de	de	ADP	E	_	45	case	_	_
 44	deux	deux	NUM	N	NumType=Card	45	nummod	_	_
-45	minutes	minute	NOUN	S	Gender=Fem|Number=Plur	40	obl	_	SpaceAfter=No
+45	minutes	minute	NOUN	S	Gender=Fem|Number=Plur	42	obl:arg	_	SpaceAfter=No
 46	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-285
@@ -298,7 +297,7 @@
 9	,	,	PUNCT	FF	_	5	punct	_	_
 10	c'	ce	PRON	PD	PronType=Dem	11	nsubj	_	SpaceAfter=No
 11	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	parce	parce	ADV	B	_	20	mark	_	_
+12	parce	parce	ADV	B	ExtPos=SCONJ	20	mark	_	_
 13	que	que	SCONJ	CS	_	12	fixed	_	_
 14	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	travail	travail	NOUN	S	Gender=Masc|Number=Sing	20	nsubj:pass	_	_
@@ -589,7 +588,7 @@
 
 # sent_id = fr_partut-ud-465
 # text = De plus, si vous choisissez d'utiliser Facebook à partir de votre téléphone mobile, notez que vous êtes responsable des frais associés à l'utilisation d'Internet et/ou aux SMS, selon les termes de votre opérateur de téléphonie mobile.
-1	De	de	ADP	E	_	17	advmod	_	_
+1	De	de	ADP	E	ExtPos=ADV	17	advmod	_	_
 2	plus	plus	ADV	B	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	si	si	SCONJ	CS	_	6	mark	_	_
@@ -743,9 +742,9 @@
 32	informations	information	NOUN	S	Gender=Fem|Number=Plur	28	conj	_	_
 33	associées	associer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	32	acl	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	26	punct	_	_
-35	afin	afin	ADP	E	_	37	mark	_	_
-36	de	de	ADP	E	_	35	fixed	_	_
-37	pouvoir	pouvoir	VERB	VM	VerbForm=Inf	26	advcl	_	_
+35	afin	afin	ADV	E	_	26	advmod	_	_
+36	de	de	ADP	E	_	37	mark	_	_
+37	pouvoir	pouvoir	VERB	VM	VerbForm=Inf	35	ccomp	_	_
 38	être	être	AUX	VA	VerbForm=Inf	39	aux:pass	_	_
 39	mis	mettre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	37	xcomp	_	_
 40	sur	sur	ADP	E	_	42	case	_	_
@@ -998,7 +997,7 @@
 1	Celui-ci	celui-ci	PRON	PD	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 2	retient	retenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	jusqu'	jusque	ADP	E	_	8	case	_	SpaceAfter=No
-4	à	à	ADP	E	_	3	fixed	_	_
+4	à	à	ADP	E	_	8	case	_	_
 5	30000	30000	NUM	N	NumType=Card	6	nummod	_	_
 6	fois	fois	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
 7	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	_
@@ -1083,7 +1082,7 @@
 12	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	patriote	patriote	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
 14	américain	américain	ADJ	A	Number=Sing	13	amod	_	_
-15	parce	parce	ADV	B	_	19	mark	_	_
+15	parce	parce	ADV	B	ExtPos=SCONJ	19	mark	_	_
 16	que	que	SCONJ	CS	_	15	fixed	_	_
 17	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
 18	en	en	ADP	E	_	19	obl	_	_
@@ -1112,7 +1111,7 @@
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	suis	être	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	face	face	NOUN	S	Gender=Fem|Number=Sing	9	case	_	_
+6	face	face	NOUN	S	ExtPos=ADP|Gender=Fem|Number=Sing	9	case	_	_
 7	à	à	ADP	E	_	6	fixed	_	_
 8	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	obstacle	obstacle	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
@@ -1182,7 +1181,7 @@
 
 # sent_id = fr_partut-ud-889
 # text = En fait, nous sommes plus proches des champignons que de tout autre règne.
-1	En	en	ADP	E	_	7	advmod	_	_
+1	En	en	ADP	E	ExtPos=ADV	7	advmod	_	_
 2	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
@@ -1361,10 +1360,10 @@
 10	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	y	y	PRON	P	PronType=Prs	12	expl	_	_
 12	avoir	avoir	VERB	V	VerbForm=Inf	10	xcomp	_	_
-13	plus	plus	ADV	B	_	15	advmod	_	_
-14	de	de	ADP	E	_	13	fixed	_	_
+13	plus	plus	ADV	B	_	12	obj	_	_
+14	de	de	ADP	E	_	16	case	_	_
 15	huit	huit	NUM	N	NumType=Card	16	nummod	_	_
-16	miles	miles	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+16	miles	miles	NOUN	S	Gender=Fem|Number=Sing	13	obl:arg	_	_
 17	de	de	ADP	E	_	19	case	_	_
 18	ces	ce	DET	DD	Number=Plur|PronType=Dem	19	det	_	_
 19	cellules	cellule	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
@@ -1727,7 +1726,7 @@
 4	sur	sur	ADP	E	_	6	case	_	_
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	terre	terre	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
-7	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	case	_	_
+7	il	il	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	case	_	_
 8	y	y	PRON	P	PronType=Prs	7	fixed	_	_
 9	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	fixed	_	_
 10	1,3	1,3	NUM	N	NumType=Card	11	nummod	_	_
@@ -1896,7 +1895,7 @@
 
 # sent_id = fr_partut-ud-927
 # text = Il y a 420 millions d'années, cet organisme existait.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	case	_	_
+1	Il	il	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	case	_	_
 2	y	y	PRON	P	PronType=Prs	1	fixed	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
 4	420	420	NUM	N	NumType=Card	5	nummod	_	_
@@ -1945,10 +1944,10 @@
 9	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
 10	époque	époque	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
 11	mesuraient	mesurer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-12	moins	moins	ADV	B	_	14	advmod	_	_
-13	de	de	ADP	E	_	12	fixed	_	_
+12	moins	moins	ADV	B	_	11	xcomp	_	_
+13	de	de	ADP	E	_	15	case	_	_
 14	60	60	NUM	N	NumType=Card	15	nummod	_	_
-15	cm	cm	NOUN	S	Gender=Fem|Number=Sing	11	xcomp	_	SpaceAfter=No
+15	cm	cm	NOUN	S	Gender=Fem|Number=Sing	12	obl:arg	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-931
@@ -2052,7 +2051,7 @@
 11	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux:pass	_	_
 12	récompensés	récompenser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
-14	parce	parce	ADV	B	_	19	mark	_	_
+14	parce	parce	ADV	B	ExtPos=SCONJ	19	mark	_	_
 15	que	que	SCONJ	CS	_	14	fixed	_	_
 16	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	champignons	champignon	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_

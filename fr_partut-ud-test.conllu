@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = fr_partut-ud-1
 # text = Paternité-Partage des conditions initiales à l'identique 2.0.
 1	Paternité	paternité	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -151,7 +150,7 @@
 17	de	de	ADP	E	_	18	mark	_	_
 18	suggérer	suggérer	VERB	V	VerbForm=Inf	16	xcomp	_	_
 19	serait	être	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
-20	tout	tout	ADV	B	_	23	advmod	_	_
+20	tout	tout	ADV	B	ExtPos=ADV	23	advmod	_	_
 21	à	à	ADP	E	_	20	fixed	_	_
 22	fait	fait	NOUN	S	Gender=Masc|Number=Sing	20	fixed	_	_
 23	appropriée	approprié	ADJ	A	Gender=Fem|Number=Sing	7	ccomp	_	SpaceAfter=No
@@ -243,7 +242,7 @@
 44	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	_
 45	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
 46	,	,	PUNCT	FF	_	53	punct	_	_
-47	ainsi	ainsi	ADV	B	_	53	cc	_	_
+47	ainsi	ainsi	ADV	B	ExtPos=CCONJ	53	cc	_	_
 48	que	que	SCONJ	CS	_	47	fixed	_	SpaceAfter=No
 49	,	,	PUNCT	FF	_	53	punct	_	_
 50	notamment	notamment	ADV	B	_	53	advmod	_	SpaceAfter=No
@@ -374,11 +373,11 @@
 7	prise	prendre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 8	en	en	ADP	E	_	9	case	_	_
 9	considération	considération	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
-10	lors	lors	ADV	B	_	13	case	_	_
+10	lors	lors	ADV	B	_	7	advmod	_	_
 11-12	du	_	_	_	_	_	_	_	_
-11	de	de	ADP	E	_	10	fixed	_	_
+11	de	de	ADP	E	_	13	case	_	_
 12	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	vote	vote	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+13	vote	vote	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
 14	de	de	ADP	E	_	15	case	_	_
 15	demain	demain	ADV	B	_	13	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	2	punct	_	_
@@ -535,10 +534,10 @@
 33	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 34	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	35	amod	_	_
 35	fois	fois	NOUN	S	Gender=Fem|Number=Sing	31	obl	_	_
-36	lors	lors	ADV	B	_	39	case	_	_
-37	de	de	ADP	E	_	36	fixed	_	_
+36	lors	lors	ADV	B	_	31	advmod	_	_
+37	de	de	ADP	E	_	39	case	_	_
 38	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
-39	période	période	NOUN	S	Gender=Fem|Number=Sing	31	obl	_	_
+39	période	période	NOUN	S	Gender=Fem|Number=Sing	36	obj	_	_
 40-41	du	_	_	_	_	_	_	_	_
 40	de	de	ADP	E	_	42	case	_	_
 41	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	42	det	_	_
@@ -640,13 +639,13 @@
 9	tâche	tâche	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
 10	et	et	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	20	punct	_	_
-12	lors	lors	ADV	B	_	15	case	_	_
-13	de	de	ADP	E	_	12	fixed	_	_
+12	lors	lors	ADV	B	_	20	advmod	_	_
+13	de	de	ADP	E	_	15	case	_	_
 14	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
-15	examen	examen	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+15	examen	examen	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
 16	en	en	ADP	E	_	17	case	_	_
 17	commission	commission	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	15	punct	_	_
+18	,	,	PUNCT	FF	_	12	punct	_	_
 19	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	tenu	tenir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
 21	compte	compte	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
@@ -1134,7 +1133,7 @@
 12	satisfaisante	satisfaisant	ADJ	A	Gender=Fem|Number=Sing	10	conj	_	_
 13	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	iobj	_	_
 14	assurant	assurer	VERB	V	Tense=Pres|VerbForm=Part	9	acl	_	_
-15	ainsi	ainsi	ADV	B	_	19	cc	_	_
+15	ainsi	ainsi	ADV	B	ExtPos=CCONJ	19	cc	_	_
 16	qu'	que	SCONJ	CS	_	15	fixed	_	SpaceAfter=No
 17	à	à	ADP	E	_	19	case	_	_
 18	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	19	det	_	_
@@ -1264,10 +1263,10 @@
 9	Parties	partie	NOUN	S	Gender=Fem|Number=Plur	5	obl:agent	_	_
 10	Contractantes	contractant	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	5	punct	_	_
-12	conformément	conformément	ADV	B	_	15	advmod	_	_
-13	à	à	ADP	E	_	12	fixed	_	_
+12	conformément	conformément	ADV	B	_	5	advmod	_	_
+13	à	à	ADP	E	_	15	case	_	_
 14	leurs	leur	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	15	det	_	_
-15	règles	règle	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+15	règles	règle	NOUN	S	Gender=Fem|Number=Plur	12	obl:arg	_	_
 16	constitutionnelles	constitutionnel	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
 17	respectives	respectif	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	5	punct	_	_
@@ -1280,11 +1279,11 @@
 4	ratification	ratification	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
 5	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
 6	déposés	déposer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-7	auprès	auprès	ADP	E	_	10	case	_	_
+7	auprès	auprès	ADV	E	_	6	advmod	_	_
 8-9	du	_	_	_	_	_	_	_	_
-8	de	de	ADP	E	_	7	fixed	_	_
+8	de	de	ADP	E	_	10	case	_	_
 9	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
-10	gouvernement	gouvernement	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	gouvernement	gouvernement	NOUN	S	Gender=Masc|Number=Sing	7	obl:arg	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	République	République	PROPN	SP	_	10	nmod	_	_
@@ -1525,7 +1524,7 @@
 9	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
 11	pour	pour	ADP	E	_	15	mark	_	_
-12	qu'	que	ADP	E	_	11	fixed	_	SpaceAfter=No
+12	qu'	que	ADP	E	_	15	mark	_	SpaceAfter=No
 13	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj:pass	_	_
 14	soient	être	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
 15	conclus	conclure	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No
@@ -1734,7 +1733,7 @@
 19	être	être	AUX	VA	VerbForm=Inf	20	aux:pass	_	_
 20	engagés	engager	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	18	xcomp	_	_
 21	jusqu'	jusque	ADP	E	_	24	case	_	SpaceAfter=No
-22	à	à	ADP	E	_	21	fixed	_	_
+22	à	à	ADP	E	_	24	case	_	_
 23	cinq	cinq	NUM	N	NumType=Card	24	nummod	_	_
 24	ans	an	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
 25	après	après	ADP	E	_	27	case	_	_
@@ -2004,10 +2003,10 @@
 2	mesures	mesure	NOUN	S	Gender=Fem|Number=Plur	16	nsubj:pass	_	_
 3	qui	qui	PRON	PR	PronType=Rel	4	nsubj	_	_
 4	causent	causer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
-5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	moins	moins	ADV	B	_	8	advmod	_	_
-7	de	de	ADP	E	_	6	fixed	_	_
-8	perturbation	perturbation	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+5	le	le	DET	RD	Definite=Def|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	_
+6	moins	moins	ADV	B	_	5	fixed	_	_
+7	de	de	ADP	E	_	8	case	_	_
+8	perturbation	perturbation	NOUN	S	Gender=Fem|Number=Sing	5	obl:arg	_	_
 9-10	au	_	_	_	_	_	_	_	_
 9	à	à	ADP	E	_	11	case	_	_
 10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -2091,17 +2090,17 @@
 3	cependant	cependant	ADV	B	_	5	advmod	_	_
 4	être	être	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
 5	appliquées	appliquer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	xcomp	_	_
-6	au-delà	au-delà	ADP	E	_	9	case	_	_
-7	de	de	ADP	E	_	6	fixed	_	_
+6	au-delà	au-delà	ADV	E	_	5	advmod	_	_
+7	de	de	ADP	E	_	9	case	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	période	période	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	période	période	NOUN	S	Gender=Fem|Number=Sing	6	obl:arg	_	_
 10	visée	viser	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
 11-12	au	_	_	_	_	_	_	_	_
 11	à	à	ADP	E	_	14	case	_	_
 12	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
 14	alinéa	alinéa	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
-15	tant	tant	ADV	B	_	24	mark	_	_
+15	tant	tant	ADV	B	ExtPos=SCONJ	24	mark	_	_
 16	que	que	SCONJ	CS	_	15	fixed	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	engagements	engagement	NOUN	S	Gender=Masc|Number=Plur	24	nsubj:pass	_	_
@@ -2161,7 +2160,7 @@
 18	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 19	levées	lever	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
 20	dès	dès	ADP	E	_	26	mark	_	_
-21	que	que	SCONJ	CS	_	20	fixed	_	_
+21	que	que	SCONJ	CS	_	26	mark	_	_
 22	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	manquement	manquement	NOUN	S	Gender=Masc|Number=Sing	26	nsubj:pass	_	_
 24	constaté	constater	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	acl	_	_
@@ -2176,17 +2175,17 @@
 3	cependant	cependant	ADV	B	_	5	advmod	_	_
 4	être	être	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
 5	appliquées	appliquer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	xcomp	_	_
-6	au-delà	au-delà	ADV	B	_	9	case	_	_
-7	de	de	ADP	E	_	6	fixed	_	_
+6	au-delà	au-delà	ADV	B	_	5	advmod	_	_
+7	de	de	ADP	E	_	9	case	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	période	période	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	période	période	NOUN	S	Gender=Fem|Number=Sing	6	obl:arg	_	_
 10	visée	viser	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
 11-12	au	_	_	_	_	_	_	_	_
 11	à	à	ADP	E	_	14	case	_	_
 12	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	premier	premier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
 14	alinéa	alinéa	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
-15	tant	tant	ADV	B	_	19	mark	_	_
+15	tant	tant	ADV	B	ExtPos=SCONJ	19	mark	_	_
 16	que	que	SCONJ	CS	_	15	fixed	_	_
 17	ces	ce	DET	DD	Number=Plur|PronType=Dem	18	det	_	_
 18	manquements	manquement	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
@@ -2232,10 +2231,10 @@
 20	s'	se	PRON	P	PronType=Prs	21	expl	_	SpaceAfter=No
 21	appliquent	appliquer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 22	pas	pas	ADV	BN	Polarity=Neg	21	advmod	_	_
-23	au-delà	au-delà	ADV	B	_	26	case	_	_
-24	de	de	ADP	E	_	23	fixed	_	_
+23	au-delà	au-delà	ADV	B	_	21	advmod	_	_
+24	de	de	ADP	E	_	26	case	_	_
 25	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
-26	période	période	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+26	période	période	NOUN	S	Gender=Fem|Number=Sing	23	obl:arg	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-988
@@ -2370,11 +2369,11 @@
 12	de	de	ADP	E	_	13	case	_	_
 13	justice	justice	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
 14	nommés	nommer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
-15	conformément	conformément	ADV	B	_	18	advmod	_	_
+15	conformément	conformément	ADV	B	_	14	advmod	_	_
 16-17	au	_	_	_	_	_	_	_	_
-16	à	à	ADP	E	_	15	fixed	_	_
+16	à	à	ADP	E	_	18	case	_	_
 17	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	paragraphe	paragraphe	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	paragraphe	paragraphe	NOUN	S	Gender=Masc|Number=Sing	15	obl:arg	_	_
 19	1	1	NUM	N	NumType=Card	18	nummod	_	_
 20	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -2425,11 +2424,11 @@
 10	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
 11	tribunal	tribunal	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
 12	nommés	nommer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
-13	conformément	conformément	ADV	B	_	16	advmod	_	_
+13	conformément	conformément	ADV	B	_	12	advmod	_	_
 14-15	au	_	_	_	_	_	_	_	_
-14	à	à	ADP	E	_	13	fixed	_	_
+14	à	à	ADP	E	_	16	case	_	_
 15	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	paragraphe	paragraphe	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	paragraphe	paragraphe	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
 17	1	1	NUM	N	NumType=Card	16	nummod	_	_
 18	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -2659,11 +2658,11 @@
 2	mesures	mesure	NOUN	S	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
 3	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	adoptées	adopter	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-5	conformément	conformément	ADV	B	_	8	advmod	_	_
+5	conformément	conformément	ADV	B	_	4	advmod	_	_
 6-7	aux	_	_	_	_	_	_	_	_
-6	à	à	ADP	E	_	5	fixed	_	_
+6	à	à	ADP	E	_	8	case	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	règles	règle	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	règles	règle	NOUN	S	Gender=Fem|Number=Plur	5	obl:arg	_	_
 9	de	de	ADP	E	_	10	case	_	_
 10	vote	vote	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
 11	applicables	applicable	ADJ	A	Number=Plur	8	amod	_	_
@@ -2841,7 +2840,7 @@
 
 # sent_id = fr_partut-ud-1012
 # text = Tant que cet accord n'est pas conclu, dans la mesure où il s'applique provisoirement.
-1	Tant	tant	ADV	B	_	8	mark	_	_
+1	Tant	tant	ADV	B	ExtPos=SCONJ	8	mark	_	_
 2	que	que	SCONJ	CS	_	1	fixed	_	_
 3	cet	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	accord	accord	NOUN	S	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
