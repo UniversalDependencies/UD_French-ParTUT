@@ -21,7 +21,7 @@
 3	de	de	ADP	E	_	5	case	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	Oeuvre	œuvre	PROPN	SP	_	2	nmod	_	_
-6	autrement	autrement	ADV	B	_	9	mark	_	_
+6	autrement	autrement	ADV	B	ExtPos=SCONJ	9	mark	_	_
 7	qu'	que	SCONJ	CS	_	6	fixed	_	SpaceAfter=No
 8	explicitement	explicitement	ADV	B	_	9	advmod	_	_
 9	autorisée	autoriser	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
@@ -332,7 +332,7 @@
 8	faire	faire	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	pour	pour	ADP	E	_	10	mark	_	_
 10	limiter	limiter	VERB	V	VerbForm=Inf	8	advcl	_	_
-11	autant	autant	ADV	B	_	13	mark	_	_
+11	autant	autant	ADV	B	ExtPos=ADV	13	mark	_	_
 12	que	que	SCONJ	CS	_	11	fixed	_	_
 13	possible	possible	ADJ	A	Number=Sing	10	advcl	_	_
 14	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -509,7 +509,7 @@
 9	particulièrement	particulièrement	ADV	B	_	10	advmod	_	_
 10	regrettable	regrettable	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	alors	alors	ADV	B	_	31	mark	_	_
+12	alors	alors	ADV	B	ExtPos=SCONJ	31	mark	_	_
 13	que	que	SCONJ	CS	_	12	fixed	_	_
 14	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
 15	idée	idée	NOUN	S	Gender=Fem|Number=Sing	31	nsubj:pass	_	_
@@ -663,7 +663,7 @@
 # sent_id = fr_partut-ud-377
 # text = On y a intégré des questions de détail et des questions qui ont déjà été abordées dans des rapports antérieurs.
 1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	y	y	PRON	P	PronType=Prs	4	iobj	_	_
+2	y	y	PRON	P	Person=3|PronType=Prs	4	iobj	_	_
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	intégré	intégrer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
@@ -1066,7 +1066,7 @@
 16	sans	sans	ADP	E	_	17	case	_	_
 17	aucune	aucun	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	30	obl	_	_
 18	restriction	restriction	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
-19	quant	quant	ADV	B	_	22	case	_	_
+19	quant	quant	ADV	B	ExtPos=ADP	22	case	_	_
 20	à	à	ADP	E	_	19	fixed	_	_
 21	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	race	race	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
@@ -1150,7 +1150,7 @@
 29	,	,	PUNCT	FF	_	28	punct	_	_
 30	s'	si	SCONJ	CS	_	33	mark	_	SpaceAfter=No
 31	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	expl	_	_
-32	y	y	PRON	P	PronType=Prs	33	expl	_	_
+32	y	y	PRON	P	Person=3|PronType=Prs	33	expl	_	_
 33	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	advcl	_	_
 34	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	33	obj	_	SpaceAfter=No
 35	,	,	PUNCT	FF	_	28	punct	_	_
@@ -1402,12 +1402,12 @@
 8	constitution	constitution	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
 9	pour	pour	ADP	E	_	11	case	_	_
 10	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
-11	Europe	Europe	PROPN	SP	_	6	obl	_	SpaceAfter=No
+11	Europe	Europe	PROPN	SP	_	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	13	punct	_	_
-13	rédigé	rédiger	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+13	rédigé	rédiger	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
 14	en	en	ADP	E	_	15	case	_	_
 15	langues	langue	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
-16	bulgare	bulgare	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+16	bulgare	bulgare	NOUN	S	Gender=Fem|Number=Sing	15	amod	_	_
 17	et	et	CCONJ	CC	_	18	cc	_	_
 18	roumaine	roumaine	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	2	punct	_	_
@@ -1434,7 +1434,7 @@
 9	admission	admission	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	République	République	PROPN	SP	_	9	obl	_	_
+12	République	République	PROPN	SP	_	9	nmod	_	_
 13	de	de	ADP	E	_	14	case	_	_
 14	Bulgarie	Bulgarie	PROPN	SP	_	12	nmod	_	_
 15	et	et	CCONJ	CC	_	18	cc	_	_
@@ -1443,7 +1443,7 @@
 18	Roumanie	Roumanie	PROPN	SP	_	12	conj	_	_
 19	à	à	ADP	E	_	21	case	_	_
 20	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
-21	Union	Union	PROPN	SP	_	9	obl	_	_
+21	Union	Union	PROPN	SP	_	9	nmod	_	_
 22	Européenne	Européenne	PROPN	SP	_	21	flat:name	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	1	punct	_	_
 
@@ -1476,13 +1476,13 @@
 22	membres	membre	NOUN	S	Gender=Masc|Number=Plur	21	compound	_	_
 23	réunis	réunir	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
 24-25	au	_	_	_	_	_	_	_	_
-24	à	à	ADP	E	_	29	case	_	_
-25	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	fixed	_	_
-26	sein	sein	NOUN	S	Gender=Masc|Number=Sing	24	fixed	_	_
+24	à	à	ADP	E	_	26	case	_	_
+25	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	sein	sein	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
 27-28	du	_	_	_	_	_	_	_	_
-27	de	de	ADP	E	_	24	fixed	_	_
+27	de	de	ADP	E	_	29	case	_	_
 28	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+29	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-958
@@ -2189,7 +2189,7 @@
 16	que	que	SCONJ	CS	_	15	fixed	_	_
 17	ces	ce	DET	DD	Number=Plur|PronType=Dem	18	det	_	_
 18	manquements	manquement	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
-19	persistent	persistent	NOUN	S	Gender=Fem|Number=Sing	5	advcl	_	SpaceAfter=No
+19	persistent	persister	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	obl	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-986
@@ -3017,6 +3017,6 @@
 15	report	report	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 16	normal	normal	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
 17	de	de	ADP	E	_	18	case	_	_
-18	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
+18	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	9	punct	_	_
 
