@@ -14831,7 +14831,7 @@
 5	minimal	minimal	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
 6	requis	requérir	VERB	V	Gender=Masc|Tense=Past|VerbForm=Part	4	acl	_	_
 7	pour	pour	ADP	E	_	9	mark	_	_
-8	s'	si	PRON	P	Person=3|PronType=Prs	9	expl	_	SpaceAfter=No
+8	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	9	expl:pass	_	SpaceAfter=No
 9	inscrire	inscrire	VERB	V	VerbForm=Inf	6	advcl	_	_
 10	à	à	ADP	E	_	11	case	_	_
 11	Facebook	Facebook	PROPN	SP	_	9	obl	_	SpaceAfter=No
@@ -15532,7 +15532,7 @@
 1	Cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	section	section	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	ne	ne	PART	PART	Polarity=Neg	5	advmod	_	_
-4	s'	si	PRON	P	Person=3|PronType=Prs	5	expl	_	SpaceAfter=No
+4	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	5	expl:pass	_	SpaceAfter=No
 5	affichera	afficher	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	pas	pas	ADV	BN	Polarity=Neg	5	advmod	_	_
 7	si	si	SCONJ	CS	_	11	mark	_	_
@@ -22623,7 +22623,7 @@
 
 # sent_id = fr_partut-ud-701
 # text = S'agissant de la provenance des participants, le rapport d'évaluation indique que ces derniers provenaient de 76 pays, en majorité des états membres.
-1	S'	se	PRON	P	Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
+1	S'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	SpaceAfter=No
 2	agissant	agir	VERB	V	Tense=Pres|VerbForm=Part	14	advcl	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
