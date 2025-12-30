@@ -546,7 +546,7 @@
 15	offrant	offrant	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	_
 16	ou	ou	CCONJ	CC	_	20	cc	_	_
 17	dont	dont	PRON	PR	PronType=Rel	20	iobj	_	_
-18	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+18	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 19	n'	ne	PART	PART	Polarity=Neg	20	advmod	_	SpaceAfter=No
 20	aurait	avoir	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 21	pas	pas	ADV	BN	Polarity=Neg	20	advmod	_	_
@@ -796,7 +796,7 @@
 14	tout	tout	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
 15	offrant	offrant	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	12	punct	_	_
-17	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+17	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
 18	devra	devoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	18	punct	_	_
 20	dans	dans	ADP	E	_	22	case	_	_
@@ -843,7 +843,7 @@
 14	tout	tout	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
 15	offrant	offrant	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
-17	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+17	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
 18	devra	devoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	18	punct	_	_
 20	dans	dans	ADP	E	_	22	case	_	_
@@ -1147,8 +1147,8 @@
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	oeuvre	œuvre	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
 6	originale	originale	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
-7	s'	si	SCONJ	CS	_	10	mark	_	SpaceAfter=No
-8	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
+7	s'	si	SCONJ	E	_	10	mark	_	SpaceAfter=No
+8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	indiqué	indiquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
 11	;	;	PUNCT	FC	_	2	punct	_	_
@@ -1176,7 +1176,7 @@
 18	)	)	PUNCT	FB	_	17	punct	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	12	punct	_	_
 20	s'	si	SCONJ	CS	_	22	mark	_	SpaceAfter=No
-21	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+21	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
 22	existe	exister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	SpaceAfter=No
 23	,	,	PUNCT	FF	_	9	punct	_	_
 24	spécifié	spécifier	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
@@ -1225,7 +1225,7 @@
 7	dite	dire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
 8	dérivée	dérivé	ADJ	A	Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	3	punct	_	_
-10	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	doit	devoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	indiquer	indiquer	VERB	V	VerbForm=Inf	11	xcomp	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
@@ -1915,7 +1915,7 @@
 
 # sent_id = fr_partut-ud-61
 # text = Il n'existe aucun élément annexe, accord supplémentaire ou mandat portant sur cette oeuvre en dehors des éléments mentionnés ici.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	n'	ne	PART	PART	Polarity=Neg	3	advmod	_	SpaceAfter=No
 3	existe	exister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	aucun	aucun	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
@@ -2198,7 +2198,7 @@
 
 # sent_id = fr_partut-ud-71
 # text = Je déclare reprise la session du Parlement européen qui avait été interrompue le vendredi 17 décembre dernier et je vous renouvelle tous mes voeux en espérant que vous avez passé de bonnes vacances.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	déclare	déclarer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	reprise	reprendre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -2218,7 +2218,7 @@
 17	décembre	décembre	NOUN	S	Gender=Masc|Number=Sing	15	flat	_	_
 18	dernier	dernier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
 19	et	et	CCONJ	CC	_	22	cc	_	_
-20	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+20	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
 21	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	22	iobj	_	_
 22	renouvelle	renouveler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
 23	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	25	det	_	_
@@ -2240,7 +2240,7 @@
 1	En	en	ADP	E	_	2	mark	_	_
 2	attendant	attendre	VERB	V	Tense=Pres|VerbForm=Part	5	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	souhaiterais	souhaiter	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	comme	comme	SCONJ	CS	_	16	mark	_	_
@@ -2288,7 +2288,7 @@
 
 # sent_id = fr_partut-ud-74
 # text = Je vous invite à vous lever pour cette minute de silence.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	obj	_	_
 3	invite	inviter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	à	à	ADP	E	_	6	mark	_	_
@@ -2394,7 +2394,7 @@
 25	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	_
 27	européen	européen	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	_
-28	il	il	PRON	PE	ExtPos=ADP|PronType=Prs	32	case	_	_
+28	il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	32	case	_	_
 29	y	y	PRON	P	Person=3|PronType=Prs	28	fixed	_	_
 30	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	fixed	_	_
 31	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	32	det	_	_
@@ -2415,7 +2415,7 @@
 8	présidente	président	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	6	punct	_	_
 10	qu'	que	ADP	E	_	12	mark	_	SpaceAfter=No
-11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+11	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
 12	conviendrait	convenir	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 13	d'	de	ADP	E	_	14	mark	_	SpaceAfter=No
 14	écrire	écrire	VERB	V	VerbForm=Inf	12	csubj	_	_
@@ -2487,7 +2487,7 @@
 6	d'	de	ADP	E	_	7	case	_	SpaceAfter=No
 7	accord	accord	NOUN	S	Gender=Masc|Number=Sing	10	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
-9	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	ferai	faire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 11	comme	comme	SCONJ	CS	_	16	mark	_	_
 12	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
@@ -2513,7 +2513,7 @@
 
 # sent_id = fr_partut-ud-83
 # text = Je voudrais vous demander un conseil au sujet de l'article 143, qui concerne l'irrecevabilité.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
 4	demander	demander	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -2557,7 +2557,7 @@
 17	jeudi	jeudi	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
 18	et	et	CCONJ	CC	_	21	cc	_	_
 19	que	que	PRON	PR	PronType=Rel	21	obj	_	_
-20	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+20	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
 21	soulèverai	soulever	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	11	conj	_	_
 22	donc	donc	ADV	B	_	21	advmod	_	_
 23	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -2591,7 +2591,7 @@
 22	et	et	CCONJ	CC	_	29	cc	_	_
 23	toute	tout	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	24	det	_	_
 24	proposition	proposition	NOUN	S	Gender=Fem|Number=Sing	29	nsubj	_	_
-25	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	_
+25	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	_
 26	bouleversant	bouleverser	VERB	V	Tense=Past|VerbForm=Part	24	acl	_	_
 27	serait	être	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 28	juridiquement	juridiquement	ADV	B	_	29	advmod	_	_
@@ -2600,7 +2600,7 @@
 
 # sent_id = fr_partut-ud-87
 # text = Je voudrais savoir si l'on peut avancer une objection de ce type à ce qui n'est qu'un rapport, pas une proposition législative, et si je suis habilité à le faire ce jeudi.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	savoir	savoir	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	si	si	SCONJ	CS	_	6	mark	_	_
@@ -2628,11 +2628,11 @@
 26	,	,	PUNCT	FF	_	24	punct	_	_
 27	et	et	CCONJ	CC	_	31	cc	_	_
 28	si	si	SCONJ	CS	_	31	mark	_	_
-29	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
+29	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
 30	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	cop	_	_
 31	habilité	habilité	ADJ	A	Gender=Masc|Number=Sing	7	conj	_	_
 32	à	à	ADP	E	_	34	mark	_	_
-33	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	_
+33	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	_
 34	faire	faire	VERB	V	VerbForm=Inf	31	advcl	_	_
 35	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	36	det	_	_
 36	jeudi	jeudi	NOUN	S	Gender=Masc|Number=Sing	34	obl	_	SpaceAfter=No
@@ -2656,7 +2656,7 @@
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	si	si	SCONJ	CS	_	18	mark	_	_
 16	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
-17	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+17	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
 18	souhaitez	souhaiter	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	advcl	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	18	punct	_	_
 20	soulever	soulever	VERB	V	VerbForm=Inf	10	xcomp	_	_
@@ -2739,7 +2739,7 @@
 # text = Cependant, je vous demande, conformément à l'orientation désormais constamment exprimée par le parlement européen et toute la communauté européenne, d'intervenir auprès du président et du gouverneur du Texas, monsieur Bush, en faisant jouer le prestige de votre mandat et de l'institution que vous représentez, car c'est monsieur Bush qui a le pouvoir de suspendre la condamnation à mort et de gracier le condamné.
 1	Cependant	cependant	ADV	B	_	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 4	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_
 5	demande	demander	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
@@ -2844,8 +2844,8 @@
 3	monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	8	vocative	_	_
 4	Segni	Segni	PROPN	SP	_	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-7	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 8	ferai	faire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 9	bien	bien	ADV	B	_	10	advmod	_	_
 10	volontiers	volontiers	ADV	B	_	8	advmod	_	SpaceAfter=No
@@ -2881,7 +2881,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	attirer	attirer	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	9	det	_	_
@@ -2942,11 +2942,11 @@
 # text = Cependant, il se fait qu'il semblerait être à nouveau mis en accusation, le ministère public ayant interjeté appel.
 1	Cependant	cependant	ADV	B	_	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+3	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	qu'	que	SCONJ	CS	_	8	mark	_	SpaceAfter=No
-7	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	semblerait	sembler	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	_
 9	être	être	AUX	VA	VerbForm=Inf	12	aux:pass	_	_
 10	à	à	ADP	E	_	11	case	_	_
@@ -3008,7 +3008,7 @@
 41	juridique	juridique	ADJ	A	Number=Sing	40	amod	_	_
 42	et	et	CCONJ	CC	_	46	cc	_	_
 43	qu'	que	SCONJ	CS	_	46	mark	_	SpaceAfter=No
-44	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	expl	_	_
+44	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	expl	_	_
 45	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	cop	_	_
 46	faux	faux	ADJ	A	Gender=Masc	40	conj	_	_
 47	d'	de	ADP	E	_	48	mark	_	SpaceAfter=No
@@ -3057,7 +3057,7 @@
 18	c'	ce	PRON	PD	Number=Sing|PronType=Dem	19	nsubj	_	SpaceAfter=No
 19	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 20	pourquoi	pourquoi	SCONJ	CS	_	23	mark	_	_
-21	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
+21	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
 22	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	23	obj	_	_
 23	prie	prier	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
 24	d'	de	ADP	E	_	25	mark	_	SpaceAfter=No
@@ -3101,7 +3101,7 @@
 3	madame	madame	NOUN	S	Gender=Fem|Number=Sing	7	vocative	_	_
 4	Schroedter	Schroedter	PROPN	SP	_	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
+6	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
 7	examinerai	examiner	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 8	bien	bien	ADV	B	_	9	advmod	_	_
 9	volontiers	volontiers	ADV	B	_	7	advmod	_	_
@@ -3112,7 +3112,7 @@
 14	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
 15	question	question	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
 16	lorsque	lorsque	SCONJ	CS	_	19	mark	_	_
-17	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	SpaceAfter=No
+17	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	SpaceAfter=No
 18	aurai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	19	aux	_	_
 19	reçu	recevoir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
 20	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	21	det	_	_
@@ -3125,7 +3125,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	tout	tout	ADV	B	_	9	advmod	_	_
 8	d'	de	ADP	E	_	9	case	_	SpaceAfter=No
@@ -3180,7 +3180,7 @@
 6	,	,	PUNCT	FF	_	3	punct	_	_
 7	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	16	nsubj:pass	_	_
 8	que	que	PRON	P	PronType=Rel	11	obj	_	_
-9	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
+9	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
 10	avais	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
 11	demandé	demander	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
 12	n'	ne	PART	PART	Polarity=Neg	16	advmod	_	SpaceAfter=No
@@ -3192,7 +3192,7 @@
 
 # sent_id = fr_partut-ud-102
 # text = Je vous demande donc à nouveau de faire le nécessaire pour que nous puissions disposer d'une chaîne néerlandaise.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	demande	demander	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	donc	donc	ADV	B	_	3	advmod	_	_
@@ -3221,7 +3221,7 @@
 4	Van	Van	PROPN	SP	_	1	flat	_	_
 5	Gorsel	Gorsel	PROPN	SP	_	1	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
-7	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 8	peux	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
 10	dire	dire	VERB	V	VerbForm=Inf	8	xcomp	_	_
@@ -3252,7 +3252,7 @@
 1	Elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
 2	sera	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux:pass	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
 6	espère	espérer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
@@ -3272,7 +3272,7 @@
 5	comment	comment	ADV	B	_	7	advmod	_	_
 6	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+8	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 9	que	que	SCONJ	CS	_	14	mark	_	_
 10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
@@ -3291,7 +3291,7 @@
 24	de	de	ADP	E	_	25	case	_	_
 25	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	22	conj	_	_
 26	qu'	que	PRON	PR	PronType=Rel	28	obj	_	SpaceAfter=No
-27	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+27	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 28	vote	voter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
 29	?	?	PUNCT	FS	_	7	punct	_	_
 
@@ -3300,7 +3300,7 @@
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+4	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	que	que	SCONJ	CS	_	16	mark	_	_
 6	aucun	aucun	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
 7	test	test	NOUN	S	Gender=Masc|Number=Sing	16	nsubj:pass	_	_
@@ -3326,7 +3326,7 @@
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+4	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	que	que	SCONJ	CS	_	17	mark	_	_
 6	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	comité	comité	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -3349,7 +3349,7 @@
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+4	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	que	que	SCONJ	CS	_	10	mark	_	_
 6	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 7	n'	ne	PART	PART	Polarity=Neg	10	advmod	_	SpaceAfter=No
@@ -3379,9 +3379,9 @@
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+4	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	qu'	que	SCONJ	CS	_	9	mark	_	SpaceAfter=No
-6	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+6	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
 7	n'	ne	PART	PART	Polarity=Neg	9	advmod	_	SpaceAfter=No
 8	y	y	PRON	P	Person=3|PronType=Prs	9	expl	_	_
 9	ait	avoir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
@@ -3399,7 +3399,7 @@
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+4	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	que	que	SCONJ	CS	_	12	mark	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	escaliers	escalier	NOUN	S	Gender=Masc|Number=Plur	12	nsubj:pass	_	_
@@ -3418,7 +3418,7 @@
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+4	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	qu'	que	SCONJ	CS	_	8	mark	_	SpaceAfter=No
 6	l'on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
 7	ne	ne	PART	PART	Polarity=Neg	8	advmod	_	_
@@ -3440,7 +3440,7 @@
 6	parfaitement	parfaitement	ADV	B	_	5	advmod	_	_
 7	raison	raison	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
 8	et	et	CCONJ	CC	_	10	cc	_	_
-9	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	vais	aller	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
 11	vérifier	vérifier	VERB	V	VerbForm=Inf	10	xcomp	_	_
 12	si	si	SCONJ	CS	_	20	mark	_	_
@@ -3456,7 +3456,7 @@
 
 # sent_id = fr_partut-ud-113
 # text = Je vais soumettre également le problème au collège des questeurs et je suis certaine que nos questeurs auront à cure de faire en sorte que nous respections la réglementation qu'en effet nous votons.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	vais	aller	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	soumettre	soumettre	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	également	également	ADV	B	_	3	advmod	_	_
@@ -3471,7 +3471,7 @@
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	questeurs	questeur	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
 13	et	et	CCONJ	CC	_	16	cc	_	_
-14	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+14	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
 15	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	certaine	certain	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	_
 17	que	que	SCONJ	CS	_	20	mark	_	_
@@ -3571,7 +3571,7 @@
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	questions	question	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
 3	auxquelles	auquel	PRON	PR	Gender=Fem|Number=Plur|PronType=Rel	6	iobj	_	_
-4	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+4	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_
 5	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	répondu	répondre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 7	précédemment	précédemment	ADV	B	_	6	advmod	_	_
@@ -3610,7 +3610,7 @@
 
 # sent_id = fr_partut-ud-119
 # text = Je vous avouerai que, pour le moment, les choses me semblent un petit peu confuses.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	avouerai	avouer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	CS	_	13	mark	_	SpaceAfter=No
@@ -3654,7 +3654,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	savoir	savoir	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	si	si	SCONJ	CS	_	14	mark	_	_
@@ -3769,7 +3769,7 @@
 19	de	de	ADP	E	_	21	case	_	_
 20	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	députés	député	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
-22	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+22	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
 23	souhaite	souhaiter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -3989,7 +3989,7 @@
 
 # sent_id = fr_partut-ud-130
 # text = Je vous rappelle en outre, Madame la Présidente, que ce parlement a voté par deux fois la confiance au président Prodi lors dela précédente législature;
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	rappelle	rappeler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	E	ExtPos=ADV	3	advmod	_	_
@@ -4031,7 +4031,7 @@
 5	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
 6	législature	législature	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
-8	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 9	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
 10	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 11	de	de	ADP	E	_	12	case	_	_
@@ -4053,7 +4053,7 @@
 27	nouvelle	nouveau	ADJ	A	Gender=Fem|Number=Sing	28	amod	_	_
 28	commission	commission	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	22	punct	_	_
-30	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
+30	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
 31	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
 32	redonné	redonner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
 33	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	34	det	_	_
@@ -4070,7 +4070,7 @@
 
 # sent_id = fr_partut-ud-132
 # text = Il s'est donc écoulé suffisamment de temps pour que la commission prépare son programme et pour que nous puissions en prendre connaissance et l'expliquer aux citoyens.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 2	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	SpaceAfter=No
 3	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	donc	donc	ADV	B	_	5	advmod	_	_
@@ -4108,7 +4108,7 @@
 2	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	sens	sens	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	iobj	_	_
 7	rappelle	rappeler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -4200,7 +4200,7 @@
 11	en	en	ADP	E	_	12	case	_	_
 12	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 13	de	de	ADP	E	_	15	mark	_	_
-14	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+14	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
 15	faire	faire	VERB	V	VerbForm=Inf	12	acl	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -4243,7 +4243,7 @@
 35	en	en	ADP	E	_	36	case	_	_
 36	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	42	advcl	_	_
 37	de	de	ADP	E	_	39	mark	_	_
-38	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	obj	_	_
+38	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	obj	_	_
 39	présenter	présenter	VERB	V	VerbForm=Inf	36	acl	_	SpaceAfter=No
 40	,	,	PUNCT	FF	_	36	punct	_	_
 41	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	42	nsubj	_	_
@@ -4281,7 +4281,7 @@
 1	sous	sous	ADP	E	_	2	case	_	_
 2	prétexte	prétexte	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
 3	qu'	que	SCONJ	CS	_	7	mark	_	SpaceAfter=No
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 5	n'	ne	PART	PART	Polarity=Neg	7	advmod	_	SpaceAfter=No
 6	y	y	PRON	P	Person=3|PronType=Prs	7	expl	_	_
 7	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
@@ -4289,7 +4289,7 @@
 9	de	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	texte	texte	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	2	punct	_	_
-12	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_
 13	refuse	refuser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
 15	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -4335,7 +4335,7 @@
 
 # sent_id = fr_partut-ud-138
 # text = Je vous prie dès lors, madame la présidente, de demander à la commission de s'exprimer maintenant et que l'on procède ensuite au vote.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	obj	_	_
 3	prie	prier	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dès	dès	ADP	E	_	5	case	_	_
@@ -4390,13 +4390,13 @@
 8	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	rires	rire	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
 10	que	que	PRON	PR	PronType=Rel	12	obj	_	_
-11	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No
+11	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No
 12	entends	entendre	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	parmi	parmi	ADP	E	_	15	case	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	socialistes	socialiste	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	6	punct	_	_
-17	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+17	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	_
 18	m'	moi	PRON	P	Person=1|PronType=Prs	20	iobj	_	SpaceAfter=No
 19	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	dit	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -4464,7 +4464,7 @@
 
 # sent_id = fr_partut-ud-141
 # text = Je ne sais si cette information est correcte mais quoi qu'il en soit, le groupe PPE-DE vous saurait gré de supprimer ce point de l'ordre du jour car le parlement s'est en effet maintes fois saisi de cette question.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	ne	ne	PART	PART	Polarity=Neg	3	advmod	_	_
 3	sais	savoir	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 4	si	si	SCONJ	CS	_	8	mark	_	_
@@ -4475,7 +4475,7 @@
 9	mais	mais	CCONJ	CC	_	22	cc	_	_
 10	quoi	quoi	PRON	PR	PronType=Rel	22	nmod	_	_
 11	qu'	que	SCONJ	CS	_	13	mark	_	SpaceAfter=No
-12	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 13	en	en	PRON	PE	Person=3|PronType=Prs	10	acl	_	_
 14	soit	être	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	10	punct	_	_
@@ -4579,7 +4579,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	d'	de	ADP	E	_	8	case	_	SpaceAfter=No
 8	abord	abord	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
@@ -4667,7 +4667,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	remercier	remercier	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
@@ -4678,7 +4678,7 @@
 13	de	de	ADP	E	_	14	case	_	_
 14	publicité	publicité	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
 15	qu'	que	PRON	PR	PronType=Rel	19	obj	_	SpaceAfter=No
-16	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+16	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
 17	vient	venir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 18	de	de	ADP	E	_	19	mark	_	_
 19	donner	donner	VERB	V	VerbForm=Inf	17	xcomp	_	_
@@ -4694,7 +4694,7 @@
 
 # sent_id = fr_partut-ud-152
 # text = J'ai voté "pour".
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	voté	voter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
@@ -4746,7 +4746,7 @@
 9	vote	vote	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
 10	­	-	PUNCT	FB	Typo=Yes	9	punct	_	CorrectForm=-
 11	et	et	CCONJ	CC	_	15	cc	_	_
-12	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+12	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 13	m'	moi	PRON	P	Person=1|PronType=Prs|Reflex=Yes	15	expl:pv	_	SpaceAfter=No
 14	en	en	PRON	PE	Person=3|PronType=Prs	15	expl	_	_
 15	remets	remettre	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	appos	_	_
@@ -4769,11 +4769,11 @@
 31	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
 32	commission	commission	NOUN	S	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	9	punct	_	_
-34	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	36	nsubj	_	SpaceAfter=No
+34	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	36	nsubj	_	SpaceAfter=No
 35	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	36	aux	_	_
 36	signalé	signaler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 37	que	que	SCONJ	CS	_	39	mark	_	_
-38	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
+38	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
 39	demandais	demander	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	36	ccomp	_	_
 40	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
 41	parole	parole	NOUN	S	Gender=Fem|Number=Sing	39	obj	_	_
@@ -4791,7 +4791,7 @@
 
 # sent_id = fr_partut-ud-156
 # text = Je vous saurai gré, à l'issue de ce point de l'ordre du jour, de me permettre de fournir un explication de vote au nom de mon groupe.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	saurai	savoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	gré	gré	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
@@ -4837,7 +4837,7 @@
 
 # sent_id = fr_partut-ud-158
 # text = Il serait utile de consigner au procès-verbal du parlement la manière dont les gens perçoivent ce que nous venons de faire, à la lumière de leur propre analyse politique.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	serait	être	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	utile	utile	ADJ	A	Number=Sing	0	root	_	_
 4	de	de	ADP	E	_	5	mark	_	_
@@ -4891,8 +4891,8 @@
 
 # sent_id = fr_partut-ud-160
 # text = Je le déplore mais le vote a été effectué, la décision est tombée et nous devrions donc en rester là.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	déplore	déplorer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	mais	mais	CCONJ	CC	_	9	cc	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4919,7 +4919,7 @@
 1	Cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 2	étant	être	VERB	V	Tense=Pres|VerbForm=Part	5	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	crois	croire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	CS	_	11	mark	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
@@ -4973,7 +4973,7 @@
 
 # sent_id = fr_partut-ud-163
 # text = Il me semble que c'est une bonne formule.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	me	moi	PRON	P	Person=1|PronType=Prs	3	iobj	_	_
 3	semble	sembler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	CS	_	9	mark	_	_
@@ -5007,7 +5007,7 @@
 
 # sent_id = fr_partut-ud-165
 # text = Je crois que c'est une meilleure formule que de procéder maintenant à des explications de vote qui nous entraîneraient très loin.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	crois	croire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	8	mark	_	_
 4	c'	ce	PRON	PD	PronType=Dem	8	nsubj	_	SpaceAfter=No
@@ -5064,7 +5064,7 @@
 13	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
 14	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	8	punct	_	_
-16	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+16	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
 17	n'	ne	PART	PART	Polarity=Neg	18	advmod	_	SpaceAfter=No
 18	ai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	et	et	CCONJ	CC	_	21	cc	_	_
@@ -5083,7 +5083,7 @@
 3	décision	décision	NOUN	S	Gender=Fem|Number=Sing	18	advcl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	que	que	SCONJ	CS	_	8	mark	_	_
-6	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 7	ne	ne	PART	PART	Polarity=Neg	8	advmod	_	_
 8	puis	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 9	pas	pas	ADV	BN	Polarity=Neg	8	advmod	_	_
@@ -5093,7 +5093,7 @@
 13	de	de	ADP	E	_	14	case	_	_
 14	vote	vote	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	3	punct	_	_
-16	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+16	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
 17	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
 18	accepte	accepter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	23	punct	_	_
@@ -5106,7 +5106,7 @@
 # sent_id = fr_partut-ud-169
 # text = S'il ne reflète pas bien les positions, nous pourrons éventuellement le corriger.
 1	S'	si	SCONJ	CS	_	4	mark	_	SpaceAfter=No
-2	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 3	ne	ne	PART	PART	Polarity=Neg	4	advmod	_	_
 4	reflète	refléter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 5	pas	pas	ADV	BN	Polarity=Neg	6	advmod	_	_
@@ -5117,7 +5117,7 @@
 10	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
 11	pourrons	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 12	éventuellement	éventuellement	ADV	B	_	14	advmod	_	_
-13	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+13	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 14	corriger	corriger	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	11	punct	_	_
 
@@ -5234,7 +5234,7 @@
 88	de	de	ADP	E	_	89	case	_	_
 89	transport	transport	NOUN	S	Gender=Masc|Number=Sing	87	nmod	_	SpaceAfter=No
 90	,	,	PUNCT	FF	_	70	punct	_	_
-91	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	92	expl	_	_
+91	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	92	expl	_	_
 92	arrive	arriver	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	56	conj	_	_
 93	trop	trop	ADV	B	_	94	advmod	_	_
 94	souvent	souvent	ADV	B	_	92	advmod	_	_
@@ -5256,10 +5256,10 @@
 4	Autrichien	autrichien	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
 5	-	-	PUNCT	FB	_	4	punct	_	_
 6	mais	mais	CCONJ	CC	_	8	cc	_	_
-7	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 8	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
 9	qu'	que	SCONJ	CS	_	12	mark	_	SpaceAfter=No
-10	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 11	en	en	PRON	P	PronType=Prs	12	expl	_	_
 12	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 13	de	de	ADP	E	ExtPos=ADV	12	advmod	_	_
@@ -5269,7 +5269,7 @@
 17	tous	tout	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
 18	-	-	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	4	punct	_	_
-20	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
+20	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
 21	ai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 22	encore	encore	ADV	B	_	21	advmod	_	_
 23	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
@@ -5568,7 +5568,7 @@
 26	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
 27	transports	transport	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	22	punct	_	_
-29	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	expl	_	_
+29	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	expl	_	_
 30	y	y	PRON	P	Person=3|PronType=Prs	31	expl	_	_
 31	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
 32	encore	encore	ADV	B	_	33	advmod	_	_
@@ -5583,10 +5583,10 @@
 2	cet	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	égard	égard	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+5	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 6	invite	inviter	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	et	et	CCONJ	CC	_	9	cc	_	_
-8	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	prie	prier	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	commissaire	commissaire	NOUN	S	Number=Sing	9	obj	_	_
@@ -5642,7 +5642,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	avant	avant	ADP	E	_	8	case	_	_
 8	tout	tout	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
@@ -5670,8 +5670,8 @@
 
 # sent_id = fr_partut-ud-183
 # text = Je le félicite de son excellent rapport.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	félicite	féliciter	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	E	_	7	case	_	_
 5	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	7	det	_	_
@@ -5762,7 +5762,7 @@
 75	office	office	NOUN	S	Gender=Masc|Number=Sing	73	obl	_	_
 76	et	et	CCONJ	CC	_	79	cc	_	_
 77	qu'	que	SCONJ	CS	_	79	mark	_	SpaceAfter=No
-78	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	79	nsubj	_	_
+78	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	79	nsubj	_	_
 79	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	73	conj	_	_
 80	que	que	SCONJ	CS	_	91	mark	_	_
 81	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	82	det	_	_
@@ -5905,7 +5905,7 @@
 
 # sent_id = fr_partut-ud-189
 # text = Il nous reste encore beaucoup à faire en la matière, comme le montre l'actualité.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
 3	reste	rester	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	encore	encore	ADV	B	_	5	advmod	_	_
@@ -5917,7 +5917,7 @@
 10	matière	matière	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	7	punct	_	_
 12	comme	comme	SCONJ	CS	_	14	mark	_	_
-13	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+13	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 14	montre	montrer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 15	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	actualité	actualité	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	SpaceAfter=No
@@ -5929,7 +5929,7 @@
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	faire	faire	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	9	det	_	_
@@ -5938,7 +5938,7 @@
 
 # sent_id = fr_partut-ud-191
 # text = Je tiens d'abord à remercier le rapporteur pour son travail technique extrêmement précis dans ce dossier et ensuite la Commission pour la proposition qu'elle a formulée.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	d'	de	ADP	E	_	4	case	_	SpaceAfter=No
 4	abord	abord	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
@@ -5970,7 +5970,7 @@
 
 # sent_id = fr_partut-ud-192
 # text = Il s'agit de l'harmonisation des exigences des examens, mais également des exigences minimales.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
 3	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	E	_	6	case	_	_
@@ -6010,7 +6010,7 @@
 12	tout	tout	ADV	B	_	13	advmod	_	_
 13	autant	autant	ADV	B	_	10	advmod	_	_
 14	et	et	CCONJ	CC	_	17	cc	_	_
-15	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
+15	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
 16	y	y	PRON	P	Person=3|PronType=Prs	17	expl	_	_
 17	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 18	naturellement	naturellement	ADV	B	_	17	advmod	_	_
@@ -6166,7 +6166,7 @@
 19	ne	ne	PART	PART	Polarity=Neg	20	advmod	_	_
 20	peuvent	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
 21	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	_
-22	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+22	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
 23	permettre	permettre	VERB	V	VerbForm=Inf	20	xcomp	_	_
 24	financièrement	financièrement	ADV	B	_	23	advmod	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	6	punct	_	_
@@ -6207,7 +6207,7 @@
 2	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	raison	raison	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_
 6	demande	demander	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CS	_	11	mark	_	_
 8	ces	ce	DET	DD	Number=Plur|PronType=Dem	9	det	_	_
@@ -6245,7 +6245,7 @@
 3	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	fait	faire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	8	punct	_	_
-6	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+6	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
 7	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	SpaceAfter=No
 8	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 9	encore	encore	ADV	B	_	12	advmod	_	_
@@ -6258,7 +6258,7 @@
 
 # sent_id = fr_partut-ud-203
 # text = Je me permets de soulever un dernier point.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	me	moi	PRON	P	Person=1|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	permets	permettre	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	E	_	5	mark	_	_
@@ -6277,7 +6277,7 @@
 5	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 6	respect	respect	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	2	punct	_	_
-8	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
 9	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	également	également	ADV	B	_	9	advmod	_	_
 11	de	de	ADP	E	_	12	mark	_	_
@@ -6403,7 +6403,7 @@
 6	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
-9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	_
 10	attire	attirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	régulièrement	régulièrement	ADV	B	_	10	advmod	_	_
 12	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
@@ -6527,11 +6527,11 @@
 
 # sent_id = fr_partut-ud-211
 # text = Je suis ravi qu'il y ait également un accord avec le conseil concernant les normes minimales pour leurs examens, même si j'aurais préféré des normes fixes et uniformisées, afin d'avoir des diplômes et des examens internationaux identiques.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	ravi	ravi	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 4	qu'	que	SCONJ	CS	_	7	mark	_	SpaceAfter=No
-5	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+5	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 6	y	y	PRON	P	Person=3|PronType=Prs	7	expl	_	_
 7	ait	avoir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 8	également	également	ADV	B	_	7	advmod	_	_
@@ -6550,7 +6550,7 @@
 21	,	,	PUNCT	FF	_	3	punct	_	_
 22	même	même	ADV	B	_	26	advmod	_	_
 23	si	si	SCONJ	CS	_	26	mark	_	_
-24	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	SpaceAfter=No
+24	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	SpaceAfter=No
 25	aurais	avoir	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
 26	préféré	préférer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
 27	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
@@ -6596,14 +6596,14 @@
 8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	rapporteur	rapporteur	NOUN	S	Gender=Masc|Number=Sing	6	obl:agent	_	_
 10	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
-11	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_
 12	ne	ne	PART	PART	Polarity=Neg	13	advmod	_	_
 13	peut	pouvoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 14	plus	plus	ADV	B	_	13	advmod	_	_
 15	logique	logique	ADJ	A	Number=Sing	0	root	_	_
 16	et	et	CCONJ	CC	_	19	cc	_	_
-17	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
-18	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+17	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+18	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
 19	soutiens	soutenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	_
 20	avec	avec	ADP	E	_	21	case	_	_
 21	joie	joie	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
@@ -6622,7 +6622,7 @@
 9	chers	cher	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
 10	collègues	collègue	NOUN	S	Gender=Masc|Number=Plur	13	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 13	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	tout	tout	ADV	B	_	16	advmod	_	_
 15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
@@ -6657,7 +6657,7 @@
 
 # sent_id = fr_partut-ud-215
 # text = Je voudrais émettre quelques rares remarques.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	émettre	émettre	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	6	det	_	_
@@ -6667,7 +6667,7 @@
 
 # sent_id = fr_partut-ud-216
 # text = Je voudrais tout d'abord demander à Mme la commissaire - et je suis convaincu que mon vu ne demeurera pas lettre morte - qu'on accorde une plus grande attention à la question de la sécurité, que ce soit sur la route, sur les voies navigables ou en mer.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	tout	tout	ADV	B	_	5	advmod	_	_
 4	d'	de	ADP	E	_	5	case	_	SpaceAfter=No
@@ -6679,7 +6679,7 @@
 10	commissaire	commissaire	NOUN	S	Number=Sing	8	nmod	_	_
 11	-	-	PUNCT	FB	_	15	punct	_	_
 12	et	et	CCONJ	CC	_	15	cc	_	_
-13	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+13	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 14	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
 15	convaincu	convaincu	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
 16	que	que	SCONJ	CS	_	20	mark	_	_
@@ -6692,7 +6692,7 @@
 23	morte	mort	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
 24	-	-	PUNCT	FB	_	15	punct	_	_
 25	qu'	que	SCONJ	CS	_	27	mark	_	SpaceAfter=No
-26	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+26	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	27	nsubj	_	_
 27	accorde	accorder	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 28	une	un	DET	RI	Gender=Fem|Number=Sing|Person=3|PronType=Art	31	det	_	_
 29	plus	plus	ADV	B	_	30	advmod	_	_
@@ -6724,7 +6724,7 @@
 # sent_id = fr_partut-ud-217
 # text = Lorsque je considère que la première proposition de la commission a été déposée le 19 mars 1998 et que nous nous en occupons aujourd'hui - alors que le parlement a réagi assez rapidement - le délai est un peu trop long.
 1	Lorsque	lorsque	SCONJ	CS	_	3	mark	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	considère	considérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	41	advcl	_	_
 4	que	que	SCONJ	CS	_	13	mark	_	_
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -6781,7 +6781,7 @@
 # text = Fondamentalement, je suis d'avis que, dans de nombreux domaines touchant aux transports, nous devrions viser à une plus grande flexibilité et à des règlements pays par pays.
 1	Fondamentalement	fondamentalement	ADV	B	_	6	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 4	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	d'	de	ADP	E	_	6	case	_	SpaceAfter=No
 6	avis	avis	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
@@ -6824,7 +6824,7 @@
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	2	acl:relcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	2	punct	_	_
-9	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+9	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 10	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
 11	cependant	cependant	ADV	B	_	14	advmod	_	_
 12	quelque	quelque	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
@@ -6912,7 +6912,7 @@
 2	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
 3	Rack	Rack	PROPN	SP	_	2	flat	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	2	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	viens	venir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	d'	de	ADP	E	_	9	case	_	SpaceAfter=No
 8	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -6972,7 +6972,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	tout	tout	ADV	B	_	9	advmod	_	_
 8	d'	de	ADP	E	_	9	case	_	SpaceAfter=No
@@ -7189,7 +7189,7 @@
 1	Très	très	ADV	B	_	2	advmod	_	_
 2	brièvement	brièvement	ADV	B	_	5	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	également	également	ADV	B	_	7	advmod	_	_
 7	remercier	remercier	VERB	V	VerbForm=Inf	5	xcomp	_	_
@@ -7230,7 +7230,7 @@
 7	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
 8	Simpson	Simpson	PROPN	SP	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	6	punct	_	_
-10	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 11	ne	ne	PART	PART	Polarity=Neg	12	advmod	_	_
 12	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	jamais	jamais	ADV	B	_	12	advmod	_	_
@@ -7242,7 +7242,7 @@
 19	acquis	acquérir	VERB	V	Gender=Masc|Tense=Past|VerbForm=Part	14	ccomp	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	24	punct	_	_
 21	qu'	que	SCONJ	CS	_	24	mark	_	SpaceAfter=No
-22	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+22	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
 23	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
 24	abouti	aboutir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	12	punct	_	_
@@ -7268,7 +7268,7 @@
 17	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	processus	processus	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 19	qu'	que	PRON	PR	PronType=Rel	23	obj	_	SpaceAfter=No
-20	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	expl	_	_
+20	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	expl	_	_
 21	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 22	d'	de	ADP	E	_	23	mark	_	SpaceAfter=No
 23	améliorer	améliorer	VERB	V	VerbForm=Inf	21	csubj	_	_
@@ -7283,7 +7283,7 @@
 2	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	sens	sens	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	également	également	ADV	B	_	8	advmod	_	_
 8	aborder	aborder	VERB	V	VerbForm=Inf	6	xcomp	_	_
@@ -7327,7 +7327,7 @@
 45	raison	raison	NOUN	S	Gender=Fem|Number=Sing	36	obl	_	_
 46	pour	pour	ADP	E	_	47	case	_	_
 47	laquelle	lequel	PRON	PR	Gender=Fem|Number=Sing|PronType=Rel	50	obl	_	_
-48	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	50	expl	_	_
+48	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	50	expl	_	_
 49	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	cop	_	_
 50	nécessaire	nécessaire	ADJ	A	Number=Sing	45	acl:relcl	_	_
 51	de	de	ADP	E	_	52	mark	_	_
@@ -7392,7 +7392,7 @@
 
 # sent_id = fr_partut-ud-238
 # text = Il faut dès lors étudier la manière dont on peut ajuster encore plus les exigences afin de garantir un maximum de sécurité.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dès	dès	ADP	E	_	4	case	_	_
 4	lors	lors	ADV	B	_	2	advmod	_	_
@@ -7400,7 +7400,7 @@
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	manière	manière	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
 8	dont	dont	PRON	PR	PronType=Rel	11	iobj	_	_
-9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	_
 10	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 11	ajuster	ajuster	VERB	V	VerbForm=Inf	10	xcomp	_	_
 12	encore	encore	ADV	B	_	13	advmod	_	_
@@ -7421,11 +7421,11 @@
 1	Pour	pour	ADP	E	_	2	mark	_	_
 2	terminer	terminer	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	dire	dire	VERB	V	VerbForm=Inf	5	xcomp	_	_
 7	qu'	que	SCONJ	CS	_	10	mark	_	SpaceAfter=No
-8	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
+8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 9	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	nécessaire	nécessaire	ADJ	A	Number=Sing	6	ccomp	_	_
 11	d'	de	ADP	E	_	12	mark	_	SpaceAfter=No
@@ -7503,7 +7503,7 @@
 # sent_id = fr_partut-ud-241
 # text = Mais je tiens à dire, mesdames et messieurs les députés, que la sécurité est un objectif prioritaire de la commission.
 1	Mais	mais	CCONJ	CC	_	3	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	à	à	ADP	E	_	5	mark	_	_
 5	dire	dire	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
@@ -7529,8 +7529,8 @@
 # sent_id = fr_partut-ud-242
 # text = Comme je le dirai lors du débat sur l'Erika, nous n'attendons pas qu'une catastrophe survienne pour nous consacrer corps et âme à l'aspect de la sécurité, mais nous travaillons dessus en marge de ces circonstances, qui ne font que mettre en évidence l'urgence d'une réponse efficace à ce type de problèmes.
 1	Comme	comme	SCONJ	CS	_	4	mark	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 4	dirai	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	15	advcl	_	_
 5	lors	lors	ADV	B	_	4	advmod	_	_
 6-7	du	_	_	_	_	_	_	_	_
@@ -7594,7 +7594,7 @@
 
 # sent_id = fr_partut-ud-243
 # text = Je tiens à réitérer mes remerciements à tous les intervenants et plus particulièrement au rapporteur, M. Koch.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	à	à	ADP	E	_	4	mark	_	_
 4	réitérer	réitérer	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -7861,7 +7861,7 @@
 
 # sent_id = fr_partut-ud-250
 # text = Il s'agit en particulier des annexes qui ne pourront être adaptées pour répondre à l'évolution technique et industrielle.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
 3	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	E	_	5	case	_	_
@@ -7887,8 +7887,8 @@
 
 # sent_id = fr_partut-ud-251
 # text = Je le déplore car nous devons agir du fait que d'autres n'ont pas fait leur travail.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	déplore	déplorer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	car	car	CCONJ	CC	_	6	cc	_	_
 5	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
@@ -7915,7 +7915,7 @@
 2	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+5	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 6	accepte	accepter	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	donc	donc	ADV	B	_	6	advmod	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -8281,7 +8281,7 @@
 
 # sent_id = fr_partut-ud-262
 # text = On insiste en outre sur la nécessité d'une transparence accrue.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
 2	insiste	insister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	E	ExtPos=ADV	2	advmod	_	_
 4	outre	outre	ADV	B	_	3	fixed	_	_
@@ -8351,7 +8351,7 @@
 5	chers	cher	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
 6	collègues	collègue	NOUN	S	Gender=Masc|Number=Plur	10	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+8	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 9	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
 10	adresse	adresser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
@@ -8369,7 +8369,7 @@
 
 # sent_id = fr_partut-ud-267
 # text = Je voudrais commenter brièvement la proposition de la commission modifiant la directive sur le transport de marchandises dangereuses par route.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	commenter	commenter	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	brièvement	brièvement	ADV	B	_	3	advmod	_	_
@@ -8496,7 +8496,7 @@
 
 # sent_id = fr_partut-ud-271
 # text = Il est difficile de s'imaginer, quand on est bord de la Méditerranée, qu'en Laponie la température descend nettement en dessous de cette limite.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	difficile	difficile	ADJ	A	Number=Sing	0	root	_	_
 4	de	de	ADP	E	_	6	mark	_	_
@@ -8504,7 +8504,7 @@
 6	imaginer	imaginer	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	quand	quand	SCONJ	CS	_	11	mark	_	_
-9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_
 10	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	bord	bord	ADJ	A	Number=Sing	6	advcl	_	_
 12	de	de	ADP	E	_	14	case	_	_
@@ -8551,7 +8551,7 @@
 1	C'	ce	PRON	PD	Number=Sing|PronType=Dem	2	nsubj	_	SpaceAfter=No
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	pourquoi	pourquoi	SCONJ	CS	_	6	mark	_	_
-4	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+4	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 5	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	proposé	proposer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 7	que	que	SCONJ	CS	_	11	mark	_	_
@@ -8595,10 +8595,10 @@
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	si	si	SCONJ	CS	_	8	mark	_	_
 6	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
-7	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+7	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 8	permettez	permettre	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
-10	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	tout	tout	ADV	B	_	14	advmod	_	_
 13	d'	de	ADP	E	_	14	case	_	SpaceAfter=No
@@ -8631,7 +8631,7 @@
 
 # sent_id = fr_partut-ud-277
 # text = J'ai trouvé cela tout à fait exceptionnel.
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	trouvé	trouver	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
@@ -8654,7 +8654,7 @@
 8	proprement	proprement	ADV	B	_	9	advmod	_	_
 9	dit	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	2	punct	_	_
-11	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+11	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 12	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	que	que	SCONJ	CS	_	18	mark	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
@@ -8686,7 +8686,7 @@
 40	européennes	européen	ADJ	A	Gender=Fem|Number=Plur	37	amod	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	37	punct	_	_
 42	qu'	que	SCONJ	CS	_	45	mark	_	SpaceAfter=No
-43	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	expl	_	_
+43	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	expl	_	_
 44	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	45	expl:pv	_	SpaceAfter=No
 45	agisse	agir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl	_	_
 46	ou	ou	CCONJ	CC	_	47	cc	_	_
@@ -8743,7 +8743,7 @@
 11	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	travail	travail	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
 13	qu'	que	PRON	PR	PronType=Rel	16	obj	_	SpaceAfter=No
-14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 15	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	accompli	accomplir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
@@ -8835,7 +8835,7 @@
 20	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
 21	union	union	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	4	punct	_	_
-23	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+23	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
 24	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
 25	important	important	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 26	non	non	ADV	BN	PronType=Neg	27	advmod	_	_
@@ -8868,7 +8868,7 @@
 # text = Enfin, je voudrais commenter un troisième point qui me paraît également essentiel, à savoir une proposition d'amendement qui a été déposée par M. Ari Vatanen.
 1	Enfin	enfin	ADV	B	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	commenter	commenter	VERB	V	VerbForm=Inf	4	xcomp	_	_
 6	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -8979,7 +8979,7 @@
 
 # sent_id = fr_partut-ud-289
 # text = J'espère que la commission acceptera cet amendement.
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	espère	espérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	6	mark	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -8995,7 +8995,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	remercier	remercier	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
@@ -9128,7 +9128,7 @@
 
 # sent_id = fr_partut-ud-297
 # text = Il y a quelques instants, M. Vatanen nous parlait de températures inférieures, non plus à -20 degrés, mais à -40 degrés.
-1	Il	il	PRON	PE	ExtPos=ADP|PronType=Prs	5	case	_	_
+1	Il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	5	case	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	1	fixed	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
 4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
@@ -9171,10 +9171,10 @@
 13	justifié	justifier	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	et	et	CCONJ	CC	_	17	cc	_	_
-16	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+16	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 17	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
 18	qu'	que	SCONJ	CS	_	20	mark	_	SpaceAfter=No
-19	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	_
+19	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	_
 20	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
 21	introduire	introduire	VERB	V	VerbForm=Inf	20	xcomp	_	_
 22	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
@@ -9206,7 +9206,7 @@
 47	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
 48	moment	moment	NOUN	S	Gender=Masc|Number=Sing	38	obl	_	_
 49	où	où	PRON	PR	PronType=Rel	52	iobj	_	_
-50	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	52	expl	_	_
+50	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	52	expl	_	_
 51	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	52	expl:pv	_	SpaceAfter=No
 52	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	48	acl:relcl	_	_
 53	d'	de	ADP	E	_	54	mark	_	SpaceAfter=No
@@ -9243,7 +9243,7 @@
 17	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
 18	CEN	CEN	PROPN	SP	_	15	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	7	punct	_	_
-20	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+20	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
 21	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 22	dire	dire	VERB	V	VerbForm=Inf	21	xcomp	_	_
 23	que	que	SCONJ	CS	_	25	mark	_	_
@@ -9428,7 +9428,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 6	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	particulièrement	particulièrement	ADV	B	_	8	advmod	_	_
 8	ravi	ravi	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
@@ -9454,7 +9454,7 @@
 26	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	27	det	_	_
 27	Royaume-uni	Royaume-uni	PROPN	SP	_	24	nmod	_	_
 28	que	que	PRON	PR	PronType=Rel	30	obj	_	_
-29	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
+29	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
 30	représente	représenter	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
 31-32	au	_	_	_	_	_	_	_	_
 31	à	à	ADP	E	_	33	case	_	_
@@ -9516,7 +9516,7 @@
 
 # sent_id = fr_partut-ud-306
 # text = Il est clair que nombreux sont ceux qui, au pays de Galles, voient le programme de fonds structurels comme un moyen pour enrayer certaines des grandes difficultés auxquelles nous sommes indubitablement confrontés.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	clair	clair	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 4	que	que	SCONJ	CS	_	5	mark	_	_
@@ -9586,7 +9586,7 @@
 8	fonds	fond	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
 9	structurels	structurel	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
 10	qu'	que	SCONJ	CS	_	14	mark	_	SpaceAfter=No
-11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+11	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 12	ne	ne	PART	PART	Polarity=Neg	14	advmod	_	_
 13	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	14	expl:pass	_	_
 14	limite	limiter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -9600,7 +9600,7 @@
 22	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
 23	souhaitons	souhaiter	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
 24	qu'	que	SCONJ	CS	_	26	mark	_	SpaceAfter=No
-25	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+25	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
 26	apporte	apporter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	ccomp	_	_
 27	également	également	ADV	B	_	26	advmod	_	_
 28	de	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
@@ -9627,7 +9627,7 @@
 1	C'	ce	PRON	PD	Number=Sing|PronType=Dem	2	nsubj	_	SpaceAfter=No
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	pourquoi	pourquoi	SCONJ	CS	_	5	mark	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	souligner	souligner	VERB	V	VerbForm=Inf	5	xcomp	_	_
 7	certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
@@ -9737,7 +9737,7 @@
 27	planification	planification	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	5	punct	_	_
 29	tant	tant	ADV	B	_	32	advmod	_	_
-30	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
+30	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
 31	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
 32	sûr	sûr	ADJ	A	Gender=Masc|Number=Sing	5	advcl	_	_
 33	que	que	SCONJ	CS	_	35	mark	_	_
@@ -9843,7 +9843,7 @@
 17	et	et	CCONJ	CC	_	21	cc	_	_
 18	pour	pour	ADP	E	_	19	mark	_	_
 19	commencer	commencer	VERB	V	VerbForm=Inf	21	advcl	_	_
-20	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+20	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
 21	parlerai	parler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	7	conj	_	_
 22	de	de	ADP	E	_	24	case	_	_
 23	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	24	det	_	SpaceAfter=No
@@ -10092,7 +10092,7 @@
 53	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	54	det	_	SpaceAfter=No
 54	énergie	énergie	NOUN	S	Gender=Fem|Number=Sing	41	conj	_	SpaceAfter=No
 55	,	,	PUNCT	FF	_	35	punct	_	_
-56	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	57	nsubj	_	SpaceAfter=No
+56	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	57	nsubj	_	SpaceAfter=No
 57	attire	attirer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	30	ccomp	_	_
 58	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	59	det	_	SpaceAfter=No
 59	attention	attention	NOUN	S	Gender=Fem|Number=Sing	57	obj	_	_
@@ -10208,7 +10208,7 @@
 
 # sent_id = fr_partut-ud-324
 # text = Je voudrais attirer l'attention sur les amendements 1 et 2 que la commission de l'emploi et des affaires sociales a approuvés, mais que la commission de la politique régionale, des transports et du tourisme n'a pas acceptés.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	attirer	attirer	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
@@ -10412,7 +10412,7 @@
 9	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	domaine	domaine	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
 11	où	où	PRON	PR	PronType=Rel	14	iobj	_	_
-12	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	_	_
+12	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	_	_
 13	y	y	PRON	P	Person=3|PronType=Prs	14	expl	_	_
 14	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 15	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -10423,7 +10423,7 @@
 20	,	,	PUNCT	FF	_	14	punct	_	_
 21	alors	alors	ADV	B	ExtPos=SCONJ	25	mark	_	_
 22	qu'	que	SCONJ	CS	_	21	fixed	_	SpaceAfter=No
-23	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+23	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	25	nsubj	_	_
 24	en	en	PRON	PE	Person=3|PronType=Prs	27	nmod	_	_
 25	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 26	désespérément	désespérément	ADV	B	_	25	advmod	_	_
@@ -10467,7 +10467,7 @@
 
 # sent_id = fr_partut-ud-332
 # text = On pourrait dire que l'oubli donne l'impression que la Commission ne sait pas non plus comment assurer un maximum de coordination entre les interventions du fonds social européen, sujettes à une révision après 3 ans et demi, et les plans nationaux pour l'emploi annuels des états membres.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
 2	pourrait	pouvoir	VERB	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dire	dire	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	que	que	SCONJ	CS	_	7	mark	_	_
@@ -10539,7 +10539,7 @@
 10	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	iobj	_	_
 11	dire	dire	VERB	V	VerbForm=Inf	8	conj	_	_
 12	qu'	que	SCONJ	CS	_	15	mark	_	SpaceAfter=No
-13	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl	_	_
+13	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl	_	_
 14	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	15	expl:pv	_	SpaceAfter=No
 15	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ccomp	_	_
 16	d'	de	ADP	E	_	18	case	_	SpaceAfter=No
@@ -10610,7 +10610,7 @@
 # sent_id = fr_partut-ud-335
 # text = Mais je voudrais souligner ici que ce point de départ nous montre les défis devant lesquels nous nous trouvons:
 1	Mais	mais	CCONJ	CC	_	3	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	souligner	souligner	VERB	V	VerbForm=Inf	3	xcomp	_	_
 5	ici	ici	ADV	B	_	4	advmod	_	_
@@ -10822,7 +10822,7 @@
 7	de	de	ADP	E	_	9	case	_	_
 8	nos	nos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	9	det	_	_
 9	agriculteurs	agriculteur	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
-10	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+10	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 11	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 12	à	à	ADP	E	_	13	case	_	_
 13	temps	temps	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
@@ -10937,7 +10937,7 @@
 1	Cependant	cependant	ADV	B	_	19	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	s'	si	SCONJ	CS	_	6	mark	_	SpaceAfter=No
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 5	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	vrai	vrai	ADJ	A	Gender=Masc|Number=Sing	19	advcl	_	_
 7	que	que	SCONJ	CS	_	16	mark	_	_
@@ -10951,7 +10951,7 @@
 15	pas	pas	ADV	BN	Polarity=Neg	16	advmod	_	_
 16	exclusif	exclusif	ADJ	A	Gender=Masc|Number=Sing	6	csubj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	6	punct	_	_
-18	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+18	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 19	reste	rester	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	essentiel	essentiel	ADJ	A	Gender=Masc|Number=Sing	19	xcomp	_	_
 21	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
@@ -11013,7 +11013,7 @@
 
 # sent_id = fr_partut-ud-346
 # text = Il est important de définir des critères généraux d'aménagement du territoire et d'équilibre de la population et de prendre en considération les conclusions auxquelles est parvenue la commission de l'agriculture et du développement rural sur cinq aspects fondamentaux, qui n'ont été que partiellement repris par la commission de la politique régionale, des transports et du tourisme dans les points 16 et 17.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	important	important	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	E	_	5	mark	_	_
@@ -11096,7 +11096,7 @@
 1	En	en	ADP	E	_	2	case	_	_
 2	conclusion	conclusion	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	demander	demander	VERB	V	VerbForm=Inf	5	xcomp	_	_
 7	à	à	ADP	E	_	9	case	_	_
@@ -11127,7 +11127,7 @@
 30	,	,	PUNCT	FF	_	6	punct	_	_
 31	parce	parce	ADV	B	ExtPos=SCONJ	34	mark	_	_
 32	que	que	SCONJ	CS	_	31	fixed	_	_
-33	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	34	nsubj	_	SpaceAfter=No
+33	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	34	nsubj	_	SpaceAfter=No
 34	estime	estimer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 35	que	que	SCONJ	CS	_	51	mark	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	51	punct	_	_
@@ -11168,7 +11168,7 @@
 9	chers	cher	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
 10	collègues	collègue	NOUN	S	Gender=Masc|Number=Plur	13	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 13	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	commencer	commencer	VERB	V	VerbForm=Inf	13	xcomp	_	_
 15	mon	mon	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	16	det	_	_
@@ -11195,7 +11195,7 @@
 1	De	de	ADP	E	ExtPos=ADV	5	advmod	_	_
 2	plus	plus	ADV	B	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	la	le	PRON	P	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 7	remercier	remercier	VERB	V	VerbForm=Inf	5	xcomp	_	_
@@ -11230,7 +11230,7 @@
 36	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	34	obl	_	_
 37	à	à	ADP	E	_	38	case	_	_
 38	quoi	quoi	PRON	PR	PronType=Rel	41	obl	_	_
-39	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	_
+39	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	41	nsubj	_	_
 40	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	41	expl:pv	_	SpaceAfter=No
 41	attendait	attendre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	36	acl:relcl	_	SpaceAfter=No
 42	,	,	PUNCT	FF	_	45	punct	_	_
@@ -11257,7 +11257,7 @@
 
 # sent_id = fr_partut-ud-350
 # text = Il est à nos yeux important que les conclusions approuvées dans ce parlement soient prises en considération par la commission, au moins en esprit, parce qu'au niveau où nous sommes, on pourrait avoir l'impression que nous ne faisons ici qu'un exercice inutile, purement rhétorique.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	à	à	ADP	E	_	5	case	_	_
 4	nos	nos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	5	det	_	_
@@ -11295,7 +11295,7 @@
 34	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	35	nsubj	_	_
 35	sommes	être	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	35	punct	_	_
-37	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	_
+37	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	38	nsubj	_	_
 38	pourrait	pouvoir	VERB	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 39	avoir	avoir	VERB	V	VerbForm=Inf	38	xcomp	_	_
 40	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	41	det	_	SpaceAfter=No
@@ -11436,7 +11436,7 @@
 18	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
 19	pensons	penser	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	qu'	que	SCONJ	CS	_	23	mark	_	SpaceAfter=No
-21	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
+21	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
 22	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	nécessaire	nécessaire	ADJ	A	Number=Sing	19	ccomp	_	_
 24	que	que	SCONJ	CS	_	25	mark	_	_
@@ -11471,7 +11471,7 @@
 
 # sent_id = fr_partut-ud-354
 # text = Il faut surtout que les patrons des petites et moyennes entreprises prennent part à la distribution de ces fonds.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	surtout	surtout	ADV	B	_	2	advmod	_	_
 4	que	que	SCONJ	CS	_	13	mark	_	_
@@ -11518,7 +11518,7 @@
 20	participer	participer	VERB	V	VerbForm=Inf	19	xcomp	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	et	et	CCONJ	CC	_	25	cc	_	_
-23	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+23	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
 24	ne	ne	PART	PART	Polarity=Neg	25	advmod	_	_
 25	parle	parler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
 26	pas	pas	ADV	BN	Polarity=Neg	27	advmod	_	_
@@ -11572,7 +11572,7 @@
 18	d'	de	ADP	E	_	19	case	_	SpaceAfter=No
 19	emploi	emploi	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	2	punct	_	_
-21	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl	_	_
+21	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl	_	_
 22	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
 23	également	également	ADV	B	_	24	advmod	_	_
 24	important	important	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
@@ -11604,7 +11604,7 @@
 1	Tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
 2	ceci	ceci	PRON	PD	Number=Sing|Person=3|PronType=Dem	0	root	_	_
 3	­	-	PUNCT	FB	Typo=Yes	5	punct	_	CorrectForm=-
-4	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+4	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
 5	insiste	insister	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 6	­	-	PUNCT	FB	Typo=Yes	5	punct	_	CorrectForm=-
 7	avec	avec	ADP	E	_	9	case	_	_
@@ -11634,7 +11634,7 @@
 30	,	,	PUNCT	FF	_	35	punct	_	_
 31	sans	sans	ADP	E	_	35	mark	_	_
 32	qu'	que	SCONJ	CS	_	35	mark	_	SpaceAfter=No
-33	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	expl	_	_
+33	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	expl	_	_
 34	y	y	PRON	P	Person=3|PronType=Prs	35	expl	_	_
 35	ait	avoir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
 36	aucune	aucun	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	37	det	_	_
@@ -11662,7 +11662,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+5	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 6	m'	moi	PRON	P	Person=1|PronType=Prs	7	iobj	_	SpaceAfter=No
 7	incombe	incomber	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	E	_	9	mark	_	_
@@ -11736,7 +11736,7 @@
 21	de	de	ADP	E	_	22	case	_	_
 22	Galles	Galles	PROPN	SP	_	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	FF	_	17	punct	_	_
-24	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+24	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
 25	n'	ne	PART	PART	Polarity=Neg	27	advmod	_	SpaceAfter=No
 26	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
 27	respecté	respecter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
@@ -11770,7 +11770,7 @@
 
 # sent_id = fr_partut-ud-361
 # text = Je puis vous assurer que le gouvernement britannique connaît ses obligations réglementaires quant à l'additionnalité de l'objectif 1.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	puis	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
 4	assurer	assurer	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -11794,7 +11794,7 @@
 
 # sent_id = fr_partut-ud-362
 # text = Je suggère à M. Evans d'aller relire le règlement.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	suggère	suggérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	à	à	ADP	E	_	4	case	_	_
 4	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
@@ -11828,7 +11828,7 @@
 
 # sent_id = fr_partut-ud-364
 # text = Je souhaiterais attirer notre attention sur le rôle essentiel des lignes directrices.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	souhaiterais	souhaiter	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	attirer	attirer	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	notre	notre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	5	det	_	_
@@ -11846,7 +11846,7 @@
 
 # sent_id = fr_partut-ud-365
 # text = Il est important d'identifier les capacités et potentialités de nos régions dans le secteur de la haute technologie.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	important	important	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 4	d'	de	ADP	E	_	5	mark	_	SpaceAfter=No
@@ -11968,7 +11968,7 @@
 
 # sent_id = fr_partut-ud-369
 # text = Il doit y avoir une cohérence interne dans la direction de la commission, dans le respect des spécificités locales et des aspects régionaux des programmes de la commission.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	doit	devoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	y	y	PRON	P	Person=3|PronType=Prs	4	expl	_	_
 4	avoir	avoir	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -12010,7 +12010,7 @@
 1	Pour	pour	ADP	E	_	2	mark	_	_
 2	conclure	conclure	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	dirai	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	CS	_	8	mark	_	_
 7	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
@@ -12135,7 +12135,7 @@
 4	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	moment	moment	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
 6	où	où	PRON	PR	PronType=Rel	9	iobj	_	_
-7	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 8	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
 9	arrive	arriver	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	2	punct	_	_
@@ -12165,7 +12165,7 @@
 6	en	en	PRON	P	PronType=Prs	7	expl	_	_
 7	sommes	être	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	3	punct	_	_
-9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 10	vaut	valoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	mieux	mieux	ADV	B	_	10	advmod	_	_
 12	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
@@ -12245,7 +12245,7 @@
 
 # sent_id = fr_partut-ud-380
 # text = Il est particulièrement important de faire participer les PME à cette élaboration et à cette mise en oeuvre.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	particulièrement	particulièrement	ADV	B	_	4	advmod	_	_
 4	important	importer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
@@ -12272,7 +12272,7 @@
 3	estime	estimer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	également	également	ADV	B	_	3	advmod	_	_
 5	qu'	que	ADP	E	_	7	mark	_	SpaceAfter=No
-6	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+6	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 7	importe	importer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 8	d'	de	ADP	E	_	9	mark	_	SpaceAfter=No
 9	accorder	accorder	VERB	V	VerbForm=Inf	7	csubj	_	_
@@ -12374,7 +12374,7 @@
 
 # sent_id = fr_partut-ud-385
 # text = Il faudrait que les projets soient plus efficaces, plus souples et produisent plus de résultats.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	faudrait	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	8	mark	_	_
 4	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
@@ -12453,7 +12453,7 @@
 8	et	et	CCONJ	CC	_	12	cc	_	_
 9	notre	notre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	10	det	_	_
 10	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
-11	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+11	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 12	soutient	soutenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -12648,7 +12648,7 @@
 
 # sent_id = fr_partut-ud-392
 # text = Il est de notre devoir de participer à l'élaboration des orientations, mais également à l'évaluation des résultats.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	notre	notre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	5	det	_	_
@@ -12780,7 +12780,7 @@
 
 # sent_id = fr_partut-ud-397
 # text = Il faudra étudier quelques indicateurs nous permettant d'étudier l'état et l'évolution des sociétés régionales qui sont dans une moins bonne situation que les autres.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	faudra	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	étudier	étudier	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
@@ -12822,7 +12822,7 @@
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	3	punct	_	_
-10	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
+10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
 11	apparaît	apparaître	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	clairement	clairement	ADV	B	_	11	advmod	_	_
 13	que	que	SCONJ	CS	_	21	mark	_	_
@@ -12872,7 +12872,7 @@
 
 # sent_id = fr_partut-ud-400
 # text = Je suis d'accord sur le fait que le Parlement européen n'a pas eu l'occasion — ou ne se l'est pas donnée, car c'était la fin de la législature — de parler des orientations.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	d'	de	ADP	E	_	4	case	_	SpaceAfter=No
 4	accord	accord	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
@@ -12918,7 +12918,7 @@
 # sent_id = fr_partut-ud-401
 # text = Mais je ne pense pas que le rapport arrive en retard.
 1	Mais	mais	CCONJ	CC	_	4	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	ne	ne	PART	PART	Polarity=Neg	4	advmod	_	_
 4	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	pas	pas	ADV	BN	Polarity=Neg	4	advmod	_	_
@@ -13015,7 +13015,7 @@
 8	fonctionne	fonctionner	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	13	punct	_	_
 10	qu'	que	SCONJ	CS	_	13	mark	_	SpaceAfter=No
-11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	_
+11	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	_
 12	y	y	PRON	P	Person=3|PronType=Prs	13	expl	_	_
 13	ait	avoir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 14	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
@@ -13048,11 +13048,11 @@
 
 # sent_id = fr_partut-ud-406
 # text = Je veux croire qu'il est d'accord, étant donné son expérience passée de président régional, pour proposer des indicateurs et une stratégie en faveur de la cohésion économique et sociale, et pas seulement de la productivité.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	veux	vouloir	VERB	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	croire	croire	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	qu'	que	SCONJ	CS	_	8	mark	_	SpaceAfter=No
-5	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+5	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 6	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	d'	de	ADP	E	_	8	case	_	SpaceAfter=No
 8	accord	accord	NOUN	S	Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
@@ -13096,7 +13096,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	favorable	favorable	ADJ	A	Number=Sing	0	root	_	_
 8-9	aux	_	_	_	_	_	_	_	_
@@ -13396,7 +13396,7 @@
 6	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	passé	passé	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
-9	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	SpaceAfter=No
+9	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	SpaceAfter=No
 10	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
 11	assez	assez	ADV	B	_	12	advmod	_	_
 12	souvent	souvent	ADV	B	_	15	advmod	_	_
@@ -13422,7 +13422,7 @@
 31	mais	mais	CCONJ	CC	_	35	cc	_	_
 32	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	33	det	_	_
 33	fois	fois	NOUN	S	Gender=Fem|Number=Sing	35	obl	_	_
-34	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	35	nsubj	_	_
+34	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	35	nsubj	_	_
 35	souscris	souscrire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	_
 36	à	à	ADP	E	_	38	case	_	_
 37	ses	son	DET	AP	Gender=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	38	det	_	_
@@ -13435,7 +13435,7 @@
 2	deuxième	deuxième	ADJ	A	Number=Sing	3	amod	_	_
 3	chose	chose	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
 4	que	que	PRON	PR	PronType=Rel	7	obj	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 7	dire	dire	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -13483,8 +13483,8 @@
 
 # sent_id = fr_partut-ud-416
 # text = Je le dis pour rappeler la position du parlement.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	dis	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	pour	pour	ADP	E	_	5	mark	_	_
 5	rappeler	rappeler	VERB	V	VerbForm=Inf	3	advcl	_	_
@@ -13510,7 +13510,7 @@
 10	membres	membre	NOUN	S	Gender=Masc|Number=Plur	9	compound	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	14	punct	_	_
 12	et	et	CCONJ	CC	_	14	cc	_	_
-13	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 14	veux	vouloir	VERB	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
 15	souligner	souligner	VERB	V	VerbForm=Inf	14	xcomp	_	_
 16	en	en	ADP	E	_	17	case	_	_
@@ -13569,7 +13569,7 @@
 4	me	moi	PRON	P	Person=1|PronType=Prs	5	obj	_	_
 5	concerne	concerner	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
-7	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
+7	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
 8	approuve	approuver	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	totalement	totalement	ADV	B	_	8	advmod	_	_
 10	ces	ce	DET	DD	Number=Plur|PronType=Dem	11	det	_	_
@@ -13581,7 +13581,7 @@
 1	Cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	advcl	_	_
 2	étant	être	AUX	V	Tense=Pres|VerbForm=Part	1	cop	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+4	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
 5	ai	avoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	grief	grief	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
@@ -13596,7 +13596,7 @@
 15	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
 16	fait	fait	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
 17	qu'	que	SCONJ	CS	_	20	mark	_	SpaceAfter=No
-18	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+18	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	_
 19	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	négligé	négliger	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
 21	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -13609,7 +13609,7 @@
 
 # sent_id = fr_partut-ud-420
 # text = Il n'est pas accordé à cette question l'importance qui conviendrait, et ce n'est pas la première fois:
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 2	n'	ne	PART	PART	Polarity=Neg	5	advmod	_	SpaceAfter=No
 3	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 4	pas	pas	ADV	BN	Polarity=Neg	5	advmod	_	_
@@ -13660,7 +13660,7 @@
 23	d'	de	ADP	E	_	24	case	_	SpaceAfter=No
 24	Amsterdam	Amsterdam	PROPN	SP	_	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	14	punct	_	_
-26	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	expl	_	_
+26	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	expl	_	_
 27	y	y	PRON	P	Person=3|PronType=Prs	28	expl	_	_
 28	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 29	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
@@ -13707,12 +13707,12 @@
 11	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	9	punct	_	_
-14	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+14	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 15	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	à	à	ADP	E	_	17	mark	_	_
 17	rappeler	rappeler	VERB	V	VerbForm=Inf	15	xcomp	_	_
 18	qu'	que	SCONJ	CS	_	20	mark	_	SpaceAfter=No
-19	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	_
+19	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	_
 20	existe	exister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	entre	entre	ADP	E	_	23	case	_	_
@@ -13736,7 +13736,7 @@
 
 # sent_id = fr_partut-ud-425
 # text = Je suis tout à fait convaincu que ce code sera respecté et que le parlement sera tenu informé de toutes les évolutions et des détails de la mise en oeuvre des programmes.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	tout	tout	ADV	B	ExtPos=ADV	6	advmod	_	_
 4	à	à	ADP	E	_	3	fixed	_	_
@@ -13794,7 +13794,7 @@
 16	et	et	CCONJ	CC	_	17	cc	_	_
 17	demie	demie	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	15	punct	_	_
-19	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+19	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
 20	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	d'	de	ADP	E	_	22	case	_	SpaceAfter=No
 22	abord	abord	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
@@ -13806,7 +13806,7 @@
 
 # sent_id = fr_partut-ud-427
 # text = Je crois que beaucoup l'ont fait déjà, mais c'est qu'elle le mérite, car elle a été particulièrement ouverte et attentive aux propositions des uns et des autres, et je pense que sa disponibilité a donné à son rapport la qualité que nous observons aujourd'hui.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	crois	croire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	7	mark	_	_
 4	beaucoup	beaucoup	PRON	PI	PronType=Ind	7	nsubj	_	_
@@ -13820,7 +13820,7 @@
 12	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 13	qu'	que	SCONJ	CS	_	16	mark	_	SpaceAfter=No
 14	elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
-15	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 16	mérite	mériter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
 18	car	car	CCONJ	CC	_	23	cc	_	_
@@ -13846,7 +13846,7 @@
 35	autres	autre	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	31	conj	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	39	punct	_	_
 37	et	et	CCONJ	CC	_	39	cc	_	_
-38	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
+38	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
 39	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
 40	que	que	SCONJ	CS	_	44	mark	_	_
 41	sa	son	DET	AP	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	42	det	_	_
@@ -13866,7 +13866,7 @@
 
 # sent_id = fr_partut-ud-428
 # text = Je m'associerai au regret qu'elle a exprimé que le parlement ait en quelque sorte pris le train en marche concernant ces orientations, puisque la procédure de négociation avec les états est aujourd'hui à ce point avancée que l'on ne peut pas penser que ce rapport aura un impact immédiat, ce que je déplore.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	m'	moi	PRON	P	Person=1|PronType=Prs|Reflex=Yes	3	obj	_	SpaceAfter=No
 3	associerai	associer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 4-5	au	_	_	_	_	_	_	_	_
@@ -13923,7 +13923,7 @@
 54	,	,	PUNCT	FF	_	50	punct	_	_
 55	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	50	appos	_	_
 56	que	que	PRON	PR	PronType=Rel	58	obj	_	_
-57	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	58	nsubj	_	_
+57	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	58	nsubj	_	_
 58	déplore	déplorer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	55	acl:relcl	_	SpaceAfter=No
 59	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -13934,7 +13934,7 @@
 3	de	de	ADP	E	_	4	case	_	_
 4	mots	mot	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
-6	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	dire	dire	VERB	V	VerbForm=Inf	7	xcomp	_	_
 9	que	que	SCONJ	CS	_	11	mark	_	_
@@ -14084,7 +14084,7 @@
 2	deux	deux	NUM	N	NumType=Card	3	nummod	_	_
 3	chantiers	chantier	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
 4	que	que	PRON	PR	PronType=Rel	10	obj	_	_
-5	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+5	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 6	invite	inviter	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	commissaire	commissaire	NOUN	S	Number=Sing	6	obj	_	_
@@ -14094,7 +14094,7 @@
 12	oeuvre	œuvre	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
 13	et	et	CCONJ	CC	_	17	cc	_	_
 14	auxquels	auquel	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	20	iobj	_	_
-15	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+15	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 16	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	17	iobj	_	_
 17	demande	demander	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 18	de	de	ADP	E	_	20	mark	_	_
@@ -14113,7 +14113,7 @@
 7	catastrophes	catastrophe	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
 8	naturelles	naturel	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	5	punct	_	_
-10	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	tout	tout	ADV	B	_	14	advmod	_	_
 13	de	de	ADP	E	_	14	case	_	_
@@ -14133,10 +14133,10 @@
 
 # sent_id = fr_partut-ud-438
 # text = On sait qu'il appartient à chacun des états de redistribuer une partie des enveloppes.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
 2	sait	savoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	appartient	appartenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	à	à	ADP	E	_	7	case	_	_
 7	chacun	chacun	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obl	_	_
@@ -14156,7 +14156,7 @@
 
 # sent_id = fr_partut-ud-439
 # text = Il ne faudrait pas, comme ont tendance à le vouloir les états, que l'Europe disparaisse complètement.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	ne	ne	PART	PART	Polarity=Neg	3	advmod	_	_
 3	faudrait	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	pas	pas	ADV	BN	Polarity=Neg	3	advmod	_	SpaceAfter=No
@@ -14165,7 +14165,7 @@
 7	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 8	tendance	tendance	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
 9	à	à	ADP	E	_	11	mark	_	_
-10	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+10	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
 11	vouloir	vouloir	VERB	V	VerbForm=Inf	8	acl	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	états	état	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
@@ -14214,17 +14214,17 @@
 
 # sent_id = fr_partut-ud-441
 # text = Je crois qu'il faut que nous soyons capables de le dire haut et fort.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	crois	croire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	que	que	SCONJ	CS	_	9	mark	_	_
 7	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 8	soyons	être	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	capables	capable	ADJ	A	Number=Plur	5	ccomp	_	_
 10	de	de	ADP	E	_	12	mark	_	_
-11	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+11	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 12	dire	dire	VERB	V	VerbForm=Inf	9	advcl	_	_
 13	haut	haut	ADV	_	_	12	advmod	_	_
 14	et	et	CCONJ	CC	_	15	cc	_	_
@@ -14233,10 +14233,10 @@
 
 # sent_id = fr_partut-ud-442
 # text = Je pense qu'il faudrait aussi que nous instaurions ou que nous demandions aux états membres qu'ils assurent une information sur les aides européennes, chaque fois qu'elles sont mobilisées pour réparer les dégâts causés par des catastrophes naturelles ou des accidents.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	faudrait	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	aussi	aussi	ADV	B	_	9	advmod	_	_
 7	que	que	SCONJ	CS	_	9	mark	_	_
@@ -14418,7 +14418,7 @@
 10	orientations	orientation	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	4	punct	_	_
 12	ne	ne	PART	PART	Polarity=Neg	14	advmod	_	_
-13	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+13	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 14	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	qu'	que	ADV	B	_	17	advmod	_	SpaceAfter=No
 16	avec	avec	ADP	E	_	17	case	_	_
@@ -14453,13 +14453,13 @@
 5	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	obj	_	_
 6	conduira	conduire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl	_	_
 7	à	à	ADP	E	_	9	mark	_	_
-8	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 9	voter	voter	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-453
 # text = Je pense qu'au cours de ces prochaines années, devant le défi de la mondialisation et de l'élargissement à l'est, l'Europe aura plus que jamais besoin d'orientations adéquates et précises quant à la programmation et à la relance de son économie.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	qu'	que	SCONJ	CS	_	28	mark	_	SpaceAfter=No
 4-5	au	_	_	_	_	_	_	_	_
@@ -14560,7 +14560,7 @@
 2	ce	ce	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
 3	faire	faire	VERB	V	VerbForm=Inf	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+5	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 6	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Commission	commission	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -14662,7 +14662,7 @@
 
 # sent_id = fr_partut-ud-457
 # text = Il y a donc deux points sur lesquels je voudrais attirer l'attention de la commission:
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	donc	donc	ADV	B	_	3	advmod	_	_
@@ -14670,7 +14670,7 @@
 6	points	point	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
 7	sur	sur	ADP	E	_	8	case	_	_
 8	lesquels	lequel	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	10	obl	_	_
-9	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 11	attirer	attirer	VERB	V	VerbForm=Inf	10	xcomp	_	_
 12	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
@@ -14686,7 +14686,7 @@
 2	d'	de	ADP	E	_	3	case	_	SpaceAfter=No
 3	abord	abord	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+5	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 6	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	d'	de	ADP	E	_	8	mark	_	SpaceAfter=No
 8	utiliser	utiliser	VERB	V	VerbForm=Inf	6	csubj	_	_
@@ -14751,7 +14751,7 @@
 # sent_id = fr_partut-ud-462
 # text = Est-il vrai que Facebook va facturer l'utilisation du site?
 1	Est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
-2	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	vrai	vrai	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 4	que	que	SCONJ	CS	_	6	mark	_	_
 5	Facebook	Facebook	PROPN	SP	_	6	nsubj	_	_
@@ -14959,7 +14959,7 @@
 8	sait	savoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	avec	avec	ADP	E	_	10	case	_	_
 10	qui	qui	PRON	PR	PronType=Rel	12	obl	_	_
-11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	communique	communiquer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	8	punct	_	_
 
@@ -15015,7 +15015,7 @@
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 4	que	que	SCONJ	CS	_	6	mark	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	reçois	recevoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	courrier	courrier	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
@@ -15082,7 +15082,7 @@
 # text = Si vous le souhaitez, vous pouvez ajouter cette adresse électronique à votre compte Facebook existant pour vous assurer de ne plus recevoir d'invitations Facebook.
 1	Si	si	SCONJ	CS	_	4	mark	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
-3	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 4	souhaitez	souhaiter	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
@@ -15729,7 +15729,7 @@
 2	notre	notre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	3	det	_	_
 3	bouton	bouton	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
 4	«	«	PUNCT	FB	_	6	punct	_	SpaceAfter=No
-5	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+5	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 6	aime	aimer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	SpaceAfter=No
 7	»	»	PUNCT	FB	_	6	punct	_	_
 8	pour	pour	ADP	E	_	9	mark	_	_
@@ -16659,7 +16659,7 @@
 # sent_id = fr_partut-ud-561
 # text = Si j'autorise l'abonnement, quelles seront les mises à jour que les abonnés pourront voir?
 1	Si	si	SCONJ	CS	_	3	mark	_	_
-2	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 3	autorise	autoriser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	abonnement	abonnement	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
@@ -16957,7 +16957,7 @@
 6	développement	développement	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
 7	durable	durable	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	3	punct	_	_
-9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
+9	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
 10	y	y	PRON	P	Person=3|PronType=Prs	11	expl	_	_
 11	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -17270,7 +17270,7 @@
 
 # sent_id = fr_partut-ud-579
 # text = Il convient donc d'agir réellement sur la demande et de fixer des objectifs substantiels en la matière.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	donc	donc	ADV	B	_	2	advmod	_	_
 4	d'	de	ADP	E	_	5	mark	_	SpaceAfter=No
@@ -17295,7 +17295,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	5	5	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	d'	de	ADP	E	_	7	mark	_	SpaceAfter=No
 7	agir	agir	VERB	V	VerbForm=Inf	5	csubj	_	_
@@ -17317,7 +17317,7 @@
 21	énergie	énergie	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	5	punct	_	_
 23	puisqu'	puisque	SCONJ	CS	_	26	mark	_	SpaceAfter=No
-24	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	expl	_	_
+24	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	expl	_	_
 25	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	26	expl:pv	_	SpaceAfter=No
 26	avère	avérer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 27	que	que	SCONJ	CS	_	40	mark	_	_
@@ -17359,7 +17359,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	6	6	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	d'	de	ADP	E	_	7	mark	_	SpaceAfter=No
 7	établir	établir	VERB	V	VerbForm=Inf	5	csubj	_	_
@@ -17438,7 +17438,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	7	7	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	E	_	7	mark	_	_
 7	fixer	fixer	VERB	V	VerbForm=Inf	5	csubj	_	_
@@ -17679,9 +17679,9 @@
 67	exécution	exécution	NOUN	S	Gender=Fem|Number=Sing	65	nmod	_	_
 68	applicable	applicable	ADJ	A	Gender=Fem|Number=Sing	67	amod	_	SpaceAfter=No
 69	,	,	PUNCT	FF	_	8	punct	_	_
-70	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	71	nsubj	_	_
+70	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	71	nsubj	_	_
 71	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-72	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	73	obj	_	_
+72	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	73	obj	_	_
 73	faire	faire	VERB	V	VerbForm=Inf	71	xcomp	_	_
 74	dans	dans	ADP	E	_	76	case	_	_
 75	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	76	det	_	_
@@ -17740,7 +17740,7 @@
 17	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
 18	environnement	environnement	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	6	punct	_	_
-20	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+20	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 21	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 22	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	SpaceAfter=No
 23	avérer	avérer	VERB	V	VerbForm=Inf	21	xcomp	_	_
@@ -17894,7 +17894,7 @@
 
 # sent_id = fr_partut-ud-591
 # text = Il y a lieu de prévoir une flexibilité suffisante pour permettre à ce facteur d'être intégré dans la conception du produit, tout en tenant compte des considérations techniques, fonctionnelles et économiques.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
@@ -17994,7 +17994,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	13	13	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	peut	pouvoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	être	être	AUX	V	VerbForm=Inf	7	cop	_	_
 7	nécessaire	nécessaire	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	_
@@ -18092,7 +18092,7 @@
 51	présente	présent	ADJ	A	Gender=Fem|Number=Sing	52	amod	_	_
 52	directive	directive	NOUN	S	Gender=Fem|Number=Sing	48	obl	_	SpaceAfter=No
 53	,	,	PUNCT	FF	_	2	punct	_	_
-54	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	55	expl	_	_
+54	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	55	expl	_	_
 55	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 56	d'	de	ADP	E	_	57	mark	_	SpaceAfter=No
 57	accorder	accorder	VERB	V	VerbForm=Inf	55	csubj	_	_
@@ -18263,7 +18263,7 @@
 
 # sent_id = fr_partut-ud-599
 # text = Il y a lieu de consulter et de faire collaborer activement les parties intéressées à cette analyse.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	y	y	ADV	B	_	3	advmod	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
@@ -18370,7 +18370,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	16	16	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	d'	de	ADP	E	_	7	mark	_	SpaceAfter=No
 7	accorder	accorder	VERB	V	VerbForm=Inf	5	csubj	_	_
@@ -18855,7 +18855,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	24	24	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	d'	de	ADP	E	_	7	mark	_	SpaceAfter=No
 7	accorder	accorder	VERB	V	VerbForm=Inf	5	csubj	_	_
@@ -19139,7 +19139,7 @@
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Sachant	savoir	VERB	V	Tense=Pres|VerbForm=Part	18	advcl	_	_
 5	qu'	que	SCONJ	CS	_	7	mark	_	SpaceAfter=No
-6	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 7	importe	importer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	d'	de	ADP	E	_	9	mark	_	SpaceAfter=No
 9	éviter	éviter	VERB	V	VerbForm=Inf	7	ccomp	_	_
@@ -19195,7 +19195,7 @@
 19	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
 20	PME	PME	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	5	punct	_	_
-22	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
+22	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
 23	peut	pouvoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 24	être	être	AUX	V	VerbForm=Inf	25	cop	_	_
 25	judicieux	judicieux	ADJ	A	Number=Sing	23	xcomp	_	_
@@ -19211,7 +19211,7 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	29	29	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+4	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
 5	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 6	dans	dans	ADP	E	_	8	case	_	_
 7	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
@@ -19292,7 +19292,7 @@
 49	,	,	PUNCT	FF	_	42	punct	_	_
 50	même	même	ADV	B	_	53	advmod	_	_
 51	s'	si	SCONJ	CS	_	53	mark	_	SpaceAfter=No
-52	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	53	expl	_	_
+52	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	53	expl	_	_
 53	devrait	devoir	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	_
 54	être	être	AUX	V	VerbForm=Inf	55	cop	_	_
 55	possible	possible	ADJ	A	Number=Sing	53	xcomp	_	_
@@ -19475,7 +19475,7 @@
 13	présente	présent	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
 14	directive	directive	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	6	punct	_	_
-16	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	expl	_	_
+16	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	expl	_	_
 17	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 18	utile	utile	ADJ	A	Number=Sing	0	root	_	_
 19	de	de	ADP	E	_	21	mark	_	_
@@ -20179,7 +20179,7 @@
 23	résultats	résultat	NOUN	S	Gender=Masc|Number=Plur	21	obj	_	_
 24	escomptés	escompté	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	2	punct	_	_
-26	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	expl	_	_
+26	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	expl	_	_
 27	y	y	PRON	P	Person=3|PronType=Prs	28	expl	_	_
 28	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 29	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	28	obj	_	_
@@ -20378,7 +20378,7 @@
 
 # sent_id = fr_partut-ud-638
 # text = Il convient par conséquent d'abroger la directive 78/170/CEE.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	par	par	ADP	E	ExtPos=ADV	2	advmod	_	_
 4	conséquent	conséquent	ADJ	A	Gender=Masc|Number=Sing	3	fixed	_	_
@@ -21316,7 +21316,7 @@
 
 # sent_id = fr_partut-ud-661
 # text = Il convient de rester vigilant pour maintenir et faire progresser les résultats actuels dans la lutte contre la contrefaçon de l'euro.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	E	_	4	mark	_	_
 4	rester	rester	VERB	V	VerbForm=Inf	2	csubj	_	_
@@ -21480,7 +21480,7 @@
 21	parties	partie	NOUN	S	Gender=Fem|Number=Plur	18	nmod	_	_
 22	concernées	concerner	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	21	acl	_	SpaceAfter=No
 23	,	,	PUNCT	FF	_	3	punct	_	_
-24	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+24	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
 25	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
 26	parvenu	parvenir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 27-28	aux	_	_	_	_	_	_	_	_
@@ -21746,7 +21746,7 @@
 11	membres	membre	NOUN	S	Gender=Masc|Number=Plur	10	compound	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	15	punct	_	_
 13	mais	mais	CCONJ	CC	_	15	cc	_	_
-14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl	_	_
+14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl	_	_
 15	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 16	d'	de	ADP	E	_	17	mark	_	SpaceAfter=No
 17	accorder	accorder	VERB	V	VerbForm=Inf	15	csubj	_	_
@@ -21797,7 +21797,7 @@
 # sent_id = fr_partut-ud-676
 # text = - il convient de mettre l'accent sur la formation pratique.
 1	-	-	PUNCT	FF	_	3	punct	_	_
-2	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	E	_	5	mark	_	_
 5	mettre	mettre	VERB	V	VerbForm=Inf	3	csubj	_	_
@@ -21942,7 +21942,7 @@
 25	niveau	niveau	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
 26	élevé	élevé	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	3	punct	_	_
-28	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	expl	_	_
+28	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	expl	_	_
 29	n'	ne	PART	PART	Polarity=Neg	33	advmod	_	SpaceAfter=No
 30	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
 31	pas	pas	ADV	BN	Polarity=Neg	33	advmod	_	_
@@ -22547,7 +22547,7 @@
 3	de	de	ADP	E	_	4	case	_	_
 4	2003	2003	NUM	N	NumType=Card	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
-6	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
 7	observe	observer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	une	un	DET	RI	Gender=Fem|Number=Sing|Person=3|PronType=Art	11	det	_	_
 9	plus	plus	ADV	B	_	10	advmod	_	_
@@ -22766,7 +22766,7 @@
 # sent_id = fr_partut-ud-706
 # text = Comme le mentionne également le rapport d'évaluation (p.14), l'organisation des actions Pericles couvrait tous les domaines relatifs à la protection de l'euro:
 1	Comme	comme	SCONJ	CS	_	3	mark	_	_
-2	le	le	PRON	P	Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	le	lui	PRON	P	Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	mentionne	mentionner	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
 4	également	également	ADV	B	_	3	advmod	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -23018,7 +23018,7 @@
 20	respecté	respecter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	puisqu'	puisque	SCONJ	CS	_	25	mark	_	SpaceAfter=No
-23	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj:pass	_	_
+23	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj:pass	_	_
 24	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux:pass	_	_
 25	recherché	rechercher	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
 26	tant	tant	ADV	B	_	29	cc	_	_
@@ -23532,7 +23532,7 @@
 63	novembre	novembre	NOUN	S	Gender=Masc|Number=Sing	62	flat	_	_
 64	2004	2004	NUM	N	NumType=Card	62	flat	_	SpaceAfter=No
 65	,	,	PUNCT	FF	_	4	punct	_	_
-66	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	expl	_	_
+66	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	expl	_	_
 67	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	aux:pass	_	_
 68	proposé	proposer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 69	de	de	ADP	E	_	70	mark	_	_
@@ -23675,7 +23675,7 @@
 12	programme	programme	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
 13	Pericles	Pericles	PROPN	SP	_	12	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	2	punct	_	_
-15	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
+15	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
 16	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	de	de	ADP	E	_	18	mark	_	_
 18	proroger	proroger	VERB	V	VerbForm=Inf	16	csubj	_	_
@@ -23965,7 +23965,7 @@
 # text = Considérant qu'il est essentiel que les droits de l'homme soient protégés par un régime de droit pour que l'homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l'oppression.
 1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
-3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+3	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	essentiel	essentiel	ADJ	A	Gender=Masc|Number=Sing	1	ccomp	_	_
 6	que	que	SCONJ	CS	_	13	mark	_	_
@@ -24009,7 +24009,7 @@
 # text = Considérant qu'il est essentiel d'encourager le développement de relations amicales entre nations.
 1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
-3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+3	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	essentiel	essentiel	ADJ	A	Gender=Masc|Number=Sing	1	ccomp	_	_
 6	d'	de	ADP	E	_	7	mark	_	SpaceAfter=No
@@ -24418,7 +24418,7 @@
 3	De	de	ADP	E	ExtPos=ADV	9	advmod	_	_
 4	plus	plus	ADV	B	_	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+6	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
 7	ne	ne	PART	PART	Polarity=Neg	9	advmod	_	_
 8	sera	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux:pass	_	_
 9	fait	faire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -24809,7 +24809,7 @@
 1	De	de	ADP	E	ExtPos=ADV	7	advmod	_	_
 2	même	même	ADV	B	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 5	ne	ne	PART	PART	Polarity=Neg	7	advmod	_	_
 6	sera	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
 7	infligé	infliger	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -25828,7 +25828,7 @@
 22	ou	ou	CCONJ	CC	_	23	cc	_	_
 23	artistique	artistique	ADJ	A	Gender=Fem|Number=Sing	19	conj	_	_
 24	dont	dont	PRON	PR	PronType=Rel	28	nmod	_	_
-25	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+25	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 26	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 27	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	28	det	_	SpaceAfter=No
 28	auteur	auteur	NOUN	S	Gender=Masc|Number=Sing	18	acl:relcl	_	SpaceAfter=No
@@ -26129,7 +26129,7 @@
 # sent_id = fr_partut-ud-811
 # text = Et je vais commencer par celui-ci:
 1	Et	et	CCONJ	CC	_	3	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	vais	aller	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	commencer	commencer	VERB	V	VerbForm=Inf	3	xcomp	_	_
 5	par	par	ADP	E	_	6	case	_	_
@@ -26138,7 +26138,7 @@
 
 # sent_id = fr_partut-ud-813
 # text = On connaît ça, n'est-ce pas?
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
 2	connaît	connaître	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ça	ce	PRON	PD	PronType=Dem	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	2	punct	_	_
@@ -26150,7 +26150,7 @@
 
 # sent_id = fr_partut-ud-814
 # text = On l'a tous vécu.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
 2	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
@@ -26219,7 +26219,7 @@
 
 # sent_id = fr_partut-ud-819
 # text = On a émit d'énormes quantités de pollution dans l'air et dans l'eau.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	émit	émettre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	d'	de	DET	RI	Definite=Ind|PronType=Dem	6	det	_	SpaceAfter=No
@@ -26251,7 +26251,7 @@
 11	de	de	ADP	E	_	12	case	_	_
 12	Hopkin	Hopkin	PROPN	SP	_	9	nmod	_	_
 13	où	où	PRON	PR	PronType=Rel	15	iobj	_	_
-14	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+14	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 15	travaille	travailler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	6	punct	_	_
 17	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
@@ -26337,7 +26337,7 @@
 
 # sent_id = fr_partut-ud-823
 # text = On a rendu l'océan malheureux;
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	rendu	rendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
@@ -26347,7 +26347,7 @@
 
 # sent_id = fr_partut-ud-824
 # text = On a rendu les gens malheureux, et on leur a donné une mauvaise santé.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	rendu	rendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
@@ -26355,7 +26355,7 @@
 6	malheureux	malheureux	ADJ	A	Gender=Masc	3	xcomp	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	12	punct	_	_
 8	et	et	CCONJ	CC	_	12	cc	_	_
-9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	_
 10	leur	leur	PRON	P	Number=Plur|Person=3|PronType=Prs	12	iobj	_	_
 11	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
@@ -26470,7 +26470,7 @@
 1	Parce	parce	ADV	B	ExtPos=SCONJ	24	mark	_	_
 2	que	que	SCONJ	CS	_	1	fixed	_	_
 3	lorsqu'	lorsque	SCONJ	CS	_	5	mark	_	SpaceAfter=No
-4	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
 5	entasse	entasser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_
 6	dans	dans	ADP	E	_	8	case	_	_
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -26489,7 +26489,7 @@
 19	y	y	ADV	B	_	20	advmod	_	_
 20	être	être	VERB	V	VerbForm=Inf	17	xcomp	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	5	punct	_	_
-22	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl	_	_
+22	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl	_	_
 23	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	24	expl:pv	_	_
 24	passe	passer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 25	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
@@ -26508,7 +26508,7 @@
 6	faire	faire	AUX	V	VerbForm=Inf	7	aux:caus	_	_
 7	comprendre	comprendre	VERB	V	VerbForm=Inf	11	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
-9	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
+9	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
 10	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	pensé	penser	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 12	à	à	ADP	E	_	13	mark	_	_
@@ -26520,7 +26520,7 @@
 
 # sent_id = fr_partut-ud-832
 # text = On n'a pas besoin d'y jouer vraiment.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	n'	ne	PART	PART	Polarity=Neg	3	advmod	_	SpaceAfter=No
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	pas	pas	ADV	BN	Polarity=Neg	3	advmod	_	_
@@ -26561,7 +26561,7 @@
 9	ce	ce	DET	DD	Number=Sing|PronType=Dem	10	det	_	_
 10	bateau	bateau	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	7	punct	_	_
-12	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj:pass	_	_
+12	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj:pass	_	_
 13	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	16	iobj	_	_
 14	ait	avoir	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
 15	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	_
@@ -26605,7 +26605,7 @@
 
 # sent_id = fr_partut-ud-836
 # text = Il n'y a pas de mécanisme dans ce jeu qui leur permette d'aller ailleurs que dans une pile de plus en plus grande dechips polystyrène indigestes.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	n'	ne	PART	PART	Polarity=Neg	4	advmod	_	SpaceAfter=No
 3	y	y	PRON	P	Person=3|PronType=Prs	4	expl	_	_
 4	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -26683,19 +26683,19 @@
 8	chips	chip	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
 9	polystyrène	polystyrène	NOUN	S	Gender=Masc|Number=Sing	8	compound	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	6	punct	_	_
-11	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	_
 12	prenne	prendre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 13	ces	ce	DET	DD	Number=Plur|PronType=Dem	16	det	_	_
 14	délicieux	délicieux	ADJ	A	Gender=Masc	16	amod	_	_
 15	petits	petit	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
 16	chocolats	chocolat	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
 17	qu'	que	PRON	PR	PronType=Rel	20	obj	_	SpaceAfter=No
-18	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+18	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	_
 19	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	iobj	_	_
 20	donne	donner	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 21	et	et	CCONJ	CC	_	24	cc	_	_
 22	qu'	que	PRON	PR	PronType=Rel	24	obj	_	SpaceAfter=No
-23	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+23	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	24	nsubj	_	_
 24	joue	jouer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
 25	avec	avec	ADP	E	_	24	case	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	2	punct	_	_
@@ -26793,7 +26793,7 @@
 11	quel	quel	DET	DQ	Gender=Masc|Number=Sing|PronType=Int	12	det	_	_
 12	dauphin	dauphin	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
 13	-	-	PUNCT	FF	_	4	punct	_	_
-14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
+14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
 15	n'	ne	PART	PART	Polarity=Neg	17	advmod	_	SpaceAfter=No
 16	y	y	PRON	P	Person=3|PronType=Prs	17	expl	_	_
 17	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -26931,7 +26931,7 @@
 
 # sent_id = fr_partut-ud-852
 # text = Il y a un autre prédateur suprême dans l'océan.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -26971,7 +26971,7 @@
 5	de	de	ADP	E	_	6	case	_	_
 6	baleine	baleine	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 7	que	que	PRON	PR	PronType=Rel	10	obj	_	_
-8	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
+8	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
 9	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	photographiée	photographier	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 11	dans	dans	ADP	E	_	13	case	_	_
@@ -26997,10 +26997,10 @@
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	17	dislocated	_	_
 5	qu'	que	PRON	PR	PronType=Rel	8	obj	_	SpaceAfter=No
-6	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
 7	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	fait	faire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
-9	il	il	PRON	PE	ExtPos=ADP|PronType=Prs	13	case	_	_
+9	il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	13	case	_	_
 10	y	y	PRON	P	Person=3|PronType=Prs	9	fixed	_	_
 11	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	fixed	_	_
 12	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	13	det	_	_
@@ -27010,7 +27010,7 @@
 16	d'	de	ADP	E	_	17	mark	_	SpaceAfter=No
 17	apprendre	apprendre	VERB	V	VerbForm=Inf	15	ccomp	_	_
 18	comment	comment	ADV	B	_	20	advmod	_	_
-19	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+19	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	_
 20	introduit	introduire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
 21	clandestinement	clandestinement	ADV	B	_	20	advmod	_	_
 22	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -27181,7 +27181,7 @@
 
 # sent_id = fr_partut-ud-865
 # text = Il s'avère que beaucoup de dauphins sont vendus comme viande dans le marché de la baleine partout dans le monde.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
 3	avère	avérer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	CS	_	9	mark	_	_
@@ -27240,7 +27240,7 @@
 3	eu	avoir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	ces	ce	DET	DD	Number=Plur|PronType=Dem	5	det	_	_
 5	données	donnée	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
-6	il	il	PRON	PE	ExtPos=ADP|PronType=Prs	10	case	_	_
+6	il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	10	case	_	_
 7	y	y	PRON	P	Person=3|PronType=Prs	6	fixed	_	_
 8	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	fixed	_	_
 9	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	10	det	_	_
@@ -27273,26 +27273,26 @@
 # sent_id = fr_partut-ud-869
 # text = Et je me souviens que j'étais assis à mon bureau et je pensais, "et bien, je le sais".
 1	Et	et	CCONJ	CC	_	4	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	me	moi	PRON	P	Person=1|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	souviens	souvenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	CS	_	8	mark	_	_
-6	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
+6	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
 7	étais	être	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
 8	assis	asseoir	VERB	V	Gender=Masc|Tense=Past|VerbForm=Part	4	ccomp	_	_
 9	à	à	ADP	E	_	11	case	_	_
 10	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	11	det	_	_
 11	bureau	bureau	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
 12	et	et	CCONJ	CC	_	14	cc	_	_
-13	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 14	pensais	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	conj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
 16	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
 17	et	et	CCONJ	CC	_	22	cc	_	_
 18	bien	bien	ADV	B	_	22	discourse	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	22	punct	_	_
-20	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
-21	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+20	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+21	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 22	sais	savoir	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	14	parataxis	_	SpaceAfter=No
 23	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	4	punct	_	_

@@ -171,7 +171,7 @@
 
 # sent_id = fr_partut-ud-179
 # text = Je voudrais encore aborder un dernier point:
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	encore	encore	ADV	B	_	4	advmod	_	_
 4	aborder	aborder	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -204,7 +204,7 @@
 20	de	de	ADP	E	_	21	case	_	_
 21	transport	transport	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	3	punct	_	_
-23	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+23	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
 24	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	25	obj	_	_
 25	prie	prier	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 26	d'	de	ADP	E	_	27	mark	_	SpaceAfter=No
@@ -221,14 +221,14 @@
 4	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
 5	fois	fois	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 6	que	que	SCONJ	CS	_	8	mark	_	_
-7	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 8	prends	prendre	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	acl	_	_
 9	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	parole	parole	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
 11	en	en	ADP	E	_	12	case	_	_
 12	plénière	plénière	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	8	punct	_	_
-14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
+14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
 15	y	y	PRON	P	Person=3|PronType=Prs	16	expl	_	_
 16	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 17	donc	donc	ADV	B	_	16	advmod	_	_
@@ -336,7 +336,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	réitère	réitérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	E	_	8	case	_	_
 8	nouveau	nouveau	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	_
@@ -350,7 +350,7 @@
 15	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
 16	travail	travail	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
 17	qu'	que	PRON	PR	PronType=Rel	20	obj	_	SpaceAfter=No
-18	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+18	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 19	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	accompli	accomplir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
 21	pour	pour	ADP	E	_	24	case	_	_
@@ -386,7 +386,7 @@
 
 # sent_id = fr_partut-ud-341
 # text = Il faut tenir compte du fait que l'espace rural représente presque quatre cinquièmes du territoire de l'Union Européenne.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	faut	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	tenir	tenir	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	compte	compte	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
@@ -876,7 +876,7 @@
 
 # sent_id = fr_partut-ud-871
 # text = J'aime les défis, et sauver la Terre est probablement un bon défi.
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	aime	aimer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	les	le	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	défis	défi	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
@@ -929,7 +929,7 @@
 
 # sent_id = fr_partut-ud-875
 # text = Je pense que ce vote se déroule en ce moment même.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	7	mark	_	_
 4	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -944,7 +944,7 @@
 
 # sent_id = fr_partut-ud-876
 # text = Je tiens à vous présenter une série de six solutions mycologiques qui utilisent les champignons, et ces solutions sont fondées sur le mycélium.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	à	à	ADP	E	_	5	mark	_	_
 4	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_
@@ -981,12 +981,12 @@
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	paysages	paysage	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	11	punct	_	_
-10	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	retient	retenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	sols	sol	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	18	punct	_	_
-15	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+15	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
 16	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 17	extrêmement	extrêmement	ADV	B	_	18	advmod	_	_
 18	tenace	tenace	ADJ	A	Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
@@ -1067,7 +1067,7 @@
 
 # sent_id = fr_partut-ud-882
 # text = Je suis amoureux des forêts anciennes, et je suis un patriote américain parce que nous en avons.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	amoureux	amoureux	ADJ	A	Number=Sing	0	root	_	_
 4-5	des	_	_	_	_	_	_	_	_
@@ -1077,7 +1077,7 @@
 7	anciennes	ancien	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	13	punct	_	_
 9	et	et	CCONJ	CC	_	13	cc	_	_
-10	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+10	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 11	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	patriote	patriote	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
@@ -1109,7 +1109,7 @@
 1	Et	et	CCONJ	CC	_	5	cc	_	_
 2	franchement	franchement	ADV	B	_	5	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	suis	être	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	face	face	NOUN	S	ExtPos=ADP|Gender=Fem|Number=Sing	9	case	_	_
 7	à	à	ADP	E	_	6	fixed	_	_
@@ -1120,7 +1120,7 @@
 
 # sent_id = fr_partut-ud-885
 # text = J'espère donc faire éclater ce préjugé une fois pour toute avec votre groupe.
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	espère	espérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	donc	donc	ADV	B	_	5	advmod	_	_
 4	faire	faire	AUX	V	VerbForm=Inf	5	aux:caus	_	_
@@ -1151,7 +1151,7 @@
 11	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
 12	inconnu	inconnu	ADJ	A	Gender=Masc|Number=Sing	8	nmod	_	_
 13	quand	quand	SCONJ	CS	_	16	mark	_	_
-14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
+14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
 15	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	16	expl:pv	_	SpaceAfter=No
 16	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl	_	_
 17	de	de	ADP	E	_	18	case	_	_
@@ -1262,7 +1262,7 @@
 # sent_id = fr_partut-ud-894
 # text = Mais je postule que la série de microbes qui apparaissent sur les champignons en train de pourrir sont essentiels pour la santé de la forêt.
 1	Mais	mais	CCONJ	CC	_	3	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	postule	postuler	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	CS	_	19	mark	_	_
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -1356,7 +1356,7 @@
 6	de	de	ADP	E	_	7	case	_	_
 7	sol	sol	NOUN	N	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	4	punct	_	_
-9	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
+9	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 10	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	y	y	PRON	P	Person=3|PronType=Prs	12	expl	_	_
 12	avoir	avoir	VERB	V	VerbForm=Inf	10	xcomp	_	_
@@ -1406,13 +1406,13 @@
 8	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
 9	développe	développer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
-11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	conquiert	conquérir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 13	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	territoire	territoire	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
 15	et	et	CCONJ	CC	_	18	cc	_	_
 16	puis	puis	ADV	_	_	18	advcl	_	_
-17	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+17	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
 18	commence	commencer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 19	à	à	ADP	E	_	20	mark	_	_
 20	former	former	VERB	V	VerbForm=Inf	18	xcomp	_	_
@@ -1436,7 +1436,7 @@
 
 # sent_id = fr_partut-ud-903
 # text = Il inhale de l'oxygène, tout comme nous.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	inhale	inhaler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
@@ -1464,7 +1464,7 @@
 # sent_id = fr_partut-ud-905
 # text = Et je vous présente un concept selon lequel ce sont des membranes neurologiques étendues.
 1	Et	et	CCONJ	CC	_	4	cc	_	_
-2	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
 4	présente	présenter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -1539,7 +1539,7 @@
 
 # sent_id = fr_partut-ud-909
 # text = J'ai d'abord avancé, au début des années 1990, que le mycélium est l'internet naturel de la planète.
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
 2	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	d'	de	ADP	E	_	4	case	_	SpaceAfter=No
 4	abord	abord	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
@@ -1575,7 +1575,7 @@
 4	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	mycélium	mycélium	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	3	punct	_	_
-7	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+7	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 8	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	très	très	ADV	B	_	10	advmod	_	_
 10	ramifié	ramifié	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -1593,7 +1593,7 @@
 
 # sent_id = fr_partut-ud-912
 # text = Il sait que vous êtes là.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	sait	savoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	6	mark	_	_
 4	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
@@ -1612,7 +1612,7 @@
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	paysages	paysage	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
-10	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	bondit	bondit	ADJ	A	Number=Sing	0	root	_	_
 12	dans	dans	ADP	E	_	14	case	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
@@ -1630,7 +1630,7 @@
 
 # sent_id = fr_partut-ud-914
 # text = Je pense donc que l'invention de l'internet des ordinateurs est une conséquence inévitable d'un modèle abouti antérieurement et biologiquement prouvé.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	donc	donc	ADV	B	_	2	advmod	_	_
 4	que	que	SCONJ	CS	_	15	mark	_	_
@@ -1660,7 +1660,7 @@
 # sent_id = fr_partut-ud-915
 # text = Si on pousse à l'extrême, la matière noire suit le même archétype mycéliaire.
 1	Si	si	SCONJ	CS	_	3	mark	_	_
-2	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 3	pousse	pousser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 4	à	à	ADP	E	_	6	case	_	_
 5	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
@@ -1726,7 +1726,7 @@
 4	sur	sur	ADP	E	_	6	case	_	_
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	terre	terre	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
-7	il	il	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	case	_	_
+7	il	lui	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	case	_	_
 8	y	y	PRON	P	Person=3|PronType=Prs	7	fixed	_	_
 9	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	fixed	_	_
 10	1,3	1,3	NUM	N	NumType=Card	11	nummod	_	_
@@ -1759,7 +1759,7 @@
 
 # sent_id = fr_partut-ud-920
 # text = Il fait s'effriter les rochers, et c'est la première étape dans la production de sol.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:caus	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:caus	_	_
 2	fait	faire	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:caus	_	_
 3	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	4	expl:pv	_	SpaceAfter=No
 4	effriter	effriter	VERB	V	VerbForm=Inf	0	root	_	_
@@ -1857,7 +1857,7 @@
 
 # sent_id = fr_partut-ud-924
 # text = On a découvert cela pour la première fois en 1859.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	découvert	découvrir	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 4	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
@@ -1895,7 +1895,7 @@
 
 # sent_id = fr_partut-ud-927
 # text = Il y a 420 millions d'années, cet organisme existait.
-1	Il	il	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	case	_	_
+1	Il	lui	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	case	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	1	fixed	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
 4	420	420	NUM	N	NumType=Card	5	nummod	_	_
@@ -1910,7 +1910,7 @@
 
 # sent_id = fr_partut-ud-928
 # text = On l'a appelé Prototaxites.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
 2	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	appelé	appeler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -2080,7 +2080,7 @@
 13	,	,	PUNCT	FF	_	4	punct	_	_
 14	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
-16	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+16	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 17	crois	croire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	parataxis	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	17	punct	_	_
 19	courue	courir	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -2169,7 +2169,7 @@
 10	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	champignon	champignon	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
 12	-	-	PUNCT	FF	_	9	punct	_	_
-13	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 14	traverse	traverser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 15	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	sol	sol	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
@@ -2178,7 +2178,7 @@
 19	férocité	férocité	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
 20	telle	tel	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
 21	qu'	que	SCONJ	CS	_	23	mark	_	SpaceAfter=No
-22	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+22	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 23	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
 24	briser	briser	VERB	V	VerbForm=Inf	23	xcomp	_	_
 25	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	SpaceAfter=No
@@ -2197,15 +2197,15 @@
 
 # sent_id = fr_partut-ud-944
 # text = Je vais vous montrer six, si je le peux, solutions pour aider à sauver le monde.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	vais	aller	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
 4	montrer	montrer	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	six	six	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	si	si	SCONJ	CS	_	10	mark	_	_
-8	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-9	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+8	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 10	peux	pouvoir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
 12	solutions	solution	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_

@@ -136,7 +136,7 @@
 3	monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
 4	Evans	Evans	PROPN	SP	_	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	qu'	que	SCONJ	CS	_	23	mark	_	SpaceAfter=No
 9	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -158,7 +158,7 @@
 
 # sent_id = fr_partut-ud-116
 # text = Je demande que cette décision soit reconsidérée car ce n'est pas le cas.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	demande	demander	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	7	mark	_	_
 4	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -276,7 +276,7 @@
 10	seule	seul	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
 11	commission	commission	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
 12	mais	mais	CCONJ	CC	_	14	cc	_	_
-13	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 14	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
 15	que	que	SCONJ	CS	_	17	mark	_	_
 16	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
@@ -297,7 +297,7 @@
 
 # sent_id = fr_partut-ud-222
 # text = Je peux m'accommoder de ces normes minimales mais je prie la commission de suivre ce dossier avec une réelle attention.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	peux	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	m'	moi	PRON	P	Person=1|PronType=Prs|Reflex=Yes	4	expl:pv	_	SpaceAfter=No
 4	accommoder	accommoder	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -306,7 +306,7 @@
 7	normes	norme	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
 8	minimales	minimal	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
 9	mais	mais	CCONJ	CC	_	11	cc	_	_
-10	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	prie	prier	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
 12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	commission	commission	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
@@ -322,7 +322,7 @@
 
 # sent_id = fr_partut-ud-227
 # text = Je pense toutefois que nous devrions tout faire pour limiter autant que possible le transport de marchandises dangereuses, et ce dans l'ensemble des pays, qu'ils soient des régions de transit ou non.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	pense	penser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	toutefois	toutefois	ADV	B	_	2	advmod	_	_
 4	que	que	SCONJ	CS	_	6	mark	_	_
@@ -364,7 +364,7 @@
 
 # sent_id = fr_partut-ud-275
 # text = J'espère que ma proposition sera prise en considération lors du vote de demain.
-1	J'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	espère	espérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CS	_	7	mark	_	_
 4	ma	mon	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	5	det	_	_
@@ -384,7 +384,7 @@
 
 # sent_id = fr_partut-ud-292
 # text = Je voudrais demander à la vice-présidente si elle peut nous dire où en sont les efforts d'harmonisation déployés par ces deux organisations et si l'Ue a la possibilité d'accélérer ces efforts en appliquant des principes aussi simples que possibles.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	demander	demander	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	à	à	ADP	E	_	8	case	_	_
@@ -436,7 +436,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	souhaite	souhaiter	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	vivement	vivement	ADV	B	_	6	advmod	_	_
 8	remercier	remercier	VERB	V	VerbForm=Inf	6	xcomp	_	_
@@ -459,7 +459,7 @@
 24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
 25	députés	député	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	_
 26	que	que	SCONJ	CS	_	28	mark	_	_
-27	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	SpaceAfter=No
+27	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	SpaceAfter=No
 28	interviens	intervenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	ccomp	_	_
 29-30	au	_	_	_	_	_	_	_	_
 29	à	à	ADP	E	_	31	case	_	_
@@ -614,7 +614,7 @@
 9	chers	cher	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
 10	collègues	collègue	NOUN	S	Gender=Masc|Number=Plur	13	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 13	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	à	à	ADP	E	_	15	mark	_	_
 15	remercier	remercier	VERB	V	VerbForm=Inf	13	xcomp	_	_
@@ -662,7 +662,7 @@
 
 # sent_id = fr_partut-ud-377
 # text = On y a intégré des questions de détail et des questions qui ont déjà été abordées dans des rapports antérieurs.
-1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	4	iobj	_	_
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	intégré	intégrer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -698,7 +698,7 @@
 8	cinq	cinq	NUM	N	NumType=Card	9	nummod	_	_
 9	ans	an	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
 10	que	que	SCONJ	CS	_	13	mark	_	_
-11	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+11	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	suis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	député	député	NOUN	S	Gender=Masc|Number=Sing	9	acl	_	_
 14-15	au	_	_	_	_	_	_	_	_
@@ -707,7 +707,7 @@
 16	parlement	parlement	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	21	punct	_	_
 18	et	et	CCONJ	CC	_	21	cc	_	_
-19	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
+19	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
 20	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux	_	_
 21	abordé	aborder	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
 22	à	à	ADP	E	_	24	case	_	_
@@ -722,11 +722,11 @@
 1	En	en	ADP	E	_	2	case	_	_
 2	conséquence	conséquence	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+4	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 5	me	moi	PRON	P	Person=1|PronType=Prs	6	iobj	_	_
 6	semble	sembler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	qu'	que	SCONJ	CS	_	9	mark	_	SpaceAfter=No
-8	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	doit	devoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	csubj	_	_
 10	anticiper	anticiper	VERB	V	VerbForm=Inf	9	xcomp	_	_
 11	et	et	CCONJ	CC	_	12	cc	_	_
@@ -782,7 +782,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
-5	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	également	également	ADV	B	_	8	advmod	_	_
 8	féliciter	féliciter	VERB	V	VerbForm=Inf	6	xcomp	_	_
@@ -796,7 +796,7 @@
 
 # sent_id = fr_partut-ud-459
 # text = Je conclus, Monsieur le Président, en affirmant qu'il est assez grave que la Commission, dans sa communication, n'ait porté que peu attention aux pactes territoriaux et surtout aux modalités de lutte contre le chômage chez les femmes et les jeunes.
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	conclus	conclure	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	2	vocative	_	_
@@ -806,7 +806,7 @@
 8	en	en	ADP	E	_	9	mark	_	_
 9	affirmant	affirmer	VERB	V	Tense=Pres|VerbForm=Part	2	advcl	_	_
 10	qu'	que	SCONJ	CS	_	14	mark	_	SpaceAfter=No
-11	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+11	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 12	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	assez	assez	ADV	B	_	14	advmod	_	_
 14	grave	grave	ADJ	A	Number=Sing	9	ccomp	_	_
@@ -1149,7 +1149,7 @@
 28	complétée	compléter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	conj	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	28	punct	_	_
 30	s'	si	SCONJ	CS	_	33	mark	_	SpaceAfter=No
-31	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	expl	_	_
+31	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	expl	_	_
 32	y	y	PRON	P	Person=3|PronType=Prs	33	expl	_	_
 33	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	advcl	_	_
 34	lieu	lieu	NOUN	S	Gender=Masc|Number=Sing	33	obj	_	SpaceAfter=No
@@ -2853,7 +2853,7 @@
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 13	où	où	PRON	PR	PronType=Rel	16	iobj	_	_
-14	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 15	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	16	expl:pass	_	SpaceAfter=No
 16	applique	appliquer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_
 17	provisoirement	provisoirement	ADV	B	_	16	advmod	_	SpaceAfter=No
@@ -2861,7 +2861,7 @@
 
 # sent_id = fr_partut-ud-1013
 # text = Il est institué une superficie de base nationale pour chaque état membre producteur.
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	institué	instituer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
