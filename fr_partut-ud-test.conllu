@@ -2746,7 +2746,7 @@
 12	dans	dans	ADP	E	_	14	case	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
 14	cas	cas	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
-15	où	où	PRON	PR	PronType=Rel	23	iobj	_	_
+15	où	où	ADV	PR	PronType=Rel	23	iobj	_	_
 16	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	textes	texte	NOUN	S	Gender=Masc|Number=Plur	23	nsubj	_	_
 18	dans	dans	ADP	E	_	20	case	_	_
@@ -2852,7 +2852,7 @@
 10	dans	dans	ADP	E	_	12	case	_	_
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-13	où	où	PRON	PR	PronType=Rel	16	iobj	_	_
+13	où	où	ADV	PR	PronType=Rel	16	iobj	_	_
 14	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 15	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	16	expl:pass	_	SpaceAfter=No
 16	applique	appliquer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_

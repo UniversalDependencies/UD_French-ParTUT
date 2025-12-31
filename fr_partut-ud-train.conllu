@@ -1462,7 +1462,7 @@
 101	dans	dans	ADP	E	_	103	case	_	_
 102	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	103	det	_	SpaceAfter=No
 103	hypothèse	hypothèse	NOUN	S	Gender=Fem|Number=Sing	74	nmod	_	_
-104	où	où	PRON	PR	PronType=Rel	107	iobj	_	_
+104	où	où	ADV	PR	PronType=Rel	107	iobj	_	_
 105	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	106	det	_	SpaceAfter=No
 106	offrant	offrant	NOUN	S	Gender=Masc|Number=Sing	107	nsubj	_	_
 107	avait	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	103	acl:relcl	_	_
@@ -3935,7 +3935,7 @@
 5	dans	dans	ADP	E	_	7	case	_	_
 6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	mesure	mesure	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
-8	où	où	PRON	PR	PronType=Rel	13	iobj	_	_
+8	où	où	ADV	PR	PronType=Rel	13	iobj	_	_
 9	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	commission	commission	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
 11	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -9205,7 +9205,7 @@
 46	à	à	ADP	E	_	48	case	_	_
 47	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
 48	moment	moment	NOUN	S	Gender=Masc|Number=Sing	38	obl	_	_
-49	où	où	PRON	PR	PronType=Rel	52	iobj	_	_
+49	où	où	ADV	PR	PronType=Rel	52	iobj	_	_
 50	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	52	expl	_	_
 51	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	52	expl:pv	_	SpaceAfter=No
 52	agit	agir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	48	acl:relcl	_	_
@@ -10411,7 +10411,7 @@
 8	également	également	ADV	B	_	7	advmod	_	_
 9	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	domaine	domaine	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
-11	où	où	PRON	PR	PronType=Rel	14	iobj	_	_
+11	où	où	ADV	PR	PronType=Rel	14	iobj	_	_
 12	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	_	_
 13	y	y	PRON	P	Person=3|PronType=Prs	14	expl	_	_
 14	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
@@ -11291,7 +11291,7 @@
 30	à	à	ADP	E	_	32	case	_	_
 31	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	niveau	niveau	NOUN	S	Gender=Masc|Number=Sing	38	obl	_	_
-33	où	où	PRON	PR	PronType=Rel	35	iobj	_	_
+33	où	où	ADV	PR	PronType=Rel	35	iobj	_	_
 34	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	35	nsubj	_	_
 35	sommes	être	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	35	punct	_	_
@@ -12134,7 +12134,7 @@
 3	à	à	ADP	E	_	5	case	_	_
 4	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	moment	moment	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-6	où	où	PRON	PR	PronType=Rel	9	iobj	_	_
+6	où	où	ADV	PR	PronType=Rel	9	iobj	_	_
 7	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 8	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
 9	arrive	arriver	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
@@ -12160,7 +12160,7 @@
 1	à	à	ADP	E	_	3	case	_	_
 2	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	stade	stade	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
-4	où	où	PRON	PR	PronType=Rel	7	iobj	_	_
+4	où	où	ADV	PR	PronType=Rel	7	iobj	_	_
 5	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 6	en	en	PRON	P	PronType=Prs	7	expl	_	_
 7	sommes	être	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
@@ -15638,7 +15638,7 @@
 6	clients	client	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
 7	potentiels	potentiel	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
 8	là	là	ADV	B	_	1	advmod	_	_
-9	où	où	PRON	PR	PronType=Rel	12	iobj	_	_
+9	où	où	ADV	PR	PronType=Rel	12	iobj	_	_
 10	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 11	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 12	trouvent	trouver	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
@@ -19618,7 +19618,7 @@
 57	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	59	det	_	_
 58	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	59	det	_	_
 59	cas	cas	NOUN	S	Gender=Masc|Number=Plur	50	obl	_	_
-60	où	où	PRON	PR	PronType=Rel	63	iobj	_	_
+60	où	où	ADV	PR	PronType=Rel	63	iobj	_	_
 61	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	63	nsubj	_	_
 62	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	63	cop	_	_
 63	possible	possible	ADJ	A	Number=Sing	59	acl:relcl	_	SpaceAfter=No
@@ -21361,7 +21361,7 @@
 17	égard	égard	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	11	punct	_	_
 19	d'	de	ADP	E	_	20	case	_	SpaceAfter=No
-20	où	où	PRON	PR	PronType=Rel	22	nmod	_	_
+20	où	où	ADV	PR	PronType=Rel	22	nmod	_	_
 21	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	nécessité	nécessité	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
 23	de	de	ADP	E	_	24	mark	_	_
@@ -23927,7 +23927,7 @@
 32	d'	de	ADP	E	_	34	case	_	SpaceAfter=No
 33	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	monde	monde	NOUN	S	Gender=Masc|Number=Sing	31	nmod	_	_
-35	où	où	PRON	PR	PronType=Rel	40	iobj	_	_
+35	où	où	ADV	PR	PronType=Rel	40	iobj	_	_
 36	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	37	det	_	_
 37	êtres	être	NOUN	S	Gender=Masc|Number=Plur	40	nsubj	_	_
 38	humains	humain	ADJ	A	Gender=Masc|Number=Plur	37	amod	_	_
@@ -24750,7 +24750,7 @@
 27	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	procès	procès	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	_
 29	public	public	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	_
-30	où	où	PRON	PR	PronType=Rel	41	iobj	_	_
+30	où	où	ADV	PR	PronType=Rel	41	iobj	_	_
 31	toutes	tout	DET	T	Gender=Fem|Number=Plur|PronType=Ind	33	det	_	_
 32	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	33	det	_	_
 33	garanties	garantie	NOUN	S	Gender=Fem|Number=Plur	41	nsubj:pass	_	_
@@ -24783,7 +24783,7 @@
 14	à	à	ADP	E	_	16	case	_	_
 15	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	moment	moment	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
-17	où	où	PRON	PR	PronType=Rel	21	iobj	_	_
+17	où	où	ADV	PR	PronType=Rel	21	iobj	_	_
 18	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	21	nsubj:pass	_	_
 19	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 20	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	_	_
@@ -24826,7 +24826,7 @@
 17	à	à	ADP	E	_	19	case	_	_
 18	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	moment	moment	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
-20	où	où	PRON	PR	PronType=Rel	26	iobj	_	_
+20	où	où	ADV	PR	PronType=Rel	26	iobj	_	_
 21	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
 22	acte	acte	NOUN	S	Gender=Masc|Number=Sing	26	nsubj:pass	_	_
 23	délictueux	délictueux	ADJ	A	Gender=Masc	22	amod	_	_
@@ -26250,7 +26250,7 @@
 10	marine	marin	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
 11	de	de	ADP	E	_	12	case	_	_
 12	Hopkin	Hopkin	PROPN	SP	_	9	nmod	_	_
-13	où	où	PRON	PR	PronType=Rel	15	iobj	_	_
+13	où	où	ADV	PR	PronType=Rel	15	iobj	_	_
 14	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 15	travaille	travailler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	6	punct	_	_
