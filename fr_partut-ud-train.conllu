@@ -2903,7 +2903,7 @@
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	expl	_	_
 3	réjouissons	réjouir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
+4	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	8	punct	_	_
 6	dans	dans	ADP	E	_	8	case	_	_
 7	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
@@ -5729,7 +5729,7 @@
 45	événements	événement	NOUN	S	Gender=Masc|Number=Plur	49	nsubj	_	_
 46	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	49	expl:pv	_	SpaceAfter=No
 47	étant	être	AUX	VA	Tense=Pres|VerbForm=Part	49	aux	_	_
-48	tous	tout	PRON	P	Gender=Masc|Number=Plur|PronType=Ind	49	obl	_	_
+48	tous	tous	PRON	P	Gender=Masc|Number=Plur|PronType=Ind	49	obl	_	_
 49	produits	produire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	60	advcl	_	_
 50-51	au	_	_	_	_	_	_	_	_
 50	à	à	ADP	E	_	52	case	_	_
@@ -9052,7 +9052,7 @@
 # text = Nous regrettons tous que le comité européen de normalisation (CEN) n'ait pas été capable de réaliser dans les délais fixés la modification des dispositions nécessaire pour parvenir à une harmonisation appropriée au sein de l'Union Européenne.
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	regrettons	regretter	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
+3	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
 4	que	que	SCONJ	CS	_	17	mark	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	comité	comité	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -12934,7 +12934,7 @@
 # text = Nous sommes tous d'accord pour demander qu'à mi-parcours de ces programmes, au moment de l'évaluation des orientations, le parlement puisse être un des protagonistes, car nous représentons les citoyens.
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 2	sommes	être	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
-3	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+3	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
 4	d'	de	ADP	E	_	5	case	_	SpaceAfter=No
 5	accord	accord	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 6	pour	pour	ADP	E	_	7	mark	_	_
@@ -24568,7 +24568,7 @@
 
 # sent_id = fr_partut-ud-757
 # text = Tous sont égaux devant la loi et ont droit sans distinction à une égale protection de la loi.
-1	Tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
+1	Tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
 2	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	égaux	égal	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
 4	devant	devant	ADP	E	_	6	case	_	_
@@ -24590,7 +24590,7 @@
 
 # sent_id = fr_partut-ud-758
 # text = Tous ont droit à une protection égale contre toute discrimination qui violerait la présente déclaration et contre toute provocation à une telle discrimination.
-1	Tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
+1	Tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
 2	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	droit	droit	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
 4	à	à	ADP	E	_	6	case	_	_
@@ -25467,7 +25467,7 @@
 # text = 2. Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal.
 1	2	2	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	FF	_	1	punct	_	_
-3	Tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
+3	Tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
 4	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	droit	droit	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	4	punct	_	_
@@ -26121,7 +26121,7 @@
 24	que	que	PRON	PR	PronType=Rel	26	obj	_	_
 25	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	26	nsubj	_	_
 26	connaissons	connaître	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
-27	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	26	obl	_	_
+27	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	26	obl	_	_
 28	assez	assez	ADV	B	_	29	advmod	_	_
 29	bien	bien	ADV	B	_	26	advmod	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	10	punct	_	_
@@ -26153,7 +26153,7 @@
 1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
 2	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+4	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
 5	vécu	vivre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -26564,7 +26564,7 @@
 12	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj:pass	_	_
 13	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	16	iobj	_	_
 14	ait	avoir	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
-15	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	_
+15	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	_
 16	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
 17	deux	deux	NUM	N	NumType=Card	18	nummod	_	_
 18	chips	chip	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_

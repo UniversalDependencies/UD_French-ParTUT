@@ -896,7 +896,7 @@
 # text = Nous savons tous que la Terre est en danger.
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	savons	savoir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	tous	tout	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
+3	tous	tous	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
 4	que	que	SCONJ	CS	_	9	mark	_	_
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Terre	Terre	PROPN	SP	_	9	nsubj	_	_
@@ -1130,7 +1130,7 @@
 8	une	un	DET	RI	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	_
 9	fois	fois	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
 10	pour	pour	ADP	E	_	11	case	_	_
-11	toute	tout	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	9	nmod	_	_
+11	toute	tout	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind|Typo=Yes	9	nmod	_	CorrectForm=toutes
 12	avec	avec	ADP	E	_	14	case	_	_
 13	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
 14	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
