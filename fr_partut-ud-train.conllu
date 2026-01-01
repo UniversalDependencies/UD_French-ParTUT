@@ -1563,7 +1563,7 @@
 46	ceci	ceci	PRON	PD	Number=Sing|PronType=Dem	50	obl	_	_
 47	tant	tant	ADV	B	ExtPos=SCONJ	50	mark	_	_
 48	qu'	que	SCONJ	CS	_	47	fixed	_	SpaceAfter=No
-49	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	50	nsubj	_	_
+49	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	50	nsubj	_	_
 50	respectent	respecter	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 51	pleinement	pleinement	ADV	B	_	50	advmod	_	_
 52	leurs	leur	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	53	det	_	_
@@ -2164,7 +2164,7 @@
 24	,	,	PUNCT	FF	_	11	punct	_	_
 25	telles	tel	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
 26	qu'	que	SCONJ	CS	_	29	mark	_	SpaceAfter=No
-27	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_
+27	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_
 28	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 29	disponibles	disponible	ADJ	A	Number=Plur	25	ccomp	_	_
 30	sur	sur	ADP	E	_	32	case	_	_
@@ -4928,7 +4928,7 @@
 10	bien	bien	ADV	B	_	11	advmod	_	_
 11	claires	clair	ADJ	A	Gender=Fem|Number=Plur	5	ccomp	_	_
 12	et	et	CCONJ	CC	_	15	cc	_	_
-13	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nsubj:pass	_	_
+13	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nsubj:pass	_	_
 14	seront	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	15	aux:pass	_	_
 15	consignées	consigner	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	_
 16-17	au	_	_	_	_	_	_	_	_
@@ -6173,7 +6173,7 @@
 
 # sent_id = fr_partut-ud-200
 # text = Elles vont soit se débarrasser de leur cargaison, soit elles vont la mélanger avec d'autres cargaisons, ce qui engendre une série de problèmes.
-1	Elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	vont	aller	VERB	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	soit	soit	CCONJ	CC	_	2	cc	_	_
 4	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	_
@@ -6183,7 +6183,7 @@
 8	cargaison	cargaison	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	12	punct	_	_
 10	soit	soit	CCONJ	CC	_	12	cc	_	_
-11	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+11	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 12	vont	aller	VERB	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 13	la	le	PRON	P	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 14	mélanger	mélanger	VERB	V	VerbForm=Inf	12	xcomp	_	_
@@ -6227,7 +6227,7 @@
 22	entreprises	entreprise	NOUN	S	Gender=Fem|Number=Plur	20	nmod	_	_
 23	et	et	CCONJ	CC	_	28	cc	_	_
 24	qu'	que	SCONJ	CS	_	28	mark	_	SpaceAfter=No
-25	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	28	nsubj:pass	_	_
+25	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	28	nsubj:pass	_	_
 26	soient	être	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	aux:pass	_	_
 27	éventuellement	éventuellement	ADV	B	_	28	advmod	_	_
 28	reprises	reprendre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
@@ -6312,7 +6312,7 @@
 40	demi	demi	NOUN	S	Gender=Masc|Number=Sing	38	conj	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	38	punct	_	_
 42	qu'	que	SCONJ	CS	_	44	mark	_	SpaceAfter=No
-43	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	44	nsubj	_	_
+43	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	44	nsubj	_	_
 44	adhéreront	adhérer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	25	ccomp	_	_
 45-46	aux	_	_	_	_	_	_	_	_
 45	à	à	ADP	E	_	47	case	_	_
@@ -9254,7 +9254,7 @@
 28	eux	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	obl:arg	_	_
 29	pour	pour	ADP	E	_	32	mark	_	_
 30	qu'	que	SCONJ	CS	_	32	mark	_	SpaceAfter=No
-31	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
+31	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
 32	accélèrent	accélérer	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	advcl	_	_
 33-34	au	_	_	_	_	_	_	_	_
 33	à	à	ADP	E	_	35	case	_	_
@@ -9901,7 +9901,7 @@
 44	telle	tel	ADJ	A	Gender=Fem|Number=Sing	45	amod	_	_
 45	sorte	sorte	NOUN	S	Gender=Fem|Number=Sing	36	obl	_	_
 46	qu'	que	ADP	E	_	48	mark	_	SpaceAfter=No
-47	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	48	nsubj	_	_
+47	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	48	nsubj	_	_
 48	servent	servir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	45	acl	_	_
 49	mieux	mieux	ADV	B	_	48	advmod	_	_
 50	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	51	det	_	_
@@ -9915,7 +9915,7 @@
 57	développées	developpe	ADJ	A	Gender=Fem|Number=Sing	54	nmod	_	_
 58	et	et	CCONJ	CC	_	61	cc	_	_
 59	qu'	que	SCONJ	CS	_	61	mark	_	SpaceAfter=No
-60	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	61	nsubj	_	_
+60	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	61	nsubj	_	_
 61	permettent	permettre	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	48	conj	_	_
 62-63	aux	_	_	_	_	_	_	_	_
 62	à	à	ADP	E	_	64	case	_	_
@@ -11512,7 +11512,7 @@
 14	exclus	exclure	VERB	V	Tense=Past|VerbForm=Part	13	xcomp	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	19	punct	_	_
 16	s'	si	SCONJ	CS	_	19	mark	_	SpaceAfter=No
-17	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+17	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
 18	ne	ne	PART	PART	Polarity=Neg	19	advmod	_	_
 19	peuvent	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 20	participer	participer	VERB	V	VerbForm=Inf	19	xcomp	_	SpaceAfter=No
@@ -11913,7 +11913,7 @@
 
 # sent_id = fr_partut-ud-367
 # text = Elles devraient éviter de créer des couches supplémentaires de bureaucratie et de paperasserie.
-1	Elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	devraient	devoir	VERB	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	éviter	éviter	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	de	de	ADP	E	_	5	mark	_	_
@@ -13005,7 +13005,7 @@
 
 # sent_id = fr_partut-ud-404
 # text = Ils ont besoin que la dimension politique fonctionne, qu'il y ait des responsabilités, qu'une communication soit établie avec les citoyens.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	besoin	besoin	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
 4	que	que	SCONJ	CS	_	8	mark	_	_
@@ -13498,7 +13498,7 @@
 
 # sent_id = fr_partut-ud-417
 # text = Elles sont d'un grand secours pour les états membres, et je veux souligner en particulier la place importante accordée par la commission aux questions du développement durable, de l'augmentation du nombre d'emplois - l'accent étant mis sur l'égalité des chances - et des transports.
-1	Elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+1	Elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 2	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	d'	de	ADP	E	_	6	case	_	SpaceAfter=No
 4	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -14252,7 +14252,7 @@
 16	états	état	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
 17	membres	membre	NOUN	S	Gender=Masc|Number=Plur	16	compound	_	_
 18	qu'	que	SCONJ	CS	_	20	mark	_	SpaceAfter=No
-19	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+19	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
 20	assurent	assurer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 21	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	information	information	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
@@ -14264,7 +14264,7 @@
 28	chaque	chaque	DET	DI	Number=Sing|PronType=Ind	29	det	_	_
 29	fois	fois	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
 30	qu'	que	SCONJ	CS	_	33	mark	_	SpaceAfter=No
-31	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	33	nsubj:pass	_	_
+31	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	33	nsubj:pass	_	_
 32	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	aux:pass	_	_
 33	mobilisées	mobiliser	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	29	acl	_	_
 34	pour	pour	ADP	E	_	35	mark	_	_
@@ -15638,7 +15638,7 @@
 7	potentiels	potentiel	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
 8	là	là	ADV	B	_	1	advmod	_	_
 9	où	où	ADV	PR	PronType=Rel	12	iobj	_	_
-10	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+10	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 11	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 12	trouvent	trouver	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	1	punct	_	_
@@ -16695,7 +16695,7 @@
 
 # sent_id = fr_partut-ud-563
 # text = Ils peuvent choisir la quantité et le type de ces mises à jour publiques qu'ils verront dans leur fil d'actualité.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	peuvent	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	choisir	choisir	VERB	V	VerbForm=Inf	2	xcomp	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -16710,7 +16710,7 @@
 13	jour	jour	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
 14	publiques	public	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
 15	qu'	que	PRON	PR	PronType=Rel	17	obj	_	SpaceAfter=No
-16	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+16	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 17	verront	voir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	acl:relcl	_	_
 18	dans	dans	ADP	E	_	20	case	_	_
 19	leur	leur	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	20	det	_	_
@@ -16893,7 +16893,7 @@
 
 # sent_id = fr_partut-ud-570
 # text = Ils ont également toute une série d'autres impacts environnementaux importants.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	également	également	ADV	B	_	2	advmod	_	_
 4	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
@@ -20110,7 +20110,7 @@
 137	efficacité	efficacité	NOUN	S	Gender=Fem|Number=Sing	135	nmod	_	_
 138	énergétique	énergétique	ADJ	A	Number=Sing	137	amod	_	SpaceAfter=No
 139	,	,	PUNCT	FF	_	5	punct	_	_
-140	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	141	nsubj:pass	_	_
+140	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	141	nsubj:pass	_	_
 141	devraient	devoir	VERB	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 142	être	être	AUX	VA	VerbForm=Inf	143	aux:pass	_	_
 143	intégrées	intégrer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	141	xcomp	_	_
@@ -21572,7 +21572,7 @@
 17	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
 18	mesures	mesure	NOUN	S	Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	3	punct	_	_
-20	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	26	nsubj:pass	_	_
+20	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	26	nsubj:pass	_	_
 21	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
 22	pour	pour	ADP	E	_	24	case	_	_
 23	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -24080,7 +24080,7 @@
 50	,	,	PUNCT	FF	_	56	punct	_	_
 51	et	et	CCONJ	CC	_	56	cc	_	_
 52	qu'	que	SCONJ	CS	_	56	mark	_	SpaceAfter=No
-53	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	56	nsubj	_	_
+53	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	56	nsubj	_	_
 54	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	56	obj	_	_
 55	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	56	aux	_	_
 56	déclarés	déclarer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	conj	_	_
@@ -24317,7 +24317,7 @@
 
 # sent_id = fr_partut-ud-749
 # text = Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	_
 2	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	doués	douer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 4	de	de	ADP	E	_	5	case	_	_
@@ -24783,7 +24783,7 @@
 15	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	moment	moment	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
 17	où	où	ADV	PR	PronType=Rel	21	iobj	_	_
-18	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	21	nsubj:pass	_	_
+18	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	21	nsubj:pass	_	_
 19	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 20	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	_	_
 21	commises	commettre	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	16	acl:relcl	_	SpaceAfter=No
@@ -25016,7 +25016,7 @@
 
 # sent_id = fr_partut-ud-774
 # text = Ils ont des droits égaux au regard du mariage, durant le mariage et lors de sa dissolution.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	ont	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	droits	droit	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
@@ -25629,7 +25629,7 @@
 3	enfants	enfant	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	qu'	que	SCONJ	CS	_	8	mark	_	SpaceAfter=No
-6	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+6	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 7	soient	être	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	nés	naître	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	advcl	_	_
 9	dans	dans	ADP	E	_	11	case	_	_
@@ -26280,7 +26280,7 @@
 40	si	si	ADV	B	_	41	advmod	_	_
 41	mauvais	mauvais	ADJ	A	Gender=Masc	18	ccomp	_	_
 42	qu'	que	SCONJ	CS	_	46	mark	_	SpaceAfter=No
-43	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	46	nsubj:caus	_	_
+43	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	46	nsubj:caus	_	_
 44	faisaient	faire	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	46	aux:caus	_	_
 45	même	même	ADV	B	_	46	advmod	_	_
 46	noircir	noircir	VERB	V	VerbForm=Inf	41	advcl	_	_
@@ -26300,7 +26300,7 @@
 3	-vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 4	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	obj	_	_
 5	qu'	que	PRON	PR	PronType=Rel	7	obj	_	SpaceAfter=No
-6	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 7	disaient	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
 8	en	en	ADP	E	_	9	mark	_	_
 9	sortant	sortir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	SpaceAfter=No
@@ -26327,7 +26327,7 @@
 17	corps	corps	NOUN	S	Gender=Masc|Number=Plur	14	conj	_	_
 18	parce	parce	ADV	B	ExtPos=SCONJ	21	mark	_	_
 19	qu'	que	SCONJ	CS	_	18	fixed	_	SpaceAfter=No
-20	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+20	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
 21	avaient	avoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	_
 22	besoin	besoin	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
 23	d'	de	ADP	E	_	24	case	_	SpaceAfter=No
@@ -26659,7 +26659,7 @@
 
 # sent_id = fr_partut-ud-838
 # text = Ils s'accumulent dans le haut de la pyramide.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
 3	accumulent	accumuler	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dans	dans	ADP	E	_	6	case	_	_
@@ -26735,7 +26735,7 @@
 
 # sent_id = fr_partut-ud-842
 # text = Ils rentrent dans la chaîne alimentaire.
-1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	rentrent	rentrer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dans	dans	ADP	E	_	5	case	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -26859,7 +26859,7 @@
 1	Ces	ce	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
 2	femelles	femelle	NOUN	S	Gender=Fem|Number=Plur	7	dislocated	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+4	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 5	n'	ne	PART	PART	Polarity=Neg	7	advmod	_	SpaceAfter=No
 6	y	y	ADV	B	_	7	advmod	_	_
 7	sont	être	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -27038,7 +27038,7 @@
 45	identifier	identifier	VERB	V	VerbForm=Inf	34	conj	_	_
 46	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	45	obj	_	_
 47	qu'	que	PRON	PR	PronType=Rel	46	acl:relcl	_	SpaceAfter=No
-48	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	47	nsubj	_	_
+48	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	47	nsubj	_	_
 49	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	47	cop	_	_
 50	vraiment	vraiment	ADV	B	_	47	advmod	_	SpaceAfter=No
 51	.	.	PUNCT	FS	_	17	punct	_	_
@@ -27103,7 +27103,7 @@
 # text = Même si ils avaient été étiquetés viande de baleine, c'était de la viande de dauphin.
 1	Même	même	ADV	B	_	6	advmod	_	_
 2	si	si	SCONJ	CS	_	6	mark	_	_
-3	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+3	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 4	avaient	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
 5	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:pass	_	_
 6	étiquetés	étiqueter	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	advcl	_	_
@@ -27219,7 +27219,7 @@
 12	mangent	manger	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	parce	parce	SCONJ	CS	ExtPos=SCONJ	17	mark	_	_
 14	qu'	que	SCONJ	CS	_	13	fixed	_	SpaceAfter=No
-15	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+15	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 16	ne	ne	PART	PART	Polarity=Neg	17	advmod	_	_
 17	savent	savoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 18	pas	pas	ADV	B	_	17	advmod	_	_
