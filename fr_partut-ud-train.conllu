@@ -2397,7 +2397,7 @@
 28	il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	32	case	_	_
 29	y	y	PRON	P	Person=3|PronType=Prs	28	fixed	_	_
 30	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	fixed	_	_
-31	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	32	det	_	_
+31	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	32	det	_	_
 32	mois	mois	NOUN	S	Gender=Masc|Number=Plur	34	nmod	_	_
 33	à	à	ADP	E	_	34	case	_	_
 34	peine	peine	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
@@ -3509,7 +3509,7 @@
 9	moi-même	moi-même	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	conj	_	_
 10	avions	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
 11	présenté	présenter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-12	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	13	det	_	_
+12	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	13	det	_	_
 13	questions	question	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
 14	sur	sur	ADP	E	_	16	case	_	_
 15	certaines	certain	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
@@ -5932,7 +5932,7 @@
 5	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	faire	faire	VERB	V	VerbForm=Inf	6	xcomp	_	_
-8	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	9	det	_	_
+8	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	9	det	_	_
 9	remarques	remarque	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -6660,7 +6660,7 @@
 1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	émettre	émettre	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	6	det	_	_
+4	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	6	det	_	_
 5	rares	rare	ADJ	A	Number=Plur	6	amod	_	_
 6	remarques	remarque	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	2	punct	_	_
@@ -7371,7 +7371,7 @@
 1	La	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	margarine	margarine	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
 3	et	et	CCONJ	CC	_	5	cc	_	_
-4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
+4	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
 5	kilos	kilo	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
 6	de	de	ADP	E	_	7	case	_	_
 7	peinture	peinture	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
@@ -7801,7 +7801,7 @@
 40	par	par	ADP	E	_	41	case	_	_
 41	route	route	NOUN	S	Gender=Fem|Number=Sing	36	nmod	_	_
 42	contient	contenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-43	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	44	det	_	_
+43	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	44	det	_	_
 44	dispositions	disposition	NOUN	S	Gender=Fem|Number=Plur	42	obj	_	_
 45	transitoires	transitoire	ADJ	A	Number=Plur	44	amod	_	_
 46	dont	dont	PRON	PR	PronType=Rel	48	nmod	_	_
@@ -9131,7 +9131,7 @@
 1	Il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	5	case	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	1	fixed	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
-4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
+4	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
 5	instants	instant	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -12783,7 +12783,7 @@
 1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	faudra	falloir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	étudier	étudier	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
+4	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	5	det	_	_
 5	indicateurs	indicateur	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
 6	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
 7	permettant	permettre	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	_
@@ -14870,12 +14870,11 @@
 10	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	compte	compte	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
 12	Facebook	Facebook	PROPN	SP	_	11	nmod	_	_
-13	avec	avec	ADP	E	_	15	case	_	_
-14	quelqu'	quelque	DET	DI	Number=Sing|PronType=Ind	15	det	_	SpaceAfter=No
-15	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	obl	_	_
-16	d'	de	ADP	E	_	17	case	_	SpaceAfter=No
-17	autre	autre	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	nmod	_	SpaceAfter=No
-18	?	?	PUNCT	FS	_	1	punct	_	_
+13	avec	avec	ADP	E	_	14	case	_	_
+14	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	obl	_	_
+15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
+16	autre	autre	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-469
 # text = Les comptes Facebook sont conçus pour une utilisation individuelle.
@@ -15214,7 +15213,7 @@
 13	inscrire	inscrire	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	en	en	ADP	E	_	15	mark	_	_
 15	suivant	suivre	VERB	V	Tense=Pres|VerbForm=Part	13	advcl	_	_
-16	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	17	det	_	_
+16	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	17	det	_	_
 17	étapes	étape	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
 18	simples	simple	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	11	punct	_	_
@@ -27003,7 +27002,7 @@
 9	il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	13	case	_	_
 10	y	y	PRON	P	Person=3|PronType=Prs	9	fixed	_	_
 11	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	fixed	_	_
-12	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	13	det	_	_
+12	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	13	det	_	_
 13	années	année	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
 14	c'	ce	PRON	PD	PronType=Dem	15	nsubj	_	SpaceAfter=No
 15	était	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -27243,7 +27242,7 @@
 6	il	lui	PRON	PE	ExtPos=ADP|PronType=Prs	10	case	_	_
 7	y	y	PRON	P	Person=3|PronType=Prs	6	fixed	_	_
 8	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	fixed	_	_
-9	quelques	quelque	DET	DI	Number=Plur|PronType=Ind	10	det	_	_
+9	quelques	quelques	DET	DI	Number=Plur|PronType=Ind	10	det	_	_
 10	années	année	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	3	punct	_	_
 
