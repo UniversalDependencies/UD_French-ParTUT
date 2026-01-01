@@ -363,7 +363,7 @@
 28	compléter	compléter	VERB	V	VerbForm=Inf	27	xcomp	_	_
 29	d'	de	ADP	E	_	32	case	_	SpaceAfter=No
 30	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
-31	certaine	certain	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	32	det	_	_
+31	certaine	certain	ADJ	DI	Gender=Fem|Number=Sing	32	amod	_	_
 32	manière	manière	NOUN	S	Gender=Fem|Number=Sing	28	obl	_	_
 33	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	débat	débat	NOUN	S	Gender=Masc|Number=Sing	28	obj	_	_
