@@ -13,7 +13,7 @@
 11	ne	ne	PART	PART	Polarity=Neg	12	advmod	_	_
 12	fournit	fournir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 13	pas	pas	ADV	BN	Polarity=Neg	12	advmod	_	_
-14	de	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+14	de	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	services	service	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
 16	de	de	ADP	E	_	17	case	_	_
 17	conseil	conseil	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
