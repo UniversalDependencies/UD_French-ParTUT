@@ -154,7 +154,7 @@
 40	de	de	ADP	E	_	41	case	_	_
 41	réduction	réduction	NOUN	S	Gender=Fem|Number=Sing	38	nmod	_	_
 42	de	de	ADP	E	_	44	case	_	_
-43	leur	leur	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	44	det	_	_
+43	leur	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	44	det	_	_
 44	flotte	flotte	NOUN	S	Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
 45	.	.	PUNCT	FS	_	24	punct	_	_
 
@@ -268,7 +268,7 @@
 2	contexte	contexte	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
 3	que	que	PRON	PR	PronType=Rel	4	obj	_	_
 4	connaissent	connaître	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
-5	nos	nos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	7	det	_	_
+5	nos	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	7	det	_	_
 6	différents	différent	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
 7	états	état	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
 8	membres	membre	NOUN	S	Gender=Masc|Number=Plur	7	compound	_	_
@@ -340,7 +340,7 @@
 6	réitère	réitérer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	E	_	8	case	_	_
 8	nouveau	nouveau	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	_
-9	mes	mon	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	10	det	_	_
+9	mes	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	10	det	_	_
 10	félicitations	félicitation	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
 11	à	à	ADP	E	_	12	case	_	_
 12	M.	monsieur	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
@@ -600,7 +600,7 @@
 10	à	à	ADP	E	_	11	mark	_	_
 11	partir	partir	VERB	V	VerbForm=Inf	8	advcl	_	_
 12	de	de	ADP	E	_	14	case	_	_
-13	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
+13	votre	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
 14	téléphone	téléphone	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
 15	mobile	mobile	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	6	punct	_	_
@@ -631,7 +631,7 @@
 39	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	40	det	_	_
 40	termes	terme	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	_
 41	de	de	ADP	E	_	43	case	_	_
-42	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	43	det	_	_
+42	votre	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	43	det	_	_
 43	opérateur	opérateur	NOUN	S	Gender=Masc|Number=Sing	40	nmod	_	_
 44	de	de	ADP	E	_	45	case	_	_
 45	téléphonie	téléphonie	NOUN	S	Gender=Fem|Number=Sing	43	nmod	_	_
@@ -651,18 +651,18 @@
 9	compte	compte	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	3	punct	_	_
 11	saisissez	saisir	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	13	det	_	_
+12	votre	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	13	det	_	_
 13	nom	nom	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	16	punct	_	_
-15	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	16	det	_	_
+15	votre	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	16	det	_	_
 16	date	date	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
 17	d'	de	ADP	E	_	18	case	_	SpaceAfter=No
 18	anniversaire	anniversaire	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	21	punct	_	_
-20	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	21	det	_	_
+20	votre	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	21	det	_	_
 21	sexe	sexe	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	_
 22	et	et	CCONJ	CC	_	24	cc	_	_
-23	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	24	det	_	_
+23	votre	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	24	det	_	_
 24	adresse	adresse	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
 25	électronique	électronique	ADJ	A	Number=Sing	24	amod	_	_
 26-27	au	_	_	_	_	_	_	_	_
@@ -680,7 +680,7 @@
 # sent_id = fr_partut-ud-513
 # text = Approfondissez vos relations.
 1	Approfondissez	approfondir	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	vos	vos	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	3	det	_	_
+2	vos	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	3	det	_	_
 3	relations	relation	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	FS	_	1	punct	_	_
 
@@ -807,7 +807,7 @@
 16	humaine	humain	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
 17	et	et	CCONJ	CC	_	20	cc	_	_
 18	de	de	ADP	E	_	20	case	_	_
-19	leurs	leur	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	20	det	_	_
+19	leurs	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	20	det	_	_
 20	droits	droit	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
 21	égaux	égal	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
 22	et	et	CCONJ	CC	_	23	cc	_	_
@@ -1127,12 +1127,12 @@
 5	éclater	éclater	VERB	V	VerbForm=Inf	2	ccomp	_	_
 6	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	préjugé	préjugé	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
-8	une	un	DET	RI	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	_
+8	une	un	DET	RI	Gender=Fem|Number=Sing|Person=3|PronType=Art	9	det	_	_
 9	fois	fois	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
 10	pour	pour	ADP	E	_	11	case	_	_
 11	toute	tout	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind|Typo=Yes	9	nmod	_	CorrectForm=toutes
 12	avec	avec	ADP	E	_	14	case	_	_
-13	votre	votre	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
+13	votre	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	14	det	_	_
 14	groupe	groupe	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -1195,7 +1195,7 @@
 11	que	que	ADP	E	_	15	case	_	_
 12	de	de	ADP	E	_	15	case	_	_
 13	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
-14	autre	autre	ADJ	A	Number=Sing	15	amod	_	_
+14	autre	autre	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
 15	règne	règne	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -1224,7 +1224,7 @@
 11	,	,	PUNCT	FF	_	17	punct	_	_
 12	et	et	CCONJ	CC	_	17	cc	_	_
 13	donc	donc	ADV	B	_	17	advmod	_	_
-14	nos	nos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	16	det	_	_
+14	nos	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	16	det	_	_
 15	meilleurs	meilleur	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
 16	antibiotiques	antibiotique	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
 17	viennent	venir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
@@ -1371,7 +1371,7 @@
 
 # sent_id = fr_partut-ud-899
 # text = Mon pied couvre environ 300 miles de mycélium.
-1	Mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	2	det	_	_
+1	Mon	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	2	det	_	_
 2	pied	pied	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	couvre	couvrir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	environ	environ	ADV	B	_	3	advmod	_	_
@@ -1424,7 +1424,7 @@
 # text = Nous expirons du dioxyde de carbone, le mycélium aussi.
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	expirons	expirer	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	du	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	du	du	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	dioxyde	dioxyde	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	E	_	6	case	_	_
 6	carbone	carbone	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
@@ -1453,10 +1453,10 @@
 2	ce	ce	PRON	P	Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
 3	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	essentiellement	essentiellement	ADV	B	_	6	advmod	_	_
-5	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	_
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	_
 6	estomacs	estomac	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
 7	et	et	CCONJ	CC	_	9	cc	_	_
-8	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
 9	poumons	poumon	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
 10	externalisés	externaliser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	6	punct	_	_
@@ -1473,7 +1473,7 @@
 8	lequel	lequel	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	12	obl	_	_
 9	ce	ce	PRON	P	Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_
 10	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-11	des	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	_
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	_
 12	membranes	membrane	NOUN	S	Gender=Fem|Number=Plur	6	acl:relcl	_	_
 13	neurologiques	neurologique	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
 14	étendues	étendu	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
@@ -1607,10 +1607,10 @@
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
 3	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	expl	_	_
 4	promenez	promener	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
-5	à	à	ADP	E	_	6	case	_	_
-6	travers	travers	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+5	à	à	ADP	E	ExtPos=ADP	8	case	_	_
+6	travers	travers	NOUN	S	Gender=Masc|Number=Sing	5	fixed	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	paysages	paysage	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+8	paysages	paysage	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
 10	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	bondit	bondit	ADJ	A	Number=Sing	0	root	_	_
@@ -1618,7 +1618,7 @@
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
 14	traces	trace	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
 15	de	de	ADP	E	_	17	case	_	_
-16	vos	vos	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	17	det	_	_
+16	vos	son	DET	AP	Gender=Masc|Number=Plur|PronType=Prs	17	det	_	_
 17	pas	pas	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
 18	en	en	ADP	E	_	19	mark	_	_
 19	essayant	essayer	VERB	V	Tense=Pres|VerbForm=Part	11	advcl	_	_
@@ -1911,7 +1911,7 @@
 # sent_id = fr_partut-ud-928
 # text = On l'a appelé Prototaxites.
 1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
-2	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
+2	l'	lui	PRON	P	Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	appelé	appeler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	Prototaxites	Prototaxites	PROPN	SP	_	4	xcomp	_	SpaceAfter=No
@@ -2074,8 +2074,8 @@
 7	existant	exister	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	6	acl	_	_
 8	ailleurs	ailleurs	ADV	B	_	7	advmod	_	_
 9	sur	sur	ADP	E	_	12	case	_	_
-10	d'	de	ADP	E	_	12	case	_	SpaceAfter=No
-11	autres	autre	DET	RI	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+10	d'	un	DET	E	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	12	det	_	SpaceAfter=No
+11	autres	autre	ADJ	RI	Gender=Fem|Number=Plur	12	amod	_	_
 12	planètes	planète	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	4	punct	_	_
 14	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	SpaceAfter=No
@@ -2095,7 +2095,7 @@
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	moins	moins	ADV	B	_	6	advmod	_	_
 4	dans	dans	ADP	E	_	6	case	_	_
-5	mon	mon	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	6	det	_	_
+5	mon	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	6	det	_	_
 6	esprit	esprit	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	6	punct	_	_
 
