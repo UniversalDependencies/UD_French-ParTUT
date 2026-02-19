@@ -26186,11 +26186,11 @@
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	océan	océan	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
 6	malheureux	malheureux	ADJ	A	Gender=Masc	3	xcomp	_	_
-7	de	de	ADP	E	_	9	case	_	_
-8	pas	pas	ADV	BN	Polarity=Neg	9	advmod	_	_
-9	mal	mal	ADV	B	_	11	advmod	_	_
+7	de	de	ADP	E	_	8	case	_	_
+8	pas	pas	ADV	BN	ExtPos=ADV|Polarity=Neg	3	advmod	_	_
+9	mal	mal	ADV	B	_	8	fixed	_	_
 10	de	de	ADP	E	_	11	case	_	_
-11	façons	façon	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+11	façons	façon	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-817
