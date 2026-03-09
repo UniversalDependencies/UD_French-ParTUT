@@ -291,7 +291,7 @@
 4	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-18
-# text = Soumis aux termes et conditions définis dans cette autorisation, et ceci pendant toute la durée de protection de l'oeuvre par le droit de la propriété littéraire et artistique ou le droit applicable, l'offrant accorde à l'acceptant l'autorisation mondiale d'exercer à titre gratuit et non exclusif les droits suivants:
+# text = Soumis aux termes et conditions définis dans cette autorisation, et ceci pendant toute la durée de protection de l'oeuvre par le droit de la propriété littéraire et artistique ou le droit applicable, l'offrant accorde à l'acceptant l'autorisation mondiale d'exercer à titre gratuit et non exclusif les droits suivants :
 1	Soumis	soumettre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	38	acl	_	_
 2-3	aux	_	_	_	_	_	_	_	_
 2	à	à	ADP	E	_	4	case	_	_
@@ -348,11 +348,11 @@
 53	exclusif	exclusif	ADJ	A	Number=Sing	50	conj	_	_
 54	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	55	det	_	_
 55	droits	droit	NOUN	S	Gender=Masc|Number=Plur	47	obj	_	_
-56	suivants	suivant	ADJ	A	Gender=Masc|Number=Plur	55	amod	_	SpaceAfter=No
+56	suivants	suivant	ADJ	A	Gender=Masc|Number=Plur	55	amod	_	_
 57	:	:	PUNCT	FC	_	39	punct	_	_
 
 # sent_id = fr_partut-ud-19
-# text = reproduire l'Oeuvre, incorporer l'Oeuvre dans une ou plusieurs oeuvres dites derivées et reproduire l'oeuvre telle qu'incorporée dans les dites oeuvres dites collectives;
+# text = reproduire l'Oeuvre, incorporer l'Oeuvre dans une ou plusieurs oeuvres dites derivées et reproduire l'oeuvre telle qu'incorporée dans les dites oeuvres dites collectives ;
 1	reproduire	reproduire	VERB	V	VerbForm=Inf	0	root	_	_
 2	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
 3	Oeuvre	Oeuvre	PROPN	SP	_	1	obj	_	SpaceAfter=No
@@ -379,22 +379,22 @@
 24	dites	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	25	acl	_	_
 25	oeuvres	œuvre	NOUN	S	Gender=Fem|Number=Plur	21	obl	_	_
 26	dites	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	25	acl	_	_
-27	collectives	collective	ADJ	A	Gender=Fem|Number=Plur	26	xcomp	_	SpaceAfter=No
+27	collectives	collective	ADJ	A	Gender=Fem|Number=Plur	26	xcomp	_	_
 28	;	;	PUNCT	FC	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-20
-# text = créer et reproduire des oeuvres dites derivées;
+# text = créer et reproduire des oeuvres dites derivées ;
 1	créer	créer	VERB	V	VerbForm=Inf	0	root	_	_
 2	et	et	CCONJ	CC	_	3	cc	_	_
 3	reproduire	reproduire	VERB	V	VerbForm=Inf	1	conj	_	_
 4	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	oeuvres	œuvre	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
 6	dites	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
-7	derivées	dérivé	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	SpaceAfter=No
+7	derivées	dérivé	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	_
 8	;	;	PUNCT	FC	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-21
-# text = distribuer des exemplaires ou enregistrements, présenter, représenter ou communiquer l'oeuvre au public par tout procédé technique, y compris incorporée dans des oeuvres collectives;
+# text = distribuer des exemplaires ou enregistrements, présenter, représenter ou communiquer l'oeuvre au public par tout procédé technique, y compris incorporée dans des oeuvres collectives ;
 1	distribuer	distribuer	VERB	V	VerbForm=Inf	0	root	_	_
 2	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	exemplaires	exemplaire	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
@@ -423,11 +423,11 @@
 25	dans	dans	ADP	E	_	27	case	_	_
 26	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
 27	oeuvres	œuvre	NOUN	S	Gender=Fem|Number=Plur	24	obl	_	_
-28	collectives	collective	ADJ	A	Gender=Fem|Number=Plur	27	amod	_	SpaceAfter=No
+28	collectives	collective	ADJ	A	Gender=Fem|Number=Plur	27	amod	_	_
 29	;	;	PUNCT	FC	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-22
-# text = Distribuer des exemplaires ou phonogrammes, présenter, représenter ou communiquer au public des oeuvres dites derivées par tout procédé technique;
+# text = Distribuer des exemplaires ou phonogrammes, présenter, représenter ou communiquer au public des oeuvres dites derivées par tout procédé technique ;
 1	Distribuer	distribuer	VERB	V	VerbForm=Inf	0	root	_	_
 2	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	exemplaires	exemplaire	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
@@ -450,7 +450,7 @@
 19	par	par	ADP	E	_	21	case	_	_
 20	tout	tout	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
 21	procédé	procédé	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
-22	technique	technique	ADJ	A	Number=Sing	21	amod	_	SpaceAfter=No
+22	technique	technique	ADJ	A	Number=Sing	21	amod	_	_
 23	;	;	PUNCT	FC	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-23
@@ -571,7 +571,7 @@
 40	.	.	PUNCT	FS	_	24	punct	_	_
 
 # sent_id = fr_partut-ud-28
-# text = L'autorisation accordée par l'article 3 est expressément assujettie et limitée par le respect des restrictions suivantes:
+# text = L'autorisation accordée par l'article 3 est expressément assujettie et limitée par le respect des restrictions suivantes :
 1	L'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	autorisation	autorisation	NOUN	S	Gender=Fem|Number=Sing	10	nsubj:pass	_	_
 3	accordée	accorder	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
@@ -591,7 +591,7 @@
 16	de	de	ADP	E	_	18	case	_	_
 17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	restrictions	restriction	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
-19	suivantes	suivant	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	SpaceAfter=No
+19	suivantes	suivant	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
 20	:	:	PUNCT	FC	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-29
@@ -1140,7 +1140,7 @@
 46	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-40
-# text = le titre de l'oeuvre originale s'il est indiqué;
+# text = le titre de l'oeuvre originale s'il est indiqué ;
 1	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	titre	titre	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	E	_	5	case	_	_
@@ -1150,7 +1150,7 @@
 7	s'	si	SCONJ	E	_	10	mark	_	SpaceAfter=No
 8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	indiqué	indiquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
+10	indiqué	indiquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 11	;	;	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-41
@@ -1627,7 +1627,7 @@
 25	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-54
-# text = Néanmoins, l'offrant se réserve à tout moment le droit d'exploiter l'oeuvre sous des conditions contractuelles différentes, ou d'en cesser la diffusion;
+# text = Néanmoins, l'offrant se réserve à tout moment le droit d'exploiter l'oeuvre sous des conditions contractuelles différentes, ou d'en cesser la diffusion ;
 1	Néanmoins	néanmoins	ADV	B	_	6	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
@@ -1654,7 +1654,7 @@
 24	en	en	PRON	PE	Person=3|PronType=Prs	27	nmod	_	_
 25	cesser	cesser	VERB	V	VerbForm=Inf	13	conj	_	_
 26	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-27	diffusion	diffusion	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
+27	diffusion	diffusion	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	_
 28	;	;	PUNCT	FC	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-55
@@ -3264,7 +3264,7 @@
 13	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = fr_partut-ud-105
-# text = Madame la présidente, comment se fait-il que le parlement ne se conforme pas à la réglementation en matière de santé et de sécurité qu'il vote?
+# text = Madame la présidente, comment se fait-il que le parlement ne se conforme pas à la réglementation en matière de santé et de sécurité qu'il vote ?
 1	Madame	madame	NOUN	S	Gender=Fem|Number=Sing	7	vocative	_	_
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	présidente	président	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -3292,11 +3292,11 @@
 25	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	22	conj	_	_
 26	qu'	que	PRON	PR	PronType=Rel	28	obj	_	SpaceAfter=No
 27	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
-28	vote	voter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
+28	vote	voter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 29	?	?	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-106
-# text = Comment se fait-il que aucun test de qualité de l'air n'ait été réalisé dans ce bâtiment depuis notre élection?
+# text = Comment se fait-il que aucun test de qualité de l'air n'ait été réalisé dans ce bâtiment depuis notre élection ?
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -3318,11 +3318,11 @@
 19	bâtiment	bâtiment	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
 20	depuis	depuis	ADP	E	_	22	case	_	_
 21	notre	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	22	det	_	_
-22	élection	élection	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+22	élection	élection	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
 23	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-107
-# text = Comment se fait-il que le comité de santé et d'hygiène ne se soit plus réuni depuis 1998?
+# text = Comment se fait-il que le comité de santé et d'hygiène ne se soit plus réuni depuis 1998 ?
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -3341,11 +3341,11 @@
 16	plus	plus	ADV	B	_	17	advmod	_	_
 17	réuni	réunir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	csubj	_	_
 18	depuis	depuis	ADP	E	_	19	case	_	_
-19	1998	1998	NUM	N	NumType=Card	17	obl	_	SpaceAfter=No
+19	1998	1998	NUM	N	NumType=Card	17	obl	_	_
 20	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-108
-# text = Comment se fait-il que nous n'ayons jamais fait d'exercice d'évacuation dans les bâtiments du parlement de Bruxelles et de Strasbourg?
+# text = Comment se fait-il que nous n'ayons jamais fait d'exercice d'évacuation dans les bâtiments du parlement de Bruxelles et de Strasbourg ?
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -3371,11 +3371,11 @@
 22	Bruxelles	Bruxelles	PROPN	SP	_	20	nmod	_	_
 23	et	et	CCONJ	CC	_	25	cc	_	_
 24	de	de	ADP	E	_	25	case	_	_
-25	Strasbourg	Strasbourg	PROPN	SP	_	22	conj	_	SpaceAfter=No
+25	Strasbourg	Strasbourg	PROPN	SP	_	22	conj	_	_
 26	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-109
-# text = Comment se fait-il qu'il n'y ait pas de consignes en cas d'incendie?
+# text = Comment se fait-il qu'il n'y ait pas de consignes en cas d'incendie ?
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -3391,11 +3391,11 @@
 13	en	en	ADP	E	_	14	case	_	_
 14	cas	cas	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
 15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
-16	incendie	incendie	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+16	incendie	incendie	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
 17	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-110
-# text = Comment se fait-il que les escaliers n'aient pas été améliorés depuis mon accident?
+# text = Comment se fait-il que les escaliers n'aient pas été améliorés depuis mon accident ?
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -3410,11 +3410,11 @@
 12	améliorés	améliorer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	csubj	_	_
 13	depuis	depuis	ADP	E	_	15	case	_	_
 14	mon	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	15	det	_	_
-15	accident	accident	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	accident	accident	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
 16	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-111
-# text = Comment se fait-il qu'l'on ne respecte pas les zones non fumeurs?
+# text = Comment se fait-il qu'l'on ne respecte pas les zones non fumeurs ?
 1	Comment	comment	ADV	B	_	3	advmod	_	_
 2	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -3427,7 +3427,7 @@
 10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	zones	zone	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
 12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
-13	fumeurs	fumeur	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+13	fumeurs	fumeur	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
 14	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-112
@@ -3990,7 +3990,7 @@
 55	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-130
-# text = Je vous rappelle en outre, Madame la Présidente, que ce parlement a voté par deux fois la confiance au président Prodi lors dela précédente législature;
+# text = Je vous rappelle en outre, Madame la Présidente, que ce parlement a voté par deux fois la confiance au président Prodi lors dela précédente législature ;
 1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	rappelle	rappeler	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -4020,7 +4020,7 @@
 26	de	de	ADP	E	_	29	case	_	SpaceAfter=No
 27	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 28	précédente	précédent	ADJ	A	Gender=Fem|Number=Sing	29	amod	_	_
-29	législature	législature	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
+29	législature	législature	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	_
 30	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-131
@@ -4136,7 +4136,7 @@
 27	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-134
-# text = Les événements qui se sont produits la semaine dernière ­ qui sont nés en marge de la conférence des présidents et se servent d'elle dans le seul but de corroborer et de ratifier des décisions prises en dehors de celle-ci ­ créent un dilemme:
+# text = Les événements qui se sont produits la semaine dernière ­ qui sont nés en marge de la conférence des présidents et se servent d'elle dans le seul but de corroborer et de ratifier des décisions prises en dehors de celle-ci ­ créent un dilemme :
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	événements	événement	NOUN	S	Gender=Masc|Number=Plur	44	nsubj	_	_
 3	qui	qui	PRON	PR	PronType=Rel	6	nsubj	_	_
@@ -4183,7 +4183,7 @@
 43	­	-	PUNCT	FB	Typo=Yes	2	punct	_	CorrectForm=-
 44	créent	créer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 45	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
-46	dilemme	dilemme	NOUN	S	Gender=Masc|Number=Sing	44	obj	_	SpaceAfter=No
+46	dilemme	dilemme	NOUN	S	Gender=Masc|Number=Sing	44	obj	_	_
 47	:	:	PUNCT	FC	_	44	punct	_	_
 
 # sent_id = fr_partut-ud-135
@@ -5034,7 +5034,7 @@
 23	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-166
-# text = Monsieur Cox, monsieur Hänsch, est-ce que cela vous convient?
+# text = Monsieur Cox, monsieur Hänsch, est-ce que cela vous convient ?
 1	Monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
 2	Cox	Cox	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
@@ -5046,7 +5046,7 @@
 9	que	que	SCONJ	CS	_	12	mark	_	_
 10	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_
 11	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	12	iobj	_	_
-12	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
+12	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 13	?	?	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-167
@@ -6769,14 +6769,14 @@
 42	.	.	PUNCT	FS	_	41	punct	_	_
 
 # sent_id = fr_partut-ud-219
-# text = Le deuxième point a déjà été évoqué:
+# text = Le deuxième point a déjà été évoqué :
 1	Le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	deuxième	deuxième	ADJ	A	Number=Sing	3	amod	_	_
 3	point	point	NOUN	S	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 4	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 5	déjà	déjà	ADV	B	_	7	advmod	_	_
 6	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
-7	évoqué	évoquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	évoqué	évoquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	:	:	PUNCT	FC	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-220
@@ -6969,7 +6969,7 @@
 32	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-228
-# text = Monsieur le président, je voudrais tout d'abord féliciter le rapporteur, M. Koch, de son magnifique travail et de sa collaboration positive avec la commission pour améliorer les textes, présenter ce rapport et cette proposition;
+# text = Monsieur le président, je voudrais tout d'abord féliciter le rapporteur, M. Koch, de son magnifique travail et de sa collaboration positive avec la commission pour améliorer les textes, présenter ce rapport et cette proposition ;
 1	Monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	6	vocative	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -7008,7 +7008,7 @@
 36	rapport	rapport	NOUN	S	Gender=Masc|Number=Sing	34	obj	_	_
 37	et	et	CCONJ	CC	_	39	cc	_	_
 38	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	39	det	_	_
-39	proposition	proposition	NOUN	S	Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
+39	proposition	proposition	NOUN	S	Gender=Fem|Number=Sing	36	conj	_	_
 40	;	;	PUNCT	FC	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-229
@@ -8104,7 +8104,7 @@
 70	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-256
-# text = Ce faisant, la modification de la directive s'inscrit pleinement dans l'esprit de subsidiarité;
+# text = Ce faisant, la modification de la directive s'inscrit pleinement dans l'esprit de subsidiarité ;
 1	Ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	obj	_	_
 2	faisant	faire	VERB	V	Tense=Pres|VerbForm=Part	10	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
@@ -8120,7 +8120,7 @@
 13	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
 14	esprit	esprit	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
 15	de	de	ADP	E	_	16	case	_	_
-16	subsidiarité	subsidiarité	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	subsidiarité	subsidiarité	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
 17	;	;	PUNCT	FC	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-257
@@ -8480,7 +8480,7 @@
 18	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-270
-# text = D'après la proposition de la commission, une limite de ­20º aurait été suffisante;
+# text = D'après la proposition de la commission, une limite de ­20º aurait été suffisante ;
 1	D'	de	ADP	E	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	après	après	ADP	E	_	1	fixed	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -8495,7 +8495,7 @@
 12	­20º	-20º	NUM	N	NumType=Card	10	nummod	_	_
 13	aurait	avoir	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 14	été	être	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
-15	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+15	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
 16	;	;	PUNCT	FC	_	15	punct	_	_
 
 # sent_id = fr_partut-ud-271
@@ -9044,12 +9044,12 @@
 46	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-293
-# text = Car une chose est claire:
+# text = Car une chose est claire :
 1	Car	car	CCONJ	CC	_	5	cc	_	_
 2	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	chose	chose	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	claire	clair	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	claire	clair	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
 6	:	:	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-295
@@ -10614,7 +10614,7 @@
 49	.	.	PUNCT	FS	_	45	punct	_	_
 
 # sent_id = fr_partut-ud-335
-# text = Mais je voudrais souligner ici que ce point de départ nous montre les défis devant lesquels nous nous trouvons:
+# text = Mais je voudrais souligner ici que ce point de départ nous montre les défis devant lesquels nous nous trouvons :
 1	Mais	mais	CCONJ	CC	_	3	cc	_	_
 2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -10633,7 +10633,7 @@
 16	lesquels	lequel	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	19	obl	_	_
 17	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
 18	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	expl	_	_
-19	trouvons	trouver	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+19	trouvons	trouver	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 20	:	:	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-336
@@ -13099,7 +13099,7 @@
 41	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-407
-# text = Monsieur le président, je suis favorable aux propositions principales du rapport concernant l'administration des fonds structurels et du fonds de cohésion pour la période 2000-2006 et aux recommandations principales de ce rapport comprenant les points suivants:
+# text = Monsieur le président, je suis favorable aux propositions principales du rapport concernant l'administration des fonds structurels et du fonds de cohésion pour la période 2000-2006 et aux recommandations principales de ce rapport comprenant les points suivants :
 1	Monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -13149,7 +13149,7 @@
 42	comprenant	comprendre	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	41	acl	_	_
 43	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	44	det	_	_
 44	points	point	NOUN	S	Gender=Masc|Number=Plur	42	obj	_	_
-45	suivants	suivant	ADJ	A	Gender=Masc|Number=Plur	44	amod	_	SpaceAfter=No
+45	suivants	suivant	ADJ	A	Gender=Masc|Number=Plur	44	amod	_	_
 46	:	:	PUNCT	FC	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-408
@@ -13616,7 +13616,7 @@
 26	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-420
-# text = Il n'est pas accordé à cette question l'importance qui conviendrait, et ce n'est pas la première fois:
+# text = Il n'est pas accordé à cette question l'importance qui conviendrait, et ce n'est pas la première fois :
 1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 2	n'	ne	PART	PART	Polarity=Neg	5	advmod	_	SpaceAfter=No
 3	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
@@ -13637,7 +13637,7 @@
 18	pas	pas	ADV	BN	Polarity=Neg	21	advmod	_	_
 19	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 20	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	21	amod	_	_
-21	fois	fois	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+21	fois	fois	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
 22	:	:	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-422
@@ -14044,7 +14044,7 @@
 21	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-433
-# text = C'est donc une question de fond que nous devons nous poser:
+# text = C'est donc une question de fond que nous devons nous poser :
 1	C'	ce	PRON	PD	PronType=Dem	5	nsubj	_	SpaceAfter=No
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	donc	donc	ADV	B	_	5	advmod	_	_
@@ -14056,7 +14056,7 @@
 9	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	devons	devoir	VERB	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 11	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	iobj	_	_
-12	poser	poser	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
+12	poser	poser	VERB	V	VerbForm=Inf	10	xcomp	_	_
 13	:	:	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-435
@@ -14671,7 +14671,7 @@
 56	.	.	PUNCT	FS	_	16	punct	_	_
 
 # sent_id = fr_partut-ud-457
-# text = Il y a donc deux points sur lesquels je voudrais attirer l'attention de la commission:
+# text = Il y a donc deux points sur lesquels je voudrais attirer l'attention de la commission :
 1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	y	y	PRON	P	Person=3|PronType=Prs	3	expl	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -14687,7 +14687,7 @@
 13	attention	attention	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
 14	de	de	ADP	E	_	16	case	_	_
 15	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	commission	commission	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	commission	commission	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
 17	:	:	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-458
@@ -14749,17 +14749,17 @@
 5	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-461
-# text = Combien coûte l'inscription à Facebook?
+# text = Combien coûte l'inscription à Facebook ?
 1	Combien	combien	ADV	B	_	2	advmod	_	_
 2	coûte	coûter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	inscription	inscription	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
 5	à	à	ADP	E	_	6	case	_	_
-6	Facebook	Facebook	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+6	Facebook	Facebook	PROPN	SP	_	4	nmod	_	_
 7	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-462
-# text = Est-il vrai que Facebook va facturer l'utilisation du site?
+# text = Est-il vrai que Facebook va facturer l'utilisation du site ?
 1	Est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
 2	-il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	vrai	vrai	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
@@ -14772,7 +14772,7 @@
 10-11	du	_	_	_	_	_	_	_	_
 10	de	de	ADP	E	_	12	case	_	_
 11	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	site	site	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	site	site	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
 13	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-463
@@ -14833,7 +14833,7 @@
 32	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-466
-# text = Quel est l'âge minimal requis pour s'inscrire à Facebook?
+# text = Quel est l'âge minimal requis pour s'inscrire à Facebook ?
 1	Quel	quel	PRON	PQ	Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
@@ -14844,7 +14844,7 @@
 8	s'	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	9	expl:pass	_	SpaceAfter=No
 9	inscrire	inscrire	VERB	V	VerbForm=Inf	6	advcl	_	_
 10	à	à	ADP	E	_	11	case	_	_
-11	Facebook	Facebook	PROPN	SP	_	9	obl	_	SpaceAfter=No
+11	Facebook	Facebook	PROPN	SP	_	9	obl	_	_
 12	?	?	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-467
@@ -14867,7 +14867,7 @@
 15	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-468
-# text = Peut-on créer un compte Facebook commun ou partager un compte Facebook avec quelqu'un d'autre?
+# text = Peut-on créer un compte Facebook commun ou partager un compte Facebook avec quelqu'un d'autre ?
 1	Peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	-on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	créer	créer	VERB	V	VerbForm=Inf	1	xcomp	_	_
@@ -14883,7 +14883,7 @@
 13	avec	avec	ADP	E	_	14	case	_	_
 14	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	obl	_	_
 15	d'	de	ADP	E	_	16	case	_	SpaceAfter=No
-16	autre	autre	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	SpaceAfter=No
+16	autre	autre	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	_
 17	?	?	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-469
@@ -15019,7 +15019,7 @@
 28	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = fr_partut-ud-476
-# text = Pourquoi est-ce que je reçois un courrier électronique d'invitation à Facebook de la part d'un ami?
+# text = Pourquoi est-ce que je reçois un courrier électronique d'invitation à Facebook de la part d'un ami ?
 1	Pourquoi	pourquoi	ADV	B	_	2	advmod	_	_
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
@@ -15038,7 +15038,7 @@
 16	part	part	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
 17	d'	de	ADP	E	_	19	case	_	SpaceAfter=No
 18	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	ami	ami	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+19	ami	ami	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
 20	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-477
@@ -15193,7 +15193,7 @@
 5	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-483
-# text = Quelle est la différence entre une connexion et une inscription?
+# text = Quelle est la différence entre une connexion et une inscription ?
 1	Quelle	quel	PRON	PQ	Gender=Fem|Number=Sing|PronType=Int	0	root	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -15203,7 +15203,7 @@
 7	connexion	connexion	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 8	et	et	CCONJ	CC	_	10	cc	_	_
 9	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	inscription	inscription	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+10	inscription	inscription	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
 11	?	?	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-484
@@ -15281,7 +15281,7 @@
 23	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-488
-# text = Quels sont les critères minimaux pour un mot de passe sûr?
+# text = Quels sont les critères minimaux pour un mot de passe sûr ?
 1	Quels	quel	PRON	PQ	Gender=Masc|Number=Plur|PronType=Int	0	root	_	_
 2	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
@@ -15292,11 +15292,11 @@
 8	mot	mot	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
 9	de	de	ADP	E	_	10	case	_	_
 10	passe	passe	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
-11	sûr	sûr	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+11	sûr	sûr	ADJ	A	Number=Sing	8	amod	_	_
 12	?	?	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-489
-# text = Comment renforcer la sécurité de mon mot de passe?
+# text = Comment renforcer la sécurité de mon mot de passe ?
 1	Comment	comment	ADV	B	_	2	advmod	_	_
 2	renforcer	renforcer	VERB	V	VerbForm=Inf	0	root	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -15305,7 +15305,7 @@
 6	mon	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	7	det	_	_
 7	mot	mot	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
 8	de	de	ADP	E	_	9	case	_	_
-9	passe	passe	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	passe	passe	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
 10	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-490
@@ -15417,7 +15417,7 @@
 21	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-494
-# text = Comment ajouter une question de sécurité à mon compte?
+# text = Comment ajouter une question de sécurité à mon compte ?
 1	Comment	comment	ADV	B	_	2	advmod	_	_
 2	ajouter	ajouter	VERB	V	VerbForm=Inf	0	root	_	_
 3	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -15426,7 +15426,7 @@
 6	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 7	à	à	ADP	E	_	9	case	_	_
 8	mon	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	9	det	_	_
-9	compte	compte	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+9	compte	compte	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
 10	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-495
@@ -15458,7 +15458,7 @@
 25	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = fr_partut-ud-496
-# text = Vous pouvez ajouter une question de sécurité pour votre compte sur la page Paramètres de sécurité:
+# text = Vous pouvez ajouter une question de sécurité pour votre compte sur la page Paramètres de sécurité :
 1	Vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	pouvez	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ajouter	ajouter	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -15472,9 +15472,9 @@
 11	sur	sur	ADP	E	_	13	case	_	_
 12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	page	page	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
-14	Paramètres	Paramètres	PROPN	SP	_	13	nmod	_	_
+14	Paramètres	paramètre	NOUN	SP	Gender=Masc|Number=Plur	13	nmod	_	_
 15	de	de	ADP	E	_	16	case	_	_
-16	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
 17	:	:	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-497
@@ -15559,7 +15559,7 @@
 19	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-501
-# text = Conseils pour choisir une question de sécurité efficace:
+# text = Conseils pour choisir une question de sécurité efficace :
 1	Conseils	conseil	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
 2	pour	pour	ADP	E	_	3	mark	_	_
 3	choisir	choisir	VERB	V	VerbForm=Inf	1	acl	_	_
@@ -15567,7 +15567,7 @@
 5	question	question	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
 6	de	de	ADP	E	_	7	case	_	_
 7	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
-8	efficace	efficace	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+8	efficace	efficace	ADJ	A	Number=Sing	7	amod	_	_
 9	:	:	PUNCT	FC	_	1	punct	_	_
 
 # sent_id = fr_partut-ud-502
@@ -16043,7 +16043,7 @@
 41	.	.	PUNCT	FS	_	13	punct	_	_
 
 # sent_id = fr_partut-ud-529
-# text = Les résultats de la campagne publicitaire de Storquest sur Facebook figurent parmi les plus rentables de leurs efforts publicitaires en ligne:
+# text = Les résultats de la campagne publicitaire de Storquest sur Facebook figurent parmi les plus rentables de leurs efforts publicitaires en ligne :
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	résultats	résultat	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
 3	de	de	ADP	E	_	5	case	_	_
@@ -16064,7 +16064,7 @@
 18	efforts	effort	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	_
 19	publicitaires	publicitaire	ADJ	A	Number=Plur	18	amod	_	_
 20	en	en	ADP	E	_	21	case	_	_
-21	ligne	ligne	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	ligne	ligne	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
 22	:	:	PUNCT	FC	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-530
@@ -16563,7 +16563,7 @@
 8	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-555
-# text = Pourquoi est-ce que tous les profils n'ont pas un bouton "s'abonner"?
+# text = Pourquoi est-ce que tous les profils n'ont pas un bouton "s'abonner" ?
 1	Pourquoi	pourquoi	ADV	B	_	2	advmod	_	_
 2	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
@@ -16579,7 +16579,7 @@
 13	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 14	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	15	expl:pv	_	SpaceAfter=No
 15	abonner	abonner	VERB	V	VerbForm=Inf	12	acl	_	SpaceAfter=No
-16	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	15	punct	_	_
 17	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-556
@@ -16607,7 +16607,7 @@
 21	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-558
-# text = Comment peut-on s'abonner à mes publications?
+# text = Comment peut-on s'abonner à mes publications ?
 1	Comment	comment	ADV	B	_	2	advmod	_	_
 2	peut	pouvoir	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -16615,7 +16615,7 @@
 5	abonner	abonner	VERB	V	VerbForm=Inf	2	xcomp	_	_
 6	à	à	ADP	E	_	8	case	_	_
 7	mes	son	DET	AP	Gender=Fem|Number=Plur|PronType=Prs	8	det	_	_
-8	publications	publication	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+8	publications	publication	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
 9	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-559
@@ -16668,7 +16668,7 @@
 22	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = fr_partut-ud-561
-# text = Si j'autorise l'abonnement, quelles seront les mises à jour que les abonnés pourront voir?
+# text = Si j'autorise l'abonnement, quelles seront les mises à jour que les abonnés pourront voir ?
 1	Si	si	SCONJ	CS	_	3	mark	_	_
 2	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 3	autorise	autoriser	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
@@ -16685,7 +16685,7 @@
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	abonnés	abonné	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
 16	pourront	pouvoir	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	acl:relcl	_	_
-17	voir	voir	VERB	V	VerbForm=Inf	16	xcomp	_	SpaceAfter=No
+17	voir	voir	VERB	V	VerbForm=Inf	16	xcomp	_	_
 18	?	?	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-562
@@ -18458,7 +18458,7 @@
 27	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-605
-# text = (18) Aux fins de l'évaluation d'accords volontaires ou autres mesures d'autorégulation présentés en remplacement de mesures d'exécution, des informations doivent être au moins fournies sur les aspects suivants:
+# text = (18) Aux fins de l'évaluation d'accords volontaires ou autres mesures d'autorégulation présentés en remplacement de mesures d'exécution, des informations doivent être au moins fournies sur les aspects suivants :
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	18	18	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
@@ -18497,7 +18497,7 @@
 34	sur	sur	ADP	E	_	36	case	_	_
 35	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
 36	aspects	aspect	NOUN	S	Gender=Masc|Number=Plur	33	obl	_	_
-37	suivants	suivant	ADJ	A	Gender=Masc|Number=Plur	36	amod	_	SpaceAfter=No
+37	suivants	suivant	ADJ	A	Gender=Masc|Number=Plur	36	amod	_	_
 38	:	:	PUNCT	FC	_	28	punct	_	_
 
 # sent_id = fr_partut-ud-606
@@ -20760,7 +20760,7 @@
 20	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-646
-# text = L'article 13, paragraphe 3, de la dite décision dispose que la commission présente au parlement européen et au conseil, au plus tard le 30 juin 2005:
+# text = L'article 13, paragraphe 3, de la dite décision dispose que la commission présente au parlement européen et au conseil, au plus tard le 30 juin 2005 :
 1	L'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	article	article	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
 3	13	13	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
@@ -20796,11 +20796,11 @@
 30	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	30	30	NUM	N	NumType=Card	16	obl	_	_
 32	juin	juin	NOUN	S	Gender=Masc|Number=Sing	31	flat	_	_
-33	2005	2005	NUM	N	NumType=Card	31	flat	_	SpaceAfter=No
+33	2005	2005	NUM	N	NumType=Card	31	flat	_	_
 34	:	:	PUNCT	FC	_	12	punct	_	_
 
 # sent_id = fr_partut-ud-647
-# text = - un rapport d'évaluation indépendant, par rapport au gestionnaire du programme, sur la pertinence, l'efficience et l'efficacité du programme;
+# text = - un rapport d'évaluation indépendant, par rapport au gestionnaire du programme, sur la pertinence, l'efficience et l'efficacité du programme ;
 1	-	-	PUNCT	FF	_	3	punct	_	_
 2	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	rapport	rapport	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
@@ -20831,7 +20831,7 @@
 26-27	du	_	_	_	_	_	_	_	_
 26	de	de	ADP	E	_	28	case	_	_
 27	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	28	det	_	_
-28	programme	programme	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+28	programme	programme	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	_
 29	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-648
@@ -21463,7 +21463,7 @@
 27	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-665
-# text = Sur la base des questionnaires adressés aux organisateurs et aux participants et des discussions avec les parties concernées, il est parvenu aux principales conclusions suivantes [6]:
+# text = Sur la base des questionnaires adressés aux organisateurs et aux participants et des discussions avec les parties concernées, il est parvenu aux principales conclusions suivantes [6] :
 1	Sur	sur	ADP	E	_	3	case	_	_
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	base	base	NOUN	S	Gender=Fem|Number=Sing	26	obl	_	_
@@ -21502,11 +21502,11 @@
 31	suivantes	suivant	ADJ	A	Gender=Fem|Number=Plur	30	amod	_	_
 32	[	[	PUNCT	FB	_	33	punct	_	SpaceAfter=No
 33	6	6	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
-34	]	]	PUNCT	FB	_	33	punct	_	SpaceAfter=No
+34	]	]	PUNCT	FB	_	33	punct	_	_
 35	:	:	PUNCT	FC	_	26	punct	_	_
 
 # sent_id = fr_partut-ud-666
-# text = - le programme a amélioré la perception de la dimension communautaire de l'euro et a également permis aux participants de mieux comprendre les législations et instruments s'y rapportant, notamment des éléments pertinents du droit communautaire et du droit européen en général;
+# text = - le programme a amélioré la perception de la dimension communautaire de l'euro et a également permis aux participants de mieux comprendre les législations et instruments s'y rapportant, notamment des éléments pertinents du droit communautaire et du droit européen en général ;
 1	-	-	PUNCT	FF	_	5	punct	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	programme	programme	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -21558,11 +21558,11 @@
 45	droit	droit	NOUN	S	Gender=Masc|Number=Sing	40	conj	_	_
 46	européen	européen	ADJ	A	Gender=Masc|Number=Sing	45	amod	_	_
 47	en	en	ADP	E	_	48	case	_	_
-48	général	général	ADJ	A	Gender=Masc|Number=Sing	45	amod	_	SpaceAfter=No
+48	général	général	ADJ	A	Gender=Masc|Number=Sing	45	amod	_	_
 49	;	;	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-667
-# text = - en ce qui concerne la gamme des échanges d'informations et des méthodes/mesures, elles ont pour la plupart été présentées lors des ateliers, rencontres et séminaires;
+# text = - en ce qui concerne la gamme des échanges d'informations et des méthodes/mesures, elles ont pour la plupart été présentées lors des ateliers, rencontres et séminaires ;
 1	-	-	PUNCT	FF	_	26	punct	_	_
 2	en	en	ADP	E	_	3	case	_	_
 3	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	26	obl	_	_
@@ -21599,11 +21599,11 @@
 31	,	,	PUNCT	FF	_	32	punct	_	_
 32	rencontres	rencontre	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	_
 33	et	et	CCONJ	CC	_	34	cc	_	_
-34	séminaires	séminaire	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
+34	séminaires	séminaire	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	_
 35	;	;	PUNCT	FC	_	26	punct	_	_
 
 # sent_id = fr_partut-ud-668
-# text = - les groupes ciblés par ce programme ont été partiellement atteints, avec une très forte participation des responsables de services répressifs;
+# text = - les groupes ciblés par ce programme ont été partiellement atteints, avec une très forte participation des responsables de services répressifs ;
 1	-	-	PUNCT	FF	_	11	punct	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	groupes	groupe	NOUN	S	Gender=Masc|Number=Plur	11	nsubj:pass	_	_
@@ -21627,11 +21627,11 @@
 20	responsables	responsable	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
 21	de	de	ADP	E	_	22	case	_	_
 22	services	service	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
-23	répressifs	répressif	ADJ	A	Number=Plur	22	amod	_	SpaceAfter=No
+23	répressifs	répressif	ADJ	A	Number=Plur	22	amod	_	_
 24	;	;	PUNCT	FC	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-669
-# text = la participation de représentants du secteur bancaire commercial, d'avocats spécialisés ou de chambres de commerce n'était pas suffisante;
+# text = la participation de représentants du secteur bancaire commercial, d'avocats spécialisés ou de chambres de commerce n'était pas suffisante ;
 1	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	participation	participation	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
 3	de	de	ADP	E	_	4	case	_	_
@@ -21654,11 +21654,11 @@
 19	n'	ne	PART	PART	Polarity=Neg	22	advmod	_	SpaceAfter=No
 20	était	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	cop	_	_
 21	pas	pas	ADV	BN	Polarity=Neg	22	advmod	_	_
-22	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+22	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
 23	;	;	PUNCT	FC	_	22	punct	_	_
 
 # sent_id = fr_partut-ud-670
-# text = - les activités examinées ont été jugées pertinentes au regard des principaux objectifs du programme;
+# text = - les activités examinées ont été jugées pertinentes au regard des principaux objectifs du programme ;
 1	-	-	PUNCT	FF	_	7	punct	_	_
 2	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	activités	activité	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:pass	_	_
@@ -21679,7 +21679,7 @@
 16-17	du	_	_	_	_	_	_	_	_
 16	de	de	ADP	E	_	18	case	_	_
 17	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
-18	programme	programme	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	programme	programme	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
 19	;	;	PUNCT	FC	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-671
@@ -21713,18 +21713,18 @@
 27	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-672
-# text = L'évaluateur a formulé les recommandations suivantes:
+# text = L'évaluateur a formulé les recommandations suivantes :
 1	L'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	évaluateur	évaluateur	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	formulé	formuler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	recommandations	recommandation	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
-7	suivantes	suivant	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+7	suivantes	suivant	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
 8	:	:	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-674
-# text = une seconde évaluation doit être effectuée au terme des quatre ans;
+# text = une seconde évaluation doit être effectuée au terme des quatre ans ;
 1	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	seconde	seconde	ADJ	A	Number=Sing	3	amod	_	_
 3	évaluation	évaluation	NOUN	S	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
@@ -21739,11 +21739,11 @@
 10	de	de	ADP	E	_	13	case	_	_
 11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 12	quatre	quatre	NUM	N	NumType=Card	13	nummod	_	_
-13	ans	an	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+13	ans	an	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
 14	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-675
-# text = - le programme doit demeurer accessible à tous les états membres, mais il convient d'accorder une priorité (dans un premier temps) à ceux ayant une faible participation ou à ceux qui n'ont pas réalisé d'actions au cours du premier programme, ainsi qu'aux nouveaux états membres;
+# text = - le programme doit demeurer accessible à tous les états membres, mais il convient d'accorder une priorité (dans un premier temps) à ceux ayant une faible participation ou à ceux qui n'ont pas réalisé d'actions au cours du premier programme, ainsi qu'aux nouveaux états membres ;
 1	-	-	PUNCT	FF	_	4	punct	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	programme	programme	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -21802,7 +21802,7 @@
 53	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	55	det	_	_
 54	nouveaux	nouveau	ADJ	A	Gender=Masc|Number=Plur	55	amod	_	_
 55	états	état	NOUN	S	Gender=Masc|Number=Plur	27	conj	_	_
-56	membres	membre	NOUN	S	Gender=Masc|Number=Plur	55	compound	_	SpaceAfter=No
+56	membres	membre	NOUN	S	Gender=Masc|Number=Plur	55	compound	_	_
 57	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-676
@@ -21849,18 +21849,18 @@
 23	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-678
-# text = Ces activités sont également plus rentables financièrement;
+# text = Ces activités sont également plus rentables financièrement ;
 1	Ces	ce	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
 2	activités	activité	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
 3	sont	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	également	également	ADV	B	_	6	advmod	_	_
 5	plus	plus	ADV	B	_	6	advmod	_	_
 6	rentables	rentable	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-7	financièrement	financièrement	ADV	B	_	6	advmod	_	SpaceAfter=No
+7	financièrement	financièrement	ADV	B	_	6	advmod	_	_
 8	;	;	PUNCT	FC	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-679
-# text = - la coopération entre les institutions européennes/organes (Commission/OLAF, BCE et Europol) doit être encore accrue de manière à éliminer tout chevauchement entre les différents programmes et à améliorer la coordination entre les principaux acteurs (services répressifs, banques, ministère public) dans la lutte contre la contrefaçon de l'euro;
+# text = - la coopération entre les institutions européennes/organes (Commission/OLAF, BCE et Europol) doit être encore accrue de manière à éliminer tout chevauchement entre les différents programmes et à améliorer la coordination entre les principaux acteurs (services répressifs, banques, ministère public) dans la lutte contre la contrefaçon de l'euro ;
 1	-	-	PUNCT	FF	_	19	punct	_	_
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	coopération	coopération	NOUN	S	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
@@ -21919,11 +21919,11 @@
 56	contrefaçon	contrefaçon	NOUN	S	Gender=Fem|Number=Sing	53	nmod	_	_
 57	de	de	ADP	E	_	59	case	_	_
 58	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	59	det	_	SpaceAfter=No
-59	euro	euro	NOUN	S	Gender=Masc|Number=Sing	56	nmod	_	SpaceAfter=No
+59	euro	euro	NOUN	S	Gender=Masc|Number=Sing	56	nmod	_	_
 60	;	;	PUNCT	FC	_	19	punct	_	_
 
 # sent_id = fr_partut-ud-680
-# text = - en ce qui concerne l'effet du programme relatif à la convergence de l'action de formation des formateurs à un niveau élevé, il n'a pas été possible de réaliser une évaluation car les informations n'étaient pas suffisantes concernant le lien entre les stratégies nationales et les activités prévues dans le cadre de Pericles;
+# text = - en ce qui concerne l'effet du programme relatif à la convergence de l'action de formation des formateurs à un niveau élevé, il n'a pas été possible de réaliser une évaluation car les informations n'étaient pas suffisantes concernant le lien entre les stratégies nationales et les activités prévues dans le cadre de Pericles ;
 1	-	-	PUNCT	FF	_	33	punct	_	_
 2	en	en	ADP	E	_	3	case	_	_
 3	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	33	obl	_	_
@@ -21985,7 +21985,7 @@
 57	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	58	det	_	_
 58	cadre	cadre	NOUN	S	Gender=Masc|Number=Sing	55	obl	_	_
 59	de	de	ADP	E	_	60	case	_	_
-60	Pericles	Pericles	PROPN	SP	_	58	nmod	_	SpaceAfter=No
+60	Pericles	Pericles	PROPN	SP	_	58	nmod	_	_
 61	;	;	PUNCT	FC	_	33	punct	_	_
 
 # sent_id = fr_partut-ud-681
@@ -22229,7 +22229,7 @@
 17	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = fr_partut-ud-688
-# text = Au cours des trois premières années du programme, 38 projets ont été lancés;
+# text = Au cours des trois premières années du programme, 38 projets ont été lancés ;
 1-2	Au	_	_	_	_	_	_	_	_
 1	À	à	ADP	E	_	3	case	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -22249,7 +22249,7 @@
 14	projets	projet	NOUN	S	Gender=Masc|Number=Plur	17	nsubj:pass	_	_
 15	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	aux:pass	_	_
-17	lancés	lancer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+17	lancés	lancer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 18	;	;	PUNCT	FC	_	17	punct	_	_
 
 # sent_id = fr_partut-ud-689
@@ -22775,7 +22775,7 @@
 19	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = fr_partut-ud-706
-# text = Comme le mentionne également le rapport d'évaluation (p.14), l'organisation des actions Pericles couvrait tous les domaines relatifs à la protection de l'euro:
+# text = Comme le mentionne également le rapport d'évaluation (p.14), l'organisation des actions Pericles couvrait tous les domaines relatifs à la protection de l'euro :
 1	Comme	comme	SCONJ	CS	_	3	mark	_	_
 2	le	lui	PRON	P	Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	mentionne	mentionner	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
@@ -22806,7 +22806,7 @@
 27	protection	protection	NOUN	S	Gender=Fem|Number=Sing	24	obl	_	_
 28	de	de	ADP	E	_	30	case	_	_
 29	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	30	det	_	SpaceAfter=No
-30	euro	euro	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
+30	euro	euro	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	_
 31	:	:	PUNCT	FC	_	20	punct	_	_
 
 # sent_id = fr_partut-ud-707
@@ -23351,7 +23351,7 @@
 34	.	.	PUNCT	FS	_	14	punct	_	_
 
 # sent_id = fr_partut-ud-721
-# text = En particulier, des offices centraux nationaux chargés de la lutte contre le faux monnayage ont été mis en place dans plusieurs pays;
+# text = En particulier, des offices centraux nationaux chargés de la lutte contre le faux monnayage ont été mis en place dans plusieurs pays ;
 1	En	en	ADP	E	_	2	case	_	_
 2	particulier	particulier	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
@@ -23374,11 +23374,11 @@
 20	place	place	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
 21	dans	dans	ADP	E	_	23	case	_	_
 22	plusieurs	plusieurs	ADJ	A	Number=Plur	23	amod	_	_
-23	pays	pays	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+23	pays	pays	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
 24	;	;	PUNCT	FC	_	18	punct	_	_
 
 # sent_id = fr_partut-ud-722
-# text = Deux séminaires Pericles ont assisté les pays (qui étaient en voie d'adhésion) dans leurs efforts visant à appliquer l'acquis dans ce domaine spécifique;
+# text = Deux séminaires Pericles ont assisté les pays (qui étaient en voie d'adhésion) dans leurs efforts visant à appliquer l'acquis dans ce domaine spécifique ;
 1	Deux	deux	NUM	N	NumType=Card	2	nummod	_	_
 2	séminaires	séminaire	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 3	Pericles	Pericles	PROPN	SP	_	2	nmod	_	_
@@ -23405,11 +23405,11 @@
 24	dans	dans	ADP	E	_	26	case	_	_
 25	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	26	det	_	_
 26	domaine	domaine	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
-27	spécifique	spécifique	ADJ	A	Number=Sing	26	amod	_	SpaceAfter=No
+27	spécifique	spécifique	ADJ	A	Number=Sing	26	amod	_	_
 28	;	;	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-723
-# text = un code de conduite a été élaboré sur les questions liées à la presse et à la communication;
+# text = un code de conduite a été élaboré sur les questions liées à la presse et à la communication ;
 1	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	code	code	NOUN	S	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 3	de	de	ADP	E	_	4	case	_	_
@@ -23427,7 +23427,7 @@
 15	et	et	CCONJ	CC	_	18	cc	_	_
 16	à	à	ADP	E	_	18	case	_	_
 17	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	communication	communication	NOUN	S	Gender=Fem|Number=Sing	14	conj	_	SpaceAfter=No
+18	communication	communication	NOUN	S	Gender=Fem|Number=Sing	14	conj	_	_
 19	;	;	PUNCT	FC	_	7	punct	_	_
 
 # sent_id = fr_partut-ud-725
@@ -23590,7 +23590,7 @@
 27	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = fr_partut-ud-728
-# text = Les adaptations proposées concernent l'augmentation de la proportion de cofinancement fournie par le budget communautaire;
+# text = Les adaptations proposées concernent l'augmentation de la proportion de cofinancement fournie par le budget communautaire ;
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	adaptations	adaptation	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	proposées	proposer	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
@@ -23606,11 +23606,11 @@
 13	par	par	ADP	E	_	15	case	_	_
 14	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	budget	budget	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	_
-16	communautaire	communautaire	ADJ	A	Number=Sing	15	amod	_	SpaceAfter=No
+16	communautaire	communautaire	ADJ	A	Number=Sing	15	amod	_	_
 17	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-729
-# text = l'introduction d'une flexibilité dans le nombre de demandes présentées par chaque état membre et la coordination qui en résulte;
+# text = l'introduction d'une flexibilité dans le nombre de demandes présentées par chaque état membre et la coordination qui en résulte ;
 1	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	introduction	introduction	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 3	d'	de	ADP	E	_	5	case	_	SpaceAfter=No
@@ -23631,7 +23631,7 @@
 18	coordination	coordination	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
 19	qui	qui	PRON	PR	PronType=Rel	21	nsubj	_	_
 20	en	en	PRON	PE	Person=3|PronType=Prs	21	iobj	_	_
-21	résulte	résulter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
+21	résulte	résulter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 22	;	;	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-730
@@ -23670,7 +23670,7 @@
 31	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-731
-# text = En conformité également avec la recommandation de l'évaluateur du programme Pericles, il convient de proroger le programme, compte tenu de la nécessité:
+# text = En conformité également avec la recommandation de l'évaluateur du programme Pericles, il convient de proroger le programme, compte tenu de la nécessité :
 1	En	en	ADP	E	_	2	case	_	_
 2	conformité	conformité	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
 3	également	également	ADV	B	_	6	advmod	_	_
@@ -23697,11 +23697,11 @@
 23	tenu	tenir	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
 24	de	de	ADP	E	_	26	case	_	_
 25	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-26	nécessité	nécessité	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+26	nécessité	nécessité	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	_
 27	:	:	PUNCT	FC	_	16	punct	_	_
 
 # sent_id = fr_partut-ud-732
-# text = - de poursuivre la surveillance afin de maintenir ou de réduire le niveau actuel de la contrefaçon de billets en euros et d'éviter toute augmentation de la contrefaçon des pièces en euros qui altérerait la confiance du public;
+# text = - de poursuivre la surveillance afin de maintenir ou de réduire le niveau actuel de la contrefaçon de billets en euros et d'éviter toute augmentation de la contrefaçon des pièces en euros qui altérerait la confiance du public ;
 1	-	-	PUNCT	FF	_	3	punct	_	_
 2	de	de	ADP	E	_	3	mark	_	_
 3	poursuivre	poursuivre	VERB	V	VerbForm=Inf	0	root	_	_
@@ -23744,11 +23744,11 @@
 39-40	du	_	_	_	_	_	_	_	_
 39	de	de	ADP	E	_	41	case	_	_
 40	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	41	det	_	_
-41	public	public	NOUN	S	Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+41	public	public	NOUN	S	Gender=Masc|Number=Sing	38	nmod	_	_
 42	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-733
-# text = - de former/informer le nouveau personnel et d'étendre la formation aux secteurs qui ont moins bénéficié du programme Pericles, à savoir les agents financiers, le ministère public et les techniciens;
+# text = - de former/informer le nouveau personnel et d'étendre la formation aux secteurs qui ont moins bénéficié du programme Pericles, à savoir les agents financiers, le ministère public et les techniciens ;
 1	-	-	PUNCT	FF	_	3	punct	_	_
 2	de	de	ADP	E	_	3	mark	_	_
 3	former	former	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -23787,11 +23787,11 @@
 34	public	public	ADJ	A	Gender=Masc|Number=Sing	33	amod	_	_
 35	et	et	CCONJ	CC	_	37	cc	_	_
 36	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	37	det	_	_
-37	techniciens	technicien	NOUN	S	Gender=Fem|Number=Plur	29	conj	_	SpaceAfter=No
+37	techniciens	technicien	NOUN	S	Gender=Fem|Number=Plur	29	conj	_	_
 38	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-734
-# text = - de former le personnel concerné sur les caractéristiques de la nouvelle génération de billets en euros qui seront émis à la fin de cette décennie;
+# text = - de former le personnel concerné sur les caractéristiques de la nouvelle génération de billets en euros qui seront émis à la fin de cette décennie ;
 1	-	-	PUNCT	FF	_	3	punct	_	_
 2	de	de	ADP	E	_	3	mark	_	_
 3	former	former	VERB	V	VerbForm=Inf	0	root	_	_
@@ -23817,7 +23817,7 @@
 23	fin	fin	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
 24	de	de	ADP	E	_	26	case	_	_
 25	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
-26	décennie	décennie	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+26	décennie	décennie	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	_
 27	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-735
@@ -24505,7 +24505,7 @@
 19	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-753
-# text = Nul ne sera tenu en esclavage ni en servitude;
+# text = Nul ne sera tenu en esclavage ni en servitude ;
 1	Nul	nul	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj:pass	_	_
 2	ne	ne	PART	PART	Polarity=Neg	4	advmod	_	_
 3	sera	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux:pass	_	_
@@ -24514,7 +24514,7 @@
 6	esclavage	esclavage	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
 7	ni	ni	CCONJ	CC	_	9	cc	_	_
 8	en	en	ADP	E	_	9	case	_	_
-9	servitude	servitude	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+9	servitude	servitude	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
 10	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-754
@@ -25143,7 +25143,7 @@
 12	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-779
-# text = Toute personne a droit à la liberté de pensée, de conscience et de religion;
+# text = Toute personne a droit à la liberté de pensée, de conscience et de religion ;
 1	Toute	tout	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
 2	personne	personne	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -25158,7 +25158,7 @@
 12	conscience	conscience	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
 13	et	et	CCONJ	CC	_	15	cc	_	_
 14	de	de	ADP	E	_	15	case	_	_
-15	religion	religion	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+15	religion	religion	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
 16	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-780
@@ -25349,7 +25349,7 @@
 33	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-786
-# text = 3. La volonté du peuple est le fondement de l'autorité des pouvoirs publics;
+# text = 3. La volonté du peuple est le fondement de l'autorité des pouvoirs publics ;
 1	3	3	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	FF	_	1	punct	_	_
 3	La	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -25368,7 +25368,7 @@
 14	de	de	ADP	E	_	16	case	_	_
 15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	pouvoirs	pouvoir	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
-17	publics	public	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No
+17	publics	public	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
 18	;	;	PUNCT	FC	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-787
@@ -25415,7 +25415,7 @@
 37	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-788
-# text = Toute personne, en tant que membre de la société, a droit à la sécurité sociale;
+# text = Toute personne, en tant que membre de la société, a droit à la sécurité sociale ;
 1	Toute	tout	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
 2	personne	personne	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
@@ -25432,7 +25432,7 @@
 14	à	à	ADP	E	_	16	case	_	_
 15	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
-17	sociale	social	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+17	sociale	social	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
 18	;	;	PUNCT	FC	_	12	punct	_	_
 
 # sent_id = fr_partut-ud-789
@@ -25564,7 +25564,7 @@
 30	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-794
-# text = 1. Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, le logement, les soins médicaux ainsi que pour les services sociaux nécessaires;
+# text = 1. Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, le logement, les soins médicaux ainsi que pour les services sociaux nécessaires ;
 1	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	FF	_	1	punct	_	_
 3	Toute	tout	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
@@ -25610,7 +25610,7 @@
 43	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	44	det	_	_
 44	services	service	NOUN	S	Gender=Masc|Number=Plur	29	conj	_	_
 45	sociaux	social	ADJ	A	Gender=Masc|Number=Plur	44	amod	_	_
-46	nécessaires	nécessaire	ADJ	A	Gender=Masc|Number=Plur	44	amod	_	SpaceAfter=No
+46	nécessaires	nécessaire	ADJ	A	Gender=Masc|Number=Plur	44	amod	_	_
 47	;	;	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-795
@@ -26138,17 +26138,17 @@
 30	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-811
-# text = Et je vais commencer par celui-ci:
+# text = Et je vais commencer par celui-ci :
 1	Et	et	CCONJ	CC	_	3	cc	_	_
 2	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	vais	aller	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	commencer	commencer	VERB	V	VerbForm=Inf	3	xcomp	_	_
 5	par	par	ADP	E	_	6	case	_	_
-6	celui-ci	celui-ci	PRON	PD	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obl	_	SpaceAfter=No
+6	celui-ci	celui-ci	PRON	PD	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obl	_	_
 7	:	:	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-813
-# text = On connaît ça, n'est-ce pas?
+# text = On connaît ça, n'est-ce pas ?
 1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
 2	connaît	connaître	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ça	ce	PRON	PD	PronType=Dem	2	obj	_	SpaceAfter=No
@@ -26156,7 +26156,7 @@
 5	n'	ne	PART	PART	Polarity=Neg	6	advmod	_	SpaceAfter=No
 6	est	être	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
 7	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
-8	pas	pas	ADV	BN	Polarity=Neg	6	advmod	_	SpaceAfter=No
+8	pas	pas	ADV	BN	Polarity=Neg	6	advmod	_	_
 9	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-814
@@ -26306,7 +26306,7 @@
 53	.	.	PUNCT	FS	_	18	punct	_	_
 
 # sent_id = fr_partut-ud-821
-# text = Mais savez-vous ce qu'ils disaient en sortant?
+# text = Mais savez-vous ce qu'ils disaient en sortant ?
 1	Mais	mais	CCONJ	CC	_	2	cc	_	_
 2	savez	savoir	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	-vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
@@ -26315,7 +26315,7 @@
 6	ils	lui	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 7	disaient	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
 8	en	en	ADP	E	_	9	mark	_	_
-9	sortant	sortir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	SpaceAfter=No
+9	sortant	sortir	VERB	V	Tense=Pres|VerbForm=Part	7	advcl	_	_
 10	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-822
@@ -26347,13 +26347,13 @@
 25	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-823
-# text = On a rendu l'océan malheureux;
+# text = On a rendu l'océan malheureux ;
 1	On	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	rendu	rendre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	océan	océan	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
-6	malheureux	malheureux	ADJ	A	Gender=Masc	3	xcomp	_	SpaceAfter=No
+6	malheureux	malheureux	ADJ	A	Gender=Masc	3	xcomp	_	_
 7	;	;	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-824
@@ -26466,14 +26466,14 @@
 26	.	.	PUNCT	FS	_	21	punct	_	_
 
 # sent_id = fr_partut-ud-829
-# text = Pourquoi cela importe pour la santé humaine?
+# text = Pourquoi cela importe pour la santé humaine ?
 1	Pourquoi	pourquoi	ADV	B	_	3	advmod	_	_
 2	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
 3	importe	importer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	pour	pour	ADP	E	_	6	case	_	_
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	santé	santé	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
-7	humaine	humain	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+7	humaine	humain	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
 8	?	?	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-830
@@ -26974,7 +26974,7 @@
 16	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-855
-# text = Voilà de la viande de baleine que j'ai photographiée dans une épicerie à Tokyo - ou est-ce que ça en est vraiment?
+# text = Voilà de la viande de baleine que j'ai photographiée dans une épicerie à Tokyo - ou est-ce que ça en est vraiment ?
 1	Voilà	voilà	ADP	E	_	4	discourse	_	_
 2	de	de	ADP	E	_	4	case	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -26998,7 +26998,7 @@
 21	ça	ce	PRON	PD	PronType=Dem	22	nsubj	_	_
 22	en	en	PRON	PE	Person=3|PronType=Prs	18	ccomp	_	_
 23	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
-24	vraiment	vraiment	ADV	B	_	22	advmod	_	SpaceAfter=No
+24	vraiment	vraiment	ADV	B	_	22	advmod	_	_
 25	?	?	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-856

@@ -170,14 +170,14 @@
 8	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-179
-# text = Je voudrais encore aborder un dernier point:
+# text = Je voudrais encore aborder un dernier point :
 1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	encore	encore	ADV	B	_	4	advmod	_	_
 4	aborder	aborder	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	dernier	dernier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
-7	point	point	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	point	point	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
 8	:	:	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-264
@@ -853,11 +853,11 @@
 5	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-845
-# text = Et de quelle façon?
+# text = Et de quelle façon ?
 1	Et	et	CCONJ	CC	_	4	cc	_	_
 2	de	de	ADP	E	_	4	case	_	_
 3	quelle	quel	DET	DQ	Gender=Fem|Number=Sing|PronType=Int	4	det	_	_
-4	façon	façon	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	façon	façon	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 5	?	?	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-853
@@ -906,14 +906,14 @@
 10	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-873
-# text = Nous sommes entrés dans le sixième X:
+# text = Nous sommes entrés dans le sixième X :
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	sommes	être	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	entrés	entrer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 4	dans	dans	ADP	E	_	7	case	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	sixième	sixième	ADJ	NO	Number=Sing|NumType=Ord	7	amod	_	_
-7	X	X	X	X	_	3	obl	_	SpaceAfter=No
+7	X	X	X	X	_	3	obl	_	_
 8	:	:	PUNCT	FC	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-874
@@ -1105,7 +1105,7 @@
 12	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = fr_partut-ud-884
-# text = Et franchement, je suis face à un obstacle majeur:
+# text = Et franchement, je suis face à un obstacle majeur :
 1	Et	et	CCONJ	CC	_	5	cc	_	_
 2	franchement	franchement	ADV	B	_	5	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
@@ -1115,7 +1115,7 @@
 7	à	à	ADP	E	_	6	fixed	_	_
 8	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	obstacle	obstacle	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
-10	majeur	majeur	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+10	majeur	majeur	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
 11	:	:	PUNCT	FC	_	5	punct	_	_
 
 # sent_id = fr_partut-ud-885
@@ -1750,11 +1750,11 @@
 28	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = fr_partut-ud-919
-# text = Comment est-ce possible?
+# text = Comment est-ce possible ?
 1	Comment	comment	ADV	B	_	4	advmod	_	_
 2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	-ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
-4	possible	possible	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+4	possible	possible	ADJ	A	Number=Sing	0	root	_	_
 5	?	?	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-920
@@ -2064,7 +2064,7 @@
 24	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = fr_partut-ud-937
-# text = Ainsi, la perspective de champignons existant ailleurs sur d'autres planètes, est, je crois, courue d'avance;
+# text = Ainsi, la perspective de champignons existant ailleurs sur d'autres planètes, est, je crois, courue d'avance ;
 1	Ainsi	ainsi	ADV	B	_	19	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -2085,7 +2085,7 @@
 18	,	,	PUNCT	FF	_	17	punct	_	_
 19	courue	courir	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 20	d'	de	ADP	E	_	21	case	_	SpaceAfter=No
-21	avance	avance	NOUN	N	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+21	avance	avance	NOUN	N	Gender=Fem|Number=Sing	19	obl	_	_
 22	;	;	PUNCT	FC	_	19	punct	_	_
 
 # sent_id = fr_partut-ud-938

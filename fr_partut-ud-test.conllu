@@ -175,7 +175,7 @@
 15	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-184
-# text = La sécurité des transports a malheureusement fait l'actualité ces derniers temps:
+# text = La sécurité des transports a malheureusement fait l'actualité ces derniers temps :
 1	La	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	sécurité	sécurité	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
 3-4	des	_	_	_	_	_	_	_	_
@@ -189,7 +189,7 @@
 10	actualité	actualité	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
 11	ces	ce	DET	DD	Number=Plur|PronType=Dem	13	det	_	_
 12	derniers	dernier	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	13	amod	_	_
-13	temps	temps	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
+13	temps	temps	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
 14	:	:	PUNCT	FC	_	8	punct	_	_
 
 # sent_id = fr_partut-ud-193
@@ -602,7 +602,7 @@
 49	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-371
-# text = Monsieur le président, monsieur le commissaire, chers collègues, je tiens à remercier mme Schroedter pour son excellent rapport;
+# text = Monsieur le président, monsieur le commissaire, chers collègues, je tiens à remercier mme Schroedter pour son excellent rapport ;
 1	Monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	13	vocative	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	président	président	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -623,7 +623,7 @@
 18	pour	pour	ADP	E	_	21	case	_	_
 19	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	21	det	_	_
 20	excellent	excellent	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
-21	rapport	rapport	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+21	rapport	rapport	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
 22	;	;	PUNCT	FC	_	13	punct	_	_
 
 # sent_id = fr_partut-ud-372
@@ -926,12 +926,12 @@
 18	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = fr_partut-ud-565
-# text = Vous avez une page Facebook?
+# text = Vous avez une page Facebook ?
 1	Vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	avez	avoir	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	page	page	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
-5	Facebook	Facebook	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+5	Facebook	Facebook	PROPN	SP	_	4	nmod	_	_
 6	?	?	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = fr_partut-ud-596
@@ -974,7 +974,7 @@
 34	.	.	PUNCT	FS	_	23	punct	_	_
 
 # sent_id = fr_partut-ud-673
-# text = - le programme doit être reconduit pour une nouvelle période d'au moins quatre ans, assortie d'un budget équivalent (1 million d'euros par an) et doit porter sur les mêmes mesures et les mêmes destinataires;
+# text = - le programme doit être reconduit pour une nouvelle période d'au moins quatre ans, assortie d'un budget équivalent (1 million d'euros par an) et doit porter sur les mêmes mesures et les mêmes destinataires ;
 1	-	-	PUNCT	FF	_	4	punct	_	_
 2	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	programme	programme	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1016,7 +1016,7 @@
 38	et	et	CCONJ	CC	_	41	cc	_	_
 39	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	41	det	_	_
 40	mêmes	même	ADJ	A	Number=Plur	41	amod	_	_
-41	destinataires	destinataire	NOUN	S	Gender=Masc|Number=Plur	37	conj	_	SpaceAfter=No
+41	destinataires	destinataire	NOUN	S	Gender=Masc|Number=Plur	37	conj	_	_
 42	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = fr_partut-ud-768
