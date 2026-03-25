@@ -1172,7 +1172,7 @@
 5	pas	pas	ADV	BN	Polarity=Neg	6	advmod	_	_
 6	contente	content	ADJ	A	Gender=Fem|Number=Sing	11	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	personne	personne	PRON	PE	Person=3|PronType=Prs	11	nsubj	_	_
+8	personne	personne	PRON	PE	PronType=Neg	11	nsubj	_	_
 9	n'	ne	PART	PART	Polarity=Neg	11	advmod	_	SpaceAfter=No
 10	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	content	content	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
