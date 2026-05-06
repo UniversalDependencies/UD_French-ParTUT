@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_French-ParTUT:
-commit e9cc242b0f1d0ca31b72068f802e915f17e8b804
-Merge: 9085e83 af7c4de
+commit e85f3c1603abdf5facee06a8737707bdd40b070b
+Merge: fc3b0e4 823d318
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fr_partut'
 Language code (from CoNLL-U file name) = 'fr'
 Found the following data files: fr_partut-ud-dev.conllu, fr_partut-ud-test.conllu, fr_partut-ud-train.conllu
-Size: counted 28576 of 28576 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.70513440938818.
+Size: counted 28580 of 28580 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.70541434500344.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,82 +19,25 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 18640 out of 28576 total words have one or more features.
+Features: 18769 out of 28580 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 33 out of 37 found in the corpus.
+Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ParTUT/fr_partut-ud-dev.conllu
-[Line 29 Sent fr_partut-ud-7]: [L3 Warning fixed-without-extpos] Fixed expression 'telle que' does not have the 'ExtPos' feature
-[Line 29 Sent fr_partut-ud-7]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('telle')
-[Line 256 Sent fr_partut-ud-266]: [L3 Warning fixed-without-extpos] Fixed expression 'quand même' does not have the 'ExtPos' feature
-[Line 256 Sent fr_partut-ud-266]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('quand')
-[Line 260 Sent fr_partut-ud-266]: [L3 Warning fixed-without-extpos] Fixed expression 'plus de' does not have the 'ExtPos' feature
-[Line 301 Sent fr_partut-ud-291]: [L3 Warning fixed-without-extpos] Fixed expression 'parce que' does not have the 'ExtPos' feature
-[Line 592 Sent fr_partut-ud-465]: [L3 Warning fixed-without-extpos] Fixed expression 'De plus' does not have the 'ExtPos' feature
-[Line 592 Sent fr_partut-ud-465]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('De')
-[Line 746 Sent fr_partut-ud-610]: [L3 Warning fixed-without-extpos] Fixed expression 'afin de' does not have the 'ExtPos' feature
-[Line 1000 Sent fr_partut-ud-878]: [L3 Warning fixed-without-extpos] Fixed expression 'jusqu' à' does not have the 'ExtPos' feature
-[Line 1086 Sent fr_partut-ud-882]: [L3 Warning fixed-without-extpos] Fixed expression 'parce que' does not have the 'ExtPos' feature
-[Line 1097 Sent fr_partut-ud-883]: [L3 Warning fixed-without-extpos] Fixed expression 'd' entre' does not have the 'ExtPos' feature
-[Line 1115 Sent fr_partut-ud-884]: [L3 Warning fixed-without-extpos] Fixed expression 'face à' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 1185 Sent fr_partut-ud-889]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('En')
-[Line 1730 Sent fr_partut-ud-918]: [L3 Syntax rel-upos-case] 'case' should not be 'PRON' ('il')
-[Line 1899 Sent fr_partut-ud-927]: [L3 Syntax rel-upos-case] 'case' should not be 'PRON' ('Il')
-Syntax errors: 6
-Warnings: 20
-*** FAILED *** with 6 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ParTUT/fr_partut-ud-test.conllu
-[Line 25 Sent fr_partut-ud-9]: [L3 Warning fixed-without-extpos] Fixed expression 'autrement qu'' does not have the 'ExtPos' feature
-[Line 154 Sent fr_partut-ud-80]: [L3 Warning fixed-without-extpos] Fixed expression 'tout à fait' does not have the 'ExtPos' feature
-[Line 246 Sent fr_partut-ud-193]: [L3 Warning fixed-without-extpos] Fixed expression 'ainsi que' does not have the 'ExtPos' feature
-[Line 336 Sent fr_partut-ud-227]: [L3 Warning fixed-without-extpos] Fixed expression 'autant que' does not have the 'ExtPos' feature
-[Line 377 Sent fr_partut-ud-275]: [L3 Warning fixed-without-extpos] Fixed expression 'lors de' does not have the 'ExtPos' feature
-[Line 513 Sent fr_partut-ud-331]: [L3 Warning fixed-without-extpos] Fixed expression 'alors que' does not have the 'ExtPos' feature
-[Line 538 Sent fr_partut-ud-331]: [L3 Warning fixed-without-extpos] Fixed expression 'lors de' does not have the 'ExtPos' feature
-[Line 643 Sent fr_partut-ud-372]: [L3 Warning fixed-without-extpos] Fixed expression 'lors de' does not have the 'ExtPos' feature
-[Line 1070 Sent fr_partut-ud-773]: [L3 Warning fixed-without-extpos] Fixed expression 'quant à' does not have the 'ExtPos' feature
-[Line 1137 Sent fr_partut-ud-791]: [L3 Warning fixed-without-extpos] Fixed expression 'ainsi qu'' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 29
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fr --max-err=10 UD_French-ParTUT/fr_partut-ud-train.conllu
-[Line 220 Sent fr_partut-ud-13]: [L3 Warning fixed-without-extpos] Fixed expression 'telle que' does not have the 'ExtPos' feature
-[Line 220 Sent fr_partut-ud-13]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('telle')
-[Line 375 Sent fr_partut-ud-19]: [L3 Warning fixed-without-extpos] Fixed expression 'telle qu'' does not have the 'ExtPos' feature
-[Line 375 Sent fr_partut-ud-19]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('telle')
-[Line 744 Sent fr_partut-ud-33]: [L3 Warning fixed-without-extpos] Fixed expression 'telle qu'' does not have the 'ExtPos' feature
-[Line 744 Sent fr_partut-ud-33]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('telle')
-[Line 755 Sent fr_partut-ud-33]: [L3 Warning fixed-without-extpos] Fixed expression 'en dehors de' does not have the 'ExtPos' feature
-[Line 1104 Sent fr_partut-ud-39]: [L3 Warning fixed-without-extpos] Fixed expression 'telle qu'' does not have the 'ExtPos' feature
-[Line 1104 Sent fr_partut-ud-39]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('telle')
-[Line 1193 Sent fr_partut-ud-41]: [L3 Warning fixed-without-extpos] Fixed expression 'à moins que' does not have the 'ExtPos' feature
-[Line 1565 Sent fr_partut-ud-51]: [L3 Warning fixed-without-extpos] Fixed expression 'tant qu'' does not have the 'ExtPos' feature
-[Line 1714 Sent fr_partut-ud-55]: [L3 Warning fixed-without-extpos] Fixed expression 'jusqu' à' does not have the 'ExtPos' feature
-[Line 1934 Sent fr_partut-ud-61]: [L3 Warning fixed-without-extpos] Fixed expression 'en dehors de' does not have the 'ExtPos' feature
-[Line 2010 Sent fr_partut-ud-65]: [L3 Warning fixed-without-extpos] Fixed expression 'quel que' does not have the 'ExtPos' feature
-[Line 2010 Sent fr_partut-ud-65]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('quel')
-...suppressing further errors regarding Warning
-[Line 2020 Sent fr_partut-ud-65]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('quel')
-[Line 2166 Sent fr_partut-ud-68]: [L3 Syntax rel-upos-mark] 'mark' should not be 'ADJ' ('telles')
-[Line 2398 Sent fr_partut-ud-78]: [L3 Syntax rel-upos-case] 'case' should not be 'PRON' ('il')
-[Line 3962 Sent fr_partut-ud-129]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('par')
-[Line 3996 Sent fr_partut-ud-130]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('en')
-...suppressing further errors regarding Syntax
-Syntax errors: 44
-Warnings: 207
-*** FAILED *** with 44 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
 (weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
-(weight=0.37037037037037) * (score{size}=0.485333812402817) = 0.179753263852895
+(weight=0.37037037037037) * (score{size}=0.485354074818317) = 0.179760768451229
 (weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
 (weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
-(weight=0.111111111111111) * (score{udeprels}=0.713513513513514) = 0.0792792792792793
-(TOTAL score=0.569402913502545) * (availability=1) * (validity=0.01) = 0.00569402913502545
-STARS = 0
-UD_French-ParTUT	0.00569402913502545	0
+(weight=0.111111111111111) * (score{udeprels}=0.735135135135135) = 0.0816816816816817
+(TOTAL score=0.571812820503281) * (availability=1) * (validity=1) = 0.571812820503281
+STARS = 3
+UD_French-ParTUT	0.571812820503281	3
